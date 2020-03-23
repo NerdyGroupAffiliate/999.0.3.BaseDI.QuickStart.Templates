@@ -1,5 +1,15 @@
-﻿/*CONTAINERS*/
+/*GENERAL LAYOUT*/
+body {
+  overflow-x: hidden;
+}
+
+/*CONTAINERS*/
 #container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0 {
+  position: relative;
+}
+
+#container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0 img {
+  position: absolute;
 }
 
 
@@ -11,6 +21,9 @@
 }
 
 #row_B-1_business-advertising-sign {
+  position: absolute;
+  top: 95px;
+  z-index: 2;
 }
 
 #row_C-1_business-sales-cta {
@@ -27,13 +40,40 @@
 #column_A-1-1_real_estate-commerical_construction-section {
 }
 
+#column_A-1-1_real_estate-commerical_construction-section img {
+  top: 0;
+  left: 50%;
+}
+
 #column_B-1-1_real_estate-commerical_construction-section {
 }
 
 #column_C-1-1_real_estate-commerical_construction-section {
 }
 
+#column_C-1-1_real_estate-commerical_construction-section img {
+  top: 0;
+  left: 50%;
+  z-index: 1;
+}
+
 #column_D-1-1_real_estate-commerical_construction-section {
+}
+
+#column_D-1-1_real_estate-commerical_construction-section img {
+  bottom: 0;
+}
+
+#column_D-1-1_real_estate-commerical_construction-section img#content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+  top: 32px;
+}
+
+#column_D-1-1_real_estate-commerical_construction-section img#content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+  left: 5vw;
+}
+
+#column_D-1-1_real_estate-commerical_construction-section img#content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+  right: 6vw;
 }
 
 

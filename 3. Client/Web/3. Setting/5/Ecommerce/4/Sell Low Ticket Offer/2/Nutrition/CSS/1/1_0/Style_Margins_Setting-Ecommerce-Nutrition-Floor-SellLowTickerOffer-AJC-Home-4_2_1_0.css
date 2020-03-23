@@ -1,4 +1,9 @@
-﻿/*CONTAINERS*/
+/*GENERAL LAYOUT*/
+body {
+  margin: 0;
+}
+
+/*CONTAINERS*/
 #container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0 {
 }
 
@@ -11,6 +16,16 @@
 }
 
 #row_B-1_business-advertising-sign {
+}
+
+#row_B-1_business-advertising-sign h1 {
+  margin-top: 0;
+  margin-bottom: -15px;
+}
+
+#row_B-1_business-advertising-sign h2 {
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 #row_C-1_business-sales-cta {
