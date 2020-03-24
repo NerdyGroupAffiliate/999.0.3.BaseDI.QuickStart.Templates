@@ -1,6 +1,10 @@
 ﻿/*CONTAINERS*/
 #container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0 {
-  height: 136vh;
+  height: 100vh;
+}
+
+#container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0 img {
+  width: 100%;
 }
 
 
@@ -12,14 +16,9 @@
 }
 
 #row_B-1_business-advertising-sign {
-  width: 100%;
 }
 
 #row_C-1_business-sales-cta {
-}
-
-#row_C-1_business-sales-cta img {
-  width: 100%;
 }
 
 #row_D-1_business-sales-liking {
@@ -40,10 +39,6 @@
 }
 
 #column_D-1-1_real_estate-commerical_construction-section {
-}
-
-#column_D-1-1_real_estate-commerical_construction-section img {
-  width: 100%;
 }
 
 
