@@ -1,10 +1,41 @@
-﻿/*CONTAINERS*/
+/*CONTAINERS*/
 #container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0 {
-  background-image: url(../../../Assets/1/1_0/Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-1366X768-Desktop-4_2_1_0.jpg);
-  background-size: 100%;
-  background-position: center 19vh;
+  background-image: url(../../../Assets/1/1_0/Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-Desktop-4_2_1_0.jpg);
+  background-size: cover;
   background-repeat: no-repeat;
 }
+
+  /*Desktop - 1920px*/
+  @media (max-width: 1920px) {
+    /*CONTAINERS*/
+    #container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0 {
+      background-position: 0 30px;
+    }
+  }
+
+  /*Desktop - 1600px*/
+  @media (max-width: 1600px) {
+    /*CONTAINERS*/
+    #container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0 {
+      background-position: 0 46px;
+    }
+  }
+
+  /*Desktop - 1440px*/
+  @media (max-width: 1440px) {
+    /*CONTAINERS*/
+    #container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0 {
+      background-position: 0 30px;
+    }
+  }
+
+  /*Desktop - 1280px*/
+  @media (max-width: 1280px) {
+    /*CONTAINERS*/
+    #container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0 {
+      background-position: center bottom;
+    }
+  }
 
 
 
