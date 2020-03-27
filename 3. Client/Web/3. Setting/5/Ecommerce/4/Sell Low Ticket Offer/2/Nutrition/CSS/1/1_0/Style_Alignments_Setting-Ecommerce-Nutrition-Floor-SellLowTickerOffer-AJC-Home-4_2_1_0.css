@@ -81,10 +81,18 @@ body {
     }
   }
 
-  /*Desktop - 1600px*/
+  /*Desktop - 1536px*/
   @media (max-width: 1536px) {
     #content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
       left: 10%;
+    }
+  }
+
+  /*Desktop - 1440px*/
+  @media (max-width: 1440px) {
+    #content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      top: 350px;
+      left: 11%;
     }
   }
 
@@ -100,10 +108,17 @@ body {
     }
   }
 
-  /*Desktop - 1600px*/
+  /*Desktop - 1536px*/
   @media (max-width: 1536px) {
     #content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
       top: 244px;
+    }
+  }
+
+  /*Desktop - 1440px*/
+  @media (max-width: 1440px) {
+    #content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      top: 290px;
     }
   }
 
@@ -119,10 +134,17 @@ body {
     }
   }
 
-  /*Desktop - 1600px*/
+  /*Desktop - 1536px*/
   @media (max-width: 1536px) {
     #content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
       top: 520px;
+    }
+  }
+
+  /*Desktop - 1440px*/
+  @media (max-width: 1440px) {
+    #content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      top: 568px;
     }
   }
 
@@ -138,10 +160,17 @@ body {
     }
   }
 
-  /*Desktop - 1600px*/
+  /*Desktop - 1536px*/
   @media (max-width: 1536px) {
     #content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
       top: 520px;
+    }
+  }
+
+  /*Desktop - 1440px*/
+  @media (max-width: 1440px) {
+    #content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      top: 558px;
     }
   }
 
@@ -157,9 +186,16 @@ body {
     }
   }
 
-  /*Desktop - 1600px*/
+  /*Desktop - 1536px*/
   @media (max-width: 1536px) {
     #content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
       top: 720px;
+    }
+  }
+
+  /*Desktop - 1440px*/
+  @media (max-width: 1440px) {
+    #content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      top: 730px;
     }
   }
