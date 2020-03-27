@@ -1,4 +1,14 @@
-﻿/*CONTAINERS*/
+/*GENERAL LAYOUT*/
+img {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+
+
+
+
+/*CONTAINERS*/
 #container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0 {
 }
 
@@ -57,6 +67,7 @@
 }
 
 #content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+  transform: translateX(-50%);
 }
 
 #content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
