@@ -1,5 +1,6 @@
 /*GENERAL LAYOUT*/
 body {
+  background-color: #fff;
   background-image: url(../../../Assets/1/1_0/Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-1920X1080-Desktop-4_2_1_0.jpg);
   background-position: center 32px;
   background-size: cover;
@@ -55,6 +56,94 @@ body {
       background-repeat: no-repeat;
     }
   }
+
+  /*Tablet - 1024px*/
+  @media (max-width: 1024px) {
+    body {
+      background-image: url(../../../Assets/1/1_0/Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-1024X1366-Tablet-4_2_1_0.jpg);
+      background-position: center top;
+      background-repeat: no-repeat;
+    }
+  }
+
+  /*Tablet - 800px*/
+  @media (max-width: 800px) {
+    body {
+      background-image: url(../../../Assets/1/1_0/Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-800X1280-Tablet-4_2_1_0.jpg);
+      background-position: center top;
+    }
+  }
+
+  /*Tablet - 768px*/
+  @media (max-width: 768px) {
+    body {
+      background-image: url(../../../Assets/1/1_0/Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-768X1024-Tablet-4_2_1_0.jpg);
+      background-position: center top;
+    }
+  }
+
+  /*Mobile - 720px*/
+  @media (max-width: 720px) {
+    body {
+      background-image: url(../../../Assets/1/1_0/Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-720X1280-Mobile-4_2_1_0.jpg);
+      background-position: center top;
+    }
+  }
+
+  /*Tablet - 601px*/
+  @media (max-width: 601px) {
+    body {
+      background-image: url(../../../Assets/1/1_0/Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-601X962-Tablet-4_2_1_0.jpg);
+      background-position: center 1px;
+      background-repeat: no-repeat;
+    }
+  }
+
+  /*Tablet - 600px*/
+  @media (max-width: 600px) {
+    body {
+      background-image: url(../../../Assets/1/1_0/Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-600X1024-Tablet-4_2_1_0.jpg);
+      background-position: center top;
+      background-repeat: no-repeat;
+    }
+  }
+
+  /*Mobile - 414px*/
+  @media (max-width: 415px) {
+    body {
+      background-image: url(../../../Assets/1/1_0/Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-414X736-Mobile-4_2_1_0.jpg);
+      background-position: center top;
+      background-repeat: no-repeat;
+    }
+  }
+
+  /*Mobile - 375px*/
+  @media (max-width: 376px) {
+    body {
+      background-image: url(../../../Assets/1/1_0/Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-375X667-Mobile-4_2_1_0.jpg);
+      background-position: center top;
+      background-repeat: no-repeat;
+    }
+  }
+
+  /*Mobile - 360px*/
+  @media (max-width: 361px) {
+    body {
+      background-image: url(../../../Assets/1/1_0/Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-360X640-Mobile-4_2_1_0.jpg);
+      background-position: center top;
+      background-repeat: no-repeat;
+    }
+  }
+
+  /*Mobile - 320px*/
+  @media (max-width: 321px) {
+    body {
+      background-image: url(../../../Assets/1/1_0/Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-320X568-Mobile-4_2_1_0.jpg);
+      background-position: center top;
+      background-repeat: no-repeat;
+    }
+  }
+
 
 
 
@@ -359,6 +448,375 @@ body {
 
     img#content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
       background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/1/Generate%20Brand%20Awareness/1/Advertising/Assets/1/1_0/Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-119X129-Desktop_1_1_1_0.png);
+      background-position: top;
+    }
+  }
+
+  /*Tablet - 1024px*/
+  @media (max-width: 1024px) {
+    img#content_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/7/Awareness/1/Generate%20Brand%20Awarness/1/Advertising/Assets/1/1_0/Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-358X93-Tablet-1_1_1_0.png);
+      background-position: top;
+    }
+
+    img#content_C-1-1-1_Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-WidthXHeight-Desktop-3_1_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/3/Generate%20Optin/1/List%20Building/Assets/1/1_0/Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-685X42-Tablet-3_1_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/2/Movement/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-327X466-Tablet-2_2_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/4/Taste/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-922X548-Tablet-2_4_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-355X439-Tablet-2_4_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-399X451-Tablet-2_4_2_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/1/Generate%20Brand%20Awareness/1/Advertising/Assets/1/1_0/Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-189X206-Tablet_1_1_1_0.png);
+      background-position: top;
+    }
+  }
+
+  /*Tablet - 800px*/
+  @media (max-width: 800px) {
+    img#content_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/7/Awareness/1/Generate%20Brand%20Awarness/1/Advertising/Assets/1/1_0/Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-319X83-Tablet-1_1_1_0.png);
+      background-position: top;
+    }
+
+    img#content_C-1-1-1_Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-WidthXHeight-Desktop-3_1_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/3/Generate%20Optin/1/List%20Building/Assets/1/1_0/Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-609X37-Tablet-3_1_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/2/Movement/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-264X375-Tablet-2_2_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/4/Taste/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-773X488-Tablet-2_4_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-286X355-Tablet-2_4_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-321X364-Tablet-2_4_2_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/1/Generate%20Brand%20Awareness/1/Advertising/Assets/1/1_0/Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-152X166-Tablet_1_1_1_0.png);
+      background-position: top;
+    }
+  }
+
+  /*Tablet - 768px*/
+  @media (max-width: 768px) {
+    img#content_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/7/Awareness/1/Generate%20Brand%20Awarness/1/Advertising/Assets/1/1_0/Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-256X68-Tablet-1_1_1_0.png);
+      background-position: top;
+    }
+
+    img#content_C-1-1-1_Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-WidthXHeight-Desktop-3_1_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/3/Generate%20Optin/1/List%20Building/Assets/1/1_0/Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-488X29-Tablet-3_1_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/2/Movement/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-212X300-Tablet-2_2_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/4/Taste/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-735X391-Tablet-2_4_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-229X282-Tablet-2_4_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-258X289-Tablet-2_4_2_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/1/Generate%20Brand%20Awareness/1/Advertising/Assets/1/1_0/Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-122X133-Tablet_1_1_1_0.png);
+      background-position: top;
+    }
+  }
+
+  /*Mobile - 720px*/
+  @media (max-width: 720px) {
+    img#content_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/7/Awareness/1/Generate%20Brand%20Awarness/1/Advertising/Assets/1/1_0/Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-275X73-Mobile-1_1_1_0.png);
+      background-position: top;
+    }
+
+    img#content_C-1-1-1_Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-WidthXHeight-Desktop-3_1_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/3/Generate%20Optin/1/List%20Building/Assets/1/1_0/Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-526X33-Mobile-3_1_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/2/Movement/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-228X324-Mobile-2_2_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/4/Taste/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-669X422-Mobile-2_4_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-247X307-Mobile-2_4_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-278X314-Mobile-2_4_2_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/1/Generate%20Brand%20Awareness/1/Advertising/Assets/1/1_0/Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-131X143-Mobile_1_1_1_0.png);
+      background-position: top;
+    }
+  }
+
+  /*Tablet - 601px*/
+  @media (max-width: 601px) {
+    img#content_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/7/Awareness/1/Generate%20Brand%20Awarness/1/Advertising/Assets/1/1_0/Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-208X54-Tablet-1_1_1_0.png);
+      background-position: top;
+    }
+
+    img#content_C-1-1-1_Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-WidthXHeight-Desktop-3_1_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/3/Generate%20Optin/1/List%20Building/Assets/1/1_0/Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-398X25-Tablet-3_1_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/2/Movement/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-173X245-Tablet-2_2_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/4/Taste/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-594X318-Tablet-2_4_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-187X228-Tablet-2_4_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-210X234-Tablet-2_4_2_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/1/Generate%20Brand%20Awareness/1/Advertising/Assets/1/1_0/Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-100X109-Tablet_1_1_1_0.png);
+      background-position: top;
+    }
+  }
+
+  /*Tablet - 600px*/
+  @media (max-width: 600px) {
+    img#content_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/7/Awareness/1/Generate%20Brand%20Awarness/1/Advertising/Assets/1/1_0/Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-221X58-Tablet-1_1_1_0.png);
+      background-position: top;
+    }
+
+    img#content_C-1-1-1_Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-WidthXHeight-Desktop-3_1_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/3/Generate%20Optin/1/List%20Building/Assets/1/1_0/Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-421X26-Tablet-3_1_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/2/Movement/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-183X260-Tablet-2_2_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/4/Taste/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-557X337-Tablet-2_4_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-198X245-Tablet-2_4_1_0.png);
+      background-position: top;
+    }
+
+  /*Tablet - 414px*/
+  @media (max-width: 415px) {
+    img#content_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/7/Awareness/1/Generate%20Brand%20Awarness/1/Advertising/Assets/1/1_0/Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-158X42-Mobile-1_1_1_0.png);
+      background-position: top;
+    }
+
+    img#content_C-1-1-1_Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-WidthXHeight-Desktop-3_1_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/3/Generate%20Optin/1/List%20Building/Assets/1/1_0/Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-302X18-Mobile-3_1_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/2/Movement/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-132X186-Mobile-2_2_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/4/Taste/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-393X242-Mobile-2_4_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-142X177-Mobile-2_4_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-159X181-Mobile-2_4_2_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/1/Generate%20Brand%20Awareness/1/Advertising/Assets/1/1_0/Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-76X83-Mobile_1_1_1_0.png);
+      background-position: top;
+    }
+  }
+
+  /*Tablet - 375px*/
+  @media (max-width: 376px) {
+    img#content_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/7/Awareness/1/Generate%20Brand%20Awarness/1/Advertising/Assets/1/1_0/Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-144X38-Mobile-1_1_1_0.png);
+      background-position: top;
+    }
+
+    img#content_C-1-1-1_Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-WidthXHeight-Desktop-3_1_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/3/Generate%20Optin/1/List%20Building/Assets/1/1_0/Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-275X17-Mobile-3_1_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/2/Movement/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-119X169-Mobile-2_2_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/4/Taste/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-359X220-Mobile-2_4_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-129X159-Mobile-2_4_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-144X163-Mobile-2_4_2_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/1/Generate%20Brand%20Awareness/1/Advertising/Assets/1/1_0/Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-69X76-Mobile_1_1_1_0.png);
+      background-position: top;
+    }
+  }
+
+  /*Tablet - 360px*/
+  @media (max-width: 361px) {
+    img#content_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/7/Awareness/1/Generate%20Brand%20Awarness/1/Advertising/Assets/1/1_0/Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-138X37-Mobile-1_1_1_0.png);
+      background-position: top;
+    }
+
+    img#content_C-1-1-1_Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-WidthXHeight-Desktop-3_1_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/3/Generate%20Optin/1/List%20Building/Assets/1/1_0/Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-264X17-Mobile-3_1_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/2/Movement/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-114X163-Mobile-2_2_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/4/Taste/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-344X211-Mobile-2_4_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-125X153-Mobile-2_4_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-140X156-Mobile-2_4_2_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/1/Generate%20Brand%20Awareness/1/Advertising/Assets/1/1_0/Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-67X73-Mobile_1_1_1_0.png);
+      background-position: top;
+    }
+  }
+
+  /*Tablet - 320px*/
+  @media (max-width: 321px) {
+    img#content_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/7/Awareness/1/Generate%20Brand%20Awarness/1/Advertising/Assets/1/1_0/Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-122X32-Mobile-1_1_1_0.png);
+      background-position: top;
+    }
+
+    img#content_C-1-1-1_Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-WidthXHeight-Desktop-3_1_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/3/Generate%20Optin/1/List%20Building/Assets/1/1_0/Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-234X15-Mobile-3_1_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/2/Movement/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-102X144-Mobile-2_2_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/4/Taste/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-305X187-Mobile-2_4_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-110X137-Mobile-2_4_1_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-124X139-Mobile-2_4_2_0.png);
+      background-position: top;
+    }
+
+    img#content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      background-image: url(../../../../../../../../../../4.%20Experience/5/Sight/1/Generate%20Brand%20Awareness/1/Advertising/Assets/1/1_0/Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-59X64-Mobile_1_1_1_0.png);
       background-position: top;
     }
   }
