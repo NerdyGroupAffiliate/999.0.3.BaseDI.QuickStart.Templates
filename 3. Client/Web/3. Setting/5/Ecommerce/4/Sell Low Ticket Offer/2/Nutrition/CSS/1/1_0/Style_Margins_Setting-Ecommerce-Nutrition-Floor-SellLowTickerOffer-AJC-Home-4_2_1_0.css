@@ -120,6 +120,13 @@ body {
     }
   }
 
+  /*Tablet - 600px*/
+  @media (max-width: 600px) {
+    #content_B-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner1-WidthXHeight-Desktop-1_1_1_0 {
+      margin: 121px 0 8px;
+    }
+  }
+
 #content_B-1-1-2_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner2-WidthXHeight-Desktop-1_1_1_0 {
   margin: -15px 0 0;
 }

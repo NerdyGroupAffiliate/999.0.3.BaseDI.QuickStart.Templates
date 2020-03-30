@@ -150,6 +150,13 @@ body {
     }
   }
 
+  /*Tablet - 601px*/
+  @media (max-width: 600px) {
+    #content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      top: 294px;
+    }
+  }
+
 #content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
   top: 300px;
   left: 50%;
@@ -228,11 +235,19 @@ body {
     }
   }
 
-  /*Mobile - 601px*/
+  /*Tablet - 601px*/
   @media (max-width: 601px) {
     #content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
       top: 344px;
       left: 50%;
+    }
+  }
+
+  /*Tablet - 600px*/
+  @media (max-width: 600px) {
+    #content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      top: 369px;
+      left: 54%;
     }
   }
 
@@ -321,6 +336,13 @@ body {
     }
   }
 
+  /*Tablet - 601px*/
+  @media (max-width: 600px) {
+    #content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      top: 779px;
+    }
+  }
+
 #content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
   top: 646px;
   right: 19%;
@@ -396,6 +418,13 @@ body {
   @media (max-width: 601px) {
     #content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
       top: 728px;
+    }
+  }
+
+  /*Tablet - 601px*/
+  @media (max-width: 600px) {
+    #content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      top: 773px;
     }
   }
 
@@ -483,5 +512,12 @@ body {
   @media (max-width: 601px) {
     #content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
       top: 834px;
+    }
+  }
+
+  /*Tablet - 600px*/
+  @media (max-width: 600px) {
+    #content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      top: 900px;
     }
   }
