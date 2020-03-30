@@ -126,6 +126,18 @@ body {
     }
   }
 
+  /*Mobile - 375px*/
+  @media only screen
+    and (device-width : 375px)
+    and (device-height : 812px)
+    and (-webkit-device-pixel-ratio : 3) {
+    body {
+      background-image: url(../../../Assets/1/1_0/Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-375X812-Mobile-4_2_1_0.jpg);
+      background-position: center top;
+      background-repeat: no-repeat;
+    }
+  }
+
   /*Mobile - 360px*/
   @media (max-width: 361px) {
     body {
