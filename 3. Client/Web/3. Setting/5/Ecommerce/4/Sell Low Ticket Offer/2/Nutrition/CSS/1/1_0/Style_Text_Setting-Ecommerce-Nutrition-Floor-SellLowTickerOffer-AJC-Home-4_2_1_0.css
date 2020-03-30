@@ -100,6 +100,13 @@
     }
   }
 
+  /*Tablet - 768px*/
+  @media (max-width: 768px) {
+    #content_B-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner1-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 65px;
+    }
+  }
+
 #content_B-1-1-2_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner2-WidthXHeight-Desktop-1_1_1_0 {
   font-family: 'Tw Cen MT Condensed', sans-serif;
   color: #000;
@@ -152,6 +159,13 @@
   @media (max-width: 800px) {
     #content_B-1-1-2_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner2-WidthXHeight-Desktop-1_1_1_0 {
       font-size: 29px;
+    }
+  }
+
+  /*Tablet - 768px*/
+  @media (max-width: 768px) {
+    #content_B-1-1-2_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner2-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 27px;
     }
   }
 
