@@ -2,7 +2,7 @@
   "$schema": "https://schema.management.basedi.io/schemas/2019-10-05/deploymentTemplate.json#",
   "contentVersion": "1.0.0.0",
   "parameters": {
-    "baseDI_NerdyGroupAffiliates_Website_MainProfile": {
+    "baseDI_NerdyGroupAffiliates_DynamicWebsite_MainProfile": {
       "type": "object",
       "defaultValue": {
         "baseDIInstructions": {
@@ -1200,19 +1200,19 @@
     {
       "baseDIProfiles": [
         {
-          "baseDI_NerdyGroupAffiliates_Website_MainProfile": "{BASEDICUSTOMOPTION}",
-          "baseDI_NerdyGroupAffiliates_Website_DocumentationProfile": [
+          "baseDI_NerdyGroupAffiliates_DynamicWebsite_MainProfile": "{BASEDICUSTOMOPTION}",
+          "baseDI_NerdyGroupAffiliates_DynamicWebsite_DocumentationProfile": [
             {
-              "baseDI_NerdyGroupAffiliates_WebsitePurpose": "***BASEDI DYNAMIC WEBSITE***",
-              "baseDI_NerdyGroupAffiliates_Website": "https://api.basedi.io/webdevelopment/",
-              "baseDI_NerdyGroupAffiliates_WebsiteDocumentation": {
-                "baseDINerdyGroupAffiliatesWebsiteDocumentationParameters": [
+              "baseDI_NerdyGroupAffiliates_DynamicWebsitePurpose": "***BASEDI DYNAMIC WEBSITE***",
+              "baseDI_NerdyGroupAffiliates_DynamicWebsite": "https://api.basedi.io/webdevelopment/",
+              "baseDI_NerdyGroupAffiliates_DynamicWebsiteDocumentation": {
+                "baseDINerdyGroupAffiliatesDynamicWebsiteDocumentationParameters": [
                   {}
                 ],
-                "baseDINerdyGroupAffiliatesWebsiteDocumentationFields": [
+                "baseDINerdyGroupAffiliatesDynamicWebsiteDocumentationFields": [
                   {}
                 ],
-                "baseDINerdyGroupAffiliatesWebsiteDocumentationRoutes": [
+                "baseDINerdyGroupAffiliatesDynamicWebsiteDocumentationRoutes": [
                   {
                     "endpoints": [
                       {
@@ -1273,7 +1273,7 @@
                     ]
                   }
                 ],
-                "baseDINerdyGroupAffiliatesWebsiteValidationRules": [
+                "baseDINerdyGroupAffiliatesDynamicWebsiteValidationRules": [
                   {
                     "mistakes": [
                       {
