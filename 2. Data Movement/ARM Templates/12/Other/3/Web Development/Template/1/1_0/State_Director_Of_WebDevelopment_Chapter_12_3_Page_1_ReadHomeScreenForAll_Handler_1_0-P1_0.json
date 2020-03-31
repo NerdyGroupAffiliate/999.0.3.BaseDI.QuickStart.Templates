@@ -242,28 +242,12 @@
                             }
                           ]
                         },
-                        "_2_2_2_3_clientInformationHTMLSecurityDetails": {
-                          "searchkey": "HTMLSecurityDetails_SetImplementer_ProductCreation_Security_Safety",
-                          "type": "array",
-                          "value": [
-                            {
-                              "_2_2_2_3_1_clientInformationHTMLSecurityItem": {
-                                "searchkey": "HTMLSecurityItem_SetAffilate_ProductLaunching_Security_AllowedDomains",
-                                "type": "array",
-                                "value": {
-                                  "HTMLSecurityItemRowID": "1",
-                                  "HTMLSecurityItemAllowedDomains": [ "localhost", "basedi.io" ]
-                                }
-                              }
-                            }
-                          ]
-                        },
-                        "_2_2_2_4_clientInformationHTMLContentDetails": {
+                        "_2_2_2_3_clientInformationHTMLContentDetails": {
                           "searchkey": "HTMLContentDetails_SetImplementer_ProductCreation_WebDevelopment_HTML",
                           "type": "array",
                           "value": [
                             {
-                              "_2_2_2_4_1_clientInformationHTMLContentItem": {
+                              "_2_2_2_3_1_clientInformationHTMLContentItem": {
                                 "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_WebDevelopment_HTMLContainer",
                                 "type": "object",
                                 "value": {
@@ -274,7 +258,7 @@
                                       "Tag": "div",
                                       "Attributes": [
                                         {
-                                          "id": "The_WebDevelopment_Experience-1–Help_Build_Website_Foundation–1-1–AGE_AJC-Nutrition–1_0"
+                                          "id": "container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0"
                                         }
                                       ],
                                       "Value": "",
@@ -301,7 +285,7 @@
                                   ]
                                 }
                               },
-                              "_2_2_2_4_2_clientInformationHTMLContentItem": {
+                              "_2_2_2_3_2_clientInformationHTMLContentItem": {
                                 "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_WebDevelopment_HTMLRows",
                                 "type": "object",
                                 "value": {
@@ -426,7 +410,7 @@
                                   ]
                                 }
                               },
-                              "_2_2_2_4_3_clientInformationHTMLContentItem": {
+                              "_2_2_2_3_3_clientInformationHTMLContentItem": {
                                 "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_WebDevelopment_HTMLColumns",
                                 "type": "object",
                                 "value": {
@@ -437,7 +421,7 @@
                                       "Tag": "div",
                                       "Attributes": [
                                         {
-                                          "id": "column_A-1-1_commerical_construction-section"
+                                          "id": "column_A-1-1_real_estate-commerical_construction-section"
                                         }
                                       ],
                                       "Value": "",
@@ -466,7 +450,7 @@
                                       "Tag": "div",
                                       "Attributes": [
                                         {
-                                          "id": "column_B-1-1_commerical_construction-section"
+                                          "id": "column_B-1-1_real_estate-commerical_construction-section"
                                         }
                                       ],
                                       "Value": "",
@@ -495,7 +479,7 @@
                                       "Tag": "div",
                                       "Attributes": [
                                         {
-                                          "id": "column_C-1-1_commerical_construction-section"
+                                          "id": "column_C-1-1_real_estate-commerical_construction-section"
                                         }
                                       ],
                                       "Value": "",
@@ -524,7 +508,7 @@
                                       "Tag": "div",
                                       "Attributes": [
                                         {
-                                          "id": "column_D-1-1_commerical_construction-section"
+                                          "id": "column_D-1-1_real_estate-commerical_construction-section"
                                         }
                                       ],
                                       "Value": "",
@@ -551,7 +535,7 @@
                                   ]
                                 }
                               },
-                              "_2_2_2_4_4_clientInformationHTMLContentItem": {
+                              "_2_2_2_3_4_clientInformationHTMLContentItem": {
                                 "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_WebDevelopment_HTMLContent",
                                 "type": "object",
                                 "value": {
@@ -562,13 +546,13 @@
                                       "Tag": "img",
                                       "Attributes": [
                                         {
-                                          "id": "content_0-1-1-1_Experience_The_Sight_OfNutritionFromSeller_Content_4_2_1_0"
+                                          "id": "container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0"
                                         },
                                         {
                                           "alt": "Ageless Background Wallpaper - Home"
                                         },
                                         {
-                                          "src": "https://homepages.cae.wisc.edu/~ece533/images/baboon.png"
+                                          "src": "../../../Assets/1/1_0/Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-1920X1080-Desktop-4_2_1_0.jpg"
                                         }
                                       ],
                                       "Value": "",
@@ -588,7 +572,7 @@
                                           ]
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1–Help_Build_Website_Foundation–1-1–AGE_AJC-Nutrition–1_0",
+                                      "ParentHTMLContentItemAttributeID": "container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0",
                                       "ChildHTMLContentDetails": [],
                                       "ChildHTMLContentFlowDirection": ""
                                     },
@@ -597,13 +581,13 @@
                                       "Tag": "img",
                                       "Attributes": [
                                         {
-                                          "id": "content_A-1-1-1_Experience_The_Awareness_Of-Nutrition-FounderNameFromSeller-AJC-WidthXHeight-Desktop_Content_1_1_1_0"
+                                          "id": "content_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0"
                                         },
                                         {
                                           "alt": "A PROGRAM BY ANDREW DURHAM"
                                         },
                                         {
-                                          "src": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+                                          "src": "../../../../../../../../../../4.%20Experience/7/Awareness/1/Generate%20Brand%20Awarness/1/Advertising/Assets/1/1_0/Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-463X125-Desktop-1_1_1_0.png"
                                         }
                                       ],
                                       "Value": "",
@@ -623,7 +607,7 @@
                                           ]
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "column_A-1-1_commerical_construction-section",
+                                      "ParentHTMLContentItemAttributeID": "column_A-1-1_real_estate-commerical_construction-section",
                                       "ChildHTMLContentDetails": [],
                                       "ChildHTMLContentFlowDirection": ""
                                     },
@@ -632,7 +616,7 @@
                                       "Tag": "h1",
                                       "Attributes": [
                                         {
-                                          "id": "content_B-1-1-1_Experience_The_Awareness_ByHeadline-F_16px_Advertisement_1_0"
+                                          "id": "content_B-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner1-WidthXHeight-Desktop-1_1_1_0"
                                         }
                                       ],
                                       "Value": "THE AGELESS JUICING CHALLENGE",
@@ -652,7 +636,7 @@
                                           ]
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "column_B-1-1_commerical_construction-section",
+                                      "ParentHTMLContentItemAttributeID": "column_B-1-1_real_estate-commerical_construction-section",
                                       "ChildHTMLContentDetails": [],
                                       "ChildHTMLContentFlowDirection": ""
                                     },
@@ -661,7 +645,7 @@
                                       "Tag": "h2",
                                       "Attributes": [
                                         {
-                                          "id": "content_B-1-1-2_Experience_The_Awareness_BySubHeadline-F_12px_Advertisement_1_0"
+                                          "id": "content_B-1-1-2_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner2-WidthXHeight-Desktop-1_1_1_0"
                                         }
                                       ],
                                       "Value": "the fun ritual to keep you motivated and inspired",
@@ -681,7 +665,7 @@
                                           ]
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "column_C-1-1_commerical_construction-section",
+                                      "ParentHTMLContentItemAttributeID": "column_B-1-1_real_estate-commerical_construction-section",
                                       "ChildHTMLContentDetails": [],
                                       "ChildHTMLContentFlowDirection": ""
                                     },
@@ -690,13 +674,13 @@
                                       "Tag": "img",
                                       "Attributes": [
                                         {
-                                          "id": "content_C-1-1-1_Experience_The_Touch_Of-Nutrition-ToOptintoListForSeller-AJC-WidthXHeight-Desktop_Content_3_1_1_0"
+                                          "id": "content_C-1-1-1_Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-WidthXHeight-Desktop-3_1_1_0"
                                         },
                                         {
                                           "alt": "GET ON WAITING LIST FOR FREE PREVIEW"
                                         },
                                         {
-                                          "src": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+                                          "src": "../../../../../../../../../../4.%20Experience/5/Sight/3/Generate%20Optin/1/List%20Building/Assets/1/1_0/Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-611X37-Desktop-3_1_1_0.png"
                                         }
                                       ],
                                       "Value": "",
@@ -716,7 +700,7 @@
                                           ]
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "column_C-1-1_commerical_construction-section",
+                                      "ParentHTMLContentItemAttributeID": "column_C-1-1_real_estate-commerical_construction-section",
                                       "ChildHTMLContentDetails": [],
                                       "ChildHTMLContentFlowDirection": ""
                                     },
@@ -725,13 +709,13 @@
                                       "Tag": "img",
                                       "Attributes": [
                                         {
-                                          "id": "content_D-1-1-1_Experience_The_Movement_Of-Nutrition-OfWomenJumpingForSeller-AJC-WidthXHeight-Desktop_Content_2_4_1_0"
+                                          "id": "content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0"
                                         },
                                         {
                                           "alt": "Jane is excited!!! Aren't you???"
                                         },
                                         {
-                                          "src": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+                                          "src": "../../../../../../../../../../4.%20Experience/2/Movement/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-329X467-Desktop-2_2_1_0.png"
                                         }
                                       ],
                                       "Value": "",
@@ -751,7 +735,7 @@
                                           ]
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "column_D-1-1_commerical_construction-section",
+                                      "ParentHTMLContentItemAttributeID": "column_D-1-1_real_estate-commerical_construction-section",
                                       "ChildHTMLContentDetails": [],
                                       "ChildHTMLContentFlowDirection": ""
                                     },
@@ -760,13 +744,13 @@
                                       "Tag": "img",
                                       "Attributes": [
                                         {
-                                          "id": "content_D-1-1-2_Experience_The_Taste_Of-Nutrition-OfJuicingFromSeller-AJC-WidthXHeight-Desktop_Content_2_4_1_0"
+                                          "id": "content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0"
                                         },
                                         {
                                           "alt": "Ageless Juice!!! Taste the emotion!!"
                                         },
                                         {
-                                          "src": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+                                          "src": "../../../../../../../../../../4.%20Experience/4/Taste/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-920X489-Desktop-2_4_1_0.png"
                                         }
                                       ],
                                       "Value": "",
@@ -786,7 +770,7 @@
                                           ]
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "column_D-1-1_commerical_construction-section",
+                                      "ParentHTMLContentItemAttributeID": "column_D-1-1_real_estate-commerical_construction-section",
                                       "ChildHTMLContentDetails": [],
                                       "ChildHTMLContentFlowDirection": ""
                                     },
@@ -795,13 +779,13 @@
                                       "Tag": "img",
                                       "Attributes": [
                                         {
-                                          "id": "content_D-1-1-3_Experience_The_Sight_Of-Nutrition-OfManWinningFromSeller-AJC-WidthXHeight-Desktop_Content_2_4_1_0"
+                                          "id": "content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0"
                                         },
                                         {
                                           "alt": "Mark won it and feels great?"
                                         },
                                         {
-                                          "src": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+                                          "src": "../../../../../../../../../../4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-357X443-Desktop-2_4_1_0.png"
                                         }
                                       ],
                                       "Value": "",
@@ -821,7 +805,7 @@
                                           ]
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "column_D-1-1_commerical_construction-section",
+                                      "ParentHTMLContentItemAttributeID": "column_D-1-1_real_estate-commerical_construction-section",
                                       "ChildHTMLContentDetails": [],
                                       "ChildHTMLContentFlowDirection": ""
                                     },
@@ -830,13 +814,13 @@
                                       "Tag": "img",
                                       "Attributes": [
                                         {
-                                          "id": "content_D-1-1-4_Experience_The_Sight_Of-Nutrition-OfManWinningFromSeller-AJC-WidthXHeight-Desktop_Content_2_4_2_0"
+                                          "id": "content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0"
                                         },
                                         {
                                           "alt": "Paul just won the challenge and got?"
                                         },
                                         {
-                                          "src": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+                                          "src": "../../../../../../../../../../4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-401X454-Desktop-2_4_2_0.png"
                                         }
                                       ],
                                       "Value": "",
@@ -856,7 +840,7 @@
                                           ]
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "column_D-1-1_commerical_construction-section",
+                                      "ParentHTMLContentItemAttributeID": "column_D-1-1_real_estate-commerical_construction-section",
                                       "ChildHTMLContentDetails": [],
                                       "ChildHTMLContentFlowDirection": ""
                                     },
@@ -865,13 +849,13 @@
                                       "Tag": "img",
                                       "Attributes": [
                                         {
-                                          "id": "content_D-1-1-5_Experience_The_Awareness_Of-Nutrition-LogoFromSeller-AJC-WidthXHeight-Desktop_Content_1_1_1_0"
+                                          "id": "content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0"
                                         },
                                         {
                                           "alt": "The Ageless Juicing Challenge"
                                         },
                                         {
-                                          "src": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+                                          "src": "../../../../../../../../../../4.%20Experience/5/Sight/1/Generate%20Brand%20Awareness/1/Advertising/Assets/1/1_0/Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-177X193-Desktop_1_1_1_0.png"
                                         }
                                       ],
                                       "Value": "",
@@ -891,7 +875,7 @@
                                           ]
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "column_D-1-1_commerical_construction-section",
+                                      "ParentHTMLContentItemAttributeID": "column_D-1-1_real_estate-commerical_construction-section",
                                       "ChildHTMLContentDetails": [],
                                       "ChildHTMLContentFlowDirection": ""
                                     }
@@ -901,20 +885,20 @@
                             }
                           ]
                         },
-                        "_2_2_2_5_clientInformationHTMLContentStylingDetails": {
+                        "_2_2_2_4_clientInformationHTMLContentStylingDetails": {
                           "searchkey": "HTMLContentStylingDetails_SetImplementer_ProductCreation_WebDevelopment_CSS",
                           "type": "array",
                           "value": [
                             {
-                              "_2_2_2_5_1_clientInformationHTMLContentStylingItem": {
+                              "_2_2_2_4_1_clientInformationHTMLContentStylingItem": {
                                 "searchkey": "HTMLContentStylingItem_SetImplementer_ProductCreation_WebDevelopment_CSS",
                                 "type": "array",
                                 "value": {
                                   "HTMLContentStylingItemRowID": "1",
                                   "HTMLContentStylingItemFiles": [
                                     {
-                                      "StyleFilePathLocal": "./3. Client/Web/3. Setting/5/Ecommerce/4/Sell Low Ticket Offer/2/Nutrition/HTML/1/1_0/",
-                                      "StyleFilePathRemote": "https://github.com/NerdyGroupAffiliate/0.3.BaseDI.QuickStart.Templates",
+                                      "StyleFilePathLocal": "./3. Client/Web/3. Setting/5/Ecommerce/4/Sell Low Ticket Offer/2/Nutrition/CSS/1/1_0/",
+                                      "StyleFilePathRemote": "https://github.com/NerdyGroupAffiliate/999.0.3.BaseDI.QuickStart.Templates",
                                       "StyleFiles": [
                                         {
                                           "StyleFileName": "Style_Alignments_EcommerceSetting_To_SellLowTicketOffer_For_Nutrition_Seller-Home-AJC_4_2_1_0",
