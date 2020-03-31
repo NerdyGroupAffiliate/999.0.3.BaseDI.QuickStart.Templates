@@ -1,0 +1,1304 @@
+{
+  "$schema": "https://schema.management.basedi.io/schemas/2019-10-05/deploymentTemplate.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "baseDI_NerdyGroupAffiliates_APIServer_MainProfile": {
+      "type": "object",
+      "defaultValue": {
+        "baseDIInstructions": {
+          "configuration": [
+            {
+              "key_1": "Servers",
+              "values_2": [
+                {
+                  "key_2_1": "Server_1_0",
+                  "values_2_2": [
+                    {
+                      "key_2_2_1": "NodeJS",
+                      "values_2_2_2": [
+                        {
+                          "_2_2_2_1_serverInformationSetupDetails": {
+                            "searchkey": "SetupDetails_Servers_Server_1_0_NodeJS_2_2_2_1_serverInformationSetupDetails",
+                            "type": "array",
+                            "value": [
+                              {
+                                "_2_2_2_1_1_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetBuyer_ProductLaunching_Software_TargetEnvironmentAndPort",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "1",
+                                    "SetupItemEnvironmentName": "Local",
+                                    "SetupItemEnvironmentPort": "8912"
+                                  }
+                                }
+                              },
+                              {
+                                "_2_2_2_1_2_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetSeller_ProductLaunching_Sales_DomainName",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "2",
+                                    "SetupItemDomainName": "http://localhost"
+                                  }
+                                }
+                              },
+                              {
+                                "_2_2_2_1_3_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientBuildLocation",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "3",
+                                    "SetupItemBuildItemClientPath": "wwwroot/Client/Build"
+                                  }
+                                }
+                              },
+                              {
+                                "_2_2_2_1_4_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientDataLocation",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "4",
+                                    "SetupItemDataPath": "wwwroot/Client/Data"
+                                  }
+                                }
+                              },
+                              {
+                                "_2_2_2_1_5_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientDocumentLocation",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "5",
+                                    "SetupItemDocumentPath": "wwwroot/Client/Documents"
+                                  }
+                                }
+                              },
+                              {
+                                "_2_2_2_1_6_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientFontLocation",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "6",
+                                    "SetupItemFontPath": "wwwroot/Client/Fonts"
+                                  }
+                                }
+                              },
+                              {
+                                "_2_2_2_1_7_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientImageLocation",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "7",
+                                    "SetupItemImagePath": "wwwroot/Client/Images"
+                                  }
+                                }
+                              },
+                              {
+                                "_2_2_2_1_8_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientScriptsLocation",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "8",
+                                    "SetupItemScriptPath": "wwwroot/Client/Scripts"
+                                  }
+                                }
+                              },
+                              {
+                                "_2_2_2_1_9_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientViewsLocation",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "9",
+                                    "SetupItemViewPaths": [
+                                      {
+                                        "SetupItemViewPath": "./3. Setting/3/Podcast/12/Other/2/Programming/Location/1/1_0"
+                                      }
+                                    ]
+                                  }
+                                }
+                              },
+                              {
+                                "_2_2_2_1_10_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ServerAPIVerbs",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "10",
+                                    "SetupItemRoutes": [
+                                      {
+                                        "SetupItemRouteName": "Home",
+                                        "SetupItemRouteViewName": "EcommerceSetting_To_GenerateBrandTrust_For_Nutrition_Seller_4_2_1_0",
+                                        "SetupItemRoutePath": "/",
+                                        "SetupItemRouteIsDynamicallyJSONRendered": "True",
+                                        "SetupItemRouteIsServerSideRendered": "False",
+                                        "SetupItemRouteVerb": "GET"
+                                      }
+                                    ]
+                                  }
+                                }
+                              },
+                              {
+                                "_2_2_2_1_11_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ServerBuildLocation",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "11",
+                                    "SetupItemBuildItemServerPath": "wwwroot/Server/Build"
+                                  }
+                                }
+                              },
+                              {
+                                "_2_2_2_1_12_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ServerPort",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "12",
+                                    "SetupItemPortNumber": "8912"
+                                  }
+                                }
+                              },
+                              {
+                                "_2_2_2_1_13_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ServerViewEngine",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "13",
+                                    "SetupItemViewEngineName": "BaseDI"
+                                  }
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "type_3": "object",
+              "buzzWords_4": "***OPTIONAL***, NodeJS, WebAPI",
+              "extraKeyValuePairs_5": [
+                {}
+              ]
+            }
+          ],
+          "presentation": [
+            {
+              "key_1": "Clients",
+              "values_2": [
+                {
+                  "key_2_1": "Client_1_0",
+                  "values_2_2": [
+                    {
+                      "key_2_2_1": "Webpage",
+                      "values_2_2_2": [
+                        {
+                          "_2_2_2_1_clientInformationHTMLSourceControlDetails": {
+                            "searchkey": "HTMLSourceControlDetails_SetImplementer_ProductCreation_WebDevelopment_FileManagement",
+                            "type": "array",
+                            "value": [
+                              {
+                                "_2_2_2_1_1_clientInformationHTMLSourceControlItem": {
+                                  "searchkey": "HTMLSourceControlItem_SetImplementer_ProductCreation_WebDevelopment_Item",
+                                  "searchkey2": "HTMLSourceControlItem_EcommerceSetting_To_SellLowTicketOffer_For_Nutrition_Seller-Home-AJC_4_2_1_0",
+                                  "type": "object",
+                                  "value": {
+                                    "HTMLSourceControlItemRowID": "1",
+                                    "HTMLSourceControlItemProjectName": "0.3.BaseDI.QuickStart.Templates",
+                                    "HTMLSourceControlItemProjectFiles": [
+                                      {
+                                        "ProjectFilePathLocal": "./3. Client/Web/3. Setting/5/Ecommerce/4/Sell Low Ticket Offer/2/Nutrition/HTML/1/1_0/",
+                                        "ProjectFilePathRemote": "https://github.com/NerdyGroupAffiliate/0.3.BaseDI.QuickStart.Templates",
+                                        "ProjectFileName": "EcommerceSetting_To_SellLowTicketOffer_For_Nutrition_Seller-Home-AJC_4_2_1_0",
+                                        "ProjectFileSupportedExtensions": [ "html, hbs, tsx, psd, ai" ],
+                                        "ProjectFileMimeType": "text/html",
+                                        "ProjectFileDependencies": [
+                                          {
+                                            "type": "npm",
+                                            "name": "react",
+                                            "version": "latest"
+                                          }
+                                        ],
+                                        "ProjectFileEntryPointIDForDynamicRendering": { "AttributeID": "The_WebDevelopment_Experience-1–Help_Build_Website_Foundation–1-1–AGE_AJC-Nutrition–1_0" }
+                                      }
+                                    ]
+                                  }
+                                }
+                              }
+                            ]
+                          },
+                          "_2_2_2_2_clientInformationHTMLSEODetails": {
+                            "searchkey": "HTMLSEODetails_SetImplementer_ProductCreation_SEO_SearchEngine",
+                            "type": "array",
+                            "value": [
+                              {
+                                "_2_2_2_2_1_clientInformationHTMLSEOItem": {
+                                  "searchkey": "HTMLSEOItem_SetBuyer_ProductLaunching_SEO_MetaData",
+                                  "type": "string",
+                                  "value": {
+                                    "HTMLSEOItemRowID": "1",
+                                    "HTMLSEOItemMetaTitleAndSlug": "how-to-make-eating-healthy-fun",
+                                    "HTMLSEOItemMetaKeyWords": [ "Juicing, Detoxification" ],
+                                    "HTMLSEOItemMetaDescription": "How to get back on track when you stopped before.",
+                                    "HTMLSEOItemSearchCode": ""
+                                  }
+                                }
+                              }
+                            ]
+                          },
+                          "_2_2_2_3_clientInformationHTMLSecurityDetails": {
+                            "searchkey": "HTMLSecurityDetails_SetImplementer_ProductCreation_Security_Safety",
+                            "type": "array",
+                            "value": [
+                              {
+                                "_2_2_2_3_1_clientInformationHTMLSecurityItem": {
+                                  "searchkey": "HTMLSecurityItem_SetAffilate_ProductLaunching_Security_AllowedDomains",
+                                  "type": "array",
+                                  "value": {
+                                    "HTMLSecurityItemRowID": "1",
+                                    "HTMLSecurityItemAllowedDomains": [ "localhost", "basedi.io" ]
+                                  }
+                                }
+                              }
+                            ]
+                          },
+                          "_2_2_2_4_clientInformationHTMLContentDetails": {
+                            "searchkey": "HTMLContentDetails_SetImplementer_ProductCreation_WebDevelopment_HTML",
+                            "type": "array",
+                            "value": [
+                              {
+                                "_2_2_2_4_1_clientInformationHTMLContentItem": {
+                                  "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_WebDevelopment_HTMLContainer",
+                                  "type": "object",
+                                  "value": {
+                                    "HTMLContentItemRowID": "1",
+                                    "HTMLContentItems": [
+                                      {
+                                        "Notes": "Wireframe",
+                                        "Tag": "div",
+                                        "Attributes": [
+                                          {
+                                            "id": "The_WebDevelopment_Experience-1–Help_Build_Website_Foundation–1-1–AGE_AJC-Nutrition–1_0"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": "vertical"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "_2_2_2_4_2_clientInformationHTMLContentItem": {
+                                  "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_WebDevelopment_HTMLRows",
+                                  "type": "object",
+                                  "value": {
+                                    "HTMLContentItemRowID": "2",
+                                    "HTMLContentItems": [
+                                      {
+                                        "Notes": "Wireframe",
+                                        "Tag": "div",
+                                        "Attributes": [
+                                          {
+                                            "id": "row_A-1_business-sales-authority"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1–Help_Build_Website_Foundation–1-1–AGE_AJC-Nutrition–1_0",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": "vertical"
+                                      },
+                                      {
+                                        "Notes": "Wireframe",
+                                        "Tag": "div",
+                                        "Attributes": [
+                                          {
+                                            "id": "row_B-1_business-advertising-sign"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1–Help_Build_Website_Foundation–1-1–AGE_AJC-Nutrition–1_0",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": "vertical"
+                                      },
+                                      {
+                                        "Notes": "Wireframe",
+                                        "Tag": "div",
+                                        "Attributes": [
+                                          {
+                                            "id": "row_C-1_business-sales-cta"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1–Help_Build_Website_Foundation–1-1–AGE_AJC-Nutrition–1_0",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": "vertical"
+                                      },
+                                      {
+                                        "Notes": "Wireframe",
+                                        "Tag": "div",
+                                        "Attributes": [
+                                          {
+                                            "id": "row_D-1_business-sales-liking"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1–Help_Build_Website_Foundation–1-1–AGE_AJC-Nutrition–1_0",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": "vertical"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "_2_2_2_4_3_clientInformationHTMLContentItem": {
+                                  "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_WebDevelopment_HTMLColumns",
+                                  "type": "object",
+                                  "value": {
+                                    "HTMLContentItemRowID": "3",
+                                    "HTMLContentItems": [
+                                      {
+                                        "Notes": "Wireframe",
+                                        "Tag": "div",
+                                        "Attributes": [
+                                          {
+                                            "id": "column_A-1-1_commerical_construction-section"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "row_A-1_business-sales-authority",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": "horzontial"
+                                      },
+                                      {
+                                        "Notes": "Wireframe",
+                                        "Tag": "div",
+                                        "Attributes": [
+                                          {
+                                            "id": "column_B-1-1_commerical_construction-section"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "row_B-1_business-advertising-sign",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": "vertical"
+                                      },
+                                      {
+                                        "Notes": "Wireframe",
+                                        "Tag": "div",
+                                        "Attributes": [
+                                          {
+                                            "id": "column_C-1-1_commerical_construction-section"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "row_C-1_business-sales-cta",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": "horzontial"
+                                      },
+                                      {
+                                        "Notes": "Wireframe",
+                                        "Tag": "div",
+                                        "Attributes": [
+                                          {
+                                            "id": "column_D-1-1_commerical_construction-section"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "row_D-1_business-sales-liking",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": "horzontial"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "_2_2_2_4_4_clientInformationHTMLContentItem": {
+                                  "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_WebDevelopment_HTMLContent",
+                                  "type": "object",
+                                  "value": {
+                                    "HTMLContentItemRowID": "4",
+                                    "HTMLContentItems": [
+                                      {
+                                        "Notes": "Background Wallpaper Image of Theme",
+                                        "Tag": "img",
+                                        "Attributes": [
+                                          {
+                                            "id": "content_0-1-1-1_Experience_The_Sight_OfNutritionFromSeller_Content_4_2_1_0"
+                                          },
+                                          {
+                                            "alt": "Ageless Background Wallpaper - Home"
+                                          },
+                                          {
+                                            "src": "https://homepages.cae.wisc.edu/~ece533/images/baboon.png"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1–Help_Build_Website_Foundation–1-1–AGE_AJC-Nutrition–1_0",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": ""
+                                      },
+                                      {
+                                        "Notes": "Authority Building Image of Headline",
+                                        "Tag": "img",
+                                        "Attributes": [
+                                          {
+                                            "id": "content_A-1-1-1_Experience_The_Awareness_Of-Nutrition-FounderNameFromSeller-AJC-WidthXHeight-Desktop_Content_1_1_1_0"
+                                          },
+                                          {
+                                            "alt": "A PROGRAM BY ANDREW DURHAM"
+                                          },
+                                          {
+                                            "src": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "column_A-1-1_commerical_construction-section",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": ""
+                                      },
+                                      {
+                                        "Notes": "Offer Text of Headline",
+                                        "Tag": "h1",
+                                        "Attributes": [
+                                          {
+                                            "id": "content_B-1-1-1_Experience_The_Awareness_ByHeadline-F_16px_Advertisement_1_0"
+                                          }
+                                        ],
+                                        "Value": "THE AGELESS JUICING CHALLENGE",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "column_B-1-1_commerical_construction-section",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": ""
+                                      },
+                                      {
+                                        "Notes": "Sales Motivational Text of SubHeadline",
+                                        "Tag": "h2",
+                                        "Attributes": [
+                                          {
+                                            "id": "content_B-1-1-2_Experience_The_Awareness_BySubHeadline-F_12px_Advertisement_1_0"
+                                          }
+                                        ],
+                                        "Value": "the fun ritual to keep you motivated and inspired",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "column_C-1-1_commerical_construction-section",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": ""
+                                      },
+                                      {
+                                        "Notes": "Call to Action Image of Button",
+                                        "Tag": "img",
+                                        "Attributes": [
+                                          {
+                                            "id": "content_C-1-1-1_Experience_The_Touch_Of-Nutrition-ToOptintoListForSeller-AJC-WidthXHeight-Desktop_Content_3_1_1_0"
+                                          },
+                                          {
+                                            "alt": "GET ON WAITING LIST FOR FREE PREVIEW"
+                                          },
+                                          {
+                                            "src": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "column_C-1-1_commerical_construction-section",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": ""
+                                      },
+                                      {
+                                        "Notes": "Motivational Image of Jumping Woman",
+                                        "Tag": "img",
+                                        "Attributes": [
+                                          {
+                                            "id": "content_D-1-1-1_Experience_The_Movement_Of-Nutrition-OfWomenJumpingForSeller-AJC-WidthXHeight-Desktop_Content_2_4_1_0"
+                                          },
+                                          {
+                                            "alt": "Jane is excited!!! Aren't you???"
+                                          },
+                                          {
+                                            "src": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "column_D-1-1_commerical_construction-section",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": ""
+                                      },
+                                      {
+                                        "Notes": "Motivational Image of Drink Exploding",
+                                        "Tag": "img",
+                                        "Attributes": [
+                                          {
+                                            "id": "content_D-1-1-2_Experience_The_Taste_Of-Nutrition-OfJuicingFromSeller-AJC-WidthXHeight-Desktop_Content_2_4_1_0"
+                                          },
+                                          {
+                                            "alt": "Ageless Juice!!! Taste the emotion!!"
+                                          },
+                                          {
+                                            "src": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "column_D-1-1_commerical_construction-section",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": ""
+                                      },
+                                      {
+                                        "Notes": "Motivational Image of Confident Man",
+                                        "Tag": "img",
+                                        "Attributes": [
+                                          {
+                                            "id": "content_D-1-1-3_Experience_The_Sight_Of-Nutrition-OfManWinningFromSeller-AJC-WidthXHeight-Desktop_Content_2_4_1_0"
+                                          },
+                                          {
+                                            "alt": "Mark won it and feels great?"
+                                          },
+                                          {
+                                            "src": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "column_D-1-1_commerical_construction-section",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": ""
+                                      },
+                                      {
+                                        "Notes": "Motivational Image of Winning Man",
+                                        "Tag": "img",
+                                        "Attributes": [
+                                          {
+                                            "id": "content_D-1-1-4_Experience_The_Sight_Of-Nutrition-OfManWinningFromSeller-AJC-WidthXHeight-Desktop_Content_2_4_2_0"
+                                          },
+                                          {
+                                            "alt": "Paul just won the challenge and got?"
+                                          },
+                                          {
+                                            "src": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "column_D-1-1_commerical_construction-section",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": ""
+                                      },
+                                      {
+                                        "Notes": "Logo Image of Brand",
+                                        "Tag": "img",
+                                        "Attributes": [
+                                          {
+                                            "id": "content_D-1-1-5_Experience_The_Awareness_Of-Nutrition-LogoFromSeller-AJC-WidthXHeight-Desktop_Content_1_1_1_0"
+                                          },
+                                          {
+                                            "alt": "The Ageless Juicing Challenge"
+                                          },
+                                          {
+                                            "src": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "column_D-1-1_commerical_construction-section",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": ""
+                                      }
+                                    ]
+                                  }
+                                }
+                              }
+                            ]
+                          },
+                          "_2_2_2_5_clientInformationHTMLContentStylingDetails": {
+                            "searchkey": "HTMLContentStylingDetails_SetImplementer_ProductCreation_WebDevelopment_CSS",
+                            "type": "array",
+                            "value": [
+                              {
+                                "_2_2_2_5_1_clientInformationHTMLContentStylingItem": {
+                                  "searchkey": "HTMLContentStylingItem_SetImplementer_ProductCreation_WebDevelopment_CSS",
+                                  "type": "array",
+                                  "value": {
+                                    "HTMLContentStylingItemRowID": "1",
+                                    "HTMLContentStylingItemFiles": [
+                                      {
+                                        "StyleFilePathLocal": "./3. Client/Web/3. Setting/5/Ecommerce/4/Sell Low Ticket Offer/2/Nutrition/HTML/1/1_0/",
+                                        "StyleFilePathRemote": "https://github.com/NerdyGroupAffiliate/0.3.BaseDI.QuickStart.Templates",
+                                        "StyleFiles": [
+                                          {
+                                            "StyleFileName": "Style_Alignments_EcommerceSetting_To_SellLowTicketOffer_For_Nutrition_Seller-Home-AJC_4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "position", "top", "bottom", "left", "right", "clip", "overflow", "z-index", "float", "clear" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "",
+                                                "propertyName": "",
+                                                "properyValues": [ "" ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "StyleFileName": "Style_Backgrounds_EcommerceSetting_To_SellLowTicketOffer_For_Nutrition_Seller-Home-AJC_4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "background-color", "background", "background-image", "background-repeat", "background-position", "background-attachment", "background-clip", "background-orgin", "background-size" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "",
+                                                "propertyName": "",
+                                                "properyValues": [ "" ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "StyleFileName": "Style_Borders_EcommerceSetting_To_SellLowTicketOffer_For_Nutrition_Seller-Home-AJC_4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "border-radius", "border-top-left-radius", "border-top-right-radius", "border-bottom-right-radius", "border-image", "border-image-source", "border-image-slice", "border-image-width", "border-image-outset", "border-image-repeat", "border", "border-right", "border-left", "border-top", "border-bottom", "border-width", "border-top-width", "border-bottom-width", "border-left-width", "border-right-width", "border-style", "border-top-style", "border-bottom-style", "border-left-style", "border-right-style", "border-color", "border-top-color", "border-bottom-color", "border-left-color", "border-right-color", "border-collapse", "border-spacing" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "",
+                                                "propertyName": "",
+                                                "properyValues": [ "" ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "StyleFileName": "Style_Colors_EcommerceSetting_To_SellLowTicketOffer_For_Nutrition_Seller-Home-AJC_4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "color", "opacity" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "",
+                                                "propertyName": "",
+                                                "properyValues": [ "" ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "StyleFileName": "Style_Effects_EcommerceSetting_To_SellLowTicketOffer_For_Nutrition_Seller-Home-AJC_4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "box-shadow", "transform", "transform-origin", "transition", "transition-property", "transition-duration", "transition-timing-function", "transition-delay" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "",
+                                                "propertyName": "",
+                                                "properyValues": [ "" ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "StyleFileName": "Style_Flow_EcommerceSetting_To_SellLowTicketOffer_For_Nutrition_Seller-Home-AJC_4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "display", "visibility" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "",
+                                                "propertyName": "",
+                                                "properyValues": [ "" ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "StyleFileName": "Style_Lists_EcommerceSetting_To_SellLowTicketOffer_For_Nutrition_Seller-Home-AJC_4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "content", "quotes", "counter-increment", "counter-reset", "list-style", "list-style-type", "list-style-image", "list-style-position" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "",
+                                                "propertyName": "",
+                                                "properyValues": [ "" ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "StyleFileName": "Style_Margins_EcommerceSetting_To_SellLowTicketOffer_For_Nutrition_Seller-Home-AJC_4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "margin", "margin-top", "margin-right", "margin-left", "margin-bottom" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "",
+                                                "propertyName": "",
+                                                "properyValues": [ "" ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "StyleFileName": "Style_Misc_EcommerceSetting_To_SellLowTicketOffer_For_Nutrition_Seller-Home-AJC_4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "cursor", "outline", "outline-style", "outline-color", "outline-width", "direction", "unicode-bidi", "all", "page-break-before", "page-break-after", "page-break-inside", "orphans", "widows" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "",
+                                                "propertyName": "",
+                                                "properyValues": [ "" ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "StyleFileName": "Style_Padding_EcommerceSetting_To_SellLowTicketOffer_For_Nutrition_Seller-Home-AJC_4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "padding", "padding-top", "padding-bottom", "padding-left", "padding-right" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "",
+                                                "propertyName": "",
+                                                "properyValues": [ "" ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "StyleFileName": "Style_Sizes_EcommerceSetting_To_SellLowTicketOffer_For_Nutrition_Seller-Home-AJC_4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "width", "height", "min-width", "max-width", "min-height", "max-height" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "",
+                                                "propertyName": "",
+                                                "properyValues": [ "" ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "StyleFileName": "Style_Tables_EcommerceSetting_To_SellLowTicketOffer_For_Nutrition_Seller-Home-AJC_4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "table-layout", "empty-cells", "caption-side" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "",
+                                                "propertyName": "",
+                                                "properyValues": [ "" ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "StyleFileName": "Style_Text_EcommerceSetting_To_SellLowTicketOffer_For_Nutrition_Seller-Home-AJC_4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "font", "font-family", "font-style", "font-variant", "font-weight", "font-size", "font-stretch", "font-size-adjust", "font-synthesis", "line-height", "letter-spacing", "word-spacing", "text-align", "text-decoration", "text-decoration-line", "text-decoration-style", "text-decoration-color", "text-indent", "text-transform", "vertical-align", "white-space" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "",
+                                                "propertyName": "",
+                                                "properyValues": [ "" ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "type": "object",
+              "buzzWords": "***OPTIONAL***, Wireframes, HTML, XAML",
+              "extraKeyValuePairs": []
+            }
+          ],
+          "servers": [
+            {
+              "key_1": "Functions",
+              "values_2": [
+                {
+                  "key_2_1": "Function_1_0",
+                  "values_2_2": [
+                    {
+                      "key_2_2_1": "NodeJS",
+                      "values_2_2_2": [
+                        {
+                          "_2_2_2_1_functionInformationEventCallStackDetails": {
+                            "searchkey": "Functions_Function_1_0_NodeJS_2_2_2_1_functionInformationEventCallStackDetails",
+                            "type": "array",
+                            "value": [
+                              {
+                                "_2_2_2_1_1_functionInformationEventCallStackItem": {
+                                  "searchkey": "SetImplementer_ProductCreation_Software_ServerEventOnLoad",
+                                  "type": "object",
+                                  "value": {
+                                    "EventCallStackItemRowID": "1",
+                                    "EventCallStackItems": [
+                                      {
+                                        "Notes": "JavaScript Server",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "true"
+                                          },
+                                          {
+                                            "functionEvent": "onload",
+                                            "functionName": "Experience_The_Hear_OfTheAPIServer_Message_12_2_1_0",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "type_3": "object",
+              "buzzWords_4": "***REQUIRED***, Functions, Methods, Business Logic",
+              "extraKeyValuePairs_5": []
+            }
+          ],
+          "data": [
+            {
+              "key_1": "Repositories",
+              "values_2": [
+                {
+                  "key_2_1": "Repository_1_0",
+                  "values_2_2": [
+                    {
+                      "key_2_2_1": "Repository",
+                      "values_2_2_2": [
+                        {
+                          "_2_2_2_1_repositoryInformationDataDetails": {
+                            "searchkey": "Repositories_Repository_1_0_Repository_2_2_2_1_repositoryInformationDataDetails",
+                            "type": "array",
+                            "value": [
+                              {
+                                "_2_2_2_1_1_repositoryInformationDataItem": {
+                                  "searchkey": "SetImplementer_ProductCreation_Software_Data",
+                                  "type": "object",
+                                  "value": {
+                                    "DataItemRowID": "1",
+                                    "DataItemLocation": "LocalService"
+                                  }
+                                },
+                                "_2_2_2_1_2_repositoryInformationDataItem": {
+                                  "searchkey": "SetImplementer_ProductCreation_Software_DataException",
+                                  "type": "object",
+                                  "value": {
+                                    "DataItemRowID": "2",
+                                    "DataItemLocation": "LocalService"
+                                  }
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "type_3": "object",
+              "buzzWords_4": "***REQUIRED***, LocalFile, LocalDatabase, LocalService, RemoteFile, RemoteDatabase, RemoteService, RemoteServiceVendor",
+              "extraKeyValuePairs_5": [
+                {}
+              ]
+            }
+          ]
+        }
+      },
+      "metadata": {
+        "description": "Sets the dynamic information from the client."
+      }
+    }
+  },
+  "variables": [
+    {}
+  ],
+  "resources": [
+    {
+      "baseDIProfiles": [
+        {
+          "baseDI_NerdyGroupAffiliates_APIServer_MainProfile": "{BASEDICUSTOMOPTION}",
+          "baseDI_NerdyGroupAffiliates_APIServer_DocumentationProfile": [
+            {
+              "baseDI_NerdyGroupAffiliates_APIServerPurpose": "***BASEDI APISERVER API***",
+              "baseDI_NerdyGroupAffiliates_APIServerWebsite": "https://api.basedi.io/programming/coaching/",
+              "baseDI_NerdyGroupAffiliates_APIServerDocumentation": {
+                "baseDINerdyGroupAffiliatesAPIServerDocumentationParameters": [
+                  {}
+                ],
+                "baseDINerdyGroupAffiliatesAPIServerDocumentationFields": [
+                  {}
+                ],
+                "baseDINerdyGroupAffiliatesAPIServerDocumentationRoutes": [
+                  {
+                    "endpoints": [
+                      {
+                        "endpoint_Live": "https://api.basedi.io/programming",
+                        "endpoint_Local_DotNetCore": "http://localhost:8912/api/basedi/io/programming",
+                        "endpoint_Local_NodeJS": "http://localhost:9912/api/basedi/io/programming"
+                      }
+                    ]
+                  },
+                  {
+                    "routes": [
+                      {
+                        "route_POST": [
+                          {
+                            "desciption": "Create Method",
+                            "availableMethods": [
+                              {
+                                "description": "Used for cross communication between all Micro services",
+                                "methodName": "Action"
+                              }
+                            ]
+                          }
+                        ],
+                        "route_GET": [
+                          {
+                            "desciption": "Read Method",
+                            "availableMethods": [
+                              {
+                                "description": "{BASEDI PLACEHOLDER - NOT USED AT THIS TIME}",
+                                "methodName": ""
+                              }
+                            ]
+                          }
+                        ],
+                        "route_PUT": [
+                          {
+                            "desciption": "Update Method",
+                            "availableMethods": [
+                              {
+                                "description": "{BASEDI PLACEHOLDER - NOT USED AT THIS TIME}",
+                                "methodName": ""
+                              }
+                            ]
+                          }
+                        ],
+                        "route_Delete": [
+                          {
+                            "desciption": "Delete Method",
+                            "availableMethods": [
+                              {
+                                "description": "{BASEDI PLACEHOLDER - NOT USED AT THIS TIME}",
+                                "methodName": ""
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "baseDINerdyGroupAffiliatesAPIServerValidationRules": [
+                  {
+                    "mistakes": [
+                      {
+                        "mistake_route_POST": [
+                          {
+                            "error_100": "Invalid parameter"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "outputs": [
+    {
+      "baseDIMistakes": []
+    },
+    {
+      "baseDIObservations": []
+    }
+  ]
+}

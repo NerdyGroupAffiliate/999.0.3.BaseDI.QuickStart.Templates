@@ -1,0 +1,222 @@
+{
+  "$schema": "https://schema.management.basedi.io/schemas/2019-10-05/deploymentTemplate.json#",
+  "contentVersion": "1.0.0.0",
+  "baseDI_NerdyGroupAffiliates_APIServer_MainProfile": {
+    "value": {
+      "baseDIInstructions": {
+        "presentation": [
+          {
+            "key": "Settings",
+            "values": [
+              {
+                "value": [
+                  {
+                    "key": { "name": "NodeJS" },
+                    "value": {
+                      "type": "string",
+                      "paths": [
+                        {
+                          "path": "./3. Setting/1/Social Media/12/Other/2/Programming/Location/1/1_0",
+                          "routes": [ {} ]
+                        },
+                        {
+                          "path": "./3. Setting/2/Blog/12/Other/2/Programming/Location/1/1_0",
+                          "routes": [ {} ]
+                        },
+                        {
+                          "path": "./3. Setting/3/Podcast/12/Other/2/Programming/Location/1/1_0",
+                          "routes": [ {} ]
+                        },
+                        {
+                          "path": "./3. Setting/4/Movies TV/12/Other/2/Programming/Location/1/1_0",
+                          "routes": [ {} ]
+                        },
+                        {
+                          "path": "./3. Setting/5/Ecommerce/12/Other/2/Programming/Location/1/1_0",
+                          "routes": [ {} ]
+                        },
+                        {
+                          "path": "./3. Setting/6/Home/12/Other/2/Programming/Location/1/1_0",
+                          "routes": [ {} ]
+                        },
+                        {
+                          "path": "./3. Setting/7/Commerical Property/12/Other/2/Programming/Location/1/1_0",
+                          "routes": [ {} ]
+                        },
+                        {
+                          "path": "./3. Setting/8/Land/12/Other/2/Programming/Location/1/1_0",
+                          "routes": [ {} ]
+                        },
+                        {
+                          "path": "./3. Setting/9/Software/12/Other/2/Programming/Location/1/1_0",
+                          "routes": [ {} ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ],
+            "type": "object",
+            "buzzWords": "***BASEDI PLACEHOLDER - NOT USED AT THIS TIME***",
+            "extraKeyValuePairs": []
+          },
+          {
+            "key": "Experiences",
+            "values": [
+              {
+                "value": [
+                  {
+                    "key": { "name": "NodeJS" },
+                    "value": {
+                      "type": "string",
+                      "paths": [
+                        { "path": "./4. Experience/1/Touch/12/Other/2/Programming/Experience/1/1_0" },
+                        { "path": "./4. Experience/2/Movement/12/Other/2/Programming/Experience/1/1_0" },
+                        { "path": "./4. Experience/3/Smell/12/Other/2/Programming/Experience/1/1_0" },
+                        { "path": "./4. Experience/4/Taste/12/Other/2/Programming/Experience/1/1_0" },
+                        { "path": "./4. Experience/5/Sight/12/Other/2/Programming/Experience/1/1_0" },
+                        { "path": "./4. Experience/6/Hear/12/Other/2/Programming/Experience/1/1_0" },
+                        { "path": "./4. Experience/7/Awareness/12/Other/2/Programming/Experience/1/1_0" },
+                        { "path": "./4. Experience/8/Classification/12/Other/2/Programming/Experience/1/1_0" }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ],
+            "type": "object",
+            "buzzWords": "***BASEDI PLACEHOLDER - NOT USED AT THIS TIME***",
+            "extraKeyValuePairs": []
+          }
+        ],
+        "business": [
+          {
+            "key": "Mode",
+            "values": [
+              {
+                "value": [
+                  {
+                    "key": { "environment": "LOCAL" },
+                    "value": { "type": "string" }
+                  }
+                ]
+              }
+            ],
+            "type": "object",
+            "buzzWords": "***REQUIRED***, Environment, Local, QA, UAT, Production",
+            "extraKeyValuePairs": []
+          },
+          {
+            "key": "Parameters",
+            "values": [
+              {
+                "value": [
+                  {
+                    "key": { "name": "NodeJS" },
+                    "value": {
+                      "type": "string",
+                      "host": "http://localhost"
+                    }
+                  },
+                  {
+                    "key": { "name": "NodeJS" },
+                    "value": {
+                      "type": "number",
+                      "port": "9912"
+                    }
+                  },
+                  {
+                    "key": { "name": "NodeJS" },
+                    "value": {
+                      "type": "object",
+                      "routes": [
+                        {
+                          "path": "api/basedi/io/programming",
+                          "method": "Action",
+                          "verb": "POST",
+                          "experienceHTMLRaw": "",
+                          "experienceHTMLView": "",
+                          "experienceJSONRaw": ""
+                        },
+                        {
+                          "path": "test",
+                          "method": "",
+                          "verb": "GET",
+                          "experienceHTMLRaw": "<h3>Hello World<\/h3> ",
+                          "experienceHTMLView": "",
+                          "experienceJSONRaw": ""
+                        },
+                        {
+                          "path": "test2",
+                          "method": "",
+                          "verb": "GET",
+                          "experienceHTMLRaw": "<h3>Hello World 23233<\/h3> ",
+                          "experienceHTMLView": "",
+                          "experienceJSONRaw": ""
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ],
+            "type": "object",
+            "buzzWords": "***REQUIRED***, Facebook Parameters, Parameters Arguments",
+            "extraKeyValuePairs": []
+          },
+          {
+            "key": "AvaliableFeatures",
+            "values": [
+              {
+                "value": [
+                  {
+                    "key": { "name": "Experience_The_Hear_OfTheAPIServer_Message_12_2_1_0" },
+                    "value": { "type": "string" }
+                  }
+                ]
+              }
+            ],
+            "type": "object",
+            "buzzWords": "***REQUIRED***, Functions, Actions, Business Logic",
+            "extraKeyValuePairs": []
+          }
+        ],
+        "data": [
+          {
+            "key": "Repository",
+            "values": [
+              {
+                "value": [
+                  {
+                    "key": { "dataAccess": "LocalService" },
+                    "value": { "type": "string" }
+                  }
+                ]
+              }
+            ],
+            "type": "object",
+            "buzzWords": "***REQUIRED***, LocalFile, LocalDatabase, LocalService, RemoteFile, RemoteDatabase, RemoteService, RemoteServiceVendor",
+            "extraKeyValuePairs": [ {} ]
+          },
+          {
+            "key": "ExceptionRepository",
+            "values": [
+              {
+                "value": [
+                  {
+                    "key": { "dataAccess": "LocalService" },
+                    "value": { "type": "string" }
+                  }
+                ]
+              }
+            ],
+            "type": "object",
+            "buzzWords": "***REQUIRED***, LocalFile, LocalDatabase, LocalService, RemoteFile, RemoteDatabase, RemoteService, RemoteServiceVendor",
+            "extraKeyValuePairs": [ {} ]
+          }
+        ]
+      }
+    }
+  }
+}
