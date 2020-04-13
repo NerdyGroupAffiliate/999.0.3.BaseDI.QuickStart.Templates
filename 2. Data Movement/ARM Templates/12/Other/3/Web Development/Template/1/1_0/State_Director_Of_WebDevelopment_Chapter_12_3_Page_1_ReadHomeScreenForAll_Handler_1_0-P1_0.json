@@ -281,6 +281,35 @@
                                       "ParentHTMLContentItemAttributeID": "",
                                       "ChildHTMLContentDetails": [],
                                       "ChildHTMLContentFlowDirection": "vertical"
+                                    },
+                                    {
+                                      "Notes": "Wireframe",
+                                      "Tag": "div",
+                                      "Attributes": [
+                                        {
+                                          "id": "container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0"
+                                        }
+                                      ],
+                                      "Value": "",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": "vertical"
                                     }
                                   ]
                                 }
@@ -901,22 +930,40 @@
                                       "StyleFilePathRemote": "https://github.com/NerdyGroupAffiliate/999.0.3.BaseDI.QuickStart.Templates",
                                       "StyleFiles": [
                                         {
-                                          "StyleFileName": "Style_Alignments_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0.",
+                                          "StyleFileName": "Style_Alignments_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0",
                                           "StyleFileSupportedProperties": [ "position", "top", "bottom", "left", "right", "clip", "overflow", "z-index", "float", "clear" ],
                                           "StyleFileUseProperties": [
                                             {
                                               "attributeID": "",
                                               "properties": [
                                                 {
-                                                  "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "propertyName": "body",
+                                                  "properyValues": [ "overflow-y;hidden", "position: relative" ]
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "top",
+                                                  "properyValues": [ "330px" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "column_D-1-1_real_estate-commerical_construction-section",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "img",
+                                                  "properyValues": [ "position: absolute" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "top",
+                                                  "properyValues": [ "330px" ]
                                                 }
                                               ]
                                             }
@@ -959,8 +1006,9 @@
                                               "IsMediaQuery": "false",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "top",
+                                                  "properyValues": [ "330px" ]
                                                 }
                                               ]
                                             }
@@ -981,8 +1029,9 @@
                                               "IsMediaQuery": "false",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "top",
+                                                  "properyValues": [ "330px" ]
                                                 }
                                               ]
                                             }
@@ -1003,8 +1052,9 @@
                                               "IsMediaQuery": "false",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "top",
+                                                  "properyValues": [ "330px" ]
                                                 }
                                               ]
                                             }
@@ -1025,8 +1075,9 @@
                                               "IsMediaQuery": "false",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "top",
+                                                  "properyValues": [ "330px" ]
                                                 }
                                               ]
                                             }
@@ -1047,8 +1098,9 @@
                                               "IsMediaQuery": "false",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "top",
+                                                  "properyValues": [ "330px" ]
                                                 }
                                               ]
                                             }
@@ -1069,8 +1121,9 @@
                                               "IsMediaQuery": "false",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "top",
+                                                  "properyValues": [ "330px" ]
                                                 }
                                               ]
                                             }
@@ -1091,8 +1144,9 @@
                                               "IsMediaQuery": "false",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "top",
+                                                  "properyValues": [ "330px" ]
                                                 }
                                               ]
                                             }
@@ -1113,8 +1167,9 @@
                                               "IsMediaQuery": "false",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "top",
+                                                  "properyValues": [ "330px" ]
                                                 }
                                               ]
                                             }
@@ -1139,8 +1194,9 @@
                                               "IsMediaQuery": "false",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "top",
+                                                  "properyValues": [ "330px" ]
                                                 }
                                               ]
                                             },
@@ -1159,8 +1215,9 @@
                                               "IsMediaQuery": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "propertyName": "max-width",
-                                                  "properyValues": [ "1600px" ]
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "top",
+                                                  "properyValues": [ "330px" ]
                                                 }
                                               ]
                                             }
@@ -1181,8 +1238,9 @@
                                               "IsMediaQuery": "false",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "top",
+                                                  "properyValues": [ "330px" ]
                                                 }
                                               ]
                                             }
@@ -1203,8 +1261,9 @@
                                               "IsMediaQuery": "false",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "top",
+                                                  "properyValues": [ "330px" ]
                                                 }
                                               ]
                                             }
