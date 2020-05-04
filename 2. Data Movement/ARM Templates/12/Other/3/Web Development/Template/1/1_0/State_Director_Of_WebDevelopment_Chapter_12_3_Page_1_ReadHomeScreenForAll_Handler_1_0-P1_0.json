@@ -281,36 +281,7 @@
                                       "ParentHTMLContentItemAttributeID": "",
                                       "ChildHTMLContentDetails": [],
                                       "ChildHTMLContentFlowDirection": "vertical"
-                                    },
-                                    {
-                                      "Notes": "Wireframe",
-                                      "Tag": "div",
-                                      "Attributes": [
-                                        {
-                                          "id": "container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0"
-                                        }
-                                      ],
-                                      "Value": "",
-                                      "Events": [
-                                        {
-                                          "functionsEnabled": "false"
-                                        },
-                                        {
-                                          "functionEvent": "",
-                                          "functionName": "",
-                                          "functionParameters": [
-                                            {
-                                              "parameterName": "",
-                                              "parameterTypeScriptDataType": "",
-                                              "parameterDefaultValue": ""
-                                            }
-                                          ]
-                                        }
-                                      ],
-                                      "ParentHTMLContentItemAttributeID": "",
-                                      "ChildHTMLContentDetails": [],
-                                      "ChildHTMLContentFlowDirection": "vertical"
-                                    }
+                                    }                                    
                                   ]
                                 }
                               },
@@ -610,7 +581,7 @@
                                       "Tag": "img",
                                       "Attributes": [
                                         {
-                                          "id": "content_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0"
+                                          "id": "content_A-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0"
                                         },
                                         {
                                           "alt": "A PROGRAM BY ANDREW DURHAM"
