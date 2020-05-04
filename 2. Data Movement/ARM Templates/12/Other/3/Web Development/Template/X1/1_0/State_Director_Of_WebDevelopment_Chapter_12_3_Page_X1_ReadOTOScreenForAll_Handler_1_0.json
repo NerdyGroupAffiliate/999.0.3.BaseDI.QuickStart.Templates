@@ -258,7 +258,7 @@
                                       "Tag": "div",
                                       "Attributes": [
                                         {
-                                          "id": "container_Setting-Ecommerce-Nutrition-Floor-ReadOTOScreenForAll-SKC-Home-4_2_1_0"
+                                          "id": "container_Setting-CMP-Product_Creation-Floor-ReadOTOScreenForAll-SKC-Home-4_0_1_0"
                                         }
                                       ],
                                       "Value": "",
@@ -287,7 +287,7 @@
                                       "Tag": "div",
                                       "Attributes": [
                                         {
-                                          "id": "container_Setting-Ecommerce-Nutrition-Floor-ReadOTOScreenForAll-SKC-Home-4_2_1_0"
+                                          "id": "container_Setting-CMP-Product_Creation-Floor-ReadOTOScreenForAll-SKC-Home-4_0_1_0"
                                         }
                                       ],
                                       "Value": "",
@@ -1455,7 +1455,7 @@
                                               ]
                                             },
                                             {
-                                              "attributeID": "container_Setting-Ecommerce-Nutrition-Floor-ReadOTOScreenForAll-SKC-Home-4_2_1_0",
+                                              "attributeID": "container_Setting-CMP-Product_Creation-Floor-ReadOTOScreenForAll-SKC-Home-4_0_1_0",
                                               "properties": [
                                                 {
                                                   "propertyName": "margin",
@@ -1865,7 +1865,7 @@
                                           "StyleFileSupportedProperties": [ "width", "height", "min-width", "max-width", "min-height", "max-height" ],
                                           "StyleFileUseProperties": [
                                             {
-                                              "attributeID": "container_Setting-Ecommerce-Nutrition-Floor-ReadOTOScreenForAll-SKC-Home-4_2_1_0",
+                                              "attributeID": "container_Setting-CMP-Product_Creation-Floor-ReadOTOScreenForAll-SKC-Home-4_0_1_0",
                                               "properties": [
                                                 {
                                                   "propertyName": "width",
@@ -2137,7 +2137,7 @@
                                               ]
                                             },
                                             {
-                                              "attributeID": "container_Setting-Ecommerce-Nutrition-Floor-ReadOTOScreenForAll-SKC-Home-4_2_1_0",
+                                              "attributeID": "container_Setting-CMP-Product_Creation-Floor-ReadOTOScreenForAll-SKC-Home-4_0_1_0",
                                               "properties": [
                                                 {
                                                   "propertyName": [ "text-align", "font-family" ],
