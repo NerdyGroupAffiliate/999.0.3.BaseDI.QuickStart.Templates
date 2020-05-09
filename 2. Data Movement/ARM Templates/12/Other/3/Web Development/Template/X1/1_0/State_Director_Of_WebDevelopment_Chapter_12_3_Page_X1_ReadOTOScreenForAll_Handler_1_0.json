@@ -1412,7 +1412,7 @@
                                           ]
                                         },
                                         {
-                                          "StyleFileName": "Style_Lists_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-OTO-AJC-CMS-4_2_1_0",
+                                          "StyleFileName": "Style_List_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-OTO-AJC-CMS-4_2_1_0",
                                           "StyleFileSupportedProperties": [ "content", "quotes", "counter-increment", "counter-reset", "list-style", "list-style-type", "list-style-image", "list-style-position" ],
                                           "StyleFileUseProperties": [
                                             {
