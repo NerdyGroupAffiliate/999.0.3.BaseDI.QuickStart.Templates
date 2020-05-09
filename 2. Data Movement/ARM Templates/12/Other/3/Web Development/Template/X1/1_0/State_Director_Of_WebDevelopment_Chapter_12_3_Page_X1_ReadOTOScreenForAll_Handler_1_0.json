@@ -1,0 +1,2829 @@
+{
+  "$schema": "https://schema.management.basedi.io/schemas/2019-10-05/deploymentTemplate.json#",
+  "contentVersion": "1.0.0.0",
+  "baseDI_NerdyGroupAffiliates_DynamicWebsite_MainProfile": {
+    "value": {
+      "baseDIInstructions": {
+        "configuration": [
+          {
+            "key_1": "Servers",
+            "values_2": [
+              {
+                "key_2_1": "Server_1_0",
+                "values_2_2": [
+                  {
+                    "key_2_2_1": "NodeJS",
+                    "values_2_2_2": [
+                      {
+                        "_2_2_2_1_serverInformationSetupDetails": {
+                          "searchkey": "SetupDetails_Servers_Server_1_0_NodeJS_2_2_2_1_serverInformationSetupDetails",
+                          "type": "array",
+                          "value": [
+                            {
+                              "_2_2_2_1_1_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetBuyer_ProductLaunching_Software_TargetEnvironmentAndPort",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "1",
+                                  "SetupItemEnvironmentName": "Local",
+                                  "SetupItemEnvironmentPort": "8912"
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_2_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetSeller_ProductLaunching_Sales_DomainName",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "2",
+                                  "SetupItemDomainName": "http://localhost"
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_3_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientBuildLocation",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "3",
+                                  "SetupItemBuildItemClientPath": "wwwroot/Client/Build"
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_4_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientDataLocation",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "4",
+                                  "SetupItemDataPath": "wwwroot/Client/Data"
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_5_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientDocumentLocation",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "5",
+                                  "SetupItemDocumentPath": "wwwroot/Client/Documents"
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_6_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientFontLocation",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "6",
+                                  "SetupItemFontPath": "wwwroot/Client/Fonts"
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_7_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientImageLocation",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "7",
+                                  "SetupItemImagePath": "wwwroot/Client/Images"
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_8_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientScriptsLocation",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "8",
+                                  "SetupItemScriptPath": "wwwroot/Client/Scripts"
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_9_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientViewsLocation",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "9",
+                                  "SetupItemViewPaths": [
+                                    {
+                                      "SetupItemViewPath": "./3. Setting/3/Podcast/12/Other/2/Programming/Location/1/1_0"
+                                    }
+                                  ]
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_10_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ServerAPIVerbs",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "10",
+                                  "SetupItemRoutes": [
+                                    {
+                                      "SetupItemRouteName": "Home",
+                                      "SetupItemRouteViewName": "EcommerceSetting_To_GenerateBrandTrust_For_Nutrition_Seller_4_2_1_0",
+                                      "SetupItemRoutePath": "/",
+                                      "SetupItemRouteIsDynamicallyJSONRendered": "True",
+                                      "SetupItemRouteIsServerSideRendered": "False",
+                                      "SetupItemRouteVerb": "GET"
+                                    }
+                                  ]
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_11_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ServerBuildLocation",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "11",
+                                  "SetupItemBuildItemServerPath": "wwwroot/Server/Build"
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_12_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ServerPort",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "12",
+                                  "SetupItemPortNumber": "8912"
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_13_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ServerViewEngine",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "13",
+                                  "SetupItemViewEngineName": "BaseDI"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "type_3": "object",
+            "buzzWords_4": "***OPTIONAL***, NodeJS, WebAPI",
+            "extraKeyValuePairs_5": [
+              {}
+            ]
+          }
+        ],
+        "presentation": [
+          {
+            "key_1": "Clients",
+            "values_2": [
+              {
+                "key_2_1": "Client_1_0",
+                "values_2_2": [
+                  {
+                    "key_2_2_1": "Webpage",
+                    "values_2_2_2": [
+                      {
+                        "_2_2_2_1_clientInformationHTMLSourceControlDetails": {
+                          "searchkey": "HTMLSourceControlDetails_SetImplementer_ProductCreation_WebDevelopment_FileManagement",
+                          "type": "array",
+                          "value": [
+                            {
+                              "_2_2_2_1_1_clientInformationHTMLSourceControlItem": {
+                                "searchkey": "HTMLSourceControlItem_SetImplementer_ProductCreation_WebDevelopment_Item",
+                                "searchkey2": "HTMLSourceControlItem_EcommerceSetting_To_SellLowTicketOffer_For_Nutrition_Seller-Home-AJC_4_2_1_0",
+                                "type": "object",
+                                "value": {
+                                  "HTMLSourceControlItemRowID": "1",
+                                  "HTMLSourceControlItemProjectName": "0.3.BaseDI.QuickStart.Templates",
+                                  "HTMLSourceControlItemProjectFiles": [
+                                    {
+                                      "ProjectFilePathLocal": "./3. Client/Web/3. Setting/5/Ecommerce/4/Sell Low Ticket Offer/2/Nutrition/HTML/1/1_0/",
+                                      "ProjectFilePathRemote": "https://github.com/NerdyGroupAffiliate/0.3.BaseDI.QuickStart.Templates",
+                                      "ProjectFileName": "EcommerceSetting_To_SellLowTicketOffer_For_Nutrition_Seller-Home-AJC_4_2_1_0",
+                                      "ProjectFileSupportedExtensions": [ "html, hbs, tsx, psd, ai" ],
+                                      "ProjectFileMimeType": "text/html",
+                                      "ProjectFileDependencies": [
+                                        {
+                                          "type": "npm",
+                                          "name": "react",
+                                          "version": "latest"
+                                        }
+                                      ],
+                                      "ProjectFileEntryPointIDForDynamicRendering": { "AttributeID": "The_WebDevelopment_Experience-1�Help_Build_Website_Foundation�1-1�AGE_AJC-Nutrition�1_0" }
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                          ]
+                        },
+                        "_2_2_2_2_clientInformationHTMLSEODetails": {
+                          "searchkey": "HTMLSEODetails_SetImplementer_ProductCreation_SEO_SearchEngine",
+                          "type": "array",
+                          "value": [
+                            {
+                              "_2_2_2_2_1_clientInformationHTMLSEOItem": {
+                                "searchkey": "HTMLSEOItem_SetBuyer_ProductLaunching_SEO_MetaData",
+                                "type": "string",
+                                "value": {
+                                  "HTMLSEOItemRowID": "1",
+                                  "HTMLSEOItemMetaTitleAndSlug": "how-to-make-eating-healthy-fun",
+                                  "HTMLSEOItemMetaKeyWords": [ "Juicing, Detoxification" ],
+                                  "HTMLSEOItemMetaDescription": "How to get back on track when you stopped before.",
+                                  "HTMLSEOItemSearchCode": ""
+                                }
+                              }
+                            }
+                          ]
+                        },
+                        "_2_2_2_3_clientInformationHTMLContentDetails": {
+                          "searchkey": "HTMLContentDetails_SetImplementer_ProductCreation_WebDevelopment_HTML",
+                          "type": "array",
+                          "value": [
+                            {
+                              "_2_2_2_3_1_clientInformationHTMLContentItem": {
+                                "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_WebDevelopment_HTMLContainer",
+                                "type": "object",
+                                "value": {
+                                  "HTMLContentItemRowID": "1",
+                                  "HTMLContentItems": [
+                                    {
+                                      "Notes": "Wireframe",
+                                      "Tag": "div",
+                                      "Attributes": [
+                                        {
+                                          "id": "container_Setting-CMP-Product_Creation-Floor-ReadOTOScreenForAll-SKC-Home-4_0_1_0"
+                                        }
+                                      ],
+                                      "Value": "",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": "vertical"
+                                    },
+                                    {
+                                      "Notes": "Wireframe",
+                                      "Tag": "div",
+                                      "Attributes": [
+                                        {
+                                          "id": "container_Setting-CMP-Product_Creation-Floor-ReadOTOScreenForAll-SKC-Home-4_0_1_0"
+                                        }
+                                      ],
+                                      "Value": "",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": "vertical"
+                                    }
+                                  ]
+                                }
+                              },
+                              "_2_2_2_3_2_clientInformationHTMLContentItem": {
+                                "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_WebDevelopment_HTMLRows",
+                                "type": "object",
+                                "value": {
+                                  "HTMLContentItemRowID": "2",
+                                  "HTMLContentItems": [
+                                    {
+                                      "Notes": "Wireframe",
+                                      "Tag": "div",
+                                      "Attributes": [
+                                        {
+                                          "id": "row_A-1_business-sales-logo-commitment"
+                                        }
+                                      ],
+                                      "Value": "",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1�Help_Build_Website_Foundation�1-1�AGE_AJC-Nutrition�1_0",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": "vertical"
+                                    },
+                                    {
+                                      "Notes": "Wireframe",
+                                      "Tag": "div",
+                                      "Attributes": [
+                                        {
+                                          "id": "row_B-1_business-sales-urgency-pitch-cta_zone"
+                                        }
+                                      ],
+                                      "Value": "",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1�Help_Build_Website_Foundation�1-1�AGE_AJC-Nutrition�1_0",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": "vertical"
+                                    }
+                                  ]
+                                }
+                              },
+                              "_2_2_2_3_3_clientInformationHTMLContentItem": {
+                                "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_WebDevelopment_HTMLColumns",
+                                "type": "object",
+                                "value": {
+                                  "HTMLContentItemRowID": "3",
+                                  "HTMLContentItems": [
+                                    {
+                                      "Notes": "Company Logo",
+                                      "Tag": "div",
+                                      "Attributes": [
+                                        {
+                                          "id": "column_A-1-1_logo-section"
+                                        }
+                                      ],
+                                      "Value": "",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "row_A-1_business-sales-logo-commitment",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": "horzontial"
+                                    },
+                                    {
+                                      "Notes": "Steps for Creating an Account and Product Ordering Process",
+                                      "Tag": "div",
+                                      "Attributes": [
+                                        {
+                                          "id": "column_A-1-2_commitment-section"
+                                        }
+                                      ],
+                                      "Value": "",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "row_A-1_business-sales-logo-commitment",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": "horizontal"
+                                    },
+                                    {
+                                      "Notes": "Title and Description Content",
+                                      "Tag": "div",
+                                      "Attributes": [
+                                        {
+                                          "id": "column_B-1-1_header-text-section"
+                                        }
+                                      ],
+                                      "Value": "",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "row_B-1_business-sales-urgency-pitch-cta_zone",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": "horizontal"
+                                    },
+                                    {
+                                      "Notes": "Video Holder",
+                                      "Tag": "div",
+                                      "Attributes": [
+                                        {
+                                          "id": "column_B-1-2_video-holder-section"
+                                        }
+                                      ],
+                                      "Value": "",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "row_B-1_business-sales-urgency-pitch-cta_zone",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": "horizontal"
+                                    },
+                                    {
+                                      "Notes": "Yes! Add To My Order Now - Button",
+                                      "Tag": "div",
+                                      "Attributes": [
+                                        {
+                                          "id": "column_B-1-3_Yes-Add-To-My-Order-Now"
+                                        }
+                                      ],
+                                      "Value": "",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "row_B-1_business-sales-urgency-pitch-cta_zone",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": "horizontal"
+                                    },
+                                    {
+                                      "Notes": "Add To My Order Now - Link",
+                                      "Tag": "div",
+                                      "Attributes": [
+                                        {
+                                          "id": "column_B-1-4_Add-To-My-Order-Now"
+                                        }
+                                      ],
+                                      "Value": "",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "row_B-1_business-sales-urgency-pitch-cta_zone",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": "horizontal"
+                                    },
+                                    {
+                                      "Notes": "No! Thanks, I Don't Need This Now - Link",
+                                      "Tag": "div",
+                                      "Attributes": [
+                                        {
+                                          "id": "column_B-1-5_No-Thanks-I-Dont-Need-This-Now"
+                                        }
+                                      ],
+                                      "Value": "",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "row_B-1_business-sales-urgency-pitch-cta_zone",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": "horizontal"
+                                    }
+                                  ]
+                                }
+                              },
+                              "_2_2_2_3_4_clientInformationHTMLContentItem": {
+                                "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_WebDevelopment_HTMLContent",
+                                "type": "object",
+                                "value": {
+                                  "HTMLContentItemRowID": "4",
+                                  "HTMLContentItems": [
+                                    {
+                                      "Notes": "Company Logo - Link",
+                                      "Tag": "a",
+                                      "Attributes": [
+                                        {
+                                          "id": "content_A-1-1-1_company-logo-link"
+                                        },
+                                        {
+                                          "href": "#"
+                                        }
+                                      ],
+                                      "Value": "",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "column_A-1-1_logo-section",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": ""
+                                    },
+                                    {
+                                      "Notes": "Company Logo - Image",
+                                      "Tag": "a",
+                                      "Attributes": [
+                                        {
+                                          "id": "content_A-1-1-1-1_company-logo-image"
+                                        },
+                                        {
+                                          "src": "../../../Assets/1/1_0/company-logo.jpg"
+                                        },
+                                        {
+                                          "alt": "( Logo )"
+                                        }
+                                      ],
+                                      "Value": "",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "content_A-1-1-1_company-logo-link",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": ""
+                                    },
+                                    {
+                                      "Notes": "Step 1: Create Account",
+                                      "Tag": "a",
+                                      "Attributes": [
+                                        {
+                                          "id": "content_A-1-2-1_Step-1-Create-Account"
+                                        },
+                                        {
+                                          "href": "#"
+                                        }
+                                      ],
+                                      "Value": "Step 1: Create Account",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "column_A-1-2_commitment-section",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": ""
+                                    },
+                                    {
+                                      "Notes": "Step 2: Customize Order",
+                                      "Tag": "a",
+                                      "Attributes": [
+                                        {
+                                          "id": "content_A-1-2-2_Step-2-Customize-Order"
+                                        },
+                                        {
+                                          "href": "#"
+                                        }
+                                      ],
+                                      "Value": "Step 2: Customize Order",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "column_A-1-2_commitment-section",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": ""
+                                    },
+                                    {
+                                      "Notes": "Step 3: Order Complete",
+                                      "Tag": "a",
+                                      "Attributes": [
+                                        {
+                                          "id": "content_A-1-2-3_Step-3-Order-Complete"
+                                        },
+                                        {
+                                          "href": "#"
+                                        }
+                                      ],
+                                      "Value": "Step 3: Order Complete",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "column_A-1-2_commitment-section",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": ""
+                                    },
+                                    {
+                                      "Notes": "Headline Title",
+                                      "Tag": "h1",
+                                      "Attributes": [
+                                        {
+                                          "id": "content_B-1-1-1_Headline"
+                                        }
+                                      ],
+                                      "Value": "Here's Your Attention Getting Headline",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "column_B-1-1_header-text-section",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": ""
+                                    },
+                                    {
+                                      "Notes": "Sub-Headline Content",
+                                      "Tag": "h2",
+                                      "Attributes": [
+                                        {
+                                          "id": "content_B-1-1-2_Sub-Headline"
+                                        }
+                                      ],
+                                      "Value": "This is you sub-headline to increase credibility or curiosity",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "column_B-1-1_header-text-section",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": ""
+                                    },
+                                    {
+                                      "Notes": "Video Holder",
+                                      "Tag": "video",
+                                      "Attributes": [
+                                        {
+                                          "id": "content_B-1-2-1_video-holder"
+                                        },
+                                        {
+                                          "controls": "controls"
+                                        },
+                                        {
+                                          "preload": "metadata"
+                                        }
+                                      ],
+                                      "Value": "",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "column_B-1-2_video-holder-section",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": ""
+                                    },
+                                    {
+                                      "Notes": "Video Holder Source",
+                                      "Tag": "source",
+                                      "Attributes": [
+                                        {
+                                          "id": "content_B-1-2-1-1_video-holder-source"
+                                        },
+                                        {
+                                          "src": "https://www.w3schools.com/html/mov_bbb.mp4#t=0.5"
+                                        },
+                                        {
+                                          "type": "video/mp4"
+                                        }
+                                      ],
+                                      "Value": "",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "content_B-1-2-1-1_video-holder",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": ""
+                                    },
+                                    {
+                                      "Notes": "Yes! Add To My Order Now - Link",
+                                      "Tag": "a",
+                                      "Attributes": [
+                                        {
+                                          "id": "content_B-1-3-1-Yes-Add-To-My-Order-Now"
+                                        },
+                                        {
+                                          "href": "#"
+                                        }
+                                      ],
+                                      "Value": "YES! Add To My Order Now...",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "column_B-1-3_Yes-Add-To-My-Order-Now",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": ""
+                                    },
+                                    {
+                                      "Notes": "Add To My Order Now - Link",
+                                      "Tag": "a",
+                                      "Attributes": [
+                                        {
+                                          "id": "content-1-4-1_Add-To-My-Order-Now"
+                                        },
+                                        {
+                                          "href": "#"
+                                        }
+                                      ],
+                                      "Value": "Add To My Order Now...",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "column_B-1-4_Add-To-My-Order-Now",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": ""
+                                    },
+                                    {
+                                      "Notes": "No Thanks, I Don't Need This Now - Link",
+                                      "Tag": "a",
+                                      "Attributes": [
+                                        {
+                                          "id": "content-1-5-1_No-Thanks-I-Dont-Need-This-Now"
+                                        },
+                                        {
+                                          "href": "#"
+                                        }
+                                      ],
+                                      "Value": "No Thanks, I Don't Need This Now",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "column_B-1-5_No-Thanks-I-Dont-Need-This-Now",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": ""
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                          ]
+                        },
+                        "_2_2_2_4_clientInformationHTMLContentStylingDetails": {
+                          "searchkey": "HTMLContentStylingDetails_SetImplementer_ProductCreation_WebDevelopment_CSS",
+                          "type": "array",
+                          "value": [
+                            {
+                              "_2_2_2_4_1_clientInformationHTMLContentStylingItem": {
+                                "searchkey": "HTMLContentStylingItem_SetImplementer_ProductCreation_WebDevelopment_CSS",
+                                "type": "array",
+                                "value": {
+                                  "HTMLContentStylingItemRowID": "1",
+                                  "HTMLContentStylingItemFiles": [
+                                    {
+                                      "StyleFilePathLocal": "./3. Client/Web/3. Setting/5/Ecommerce/4/Sell Low Ticket Offer/2/Nutrition/CSS/1/1_0/",
+                                      "StyleFilePathRemote": "https://github.com/NerdyGroupAffiliate/999.0.3.BaseDI.QuickStart.Templates",
+                                      "StyleFiles": [
+                                        {
+                                          "StyleFileName": "Style_Alignments_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-OTO-AJC-CMS-4_2_1_0",
+                                          "StyleFileSupportedProperties": [ "position", "top", "bottom", "left", "right", "clip", "overflow", "z-index", "float", "clear" ],
+                                          "StyleFileUseProperties": [
+                                            {
+                                              "attributeID": "",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "StyleFileName": "Style_Backgrounds_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-OTO-AJC-CMS-4_2_1_0",
+                                          "StyleFileSupportedProperties": [ "background-color", "background", "background-image", "background-repeat", "background-position", "background-attachment", "background-clip", "background-orgin", "background-size" ],
+                                          "StyleFileUseProperties": [
+                                            {
+                                              "attributeID": "content_A-1-2-1_Step-1-Create-Account",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "background-color",
+                                                  "propertyValues": [ "#5ab2df" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_A-1-2-2_Step-2-Customize-Order",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "background-color",
+                                                  "propertyValues": [ "#3e9bd2" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_A-1-2-3_Step-3-Order-Complete",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "background-color",
+                                                  "propertyValues": [ "#5ab2df" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_B-1-2-1_video-holder",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "background-color",
+                                                  "propertyValues": [ "#eaeaea" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_B-1-3-1-Yes-Add-To-My-Order-Now",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "background-color",
+                                                  "propertyValues": [ "#1361a7" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "StyleFileName": "Style_Borders_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-OTO-AJC-CMS-4_2_1_0",
+                                          "StyleFileSupportedProperties": [ "border-radius", "border-top-left-radius", "border-top-right-radius", "border-bottom-right-radius", "border-image", "border-image-source", "border-image-slice", "border-image-width", "border-image-outset", "border-image-repeat", "border", "border-right", "border-left", "border-top", "border-bottom", "border-width", "border-top-width", "border-bottom-width", "border-left-width", "border-right-width", "border-style", "border-top-style", "border-bottom-style", "border-left-style", "border-right-style", "border-color", "border-top-color", "border-bottom-color", "border-left-color", "border-right-color", "border-collapse", "border-spacing" ],
+                                          "StyleFileUseProperties": [
+                                            {
+                                              "attributeID": "",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "StyleFileName": "Style_Colors_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-OTO-AJC-CMS-4_2_1_0",
+                                          "StyleFileSupportedProperties": [ "color", "opacity" ],
+                                          "StyleFileUseProperties": [
+                                            {
+                                              "attributeID": "content_A-1-2-1_Step-1-Create-Account",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "color",
+                                                  "propertyValues": [ "#fff" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_A-1-2-2_Step-2-Customize-Order",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "color",
+                                                  "propertyValues": [ "#fff" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_A-1-2-3_Step-3-Order-Complete",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "color",
+                                                  "propertyValues": [ "#fff" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_B-1-1-1_Headline",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "color",
+                                                  "propertyValues": [ "#1361a7" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_B-1-1-2_Sub-Headline",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "color",
+                                                  "propertyValues": [ "#666" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_B-1-3-1-Yes-Add-To-My-Order-Now",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "color",
+                                                  "propertyValues": [ "#fff" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content-1-4-1_Add-To-My-Order-Now",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "color",
+                                                  "propertyValues": [ "#1361a7" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content-1-5-1_No-Thanks-I-Dont-Need-This-Now",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "color",
+                                                  "propertyValues": [ "#666" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "StyleFileName": "Style_Effects_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-OTO-AJC-CMS-4_2_1_0",
+                                          "StyleFileSupportedProperties": [ "box-shadow", "transform", "transform-origin", "transition", "transition-property", "transition-duration", "transition-timing-function", "transition-delay" ],
+                                          "StyleFileUseProperties": [
+                                            {
+                                              "attributeID": "",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "StyleFileName": "Style_Flow_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-OTO-AJC-CMS-4_2_1_0",
+                                          "StyleFileSupportedProperties": [ "display", "visibility" ],
+                                          "StyleFileUseProperties": [
+                                            {
+                                              "attributeID": "column_A-1-2_commitment-section",
+                                              "properties": [
+                                                {
+                                                  "propertyName": [ "display", "grid-template-columns" ],
+                                                  "propertyValues": [ "grid", "1fr 1fr 1fr" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_A-1-1-1_company-logo-link",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "display",
+                                                  "propertyValues": [ "inline-block" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_A-1-1-1-1_company-logo-image",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "display",
+                                                  "propertyValues": [ "inline-block" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_A-1-2-1_Step-1-Create-Account",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "display",
+                                                  "propertyValues": [ "inline-block" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_A-1-2-2_Step-2-Customize-Order",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "display",
+                                                  "propertyValues": [ "inline-block" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_A-1-2-3_Step-3-Order-Complete",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "display",
+                                                  "propertyValues": [ "inline-block" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_B-1-3-1-Yes-Add-To-My-Order-Now",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "display",
+                                                  "propertyValues": [ "inline-block" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "StyleFileName": "Style_List_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-OTO-AJC-CMS-4_2_1_0",
+                                          "StyleFileSupportedProperties": [ "content", "quotes", "counter-increment", "counter-reset", "list-style", "list-style-type", "list-style-image", "list-style-position" ],
+                                          "StyleFileUseProperties": [
+                                            {
+                                              "attributeID": "",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "top",
+                                                  "propertyValues": [ "330px" ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "StyleFileName": "Style_Margins_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-OTO-AJC-CMS-4_2_1_0",
+                                          "StyleFileSupportedProperties": [ "margin", "margin-top", "margin-right", "margin-left", "margin-bottom" ],
+                                          "StyleFileUseProperties": [
+                                            {
+                                              "attributeID": "",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "margin",
+                                                  "propertyValues": [ "0" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "container_Setting-CMP-Product_Creation-Floor-ReadOTOScreenForAll-SKC-Home-4_0_1_0",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "margin",
+                                                  "propertyValues": [ "0 auto" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "column_B-1-4_Add-To-My-Order-Now",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "margin-top",
+                                                  "propertyValues": [ "20px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1024px" ],
+                                                  "propertyName": "margin-top",
+                                                  "propertyValues": [ "50px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "768px" ],
+                                                  "propertyName": "margin-top",
+                                                  "propertyValues": [ "20px" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "column_B-1-5_No-Thanks-I-Dont-Need-This-Now",
+                                              "properties": [
+                                                {
+                                                  "propertyName": [ "margin-top", "margin-bottom" ],
+                                                  "propertyValues": [ "40px", "10px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1366px" ],
+                                                  "propertyName": "margin-top",
+                                                  "propertyValues": [ "30px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1280px", "1024px" ],
+                                                  "propertyName": "margin-top",
+                                                  "propertyValues": [ "60px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1280px", "800px" ],
+                                                  "propertyName": "margin-top",
+                                                  "propertyValues": [ "40px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1024px" ],
+                                                  "propertyName": "margin-top",
+                                                  "propertyValues": [ "60px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "376px" ],
+                                                  "propertyName": "margin-top",
+                                                  "propertyValues": [ "30px" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_A-1-1-1_company-logo-link",
+                                              "properties": [
+                                                {
+                                                  "propertyName": [ "margin" ],
+                                                  "propertyValues": [ "20px 0" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1024px" ],
+                                                  "propertyName": "margin",
+                                                  "propertyValues": [ "30px 0" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "415px" ],
+                                                  "propertyName": "margin",
+                                                  "propertyValues": [ "20px 0" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "321px" ],
+                                                  "propertyName": "margin",
+                                                  "propertyValues": [ "15px 0" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_A-1-2-2_Step-2-Customize-Order",
+                                              "properties": [
+                                                {
+                                                  "propertyName": [ "margin" ],
+                                                  "propertyValues": [ "0 -5px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_B-1-1-1_Headline",
+                                              "properties": [
+                                                {
+                                                  "propertyName": [ "margin-top" ],
+                                                  "propertyValues": [ "10px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1024px" ],
+                                                  "propertyName": [ "margin-top" ],
+                                                  "propertyValues": [ "20px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "414px" ],
+                                                  "propertyName": [ "margin-top" ],
+                                                  "propertyValues": [ "15px" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_B-1-2-1_video-holder",
+                                              "properties": [
+                                                {
+                                                  "propertyName": [ "margin-top" ],
+                                                  "propertyValues": [ "20px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "321px" ],
+                                                  "propertyName": [ "margin-top" ],
+                                                  "propertyValues": [ "15px" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_B-1-3-1-Yes-Add-To-My-Order-Now",
+                                              "properties": [
+                                                {
+                                                  "propertyName": [ "margin-top" ],
+                                                  "propertyValues": [ "20px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1366px" ],
+                                                  "propertyName": [ "margin-top" ],
+                                                  "propertyValues": [ "15px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1280px", "1024px" ],
+                                                  "propertyName": [ "margin-top" ],
+                                                  "propertyValues": [ "25px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1280px", "800px" ],
+                                                  "propertyName": [ "margin-top" ],
+                                                  "propertyValues": [ "15px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1024px" ],
+                                                  "propertyName": [ "margin-top" ],
+                                                  "propertyValues": [ "25px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "376px" ],
+                                                  "propertyName": [ "margin-top" ],
+                                                  "propertyValues": [ "15px" ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "StyleFileName": "Style_Misc_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-OTO-AJC-CMS-4_2_1_0",
+                                          "StyleFileSupportedProperties": [ "cursor", "outline", "outline-style", "outline-color", "outline-width", "direction", "unicode-bidi", "all", "page-break-before", "page-break-after", "page-break-inside", "orphans", "widows" ],
+                                          "StyleFileUseProperties": [
+                                            {
+                                              "attributeID": "",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "top",
+                                                  "propertyValues": [ "330px" ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "StyleFileName": "Style_Padding_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-OTO-AJC-CMS-4_2_1_0",
+                                          "StyleFileSupportedProperties": [ "padding", "padding-top", "padding-bottom", "padding-left", "padding-right" ],
+                                          "StyleFileUseProperties": [
+                                            {
+                                              "attributeID": "content_A-1-2-1_Step-1-Create-Account",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "padding",
+                                                  "propertyValues": [ "10px 0 12px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1024px" ],
+                                                  "propertyName": "padding",
+                                                  "propertyValues": [ "20px 0 22px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "415px" ],
+                                                  "propertyName": "padding",
+                                                  "propertyValues": [ "14px 2px 16px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "361px" ],
+                                                  "propertyName": "padding",
+                                                  "propertyValues": [ "12px 2px 14px" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_A-1-2-2_Step-2-Customize-Order",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "padding",
+                                                  "propertyValues": [ "10px 0 12px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1024px" ],
+                                                  "propertyName": "padding",
+                                                  "propertyValues": [ "20px 0 22px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "415px" ],
+                                                  "propertyName": "padding",
+                                                  "propertyValues": [ "14px 2px 16px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "361px" ],
+                                                  "propertyName": "padding",
+                                                  "propertyValues": [ "12px 2px 14px" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_A-1-2-3_Step-3-Order-Complete",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "padding",
+                                                  "propertyValues": [ "10px 0 12px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1024px" ],
+                                                  "propertyName": "padding",
+                                                  "propertyValues": [ "20px 0 22px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "415px" ],
+                                                  "propertyName": "padding",
+                                                  "propertyValues": [ "14px 2px 16px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "361px" ],
+                                                  "propertyName": "padding",
+                                                  "propertyValues": [ "12px 2px 14px" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_B-1-3-1-Yes-Add-To-My-Order-Now",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "padding",
+                                                  "propertyValues": [ "10px 0" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1024px" ],
+                                                  "propertyName": "padding",
+                                                  "propertyValues": [ "20px 0" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "376px" ],
+                                                  "propertyName": "padding",
+                                                  "propertyValues": [ "15px 0" ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "StyleFileName": "Style_Sizes_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-OTO-AJC-CMS-4_2_1_0",
+                                          "StyleFileSupportedProperties": [ "width", "height", "min-width", "max-width", "min-height", "max-height" ],
+                                          "StyleFileUseProperties": [
+                                            {
+                                              "attributeID": "container_Setting-CMP-Product_Creation-Floor-ReadOTOScreenForAll-SKC-Home-4_0_1_0",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "width",
+                                                  "propertyValues": [ "80%" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1024px" ],
+                                                  "propertyName": "width",
+                                                  "propertyValues": [ "90%" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_A-1-1-1-1_company-logo-image",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "width",
+                                                  "propertyValues": [ "100%" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "width",
+                                                  "propertyValues": [ "75%" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1536px" ],
+                                                  "propertyName": "width",
+                                                  "propertyValues": [ "55%" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1280px", "1024px" ],
+                                                  "propertyName": "width",
+                                                  "propertyValues": [ "100%" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1280px", "800px" ],
+                                                  "propertyName": "width",
+                                                  "propertyValues": [ "55%" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1024px" ],
+                                                  "propertyName": "width",
+                                                  "propertyValues": [ "100%" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "768px" ],
+                                                  "propertyName": "width",
+                                                  "propertyValues": [ "80%" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "601px" ],
+                                                  "propertyName": "width",
+                                                  "propertyValues": [ "60%" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "376px" ],
+                                                  "propertyName": "width",
+                                                  "propertyValues": [ "50%" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "321px" ],
+                                                  "propertyName": "width",
+                                                  "propertyValues": [ "40%" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_B-1-2-1_video-holder",
+                                              "properties": [
+                                                {
+                                                  "propertyName": [ "width", "height" ],
+                                                  "propertyValues": [ "100%", "500px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": [ "height" ],
+                                                  "propertyValues": [ "400px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1440px" ],
+                                                  "propertyName": [ "height" ],
+                                                  "propertyValues": [ "420px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1366px" ],
+                                                  "propertyName": [ "height" ],
+                                                  "propertyValues": [ "350px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1280px", "1024px" ],
+                                                  "propertyName": [ "height" ],
+                                                  "propertyValues": [ "500px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1280px", "800px" ],
+                                                  "propertyName": [ "height" ],
+                                                  "propertyValues": [ "360px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1024px" ],
+                                                  "propertyName": [ "height" ],
+                                                  "propertyValues": [ "650px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "800px" ],
+                                                  "propertyName": [ "height" ],
+                                                  "propertyValues": [ "620px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "768px" ],
+                                                  "propertyName": [ "height" ],
+                                                  "propertyValues": [ "450px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "601px" ],
+                                                  "propertyName": [ "height" ],
+                                                  "propertyValues": [ "430px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "415px" ],
+                                                  "propertyName": [ "height" ],
+                                                  "propertyValues": [ "250px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "376px" ],
+                                                  "propertyName": [ "height" ],
+                                                  "propertyValues": [ "300px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "361px" ],
+                                                  "propertyName": [ "height" ],
+                                                  "propertyValues": [ "280px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "321px" ],
+                                                  "propertyName": [ "height" ],
+                                                  "propertyValues": [ "240px" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_B-1-3-1-Yes-Add-To-My-Order-Now",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "width",
+                                                  "propertyValues": [ "100%" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "StyleFileName": "Style_Tables_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-OTO-AJC-CMS-4_2_1_0",
+                                          "StyleFileSupportedProperties": [ "table-layout", "empty-cells", "caption-side" ],
+                                          "StyleFileUseProperties": [
+                                            {
+                                              "attributeID": "",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "top",
+                                                  "propertyValues": [ "330px" ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "StyleFileName": "Style_Text_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-OTO-AJC-CMS-4_2_1_0",
+                                          "StyleFileSupportedProperties": [ "font", "font-family", "font-style", "font-variant", "font-weight", "font-size", "font-stretch", "font-size-adjust", "font-synthesis", "line-height", "letter-spacing", "word-spacing", "text-align", "text-decoration", "text-decoration-line", "text-decoration-style", "text-decoration-color", "text-indent", "text-transform", "vertical-align", "white-space" ],
+                                          "StyleFileUseProperties": [
+                                            {
+                                              "attributeID": "",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "text-decoration",
+                                                  "propertyValues": [ "none" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "container_Setting-CMP-Product_Creation-Floor-ReadOTOScreenForAll-SKC-Home-4_0_1_0",
+                                              "properties": [
+                                                {
+                                                  "propertyName": [ "text-align", "font-family" ],
+                                                  "propertyValues": [ "center", "'Poppins', sans-serif" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "propertyName": "",
+                                                  "propertyValues": [ "" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_A-1-2-1_Step-1-Create-Account",
+                                              "properties": [
+                                                {
+                                                  "propertyName": [ "font-size", "font-weight" ],
+                                                  "propertyValues": [ "22px", "500" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "18px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1366px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "16px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "768px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "14px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "601px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "12px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "415px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "9px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "376px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "8px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "321px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "7px" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_A-1-2-2_Step-2-Customize-Order",
+                                              "properties": [
+                                                {
+                                                  "propertyName": [ "font-size", "font-weight" ],
+                                                  "propertyValues": [ "22px", "500" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "18px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1366px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "16px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "768px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "14px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "601px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "12px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "415px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "9px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "376px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "8px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "321px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "7px" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_A-1-2-3_Step-3-Order-Complete",
+                                              "properties": [
+                                                {
+                                                  "propertyName": [ "font-size", "font-weight" ],
+                                                  "propertyValues": [ "22px", "500" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "18px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1366px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "16px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "768px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "14px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "601px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "12px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "415px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "9px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "376px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "8px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "321px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "7px" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_B-1-1-1_Headline",
+                                              "properties": [
+                                                {
+                                                  "propertyName": [ "font-size", "font-weight" ],
+                                                  "propertyValues": [ "48px", "700" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "40px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1366px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "36px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1024px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "46px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "800px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "36px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "768px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "35px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "720px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "32px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "601px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "27px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "415px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "18px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "376px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "17px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "361px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "16px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "321px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "14px" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_B-1-1-2_Sub-Headline",
+                                              "properties": [
+                                                {
+                                                  "propertyName": [ "font-size", "font-weight" ],
+                                                  "propertyValues": [ "24px", "500" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "20px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1366px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "18px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1024px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "24px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "800px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "18px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "720px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "16px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "601px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "14px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "415px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "10px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "376px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "9px" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content_B-1-3-1-Yes-Add-To-My-Order-Now",
+                                              "properties": [
+                                                {
+                                                  "propertyName": [ "font-size", "font-weight" ],
+                                                  "propertyValues": [ "30px", "300" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "24px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1366px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "18px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1024px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "28px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "601px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "22px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "415px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "16px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "376px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "12px" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content-1-4-1_Add-To-My-Order-Now",
+                                              "properties": [
+                                                {
+                                                  "propertyName": [ "font-size", "font-weight", "text-decoration" ],
+                                                  "propertyValues": [ "28px", "300", "underline" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "26px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1366px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "18px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1024px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "30px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "768px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "28px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "601px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "24px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "415px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "18px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "376px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "14px" ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "content-1-5-1_No-Thanks-I-Dont-Need-This-Now",
+                                              "properties": [
+                                                {
+                                                  "propertyName": [ "font-size", "font-weight", "text-decoration" ],
+                                                  "propertyValues": [ "18px", "500", "underline" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1600px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "16px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1366px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "14px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "1024px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "16px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "601px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "14px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "415px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "10px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+                                                  "resolutions": [ "376px" ],
+                                                  "propertyName": "font-size",
+                                                  "propertyValues": [ "9px" ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "type": "object",
+            "buzzWords": "***OPTIONAL***, Wireframes, HTML, XAML",
+            "extraKeyValuePairs": []
+          }
+        ],
+        "business": [
+          {
+            "key_1": "Functions",
+            "values_2": [
+              {
+                "key_2_1": "Function_1_0",
+                "values_2_2": [
+                  {
+                    "key_2_2_1": "NodeJS",
+                    "values_2_2_2": [
+                      {
+                        "_2_2_2_1_functionInformationEventCallStackDetails": {
+                          "searchkey": "Functions_Function_1_0_NodeJS_2_2_2_1_functionInformationEventCallStackDetails",
+                          "type": "array",
+                          "value": [
+                            {
+                              "_2_2_2_1_1_functionInformationEventCallStackItem": {
+                                "searchkey": "SetImplementer_ProductCreation_Software_BusinessFuction",
+                                "type": "object",
+                                "value": {
+                                  "EventCallStackItemRowID": "1",
+                                  "EventCallStackItems": [
+                                    {
+                                      "Notes": "Dynamic Webpage Generator",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "true"
+                                        },
+                                        {
+                                          "functionEvent": "onload",
+                                          "functionName": "Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "type_3": "object",
+            "buzzWords_4": "***REQUIRED***, Functions, Methods, Business Logic",
+            "extraKeyValuePairs_5": []
+          }
+        ],
+        "data": [
+          {
+            "key_1": "Repositories",
+            "values_2": [
+              {
+                "key_2_1": "Repository_1_0",
+                "values_2_2": [
+                  {
+                    "key_2_2_1": "Repository",
+                    "values_2_2_2": [
+                      {
+                        "_2_2_2_1_repositoryInformationDataDetails": {
+                          "searchkey": "Repositories_Repository_1_0_Repository_2_2_2_1_repositoryInformationDataDetails",
+                          "type": "array",
+                          "value": [
+                            {
+                              "_2_2_2_1_1_repositoryInformationDataItem": {
+                                "searchkey": "SetImplementer_ProductCreation_Software_Data",
+                                "type": "object",
+                                "value": {
+                                  "DataItemRowID": "1",
+                                  "DataItemLocation": "LocalService"
+                                }
+                              },
+                              "_2_2_2_1_2_repositoryInformationDataItem": {
+                                "searchkey": "SetImplementer_ProductCreation_Software_DataException",
+                                "type": "object",
+                                "value": {
+                                  "DataItemRowID": "2",
+                                  "DataItemLocation": "LocalService"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "type_3": "object",
+            "buzzWords_4": "***REQUIRED***, LocalFile, LocalDatabase, LocalService, RemoteFile, RemoteDatabase, RemoteService, RemoteServiceVendor",
+            "extraKeyValuePairs_5": [
+              {}
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+/*CONTAINERS*/
+#container_Setting-CMP-Product_Creation-Floor-ReadOTOScreenForAll-SKC-Home-4_0_1_0 {
+}
+
+
+
+
+
+/*ROWS*/
+#row_A-1_business-sales-logo-commitment {
+}
+
+#row_B-1_business-sales-urgency-pitch-cta_zone {
+}
+
+
+
+
+
+/*COLUMNS*/
+#column_A-1-1_logo-section {
+}
+
+#column_A-1-2_commitment-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+#column_B-1-1_header-text-section {
+}
+
+#column_B-1-2_video-holder-section {
+}
+
+#column_B-1-3_Yes-Add-To-My-Order-Now {
+}
+
+#column_B-1-4_Add-To-My-Order-Now {
+}
+
+#column_B-1-5_No-Thanks-I-Dont-Need-This-Now {
+}
+
+
+
+
+
+/*CONTENT*/
+#content_A-1-1-1_company-logo-link {
+  display: inline-block;
+}
+
+#content_A-1-1-1-1_company-logo-image {
+  display: inline-block;
+}
+
+#content_A-1-2-1_Step-1-Create-Account {
+  display: inline-block;
+}
+
+#content_A-1-2-2_Step-2-Customize-Order {
+  display: inline-block;
+}
+
+#content_A-1-2-3_Step-3-Order-Complete {
+  display: inline-block;
+}
+
+#content_B-1-1-1_Headline {
+}
+
+#content_B-1-1-2_Sub-Headline {
+}
+
+#content_B-1-2-1_video-holder {
+}
+
+#content_B-1-3-1-Yes-Add-To-My-Order-Now {
+  display: inline-block;
+}
+
+#content-1-4-1_Add-To-My-Order-Now {
+}
+
+#content-1-5-1_No-Thanks-I-Dont-Need-This-Now {
+}
