@@ -19,8 +19,4 @@
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.9.10" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="3. Client\Web\3. Setting\5\Ecommerce\3\Generate Optin\1\List Building\Assets\1\1_0\" />
-  </ItemGroup>
-
 </Project>
