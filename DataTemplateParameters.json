@@ -6,6 +6,176 @@
       "baseDIInstructions": {
         "configuration": [
           {
+            "key_1": "Servers",
+            "values_2": [
+              {
+                "key_2_1": "Server_1_0",
+                "values_2_2": [
+                  {
+                    "key_2_2_1": "NodeJS",
+                    "values_2_2_2": [
+                      {
+                        "_2_2_2_1_serverInformationSetupDetails": {
+                          "searchkey": "SetupDetails_Servers_Server_1_0_NodeJS_2_2_2_1_serverInformationSetupDetails",
+                          "type": "array",
+                          "value": [
+                            {
+                              "_2_2_2_1_1_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetBuyer_ProductLaunching_Software_TargetEnvironmentAndPort",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "1",
+                                  "SetupItemEnvironmentName": "Local",
+                                  "SetupItemEnvironmentPort": "8912"
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_2_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetSeller_ProductLaunching_Sales_DomainName",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "2",
+                                  "SetupItemDomainName": "http://localhost"
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_3_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientBuildLocation",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "3",
+                                  "SetupItemBuildItemClientPath": "wwwroot/Client/Build"
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_4_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientDataLocation",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "4",
+                                  "SetupItemDataPath": "wwwroot/Client/Data"
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_5_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientDocumentLocation",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "5",
+                                  "SetupItemDocumentPath": "wwwroot/Client/Documents"
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_6_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientFontLocation",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "6",
+                                  "SetupItemFontPath": "wwwroot/Client/Fonts"
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_7_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientImageLocation",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "7",
+                                  "SetupItemImagePath": "wwwroot/Client/Images"
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_8_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientScriptsLocation",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "8",
+                                  "SetupItemScriptPath": "wwwroot/Client/Scripts"
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_9_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientViewsLocation",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "9",
+                                  "SetupItemViewPaths": [
+                                    {
+                                      "SetupItemViewPath": "./3. Setting/3/Podcast/12/Other/2/Programming/Location/1/1_0"
+                                    }
+                                  ]
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_10_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ServerAPIVerbs",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "10",
+                                  "SetupItemRoutes": [
+                                    {
+                                      "SetupItemRouteName": "Home",
+                                      "SetupItemRouteViewName": "EcommerceSetting_To_GenerateBrandTrust_For_Nutrition_Seller_4_2_1_0",
+                                      "SetupItemRoutePath": "/",
+                                      "SetupItemRouteIsDynamicallyJSONRendered": "True",
+                                      "SetupItemRouteIsServerSideRendered": "False",
+                                      "SetupItemRouteVerb": "GET"
+                                    }
+                                  ]
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_11_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ServerBuildLocation",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "11",
+                                  "SetupItemBuildItemServerPath": "wwwroot/Server/Build"
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_12_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ServerPort",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "12",
+                                  "SetupItemPortNumber": "8912"
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_13_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ServerViewEngine",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "13",
+                                  "SetupItemViewEngineName": "BaseDI"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "type_3": "object",
+            "buzzWords_4": "***OPTIONAL***, NodeJS, WebAPI",
+            "extraKeyValuePairs_5": [
+              {}
+            ]
           }
         ],
         "presentation": [
@@ -1145,6 +1315,62 @@
             "type_3": "object",
             "buzzWords_4": "***REQUIRED***, Functions, Methods, Business Logic",
             "extraKeyValuePairs_5": []
+          },
+          {
+            "key_1": "MessageQueue",
+            "values_2": [
+              {
+                "key_2_1": "Message_1_0",
+                "values_2_2": [
+                  {
+                    "key_2_2_1": "Message",
+                    "values_2_2_2": [
+                      {
+                        "_2_2_2_1_functionInformationEventCallStackDetails": {
+                          "searchkey": "Functions_Function_1_0_NodeJS_2_2_2_1_functionInformationEventCallStackDetails",
+                          "type": "array",
+                          "value": [
+                            {
+                              "_2_2_2_1_1_functionInformationEventCallStackItem": {
+                                "searchkey": "SetImplementer_ProductCreation_Software_BusinessFuction",
+                                "type": "object",
+                                "value": {
+                                  "EventCallStackItemRowID": "1",
+                                  "EventCallStackItems": [
+                                    {
+                                      "Notes": "Dynamic Webpage Generator",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "true"
+                                        },
+                                        {
+                                          "functionEvent": "onload",
+                                          "functionName": "Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "type_3": "object",
+            "buzzWords_4": "***REQUIRED***, Functions, Methods, Business Logic",
+            "extraKeyValuePairs_5": []
           }
         ],
         "data": [
@@ -1202,7 +1428,7 @@
               {}
             ]
           }
-        ]     
+        ]
       }
     }
   }
