@@ -1,4 +1,4 @@
-ï»¿{
+{
   "$schema": "https://schema.management.basedi.io/schemas/2019-10-05/deploymentTemplate.json#",
   "contentVersion": "1.0.0.0",
   "parameters": {
@@ -8,6 +8,176 @@
         "baseDIInstructions": {
           "configuration": [
             {
+              "key_1": "Servers",
+              "values_2": [
+                {
+                  "key_2_1": "Server_1_0",
+                  "values_2_2": [
+                    {
+                      "key_2_2_1": "NodeJS",
+                      "values_2_2_2": [
+                        {
+                          "_2_2_2_1_serverInformationSetupDetails": {
+                            "searchkey": "SetupDetails_Servers_Server_1_0_NodeJS_2_2_2_1_serverInformationSetupDetails",
+                            "type": "array",
+                            "value": [
+                              {
+                                "_2_2_2_1_1_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetBuyer_ProductLaunching_Software_TargetEnvironmentAndPort",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "1",
+                                    "SetupItemEnvironmentName": "Local",
+                                    "SetupItemEnvironmentPort": "8912"
+                                  }
+                                }
+                              },
+                              {
+                                "_2_2_2_1_2_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetSeller_ProductLaunching_Sales_DomainName",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "2",
+                                    "SetupItemDomainName": "http://localhost"
+                                  }
+                                }
+                              },
+                              {
+                                "_2_2_2_1_3_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientBuildLocation",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "3",
+                                    "SetupItemBuildItemClientPath": "wwwroot/Client/Build"
+                                  }
+                                }
+                              },
+                              {
+                                "_2_2_2_1_4_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientDataLocation",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "4",
+                                    "SetupItemDataPath": "wwwroot/Client/Data"
+                                  }
+                                }
+                              },
+                              {
+                                "_2_2_2_1_5_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientDocumentLocation",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "5",
+                                    "SetupItemDocumentPath": "wwwroot/Client/Documents"
+                                  }
+                                }
+                              },
+                              {
+                                "_2_2_2_1_6_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientFontLocation",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "6",
+                                    "SetupItemFontPath": "wwwroot/Client/Fonts"
+                                  }
+                                }
+                              },
+                              {
+                                "_2_2_2_1_7_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientImageLocation",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "7",
+                                    "SetupItemImagePath": "wwwroot/Client/Images"
+                                  }
+                                }
+                              },
+                              {
+                                "_2_2_2_1_8_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientScriptsLocation",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "8",
+                                    "SetupItemScriptPath": "wwwroot/Client/Scripts"
+                                  }
+                                }
+                              },
+                              {
+                                "_2_2_2_1_9_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientViewsLocation",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "9",
+                                    "SetupItemViewPaths": [
+                                      {
+                                        "SetupItemViewPath": "./3. Setting/3/Podcast/12/Other/2/Programming/Location/1/1_0"
+                                      }
+                                    ]
+                                  }
+                                }
+                              },
+                              {
+                                "_2_2_2_1_10_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ServerAPIVerbs",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "10",
+                                    "SetupItemRoutes": [
+                                      {
+                                        "SetupItemRouteName": "Home",
+                                        "SetupItemRouteViewName": "EcommerceSetting_To_GenerateBrandTrust_For_Nutrition_Seller_4_2_1_0",
+                                        "SetupItemRoutePath": "/",
+                                        "SetupItemRouteIsDynamicallyJSONRendered": "True",
+                                        "SetupItemRouteIsServerSideRendered": "False",
+                                        "SetupItemRouteVerb": "GET"
+                                      }
+                                    ]
+                                  }
+                                }
+                              },
+                              {
+                                "_2_2_2_1_11_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ServerBuildLocation",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "11",
+                                    "SetupItemBuildItemServerPath": "wwwroot/Server/Build"
+                                  }
+                                }
+                              },
+                              {
+                                "_2_2_2_1_12_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ServerPort",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "12",
+                                    "SetupItemPortNumber": "8912"
+                                  }
+                                }
+                              },
+                              {
+                                "_2_2_2_1_13_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ServerViewEngine",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "13",
+                                    "SetupItemViewEngineName": "BaseDI"
+                                  }
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "type_3": "object",
+              "buzzWords_4": "***OPTIONAL***, NodeJS, WebAPI",
+              "extraKeyValuePairs_5": [
+                {}
+              ]
             }
           ],
           "presentation": [
@@ -47,7 +217,7 @@
                                             "version": "latest"
                                           }
                                         ],
-                                        "ProjectFileEntryPointIDForDynamicRendering": { "AttributeID": "The_WebDevelopment_Experience-1ï¿½Help_Build_Website_Foundationï¿½1-1ï¿½AGE_AJC-Nutritionï¿½1_0" }
+                                        "ProjectFileEntryPointIDForDynamicRendering": { "AttributeID": "The_WebDevelopment_Experience-1–Help_Build_Website_Foundation–1-1–AGE_AJC-Nutrition–1_0" }
                                       }
                                     ]
                                   }
@@ -148,7 +318,7 @@
                                             ]
                                           }
                                         ],
-                                        "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1ï¿½Help_Build_Website_Foundationï¿½1-1ï¿½AGE_AJC-Nutritionï¿½1_0",
+                                        "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1–Help_Build_Website_Foundation–1-1–AGE_AJC-Nutrition–1_0",
                                         "ChildHTMLContentDetails": [],
                                         "ChildHTMLContentFlowDirection": "vertical"
                                       },
@@ -177,7 +347,7 @@
                                             ]
                                           }
                                         ],
-                                        "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1ï¿½Help_Build_Website_Foundationï¿½1-1ï¿½AGE_AJC-Nutritionï¿½1_0",
+                                        "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1–Help_Build_Website_Foundation–1-1–AGE_AJC-Nutrition–1_0",
                                         "ChildHTMLContentDetails": [],
                                         "ChildHTMLContentFlowDirection": "vertical"
                                       },
@@ -206,7 +376,7 @@
                                             ]
                                           }
                                         ],
-                                        "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1ï¿½Help_Build_Website_Foundationï¿½1-1ï¿½AGE_AJC-Nutritionï¿½1_0",
+                                        "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1–Help_Build_Website_Foundation–1-1–AGE_AJC-Nutrition–1_0",
                                         "ChildHTMLContentDetails": [],
                                         "ChildHTMLContentFlowDirection": "vertical"
                                       },
@@ -235,7 +405,7 @@
                                             ]
                                           }
                                         ],
-                                        "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1ï¿½Help_Build_Website_Foundationï¿½1-1ï¿½AGE_AJC-Nutritionï¿½1_0",
+                                        "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1–Help_Build_Website_Foundation–1-1–AGE_AJC-Nutrition–1_0",
                                         "ChildHTMLContentDetails": [],
                                         "ChildHTMLContentFlowDirection": "vertical"
                                       }
@@ -419,7 +589,7 @@
                                             "alt": "A PROGRAM BY ANDREW DURHAM"
                                           },
                                           {
-                                            "src": "../999.0.3.BaseDI.QuickStart.Templates/../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/7/Awareness/1/Generate%20Brand%20Awarness/1/Advertising/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-Owner_Aware-AJC_463X125_Desktop-CMS-1_1_1_0.png"
+                                            "src": "../../../../../../../../../../4.%20Experience/7/Awareness/1/Generate%20Brand%20Awarness/1/Advertising/Assets/1/1_0/Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-463X125-Desktop-1_1_1_0.png"
                                           }
                                         ],
                                         "Value": "",
@@ -512,7 +682,7 @@
                                             "alt": "GET ON WAITING LIST FOR FREE PREVIEW"
                                           },
                                           {
-                                            "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/5/Sight/3/Generate%20Optin/1/List%20Building/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-ButtonOptin_Touch-AJC_611X37_Desktop-CMS-3_1_1_0.png"
+                                            "src": "../../../../../../../../../../4.%20Experience/5/Sight/3/Generate%20Optin/1/List%20Building/Assets/1/1_0/Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-611X37-Desktop-3_1_1_0.png"
                                           }
                                         ],
                                         "Value": "",
@@ -547,7 +717,7 @@
                                             "alt": "Jane is excited!!! Aren't you???"
                                           },
                                           {
-                                            "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/2/Movement/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-JumpWoman_Movement-AJC_329X467_Desk-CMS-2_2_1_0.png"
+                                            "src": "../../../../../../../../../../4.%20Experience/2/Movement/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-329X467-Desktop-2_2_1_0.png"
                                           }
                                         ],
                                         "Value": "",
@@ -582,7 +752,7 @@
                                             "alt": "Ageless Juice!!! Taste the emotion!!"
                                           },
                                           {
-                                            "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/4/Taste/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-DrinkExplosion_Taste-AJC_920X489_Desktop-CMS-2_4_1_0.png "
+                                            "src": "../../../../../../../../../../4.%20Experience/4/Taste/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-920X489-Desktop-2_4_1_0.png"
                                           }
                                         ],
                                         "Value": "",
@@ -617,7 +787,7 @@
                                             "alt": "Mark won it and feels great?"
                                           },
                                           {
-                                            "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-WinningMan_Sight-AJC_357X443_Desktop-CMS-2_4_1_0.png"
+                                            "src": "../../../../../../../../../../4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-357X443-Desktop-2_4_1_0.png"
                                           }
                                         ],
                                         "Value": "",
@@ -652,7 +822,7 @@
                                             "alt": "Paul just won the challenge and got?"
                                           },
                                           {
-                                            "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-WinningMan_Sight-AJC_401X454_Desktop-CMS-2_4_1_0.png"
+                                            "src": "../../../../../../../../../../4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-401X454-Desktop-2_4_2_0.png"
                                           }
                                         ],
                                         "Value": "",
@@ -687,7 +857,7 @@
                                             "alt": "The Ageless Juicing Challenge"
                                           },
                                           {
-                                            "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/5/Sight/1/Generate%20Brand%20Awareness/1/Advertising/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-Logo_Awareness-AJC_177X193_Desktop-CMS-1_1_1_0.png"
+                                            "src": "../../../../../../../../../../4.%20Experience/5/Sight/1/Generate%20Brand%20Awareness/1/Advertising/Assets/1/1_0/Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-177X193-Desktop_1_1_1_0.png"
                                           }
                                         ],
                                         "Value": "",
@@ -729,7 +899,7 @@
                                     "HTMLContentStylingItemRowID": "1",
                                     "HTMLContentStylingItemFiles": [
                                       {
-                                        "StyleFilePathLocal": "../999.0.3.BaseDI.QuickStart.Templates/3. Client/Web/3. Setting/5/Ecommerce/4/Sell Low Ticket Offer/2/Nutrition/CSS/1/1_0/",
+                                        "StyleFilePathLocal": "./3. Client/Web/3. Setting/5/Ecommerce/4/Sell Low Ticket Offer/2/Nutrition/CSS/1/1_0/",
                                         "StyleFilePathRemote": "https://github.com/NerdyGroupAffiliate/999.0.3.BaseDI.QuickStart.Templates",
                                         "StyleFiles": [
                                           {
@@ -887,7 +1057,7 @@
                                             ]
                                           },
                                           {
-                                            "StyleFileName": "Style_Lists_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                            "StyleFileName": "Style_List_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
                                             "StyleFileSupportedProperties": [ "content", "quotes", "counter-increment", "counter-reset", "list-style", "list-style-type", "list-style-image", "list-style-position" ],
                                             "StyleFileUseProperties": [
                                               {
@@ -1093,17 +1263,17 @@
           ],
           "business": [
             {
-              "key_1": "Request",
+              "key_1": "Functions",
               "values_2": [
                 {
-                  "key_2_1": "Request_1_0",
+                  "key_2_1": "Function_1_0",
                   "values_2_2": [
                     {
-                      "key_2_2_1": "Server",
+                      "key_2_2_1": "NodeJS",
                       "values_2_2_2": [
                         {
                           "_2_2_2_1_functionInformationEventCallStackDetails": {
-                            "searchkey": "HTMLSourceCode_SetImplementer_ProductCreation_WebDevelopment_RequestHandler",
+                            "searchkey": "Functions_Function_1_0_NodeJS_2_2_2_1_functionInformationEventCallStackDetails",
                             "type": "array",
                             "value": [
                               {
@@ -1161,7 +1331,7 @@
                       "values_2_2_2": [
                         {
                           "_2_2_2_1_repositoryInformationDataDetails": {
-                            "searchkey": "Repositories_Repository_1_0_Repository_2_2_2_1_RepositoryInformationDataDetails",
+                            "searchkey": "Repositories_Repository_1_0_Repository_2_2_2_1_repositoryInformationDataDetails",
                             "type": "array",
                             "value": [
                               {
@@ -1179,14 +1349,6 @@
                                   "value": {
                                     "DataItemRowID": "2",
                                     "DataItemLocation": "LocalService"
-                                  }
-                                },
-                                "_2_2_2_1_3_repositoryInformationDataItem": {
-                                  "searchkey": "SetImplementer_ProductCreation_Software_MasterLeaderController",
-                                  "type": "object",
-                                  "value": {
-                                    "DataItemRowID": "3",
-                                    "DataItemLocation": "LocalFile"
                                   }
                                 }
                               }
