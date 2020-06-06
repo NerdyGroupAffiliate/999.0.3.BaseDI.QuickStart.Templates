@@ -8,6 +8,43 @@
         "baseDIInstructions": {
           "configuration": [
             {
+              "key_1": "Organization",
+              "values_2": [
+                {
+                  "key_2_1": "Organization_1_0",
+                  "values_2_2": [
+                    {
+                      "key_2_2_1": "Business",
+                      "values_2_2_2": [
+                        {
+                          "_2_2_2_1_businessInformationAccountDetails": {
+                            "searchkey": "AccountDetails_Organzations_Business_1_0_Asssistant_2_2_2_1_businessInformationAccountDetails",
+                            "type": "array",
+                            "value": [
+                              {
+                                "_2_2_2_1_1_businessInformationAccountItem": {
+                                  "searchkey": "AccountItem_SetSeller_Business_Management_AccountLookUp",
+                                  "type": "string",
+                                  "value": {
+                                    "AccountItemRowID": "1",
+                                    "AccountItemAccountID": "1-2-H-3",
+                                    "AccountItemLookupCode": "AJC"
+                                  }
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "type_3": "object",
+              "buzzWords_4": "***OPTIONAL***, NodeJS, WebAPI",
+              "extraKeyValuePairs_5": [
+                {}
+              ]
             }
           ],
           "presentation": [
