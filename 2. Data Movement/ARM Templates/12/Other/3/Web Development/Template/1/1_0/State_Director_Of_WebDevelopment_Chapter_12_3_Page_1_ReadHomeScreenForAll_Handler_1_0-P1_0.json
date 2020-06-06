@@ -26,7 +26,11 @@
                                 "value": {
                                   "AccountItemRowID": "1",
                                   "AccountItemAccountID": "1-2-H-3",
-                                  "AccountItemLookupCode": "AJC"
+                                  "AccountItemLookupCode": "AJC",
+                                  "AccountItemMainCategory": "Health and Fitness",
+                                  "AccountItemSubCategory": "Nutrition",
+                                  "AccountItemTargetNiche": "Juicing",
+                                  "AccountItemNicheKeywords": [ "Detoxification", "Popular Diets", "Holistic" ]
                                 }
                               }
                             }
@@ -63,7 +67,7 @@
                             {
                               "_2_2_2_1_1_clientInformationHTMLSourceControlItem": {
                                 "searchkey": "HTMLSourceControlItem_SetImplementer_ProductCreation_WebDevelopment_Item",
-                                "searchkey2": "HTMLSourceControlItem_EcommerceSetting_To_SellLowTicketOffer_For_Nutrition_Seller-Home-AJC_4_2_1_0",
+                                "searchkey2": "HTMLSourceControlItem_EcommerceSetting_To_SellLowTicketOffer_For_{AccountSubCategory}_Seller-Home-{AccountLookUpCode}_4_2_1_0",
                                 "type": "object",
                                 "value": {
                                   "HTMLSourceControlItemRowID": "1",
@@ -82,7 +86,7 @@
                                           "version": "latest"
                                         }
                                       ],
-                                      "ProjectFileEntryPointIDForDynamicRendering": { "AttributeID": "The_WebDevelopment_Experience-1�Help_Build_Website_Foundation�1-1�AGE_AJC-Nutrition�1_0" }
+                                      "ProjectFileEntryPointIDForDynamicRendering": { "AttributeID": "The_WebDevelopment_Experience-1-Help_Build_Website_Foundation-1-1-AGE_AJC-Nutrition-1_0" }
                                     }
                                   ]
                                 }

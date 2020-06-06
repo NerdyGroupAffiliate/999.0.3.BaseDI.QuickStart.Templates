@@ -28,7 +28,11 @@
                                   "value": {
                                     "AccountItemRowID": "1",
                                     "AccountItemAccountID": "1-2-H-3",
-                                    "AccountItemLookupCode": "AJC"
+                                    "AccountItemLookupCode": "AJC",
+                                    "AccountItemMainCategory": "Health and Fitness",
+                                    "AccountItemSubCategory": "Nutrition",
+                                    "AccountItemTargetNiche": "Juicing",
+                                    "AccountItemNicheKeywords": [ "Detoxification", "Popular Diets", "Holistic" ]
                                   }
                                 }
                               }
