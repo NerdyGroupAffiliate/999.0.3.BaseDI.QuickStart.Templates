@@ -1134,7 +1134,7 @@
                                                 "type": "screen",
                                                 "features": [
                                                   {
-                                                    "operator": "",
+                                                    "operator": "and",
                                                     "device-width": "375px"
                                                   },
                                                   {
@@ -1282,7 +1282,7 @@
                                                   },
                                                   {
                                                     "operator": "and",
-                                                    "max-width": "1024px"
+                                                    "max-height": "1024px"
                                                   }
                                                 ]
                                               }
@@ -1524,7 +1524,7 @@
                                               }
                                             },
                                             {
-                                              "attributeID": "content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0",
+                                              "attributeID": "content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0",
                                               "IsHtmlTag": "false",
                                               "properties": [
                                                 {
@@ -1537,7 +1537,7 @@
                                                 "type": "screen",
                                                 "features": [
                                                   {
-                                                    "operator": "",
+                                                    "operator": "and",
                                                     "device-width": "375px"
                                                   },
                                                   {
@@ -1900,8 +1900,8 @@
                                                 "type": "screen",
                                                 "features": [
                                                   {
-                                                    "operator": "",
-                                                    "device-width": "376px"
+                                                    "operator": "and",
+                                                    "device-width": "375px"
                                                   },
                                                   {
                                                     "operator": "and",
@@ -2203,8 +2203,8 @@
                                                 "type": "screen",
                                                 "features": [
                                                   {
-                                                    "operator": "",
-                                                    "device-width": "376px"
+                                                    "operator": "and",
+                                                    "device-width": "375px"
                                                   },
                                                   {
                                                     "operator": "and",
@@ -2433,7 +2433,7 @@
                                                   "properyValues": [ "875px" ]
                                                 },
                                                 {
-                                                  "propertyName": "rifht",
+                                                  "propertyName": "right  ",
                                                   "properyValues": [ "32%" ]
                                                 }
                                               ],
@@ -2590,7 +2590,7 @@
                                                 "type": "screen",
                                                 "features": [
                                                   {
-                                                    "operator": "",
+                                                    "operator": "and",
                                                     "device-width": "375px"
                                                   },
                                                   {
@@ -2714,7 +2714,7 @@
                                                 "features": [
                                                   {
                                                     "operator": "",
-                                                    "max-width": "1336px"
+                                                    "max-width": "1366px"
                                                   }
                                                 ]
                                               }
@@ -2959,7 +2959,7 @@
                                                 "type": "screen",
                                                 "features": [
                                                   {
-                                                    "operator": "",
+                                                    "operator": "and",
                                                     "device-width": "375px"
                                                   },
                                                   {
@@ -4052,7 +4052,7 @@
                                                 "features": [
                                                   {
                                                     "operator": "",
-                                                    "max-width": "1224px"
+                                                    "max-width": "1024px"
                                                   }
                                                 ]
                                               }
@@ -4080,7 +4080,7 @@
                                                 "features": [
                                                   {
                                                     "operator": "",
-                                                    "max-width": "1224px"
+                                                    "max-width": "1024px"
                                                   }
                                                 ]
                                               }
@@ -4108,7 +4108,7 @@
                                                 "features": [
                                                   {
                                                     "operator": "",
-                                                    "max-width": "1224px"
+                                                    "max-width": "1024px"
                                                   }
                                                 ]
                                               }
@@ -4136,7 +4136,7 @@
                                                 "features": [
                                                   {
                                                     "operator": "",
-                                                    "max-width": "1224px"
+                                                    "max-width": "1024px"
                                                   }
                                                 ]
                                               }
@@ -4164,7 +4164,7 @@
                                                 "features": [
                                                   {
                                                     "operator": "",
-                                                    "max-width": "1224px"
+                                                    "max-width": "1024px"
                                                   }
                                                 ]
                                               }
@@ -4192,7 +4192,7 @@
                                                 "features": [
                                                   {
                                                     "operator": "",
-                                                    "max-width": "1224px"
+                                                    "max-width": "1024px"
                                                   }
                                                 ]
                                               }
@@ -4220,7 +4220,7 @@
                                                 "features": [
                                                   {
                                                     "operator": "",
-                                                    "max-width": "1224px"
+                                                    "max-width": "1024px"
                                                   }
                                                 ]
                                               }
@@ -6299,7 +6299,7 @@
                                                 "type": "screen",
                                                 "features": [
                                                   {
-                                                    "operator": "",
+                                                    "operator": "and",
                                                     "device-width": "375px"
                                                   },
                                                   {
@@ -6577,7 +6577,7 @@
                                                 "type": "screen",
                                                 "features": [
                                                   {
-                                                    "operator": "",
+                                                    "operator": "and",
                                                     "device-width": "375px"
                                                   },
                                                   {
@@ -6586,7 +6586,7 @@
                                                   },
                                                   {
                                                     "operator": "and",
-                                                    "-webkit-device-pixel-ratio": "1"
+                                                    "-webkit-device-pixel-ratio": "3"
                                                   }
                                                 ]
                                               }
@@ -9546,6 +9546,30 @@
                                               }
                                             },
                                             {
+                                              "attributeID": "img#content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0",
+                                              "IsHtmlTag": "false",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "height",
+                                                  "properyValues": [ "295px" ]
+                                                },
+                                                {
+                                                  "propertyName": "width",
+                                                  "properyValues": [ "238px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
+                                              "MediaQuery": {
+                                                "type": "",
+                                                "features": [
+                                                  {
+                                                    "operator": "",
+                                                    "max-width": "1366px"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            {
                                               "attributeID": "img#content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0",
                                               "IsHtmlTag": "false",
                                               "properties": [
@@ -11821,7 +11845,7 @@
                                                 },
                                                 {
                                                   "propertyName": "color",
-                                                  "properyValues": [ "##000" ]
+                                                  "properyValues": [ "#000" ]
                                                 },
                                                 {
                                                   "propertyName": "font-size",
