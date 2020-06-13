@@ -23,145 +23,133 @@
                             "value": [
                               {
                                 "_2_2_2_1_1_serverInformationSetupItem": {
-                                  "searchkey": "SetupItem_SetBuyer_ProductLaunching_Software_TargetEnvironmentAndPort",
+                                  "searchkey": "SetupItem_SetBuyer_ProductLaunching_Software_TransportEnvironment",
                                   "type": "object",
                                   "value": {
                                     "SetupItemRowID": "1",
                                     "SetupItemEnvironmentName": "Local",
-                                    "SetupItemEnvironmentPort": "8912"
-                                  }
-                                }
-                              },
-                              {
-                                "_2_2_2_1_2_serverInformationSetupItem": {
-                                  "searchkey": "SetupItem_SetSeller_ProductLaunching_Sales_DomainName",
-                                  "type": "object",
-                                  "value": {
-                                    "SetupItemRowID": "2",
-                                    "SetupItemDomainName": "http://localhost"
-                                  }
-                                }
-                              },
-                              {
-                                "_2_2_2_1_3_serverInformationSetupItem": {
-                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientBuildLocation",
-                                  "type": "object",
-                                  "value": {
-                                    "SetupItemRowID": "3",
-                                    "SetupItemBuildItemClientPath": "wwwroot/Client/Build"
-                                  }
-                                }
-                              },
-                              {
-                                "_2_2_2_1_4_serverInformationSetupItem": {
-                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientDataLocation",
-                                  "type": "object",
-                                  "value": {
-                                    "SetupItemRowID": "4",
-                                    "SetupItemDataPath": "wwwroot/Client/Data"
-                                  }
-                                }
-                              },
-                              {
-                                "_2_2_2_1_5_serverInformationSetupItem": {
-                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientDocumentLocation",
-                                  "type": "object",
-                                  "value": {
-                                    "SetupItemRowID": "5",
-                                    "SetupItemDocumentPath": "wwwroot/Client/Documents"
-                                  }
-                                }
-                              },
-                              {
-                                "_2_2_2_1_6_serverInformationSetupItem": {
-                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientFontLocation",
-                                  "type": "object",
-                                  "value": {
-                                    "SetupItemRowID": "6",
-                                    "SetupItemFontPath": "wwwroot/Client/Fonts"
-                                  }
-                                }
-                              },
-                              {
-                                "_2_2_2_1_7_serverInformationSetupItem": {
-                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientImageLocation",
-                                  "type": "object",
-                                  "value": {
-                                    "SetupItemRowID": "7",
-                                    "SetupItemImagePath": "wwwroot/Client/Images"
-                                  }
-                                }
-                              },
-                              {
-                                "_2_2_2_1_8_serverInformationSetupItem": {
-                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientScriptsLocation",
-                                  "type": "object",
-                                  "value": {
-                                    "SetupItemRowID": "8",
-                                    "SetupItemScriptPath": "wwwroot/Client/Scripts"
-                                  }
-                                }
-                              },
-                              {
-                                "_2_2_2_1_9_serverInformationSetupItem": {
-                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ClientViewsLocation",
-                                  "type": "object",
-                                  "value": {
-                                    "SetupItemRowID": "9",
-                                    "SetupItemViewPaths": [
-                                      {
-                                        "SetupItemViewPath": "./3. Setting/3/Podcast/12/Other/2/Programming/Location/1/1_0"
-                                      }
-                                    ]
-                                  }
-                                }
-                              },
-                              {
-                                "_2_2_2_1_10_serverInformationSetupItem": {
-                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ServerAPIVerbs",
-                                  "type": "object",
-                                  "value": {
-                                    "SetupItemRowID": "10",
-                                    "SetupItemRoutes": [
-                                      {
-                                        "SetupItemRouteName": "Home",
-                                        "SetupItemRouteViewName": "EcommerceSetting_To_GenerateBrandTrust_For_Nutrition_Seller_4_2_1_0",
-                                        "SetupItemRoutePath": "/",
-                                        "SetupItemRouteIsDynamicallyJSONRendered": "True",
-                                        "SetupItemRouteIsServerSideRendered": "False",
-                                        "SetupItemRouteVerb": "GET"
-                                      }
-                                    ]
-                                  }
-                                }
-                              },
-                              {
-                                "_2_2_2_1_11_serverInformationSetupItem": {
-                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ServerBuildLocation",
-                                  "type": "object",
-                                  "value": {
-                                    "SetupItemRowID": "11",
-                                    "SetupItemBuildItemServerPath": "wwwroot/Server/Build"
-                                  }
-                                }
-                              },
-                              {
-                                "_2_2_2_1_12_serverInformationSetupItem": {
-                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ServerPort",
-                                  "type": "object",
-                                  "value": {
-                                    "SetupItemRowID": "12",
-                                    "SetupItemPortNumber": "8912"
-                                  }
-                                }
-                              },
-                              {
-                                "_2_2_2_1_13_serverInformationSetupItem": {
-                                  "searchkey": "SetupItem_SetImplementer_ProductCreation_Software_ServerViewEngine",
-                                  "type": "object",
-                                  "value": {
-                                    "SetupItemRowID": "13",
-                                    "SetupItemViewEngineName": "BaseDI"
+                                    "SetupItemEnvironmentPort": "8912",
+                                    "SetupItemEnvironmentDomainName": "http://localhost",
+                                    "SetupItemEnvironmentClient": {
+                                      "SetupItemBuildItemClientPath": "wwwroot/Client/Build",
+                                      "SetupItemDataPath": "wwwroot/Client/Data",
+                                      "SetupItemDocumentPath": "wwwroot/Client/Documents",
+                                      "SetupItemFontPath": "wwwroot/Client/Fonts",
+                                      "SetupItemImagePath": "wwwroot/Client/Images",
+                                      "SetupItemScriptPath": "wwwroot/Client/Scripts"
+                                    },
+                                    "SetupItemEnvironmentServer": {
+                                      "SetupItemTransportItemRoutesGET": [
+                                        {
+                                          "SetupItemTransportItemRoute": {
+                                            "ControllerRoutes": [ "/", "/Home" ],
+                                            "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0",
+                                            "ModelDataLocalObject": {},
+                                            "ModelDataLocalParameter": "State_Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0",
+                                            "ModelDataRemote": {}
+                                          }
+                                        },
+                                        {
+                                          "SetupItemTransportItemRoute": {
+                                            "ControllerRoutes": [ "/Blog", "/Podcast" ],
+                                            "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_2_ReadPresalesScreenForAll_Handler_1_0",
+                                            "ModelDataLocalObject": {},
+                                            "ModelDataLocalParameter": "State_Director_Of_WebDevelopment_Chapter_12_3_Page_2_ReadPresalesScreenForAll_Handler_1_0",
+                                            "ModelDataRemote": {}
+                                          }
+                                        },
+                                        {
+                                          "SetupItemTransportItemRoute": {
+                                            "ControllerRoutes": [ "/Optin" ],
+                                            "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_3_ReadOptinScreenForAll_Handler_1_0",
+                                            "ModelDataLocalObject": {},
+                                            "ModelDataLocalParameter": "State_Director_Of_WebDevelopment_Chapter_12_3_Page_3_ReadOptinScreenForAll_Handler_1_0",
+                                            "ModelDataRemote": {}
+                                          }
+                                        },
+                                        {
+                                          "SetupItemTransportItemRoute": {
+                                            "ControllerRoutes": [ "/ThankYou" ],
+                                            "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_4_ReadThankYouScreenForAll_Handler_1_0",
+                                            "ModelDataLocalObject": {},
+                                            "ModelDataLocalParameter": "State_Director_Of_WebDevelopment_Chapter_12_3_Page_4_ReadThankYouScreenForAll_Handler_1_0",
+                                            "ModelDataRemote": {}
+                                          }
+                                        },
+                                        {
+                                          "SetupItemTransportItemRoute": {
+                                            "ControllerRoutes": [ "/Sales" ],
+                                            "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_5_ReadSalesScreenForAll_Handler_1_0",
+                                            "ModelDataLocalObject": {},
+                                            "ModelDataLocalParameter": "State_Director_Of_WebDevelopment_Chapter_12_3_Page_5_ReadSalesScreenForAll_Handler_1_0",
+                                            "ModelDataRemote": {}
+                                          }
+                                        },
+                                        {
+                                          "SetupItemTransportItemRoute": {
+                                            "ControllerRoutes": [ "/OrderForm" ],
+                                            "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_6_ReadOrderFormScreenForAll_Handler_1_0",
+                                            "ModelDataLocalObject": {},
+                                            "ModelDataLocalParameter": "State_Director_Of_WebDevelopment_Chapter_12_3_Page_6_ReadOrderFormScreenForAll_Handler_1_0",
+                                            "ModelDataRemote": {}
+                                          }
+                                        },
+                                        {
+                                          "SetupItemTransportItemRoute": {
+                                            "ControllerRoutes": [ "/OTO" ],
+                                            "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_7_ReadOTOScreenForAll_Handler_1_0",
+                                            "ModelDataLocalObject": {},
+                                            "ModelDataLocalParameter": "State_Director_Of_WebDevelopment_Chapter_12_3_Page_7_ReadOTOScreenForAll_Handler_1_0",
+                                            "ModelDataRemote": {}
+                                          }
+                                        },
+                                        {
+                                          "SetupItemTransportItemRoute": {
+                                            "ControllerRoutes": [ "/Webinar" ],
+                                            "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_8_ReadWebinarScreenForAll_Handler_1_0",
+                                            "ModelDataLocalObject": {},
+                                            "ModelDataLocalParameter": "State_Director_Of_WebDevelopment_Chapter_12_3_Page_8_ReadWebinarScreenForAll_Handler_1_0",
+                                            "ModelDataRemote": {}
+                                          }
+                                        },
+                                        {
+                                          "SetupItemTransportItemRoute": {
+                                            "ControllerRoutes": [ "/Membership" ],
+                                            "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_9_ReadMembershipScreenForAll_Handler_1_0",
+                                            "ModelDataLocalObject": {},
+                                            "ModelDataLocalParameter": "State_Director_Of_WebDevelopment_Chapter_12_3_Page_9_ReadMembershipScreenForAll_Handler_1_0",
+                                            "ModelDataRemote": {}
+                                          }
+                                        },
+                                        {
+                                          "SetupItemTransportItemRoute": {
+                                            "ControllerRoutes": [ "/Affiliate" ],
+                                            "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_10_ReadAffiliateScreenForAll_Handler_1_0",
+                                            "ModelDataLocalObject": {},
+                                            "ModelDataLocalParameter": "State_Director_Of_WebDevelopment_Chapter_12_3_Page_10_ReadAffiliateScreenForAll_Handler_1_0",
+                                            "ModelDataRemote": {}
+                                          }
+                                        },
+                                        {
+                                          "SetupItemTransportItemRoute": {
+                                            "ControllerRoutes": [ "/How-To" ],
+                                            "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_11_ReadOtherScreenForAll_Handler_1_0",
+                                            "ModelDataLocalObject": {},
+                                            "ModelDataLocalParameter": "State_Director_Of_WebDevelopment_Chapter_12_3_Page_11_ReadOtherScreenForAll_Handler_1_0",
+                                            "ModelDataRemote": {}
+                                          }
+                                        },
+                                        {
+                                          "SetupItemTransportItemRoute": {
+                                            "ControllerRoutes": [ "/Components" ],
+                                            "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_12_ReadAdvancedScreenForAll_Handler_1_0",
+                                            "ModelDataLocalObject": {},
+                                            "ModelDataLocalParameter": "State_Director_Of_WebDevelopment_Chapter_12_3_Page_12_ReadAdvancedScreenForAll_Handler_1_0",
+                                            "ModelDataRemote": {}
+                                          }
+                                        }
+                                      ]
+                                    }
                                   }
                                 }
                               }
