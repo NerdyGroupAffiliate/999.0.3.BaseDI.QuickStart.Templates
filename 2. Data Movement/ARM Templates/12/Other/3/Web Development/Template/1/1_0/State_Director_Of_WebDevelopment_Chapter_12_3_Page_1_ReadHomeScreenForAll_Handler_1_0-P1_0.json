@@ -47,6 +47,45 @@
             "extraKeyValuePairs_5": [
               {}
             ]
+          },
+          {
+            "key_1": "Dependencies",
+            "values_2": [
+              {
+                "key_2_1": "Dependency_1_0",
+                "values_2_2": [
+                  {
+                    "key_2_2_1": "Scripts",
+                    "values_2_2_2": [
+                      {
+                        "_2_2_2_1_dependencyInformationAccountDetails": {
+                          "searchkey": "DependencyDetails_Dependencies_Scripts_1_0_Developer_2_2_2_1_dependencyInformationAccountDetails",
+                          "type": "array",
+                          "value": [
+                            {
+                              "_2_2_2_1_1_dependencyInformationAccountItem": {
+                                "searchkey": "DependencyItem_SetImplementer_ComputersAndTechnology_Software_ApplicationDependencies",
+                                "type": "string",
+                                "value": {
+                                  "DependencyItemRowID": "1",
+                                  "DependencyItemName": "BaseDI",
+                                  "DependencyItemLocation": "C:\\Programming\\999.0.2.BaseDI.Playground.Test.BackEnd\\wwwroot\\Distribution\\Client\\JS\\BaseDI_1_0.js"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "type_3": "object",
+            "buzzWords_4": "***OPTIONAL***, NodeJS, WebAPI",
+            "extraKeyValuePairs_5": [
+              {}
+            ]
           }
         ],
         "presentation": [
