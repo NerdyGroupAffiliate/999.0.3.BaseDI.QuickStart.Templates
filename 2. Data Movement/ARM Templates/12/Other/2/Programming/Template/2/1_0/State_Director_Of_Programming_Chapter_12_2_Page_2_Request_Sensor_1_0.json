@@ -1,4 +1,4 @@
-﻿{
+{
   "$schema": "https://schema.management.basedi.io/schemas/2019-10-05/deploymentTemplate.json#",
   "contentVersion": "1.0.0.0",
   "parameters": {
@@ -23,139 +23,17 @@
                             "value": [
                               {
                                 "_2_2_2_1_1_serverInformationSetupItem": {
-                                  "searchkey": "SetupItem_SetBuyer_ProductLaunching_Software_TransportEnvironment",
+                                  "searchkey": "SetupItem_SetBuyer_ProductLaunching_Software_SenseEnvironment",
                                   "type": "object",
                                   "value": {
                                     "SetupItemRowID": "1",
-                                    "SetupItemEnvironmentName": "Local",
-                                    "SetupItemEnvironmentPort": "8912",
-                                    "SetupItemEnvironmentDomainName": "http://localhost",
                                     "SetupItemEnvironmentClient": {
-                                      "SetupItemBuildItemClientPath": "wwwroot/Client/Build",
-                                      "SetupItemDataPath": "wwwroot/Client/Data",
-                                      "SetupItemDocumentPath": "wwwroot/Client/Documents",
-                                      "SetupItemFontPath": "wwwroot/Client/Fonts",
-                                      "SetupItemImagePath": "wwwroot/Client/Images",
-                                      "SetupItemScriptPath": "wwwroot/Client/Scripts"
+      
                                     },
                                     "SetupItemEnvironmentServer": {
-                                      "SetupItemTransportItemRoutesGET": [
+                                      "SetupItemEnvironmentServerMetaDataPaths": [
                                         {
-                                          "SetupItemTransportItemRoute": {
-                                            "ControllerRoutes": [ "/", "/Home" ],
-                                            "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0",
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0-P1_0",
-                                            "ModelDataRemote": {}
-                                          }
-                                        },
-                                        {
-                                          "SetupItemTransportItemRoute": {
-                                            "ControllerRoutes": [ "/Blog", "/Podcast" ],
-                                            "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_2_ReadPresalesScreenForAll_Handler_1_0",
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_2_ReadPresalesScreenForAll_Handler_1_0-P1_0",
-                                            "ModelDataRemote": {}
-                                          }
-                                        },
-                                        {
-                                          "SetupItemTransportItemRoute": {
-                                            "ControllerRoutes": [ "/Optin" ],
-                                            "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_3_ReadOptinScreenForAll_Handler_1_0",
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_3_ReadOptinScreenForAll_Handler_1_0-P1_0",
-                                            "ModelDataRemote": {}
-                                          }
-                                        },
-                                        {
-                                          "SetupItemTransportItemRoute": {
-                                            "ControllerRoutes": [ "/ThankYou" ],
-                                            "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_4_ReadThankYouScreenForAll_Handler_1_0",
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_4_ReadThankYouScreenForAll_Handler_1_0-P1_0",
-                                            "ModelDataRemote": {}
-                                          }
-                                        },
-                                        {
-                                          "SetupItemTransportItemRoute": {
-                                            "ControllerRoutes": [ "/Sales" ],
-                                            "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_5_ReadSalesScreenForAll_Handler_1_0",
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_5_ReadSalesScreenForAll_Handler_1_0-P1_0",
-                                            "ModelDataRemote": {}
-                                          }
-                                        },
-                                        {
-                                          "SetupItemTransportItemRoute": {
-                                            "ControllerRoutes": [ "/OrderForm" ],
-                                            "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_6_ReadOrderFormScreenForAll_Handler_1_0",
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_6_ReadOrderFormScreenForAll_Handler_1_0-P1_0",
-                                            "ModelDataRemote": {}
-                                          }
-                                        },
-                                        {
-                                          "SetupItemTransportItemRoute": {
-                                            "ControllerRoutes": [ "/OTO" ],
-                                            "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_7_ReadOTOScreenForAll_Handler_1_0",
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_7_ReadOTOScreenForAll_Handler_1_0-P1_0",
-                                            "ModelDataRemote": {}
-                                          }
-                                        },
-                                        {
-                                          "SetupItemTransportItemRoute": {
-                                            "ControllerRoutes": [ "/Webinar" ],
-                                            "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_8_ReadWebinarScreenForAll_Handler_1_0",
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_8_ReadWebinarScreenForAll_Handler_1_0-P1_0",
-                                            "ModelDataRemote": {}
-                                          }
-                                        },
-                                        {
-                                          "SetupItemTransportItemRoute": {
-                                            "ControllerRoutes": [ "/Membership" ],
-                                            "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_9_ReadMembershipScreenForAll_Handler_1_0",
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_9_ReadMembershipScreenForAll_Handler_1_0-P1_0",
-                                            "ModelDataRemote": {}
-                                          }
-                                        },
-                                        {
-                                          "SetupItemTransportItemRoute": {
-                                            "ControllerRoutes": [ "/Affiliate" ],
-                                            "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_10_ReadAffiliateScreenForAll_Handler_1_0",
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_10_ReadAffiliateScreenForAll_Handler_1_0-P1_0",
-                                            "ModelDataRemote": {}
-                                          }
-                                        },
-                                        {
-                                          "SetupItemTransportItemRoute": {
-                                            "ControllerRoutes": [ "/How-To" ],
-                                            "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_11_ReadOtherScreenForAll_Handler_1_0",
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_11_ReadOtherScreenForAll_Handler_1_0-P1_0",
-                                            "ModelDataRemote": {}
-                                          }
-                                        },
-                                        {
-                                          "SetupItemTransportItemRoute": {
-                                            "ControllerRoutes": [ "/OrganizeDigitalAssets", "/TransportDigitalAssets" ],
-                                            "ControllerName": "Experience_The_Movement_OfTheAssets_Content_12_2_1_0",
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Experience_The_Movement_OfTheAssets_Content_12_2_1_0-P1_0",
-                                            "ModelDataRemote": {}
-                                          }
-                                        },
-                                        {
-                                          "SetupItemTransportItemRoute": {
-                                            "ControllerRoutes": [ "/Components", "/3rdParty" ],
-                                            "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_12_ReadAdvancedScreenForAll_Handler_1_0",
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_12_ReadAdvancedScreenForAll_Handler_1_0-P1_0",
-                                            "ModelDataRemote": {}
-                                          }
+                                          "MetaDataLocalPath": "C:\\Programming\\999.0.3.BaseDI.QuickStart.Templates\\2. Data Movement\\ARM Templates\\12\\Other\\3\\Web Development\\Template\\1\\1_0\\State_Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0-P1_0.json"
                                         }
                                       ]
                                     }
@@ -211,11 +89,11 @@
                                           },
                                           {
                                             "functionEvent": "onload",
-                                            "functionName": "Experience_The_Hear_OfTheAPIServer_Message_12_3_1_0",
+                                            "functionName": "Director_Of_Programming_Chapter_12_2_Page_2_Request_Sensor_1_0",
                                             "functionParameters": [
                                               {
-                                                "parameterName": "",
-                                                "parameterTypeScriptDataType": "",
+                                                "parameterName": "Step_1_0_Custom_Transport_LocalAssetToServer_1_0",
+                                                "parameterTypeScriptDataType": "function",
                                                 "parameterDefaultValue": ""
                                               }
                                             ]

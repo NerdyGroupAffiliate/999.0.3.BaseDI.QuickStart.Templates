@@ -139,6 +139,15 @@
                                       },
                                       {
                                         "SetupItemTransportItemRoute": {
+                                          "ControllerRoutes": [ "/OrganizeDigitalAssets", "/TransportDigitalAssets" ],
+                                          "ControllerName": "Experience_The_Movement_OfTheAssets_Content_12_2_1_0",
+                                          "ModelDataLocalObject": {},
+                                          "ModelDataLocalParameter": "Experience_The_Movement_OfTheAssets_Content_12_2_1_0-P1_0",
+                                          "ModelDataRemote": {}
+                                        }
+                                      },
+                                      {
+                                        "SetupItemTransportItemRoute": {
                                           "ControllerRoutes": [ "/Components", "/3rdParty" ],
                                           "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_12_ReadAdvancedScreenForAll_Handler_1_0",
                                           "ModelDataLocalObject": {},
@@ -201,62 +210,6 @@
                                         {
                                           "functionEvent": "onload",
                                           "functionName": "Experience_The_Hear_OfTheAPIServer_Message_12_3_1_0",
-                                          "functionParameters": [
-                                            {
-                                              "parameterName": "",
-                                              "parameterTypeScriptDataType": "",
-                                              "parameterDefaultValue": ""
-                                            }
-                                          ]
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                }
-                              }
-                            }
-                          ]
-                        }
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "type_3": "object",
-            "buzzWords_4": "***REQUIRED***, Functions, Methods, Business Logic",
-            "extraKeyValuePairs_5": []
-          },
-          {
-            "key_1": "MessageQueue",
-            "values_2": [
-              {
-                "key_2_1": "Message_1_0",
-                "values_2_2": [
-                  {
-                    "key_2_2_1": "Message",
-                    "values_2_2_2": [
-                      {
-                        "_2_2_2_1_functionInformationEventCallStackDetails": {
-                          "searchkey": "Functions_Function_1_0_NodeJS_2_2_2_1_functionInformationEventCallStackDetails",
-                          "type": "array",
-                          "value": [
-                            {
-                              "_2_2_2_1_1_functionInformationEventCallStackItem": {
-                                "searchkey": "SetImplementer_ProductCreation_Software_BusinessFuction",
-                                "type": "object",
-                                "value": {
-                                  "EventCallStackItemRowID": "1",
-                                  "EventCallStackItems": [
-                                    {
-                                      "Notes": "Dynamic Webpage Generator",
-                                      "Events": [
-                                        {
-                                          "functionsEnabled": "true"
-                                        },
-                                        {
-                                          "functionEvent": "onload",
-                                          "functionName": "Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0",
                                           "functionParameters": [
                                             {
                                               "parameterName": "",
