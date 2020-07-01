@@ -1,0 +1,314 @@
+{
+  "$schema": "https://schema.management.basedi.io/schemas/2019-10-05/deploymentTemplate.json#",
+  "contentVersion": "1.0.0.0",
+  "baseDI_NerdyGroupAffiliates_DynamicWebsite_MainProfile": {
+    "value": {
+      "baseDIInstructions": {
+        "configuration": [
+          {
+            "key_1": "Organization",
+            "values_2": [
+              {
+                "key_2_1": "Organization_1_0",
+                "values_2_2": [
+                  {
+                    "key_2_2_1": "Business",
+                    "values_2_2_2": [
+                      {
+                        "_2_2_2_1_businessInformationAccountDetails": {
+                          "searchkey": "AccountDetails_Organzations_Business_1_0_Asssistant_2_2_2_1_businessInformationAccountDetails",
+                          "type": "array",
+                          "value": [
+                            {
+                              "_2_2_2_1_1_businessInformationAccountItem": {
+                                "searchkey": "AccountItem_SetSeller_Business_Management_AccountLookUp",
+                                "type": "string",
+                                "value": {
+                                  "AccountItemRowID": "1",
+                                  "AccountItemAccountID": "1-2-H-3",
+                                  "AccountItemLookupCode": "AJC",
+                                  "AccountItemMainCategory": "Health and Fitness",
+                                  "AccountItemSubCategory": "Nutrition",
+                                  "AccountItemTargetNiche": "Juicing",
+                                  "AccountItemNicheKeywords": [ "Detoxification", "Popular Diets", "Holistic" ],
+                                  "AccountItemSocialMediaDetails": [
+                                    {
+                                      "AccountName": "Instagram",
+                                      "AccountClientID": "",
+                                      "AccountSecret": ""
+                                    },
+                                    {
+                                      "AccountName": "Box",
+                                      "AccountClientID": "",
+                                      "AccountSecret": ""
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "type_3": "object",
+            "buzzWords_4": "***OPTIONAL***, NodeJS, WebAPI",
+            "extraKeyValuePairs_5": [
+              {}
+            ]
+          }
+        ],
+        "presentation": [
+          {
+            "key_1": "Clients",
+            "values_2": [
+              {
+                "key_2_1": "Client_1_0",
+                "values_2_2": [
+                  {
+                    "key_2_2_1": "Instagram",
+                    "values_2_2_2": [
+                      {
+                        "_2_2_2_1_clientInformationHTMLSourceControlDetails": {
+                          "searchkey": "HTMLSourceControlDetails_SetImplementer_ProductCreation_WebDevelopment_FileManagement",
+                          "type": "array",
+                          "value": [
+                            {
+                            }
+                          ]
+                        },
+                        "_2_2_2_2_clientInformationHTMLSEODetails": {
+                          "searchkey": "HTMLSEODetails_SetImplementer_ProductCreation_SEO_SearchEngine",
+                          "type": "array",
+                          "value": [
+                            {
+                            }
+                          ]
+                        },
+                        "_2_2_2_3_clientInformationHTMLContentDetails": {
+                          "searchkey": "HTMLContentDetails_SetImplementer_ProductCreation_CMS_HTML",
+                          "type": "array",
+                          "value": [
+                            {
+                              "_2_2_2_3_1_clientInformationHTMLContentItem": {
+                                "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_CMS_HTMLContainer",
+                                "type": "object",
+                                "value": {
+
+                                }
+                              },
+                              "_2_2_2_3_2_clientInformationHTMLContentItem": {
+                                "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_CMS_HTMLRows",
+                                "type": "object",
+                                "value": {
+
+                                }
+                              },
+                              "_2_2_2_3_3_clientInformationHTMLContentItem": {
+                                "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_CMS_HTMLColumns",
+                                "type": "object",
+                                "value": {
+
+                                }
+                              },
+                              "_2_2_2_3_4_clientInformationHTMLContentItem": {
+                                "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_CMS_HTMLContent",
+                                "type": "object",
+                                "value": {
+                                  "HTMLContentItemRowID": "4",
+                                  "HTMLContentItems": [
+                                    {
+                                      "Notes": "Local File",
+                                      "Tag": "input",
+                                      "Attributes": [
+                                        {
+                                          "id": "content_A-1-1-1_Experience-Movement-{AccountSubCategory}-Content-OfFiles-{AccountLookUpCode}-CMSFileAsset-WidthXHeight-Desktop-7_1_1_0"
+                                        },
+                                        {
+                                          "type": "file"
+                                        },
+                                        {
+                                          "accept": [ ".jpg", ".jpeg", ".png" ]
+                                        },
+                                        {
+                                          "files": [
+                                            {
+                                              "name": "C:\\Temp\\image1.jpg"
+                                            },
+                                            {
+                                              "name": "C:\\Temp\\image2.jpg"
+                                            },
+                                            {
+                                              "name": "C:\\Temp\\image3.jpg"
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "Value": "",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": ""
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                          ]
+                        },
+                        "_2_2_2_4_clientInformationHTMLContentStylingDetails": {
+                          "searchkey": "HTMLContentStylingDetails_SetImplementer_ProductCreation_WebDevelopment_CSS",
+                          "type": "array",
+                          "value": [
+                            {
+
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "type": "object",
+            "buzzWords": "***OPTIONAL***, Wireframes, HTML, XAML",
+            "extraKeyValuePairs": []
+          }
+        ],
+        "business": [
+          {
+            "key_1": "Request",
+            "values_2": [
+              {
+                "key_2_1": "Request_1_0",
+                "values_2_2": [
+                  {
+                    "key_2_2_1": "Server",
+                    "values_2_2_2": [
+                      {
+                        "_2_2_2_1_functionInformationEventCallStackDetails": {
+                          "searchkey": "HTMLSourceCode_SetImplementer_ProductCreation_WebDevelopment_RequestHandler",
+                          "type": "array",
+                          "value": [
+                            {
+                              "_2_2_2_1_1_functionInformationEventCallStackItem": {
+                                "searchkey": "SetImplementer_ProductCreation_Software_BusinessFuction",
+                                "type": "object",
+                                "value": {
+                                  "EventCallStackItemRowID": "1",
+                                  "EventCallStackItems": [
+                                    {
+                                      "Notes": "Instagram to Box Transfer",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "true"
+                                        },
+                                        {
+                                          "functionEvent": "onload",
+                                          "functionName": "Experience_The_Movement_OfTheAssets_Content_12_2_1_0",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "Experience_The_Movement_OfTheAssets_Content_12_2_1_0-P1_0",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "type_3": "object",
+            "buzzWords_4": "***REQUIRED***, Functions, Methods, Business Logic",
+            "extraKeyValuePairs_5": []
+          }
+        ],
+        "data": [
+          {
+            "key_1": "Repositories",
+            "values_2": [
+              {
+                "key_2_1": "Repository_1_0",
+                "values_2_2": [
+                  {
+                    "key_2_2_1": "Repository",
+                    "values_2_2_2": [
+                      {
+                        "_2_2_2_1_repositoryInformationDataDetails": {
+                          "searchkey": "Repositories_Repository_1_0_Repository_2_2_2_1_RepositoryInformationDataDetails",
+                          "type": "array",
+                          "value": [
+                            {
+                              "_2_2_2_1_1_repositoryInformationDataItem": {
+                                "searchkey": "SetImplementer_ProductCreation_Software_Data",
+                                "type": "object",
+                                "value": {
+                                  "DataItemRowID": "1",
+                                  "DataItemLocation": "LocalService"
+                                }
+                              },
+                              "_2_2_2_1_2_repositoryInformationDataItem": {
+                                "searchkey": "SetImplementer_ProductCreation_Software_DataException",
+                                "type": "object",
+                                "value": {
+                                  "DataItemRowID": "2",
+                                  "DataItemLocation": "LocalService"
+                                }
+                              },
+                              "_2_2_2_1_3_repositoryInformationDataItem": {
+                                "searchkey": "SetImplementer_ProductCreation_Software_MasterLeaderController",
+                                "type": "object",
+                                "value": {
+                                  "DataItemRowID": "3",
+                                  "DataItemLocation": "LocalFile"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "type_3": "object",
+            "buzzWords_4": "***REQUIRED***, LocalFile, LocalDatabase, LocalService, RemoteFile, RemoteDatabase, RemoteService, RemoteServiceVendor",
+            "extraKeyValuePairs_5": [
+              {}
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -30,7 +30,14 @@
                                   "AccountItemMainCategory": "Health and Fitness",
                                   "AccountItemSubCategory": "Nutrition",
                                   "AccountItemTargetNiche": "Juicing",
-                                  "AccountItemNicheKeywords": [ "Detoxification", "Popular Diets", "Holistic" ]
+                                  "AccountItemNicheKeywords": [ "Detoxification", "Popular Diets", "Holistic" ],
+                                  "AccountItemSocialMediaDetails": [
+                                    {
+                                      "AccountName": "Instagram",
+                                      "AccountClientID": "",
+                                      "AccountSecret": ""
+                                    }
+                                  ]
                                 }
                               }
                             }

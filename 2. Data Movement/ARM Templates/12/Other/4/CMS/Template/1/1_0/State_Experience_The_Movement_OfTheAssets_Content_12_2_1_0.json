@@ -38,6 +38,11 @@
                                         "AccountName": "Instagram",
                                         "AccountClientID": "",
                                         "AccountSecret": ""
+                                      },
+                                      {
+                                        "AccountName": "Box",
+                                        "AccountClientID": "",
+                                        "AccountSecret": ""
                                       }
                                     ]
                                   }
@@ -74,13 +79,6 @@
                             "type": "array",
                             "value": [
                               {
-                                "_2_2_2_1_1_clientInformationHTMLSourceControlItem": {
-                                  "searchkey": "HTMLSourceControlItem_SetImplementer_ProductCreation_WebDevelopment_Item",
-                                  "type": "object",
-                                  "value": {
-
-                                  }
-                                }
                               }
                             ]
                           },
@@ -89,17 +87,6 @@
                             "type": "array",
                             "value": [
                               {
-                                "_2_2_2_2_1_clientInformationHTMLSEOItem": {
-                                  "searchkey": "HTMLSEOItem_SetSeller_CMS_SEO_MetaData",
-                                  "type": "string",
-                                  "value": {
-                                    "HTMLSEOItemRowID": "1",
-                                    "HTMLSEOItemMetaTitleAndSlug": "",
-                                    "HTMLSEOItemMetaKeyWords": [],
-                                    "HTMLSEOItemMetaDescription": "Instagram",
-                                    "HTMLSEOItemSearchCode": "Day1"
-                                  }
-                                }
                               }
                             ]
                           },
@@ -112,6 +99,7 @@
                                   "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_CMS_HTMLContainer",
                                   "type": "object",
                                   "value": {
+
                                   }
                                 },
                                 "_2_2_2_3_2_clientInformationHTMLContentItem": {
@@ -135,212 +123,30 @@
                                     "HTMLContentItemRowID": "4",
                                     "HTMLContentItems": [
                                       {
-                                        "Notes": "Content Affilate Banner - Image",
-                                        "Tag": "img",
+                                        "Notes": "Local File",
+                                        "Tag": "input",
                                         "Attributes": [
                                           {
-                                            "id": "content_A-1-1-1_Experience-Awareness-{AccountSubCategory}-Content-OfSpotlight-{AccountLookUpCode}-AffiliateBannerImage-WidthXHeight-Desktop-7_1_1_0"
+                                            "id": "content_A-1-1-1_Experience-Movement-{AccountSubCategory}-Content-OfFiles-{AccountLookUpCode}-CMSFileAsset-WidthXHeight-Desktop-7_1_1_0"
                                           },
                                           {
-                                            "alt": ""
+                                            "type": "file"
                                           },
                                           {
-                                            "src": "https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/images/creative/KH-TD__PDP_ILM-Stripe_DTLR_650x45._CB432046318_.png"
-                                          }
-                                        ],
-                                        "Value": "",
-                                        "Events": [
-                                          {
-                                            "functionsEnabled": "false"
+                                            "accept": [ ".jpg", ".jpeg", ".png" ]
                                           },
                                           {
-                                            "functionEvent": "",
-                                            "functionName": "",
-                                            "functionParameters": [
+                                            "files": [
                                               {
-                                                "parameterName": "",
-                                                "parameterTypeScriptDataType": "",
-                                                "parameterDefaultValue": ""
+                                                "name": "C:\\Temp\\image1.jpg"
+                                              },
+                                              {
+                                                "name": "C:\\Temp\\image2.jpg"
+                                              },
+                                              {
+                                                "name": "C:\\Temp\\image3.jpg"
                                               }
                                             ]
-                                          }
-                                        ],
-                                        "ParentHTMLContentItemAttributeID": "",
-                                        "ChildHTMLContentDetails": [],
-                                        "ChildHTMLContentFlowDirection": ""
-                                      },
-                                      {
-                                        "Notes": "Content Affilate URL - Anchor",
-                                        "Tag": "a",
-                                        "Attributes": [
-                                          {
-                                            "id": "content_A-1-2-1_Experience-Touch-{AccountSubCategory}-Content-OfCTA-{AccountLookUpCode}-AffiliateBannerURL-WidthXHeight-Desktop-7_1_1_0"
-                                          },
-                                          {
-                                            "alt": ""
-                                          },
-                                          {
-                                            "href": "https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/images/creative/KH-TD__PDP_ILM-Stripe_DTLR_650x45._CB432046318_.png"
-                                          }
-                                        ],
-                                        "Value": "",
-                                        "Events": [
-                                          {
-                                            "functionsEnabled": "false"
-                                          },
-                                          {
-                                            "functionEvent": "",
-                                            "functionName": "",
-                                            "functionParameters": [
-                                              {
-                                                "parameterName": "",
-                                                "parameterTypeScriptDataType": "",
-                                                "parameterDefaultValue": ""
-                                              }
-                                            ]
-                                          }
-                                        ],
-                                        "ParentHTMLContentItemAttributeID": "",
-                                        "ChildHTMLContentDetails": [],
-                                        "ChildHTMLContentFlowDirection": ""
-                                      },
-                                      {
-                                        "Notes": "Content Topic Category - Label",
-                                        "Tag": "label",
-                                        "Attributes": [
-                                          {
-                                            "id": "content_B-1-1-1_Experience-Awareness-{AccountSubCategory}-Content-OfCTA-{AccountLookUpCode}-AffiliateBannerImage-WidthXHeight-Desktop-7_1_1_0"
-                                          }
-                                        ],
-                                        "Value": "{AccountMainCategory} - {AccountSubCategory} - {AccountTargetNiche}",
-                                        "Events": [
-                                          {
-                                            "functionsEnabled": "false"
-                                          },
-                                          {
-                                            "functionEvent": "",
-                                            "functionName": "",
-                                            "functionParameters": [
-                                              {
-                                                "parameterName": "",
-                                                "parameterTypeScriptDataType": "",
-                                                "parameterDefaultValue": ""
-                                              }
-                                            ]
-                                          }
-                                        ],
-                                        "ParentHTMLContentItemAttributeID": "",
-                                        "ChildHTMLContentDetails": [],
-                                        "ChildHTMLContentFlowDirection": ""
-                                      },
-                                      {
-                                        "Notes": "Content Topic Product - Image",
-                                        "Tag": "img",
-                                        "Attributes": [
-                                          {
-                                            "id": "content_C-1-1-1_Experience-Awareness-{AccountSubCategory}-Content-OfAuthority-{AccountLookUpCode}-ContentImage-WidthXHeight-Desktop-7_1_1_0"
-                                          },
-                                          {
-                                            "alt": "THE JUICING BOOK"
-                                          },
-                                          {
-                                            "src": "https://juicerrecipesnow.com/wp-content/uploads/2011/06/the_juicing_book.jpg"
-                                          }
-                                        ],
-                                        "Value": "",
-                                        "Events": [
-                                          {
-                                            "functionsEnabled": "false"
-                                          },
-                                          {
-                                            "functionEvent": "",
-                                            "functionName": "",
-                                            "functionParameters": [
-                                              {
-                                                "parameterName": "",
-                                                "parameterTypeScriptDataType": "",
-                                                "parameterDefaultValue": ""
-                                              }
-                                            ]
-                                          }
-                                        ],
-                                        "ParentHTMLContentItemAttributeID": "",
-                                        "ChildHTMLContentDetails": [],
-                                        "ChildHTMLContentFlowDirection": ""
-                                      },
-                                      {
-                                        "Notes": "Content Topic Product - Summary",
-                                        "Tag": "label",
-                                        "Attributes": [
-                                          {
-                                            "id": "content_C-1-2-1_Experience-Awareness-{AccountSubCategory}-Content-OfLiking-{AccountLookUpCode}-ContentSummary-WidthXHeight-Desktop-7_1_1_0"
-                                          }
-                                        ],
-                                        "Value": "Prescription for Nutritional Healing is the nation's #1 bestselling guide to natural remedies. The new fifth edition incorporates the most recent information on a variety of alternative healing and preventive therapies and unveils new science on vitamins, supplements, and herbs. With an A-to-Z reference to illnesses, updates include: How omega-3 and exercise may help those suffering from Alzheimer's Current information on the latest drug therapies for treating AIDs What you need to know about H1N1 virus Nutritional information for combating prostate cancer Leading research on menopause and bio identical hormones And much, much more In the twenty years since the first edition was released, the natural health movement has gone mainstream, and the quest for optimal nutrition is no longer relegated to speciality stores. With more than 800 pages of comprehensive facts about all aspects of alternative ways to wellness, Prescription for Nutritional Healing, Fifth Edition, unites the best of age-old remedies with twenty-first- century science.",
-                                        "Events": [
-                                          {
-                                            "functionsEnabled": "false"
-                                          },
-                                          {
-                                            "functionEvent": "",
-                                            "functionName": "",
-                                            "functionParameters": [
-                                              {
-                                                "parameterName": "",
-                                                "parameterTypeScriptDataType": "",
-                                                "parameterDefaultValue": ""
-                                              }
-                                            ]
-                                          }
-                                        ],
-                                        "ParentHTMLContentItemAttributeID": "",
-                                        "ChildHTMLContentDetails": [],
-                                        "ChildHTMLContentFlowDirection": ""
-                                      },
-                                      {
-                                        "Notes": "Content Topic Product - Source",
-                                        "Tag": "a",
-                                        "Attributes": [
-                                          {
-                                            "id": "content_C-1-3-1_Experience-Touch-{AccountSubCategory}-Content-OfLiking-{AccountLookUpCode}-ContentSource-WidthXHeight-Desktop-7_1_1_0"
-                                          },
-                                          {
-                                            "alt": ""
-                                          },
-                                          {
-                                            "href": "https://www.amazon.com/Prescription-Nutritional-Healing-Fifth-Practical/dp/1583334009/ref=sr_1_1?dchild=1&keywords=vitamin+book&qid=1590080454&sr=8-1"
-                                          }
-                                        ],
-                                        "Value": "",
-                                        "Events": [
-                                          {
-                                            "functionsEnabled": "false"
-                                          },
-                                          {
-                                            "functionEvent": "",
-                                            "functionName": "",
-                                            "functionParameters": [
-                                              {
-                                                "parameterName": "",
-                                                "parameterTypeScriptDataType": "",
-                                                "parameterDefaultValue": ""
-                                              }
-                                            ]
-                                          }
-                                        ],
-                                        "ParentHTMLContentItemAttributeID": "",
-                                        "ChildHTMLContentDetails": [],
-                                        "ChildHTMLContentFlowDirection": ""
-                                      },
-                                      {
-                                        "Notes": "Content Topic Product - Tags",
-                                        "Tag": "label",
-                                        "Attributes": [
-                                          {
-                                            "id": "content_C-1-4-1_Experience-Awareness-{AccountSubCategory}-Content-OfLiking-{AccountLookUpCode}-ContentTags-WidthXHeight-Desktop-7_1_1_0"
-                                          },
-                                          {
-                                            "data": [ "#Vitamins", "#vitaminsandshakes", "#vitaminsihatkajang", "#vitaminsource", "#vitaminshoprg", "#vitaminserum", "#vitaminsab6c", "#vitaminshot", "#vitaminseajunkie", "#vitaminsurabaya" ]
                                           }
                                         ],
                                         "Value": "",
@@ -371,17 +177,11 @@
                             ]
                           },
                           "_2_2_2_4_clientInformationHTMLContentStylingDetails": {
-                            "searchkey": "HTMLContentStylingDetails_SetImplementer_ProductCreation_CMS_CSS",
+                            "searchkey": "HTMLContentStylingDetails_SetImplementer_ProductCreation_WebDevelopment_CSS",
                             "type": "array",
                             "value": [
                               {
-                                "_2_2_2_4_1_clientInformationHTMLContentStylingItem": {
-                                  "searchkey": "HTMLContentStylingItem_SetImplementer_ProductCreation_CMS_CSS",
-                                  "type": "array",
-                                  "value": {
 
-                                  }
-                                }
                               }
                             ]
                           }
@@ -408,7 +208,7 @@
                       "values_2_2_2": [
                         {
                           "_2_2_2_1_functionInformationEventCallStackDetails": {
-                            "searchkey": "HTMLSourceCode_SetImplementer_ProductCreation_CMS_RequestHandler",
+                            "searchkey": "HTMLSourceCode_SetImplementer_ProductCreation_WebDevelopment_RequestHandler",
                             "type": "array",
                             "value": [
                               {
@@ -419,17 +219,17 @@
                                     "EventCallStackItemRowID": "1",
                                     "EventCallStackItems": [
                                       {
-                                        "Notes": "CMS Delivery Systen",
+                                        "Notes": "Instagram to Box Transfer",
                                         "Events": [
                                           {
                                             "functionsEnabled": "true"
                                           },
                                           {
                                             "functionEvent": "onload",
-                                            "functionName": "Director_Of_Advertising_Chapter_1_1_Page_2_CreateWhereAPersonBecameAwareOfTopic_Handler_1_0",
+                                            "functionName": "Experience_The_Movement_OfTheAssets_Content_12_2_1_0",
                                             "functionParameters": [
                                               {
-                                                "parameterName": "",
+                                                "parameterName": "Experience_The_Movement_OfTheAssets_Content_12_2_1_0-P1_0",
                                                 "parameterTypeScriptDataType": "",
                                                 "parameterDefaultValue": ""
                                               }
