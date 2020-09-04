@@ -348,6 +348,552 @@
                                   ]
                                 }
                               }
+                            },
+                            {
+                              "_2_2_2_1_3_cachedDataSetInformationDataItem": {
+                                "searchkey": "SetAdministrator_Management_StrategicPlanning_AccessShelfLocationsOrganizations",
+                                "type": "object",
+                                "value": {
+                                  "DataItems": [
+                                    {
+                                      "Key": "1",
+                                      "Value": "NerdyGroup",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "1-1-H",
+                                      "Value": "Supplier Project",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "1-2-H",
+                                      "Value": "Society Influencers",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "1-2-K-1",
+                                      "Value": "Community6",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "1-2-K-1-2",
+                                      "Value": "OutWith6",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "1-2-K-1-3",
+                                      "Value": "Uncensored6",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "1-2-H-2",
+                                      "Value": "NerdyGroup Publishing",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "1-2-H-3",
+                                      "Value": "Ageless Juicing Challenge",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "1-2-H-3-1",
+                                      "Value": "Ageless Organifi",
+                                      "Description": "Friendship",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "1-3-H",
+                                      "Value": "Society Winners",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "1-4-H",
+                                      "Value": "Society Joint Ventures",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "1-4-H-1",
+                                      "Value": "Funnel Formations",
+                                      "Description": "Organization",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "1-4-H-1-1",
+                                      "Value": "Uncensored Funnels",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "1-4-H-2",
+                                      "Value": "Amazon Platform",
+                                      "Description": "Friendship",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "1-5-G",
+                                      "Value": "BaseDI Open Source",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "1-6-F",
+                                      "Value": "Tibbix Automation Software",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2",
+                                      "Value": "RMP",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-1-J",
+                                      "Value": "Stuff Wars",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-1-J-1",
+                                      "Value": "Stronger Deals",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-1-J-1-1",
+                                      "Value": "GiftShop6",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-1-J-1-2",
+                                      "Value": "Amazon",
+                                      "Description": "Friendship",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-1-J-2",
+                                      "Value": "Time Oppression",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-1-J-3",
+                                      "Value": "Society Decisions",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-1-J-3-1",
+                                      "Value": "AttractDS",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-1-J-3-2",
+                                      "Value": "ChristianDS",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-1-J-3-3",
+                                      "Value": "DatingDS",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-1-J-3-4",
+                                      "Value": "DemocratsDS",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-1-J-3-5",
+                                      "Value": "FitnessDS",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-1-J-3-6",
+                                      "Value": "LGBTDS",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-1-J-3-7",
+                                      "Value": "MuslimDS",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-1-J-3-8",
+                                      "Value": "RecruiterDS",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-1-J-3-9",
+                                      "Value": "RepublicanDS",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-1-J-3-10",
+                                      "Value": "WealthDS",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-1-J-3-11",
+                                      "Value": "WellnessDS",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-1-J-3-12",
+                                      "Value": "6Profile",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-2-F",
+                                      "Value": "Sketchy Content",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-3-K",
+                                      "Value": "Webbie Ads",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-3-K-1",
+                                      "Value": "Instagram",
+                                      "Description": "Friendship",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-3-K-2",
+                                      "Value": "Facebook",
+                                      "Description": "Friendship",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-3-K-3",
+                                      "Value": "YouTube",
+                                      "Description": "Friendship",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-3-K-4",
+                                      "Value": "LinkedIn",
+                                      "Description": "Friendship",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-4-G",
+                                      "Value": "Company Raiders",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-4-G-1",
+                                      "Value": "LifeIs6",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-4-G-2",
+                                      "Value": "QuotesFrom6",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "2-5-G",
+                                      "Value": "Richardson Reality Properties",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "3",
+                                      "Value": "Agency Jace",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "3-1-H",
+                                      "Value": "Society Producers",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "3-2-G",
+                                      "Value": "Society Business Consulting",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "3-3-G",
+                                      "Value": "Society Recruiters",
+                                      "Description": "Management",
+                                      "AccountOwner": "",
+                                      "CorporateBrandCode": ""
+                                    }
+                                  ]
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_4_cachedDataSetInformationDataItem": {
+                                "searchkey": "SetAdministrator_Management_StrategicPlanning_AccessShelfLocationsPeople",
+                                "type": "object",
+                                "value": {
+                                  "DataItems": [
+                                    {
+                                      "Key": "MR1",
+                                      "Value": "Mark Richardson",
+                                      "Description": "Internal",
+                                      "AccountOwner": [
+                                        {
+                                          "EmailAccounts": {
+                                            "Value": "mark@nerdygroupaffiliates.com",
+                                            "SubAccounts": [
+                                              {
+                                                "Value": "BusinessGuy1979@gmail.com"
+                                              },
+                                              {
+                                                "Value": "thephantom1979@gmail.com"
+                                              }
+                                            ]
+                                          }
+                                        }
+                                      ],
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "SR1",
+                                      "Value": "Shaunna Richardson",
+                                      "Description": "Internal",
+                                      "AccountOwner": [
+                                        {
+                                          "EmailAccounts": {
+                                            "Value": "shaunna@richardsonmediaproperties.com",
+                                            "SubAccounts": [
+                                              {
+                                                "Value": "shaunna_29@hotmail.com"
+                                              }
+                                            ]
+                                          }
+                                        }
+                                      ],
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "TR1",
+                                      "Value": "Timothy Richardson",
+                                      "Description": "Person",
+                                      "AccountOwner": [
+                                        {
+                                          "EmailAccounts": {
+                                            "Value": "tim@agencyjace.com",
+                                            "SubAccounts": [
+                                              {
+                                                "Value": "trichardson01@gmail.com"
+                                              }
+                                            ]
+                                          }
+                                        }
+                                      ],
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "AD1",
+                                      "Value": "Andrew Durham",
+                                      "Description": "Internal",
+                                      "AccountOwner": [
+                                        {
+                                          "EmailAccounts": {
+                                            "Value": "Andrew@agelessandrew.com",
+                                            "SubAccounts": [
+                                              {
+                                                "Value": "agelessandrew@gmail.com"
+                                              }
+                                            ]
+                                          }
+                                        }
+                                      ],
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "RR1",
+                                      "Value": "Ross Robbins",
+                                      "Description": "Internal",
+                                      "AccountOwner": [
+                                        {
+                                          "EmailAccounts": {
+                                            "Value": "ross@funnelformations.com",
+                                            "SubAccounts": [
+                                              {
+                                                "Value": "rossdaboss1996@gmail.com"
+                                              }
+                                            ]
+                                          }
+                                        }
+                                      ],
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "AW1",
+                                      "Value": "Andrew Wong",
+                                      "Description": "Person",
+                                      "AccountOwner": [
+                                        {
+                                          "EmailAccounts": {
+                                            "Value": "",
+                                            "SubAccounts": [
+                                              {
+                                                "Value": ""
+                                              }
+                                            ]
+                                          }
+                                        }
+                                      ],
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "MW1",
+                                      "Value": "Mubasher Wajid",
+                                      "Description": "External",
+                                      "AccountOwner": [
+                                        {
+                                          "EmailAccounts": {
+                                            "Value": "mubasher043@gmail.com",
+                                            "SubAccounts": [
+                                              {
+                                                "Value": ""
+                                              }
+                                            ]
+                                          }
+                                        }
+                                      ],
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "KG1.",
+                                      "Value": "Kishor Gujar",
+                                      "Description": "External",
+                                      "AccountOwner": [
+                                        {
+                                          "EmailAccounts": {
+                                            "Value": "kishorgujar95@gmail.com",
+                                            "SubAccounts": [
+                                              {
+                                                "Value": ""
+                                              }
+                                            ]
+                                          }
+                                        }
+                                      ],
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "AH1",
+                                      "Value": "Atif Hussain",
+                                      "Description": "External",
+                                      "AccountOwner": [
+                                        {
+                                          "EmailAccounts": {
+                                            "Value": "atifhussain49@gmail.com",
+                                            "SubAccounts": [
+                                              {
+                                                "Value": ""
+                                              }
+                                            ]
+                                          }
+                                        }
+                                      ],
+                                      "CorporateBrandCode": ""
+                                    },
+                                    {
+                                      "Key": "LR1",
+                                      "Value": "Louie Rosero",
+                                      "Description": "External",
+                                      "AccountOwner": [
+                                        {
+                                          "EmailAccounts": {
+                                            "Value": "roserolouie@gmail.com",
+                                            "SubAccounts": [
+                                              {
+                                                "Value": ""
+                                              }
+                                            ]
+                                          }
+                                        }
+                                      ],
+                                      "CorporateBrandCode": ""
+                                    }
+                                  ]
+                                }
+                              }
                             }
                           ]
                         }
