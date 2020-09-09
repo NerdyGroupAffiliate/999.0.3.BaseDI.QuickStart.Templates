@@ -1,0 +1,167 @@
+﻿{
+  "$schema": "https://schema.management.basedi.io/schemas/2019-10-05/deploymentTemplate.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "baseDI_NerdyGroupAffiliates_DynamicWebsite_MainProfile": {
+      "type": "object",
+      "defaultValue": {
+        "baseDIInstructions": {
+          "configuration": [],
+          "presentation": [],
+          "business": [
+            {
+              "key_1": "Response",
+              "values_2": [
+                {
+                  "key_2_1": "Response_1_0",
+                  "values_2_2": [
+                    {
+                      "key_2_2_1": "Server",
+                      "values_2_2_2": [
+                        {
+                          "_2_2_2_1_functionInformationEventCallStackDetails": {
+                            "searchkey": "HTMLSourceCode_SetImplementer_ProductCreation_Security_ResponseHandler",
+                            "type": "array",
+                            "value": [
+                              {
+                                "_2_2_2_1_1_functionInformationEventCallStackItem": {
+                                  "searchkey": "SetImplementer_ProductCreation_Software_BusinessFuction",
+                                  "type": "object",
+                                  "value": { }
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "type_3": "object",
+              "buzzWords_4": "***REQUIRED***, Functions, Methods, Business Logic",
+              "extraKeyValuePairs_5": []
+            }
+          ],
+          "data": [
+            {
+              "key_1": "Repositories",
+              "values_2": [
+                {
+                  "key_2_1": "Repository_1_0",
+                  "values_2_2": [
+                    {
+                      "key_2_2_1": "Repository",
+                      "values_2_2_2": [
+                        {
+                          "_2_2_2_1_repositoryInformationDataDetails": {
+                            "searchkey": "Repositories_Repository_1_0_Repository_2_2_2_1_RepositoryInformationDataDetails",
+                            "type": "array",
+                            "value": [
+                              {
+                                "_2_2_2_1_1_repositoryInformationDataItem": {
+                                  "searchkey": "SetImplementer_ProductCreation_Software_Data",
+                                  "type": "object",
+                                  "value": {
+                                    "DataItemRowID": "1",
+                                    "DataItemLocation": "LocalService"
+                                  }
+                                },
+                                "_2_2_2_1_2_repositoryInformationDataItem": {
+                                  "searchkey": "SetImplementer_ProductCreation_Software_DataException",
+                                  "type": "object",
+                                  "value": {
+                                    "DataItemRowID": "2",
+                                    "DataItemLocation": "LocalService"
+                                  }
+                                },
+                                "_2_2_2_1_3_repositoryInformationDataItem": {
+                                  "searchkey": "SetImplementer_ProductCreation_Software_MasterLeaderController",
+                                  "type": "object",
+                                  "value": {
+                                    "DataItemRowID": "3",
+                                    "DataItemLocation": "LocalFile"
+                                  }
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "type_3": "object",
+              "buzzWords_4": "***REQUIRED***, LocalFile, LocalDatabase, LocalService, RemoteFile, RemoteDatabase, RemoteService, RemoteServiceVendor",
+              "extraKeyValuePairs_5": [
+                {}
+              ]
+            }
+          ]
+        }
+      },
+      "metadata": {
+        "description": "Sets the dynamic information from the client."
+      }
+    }
+  },
+  "variables": [
+    {}
+  ],
+  "resources": [
+    {
+      "baseDIProfiles": [
+        {
+          "baseDI_NerdyGroupAffiliates_DynamicWebsite_MainProfile": "{BASEDICUSTOMOPTION}",
+          "baseDI_NerdyGroupAffiliates_DynamicWebsite_DocumentationProfile": [
+            {
+              "baseDI_NerdyGroupAffiliates_DynamicWebsitePurpose": "***BASEDI DYNAMIC WEBSITE***",
+              "baseDI_NerdyGroupAffiliates_DynamicWebsite": "https://api.basedi.io/webdevelopment/",
+              "baseDI_NerdyGroupAffiliates_DynamicWebsiteDocumentation": {
+                "baseDINerdyGroupAffiliatesDynamicWebsiteDocumentationParameters": [
+                  {}
+                ],
+                "baseDINerdyGroupAffiliatesDynamicWebsiteDocumentationFields": [
+                  {}
+                ],
+                "baseDINerdyGroupAffiliatesDynamicWebsiteDocumentationRoutes": [
+                  {
+                    "endpoints": [
+                      {
+                        "endpoint_Live": "https://api.basedi.io/programming",
+                        "endpoint_Local_DotNetCore": "http://localhost:8912/api/basedi/io/programming",
+                        "endpoint_Local_NodeJS": "http://localhost:9912/api/basedi/io/programming"
+                      }
+                    ]
+                  }
+                ],
+                "baseDINerdyGroupAffiliatesDynamicWebsiteValidationRules": [
+                  {
+                    "mistakes": [
+                      {
+                        "mistake_route_POST": [
+                          {
+                            "error_100": "Invalid parameter"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "outputs": [
+    {
+      "baseDIMistakes": []
+    },
+    {
+      "baseDIObservations": []
+    }
+  ]
+}
