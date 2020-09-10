@@ -39,9 +39,13 @@
                                                                     "/Home"
                                                                 ],
                                                                 "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0",
-                                                                "ModelDataLocalObject": {},
+                                                                "ModelDataLocalObject": {
+
+                                                                },
                                                                 "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0-P1_0",
-                                                                "ModelDataRemote": {}
+                                                                "ModelDataRemote": {
+
+                                                                }
                                                             }
                                                         },
                                                         {
@@ -51,9 +55,13 @@
                                                                     "/Podcast"
                                                                 ],
                                                                 "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_2_ReadPresalesScreenForAll_Handler_1_0",
-                                                                "ModelDataLocalObject": {},
+                                                                "ModelDataLocalObject": {
+
+                                                                },
                                                                 "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_2_ReadPresalesScreenForAll_Handler_1_0-P1_0",
-                                                                "ModelDataRemote": {}
+                                                                "ModelDataRemote": {
+
+                                                                }
                                                             }
                                                         },
                                                         {
@@ -62,9 +70,13 @@
                                                                     "/Optin"
                                                                 ],
                                                                 "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_3_ReadOptinScreenForAll_Handler_1_0",
-                                                                "ModelDataLocalObject": {},
+                                                                "ModelDataLocalObject": {
+
+                                                                },
                                                                 "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_3_ReadOptinScreenForAll_Handler_1_0-P1_0",
-                                                                "ModelDataRemote": {}
+                                                                "ModelDataRemote": {
+
+                                                                }
                                                             }
                                                         },
                                                         {
@@ -73,9 +85,13 @@
                                                                     "/ThankYou"
                                                                 ],
                                                                 "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_4_ReadThankYouScreenForAll_Handler_1_0",
-                                                                "ModelDataLocalObject": {},
+                                                                "ModelDataLocalObject": {
+
+                                                                },
                                                                 "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_4_ReadThankYouScreenForAll_Handler_1_0-P1_0",
-                                                                "ModelDataRemote": {}
+                                                                "ModelDataRemote": {
+
+                                                                }
                                                             }
                                                         },
                                                         {
@@ -84,9 +100,13 @@
                                                                     "/Sales"
                                                                 ],
                                                                 "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_5_ReadSalesScreenForAll_Handler_1_0",
-                                                                "ModelDataLocalObject": {},
+                                                                "ModelDataLocalObject": {
+
+                                                                },
                                                                 "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_5_ReadSalesScreenForAll_Handler_1_0-P1_0",
-                                                                "ModelDataRemote": {}
+                                                                "ModelDataRemote": {
+
+                                                                }
                                                             }
                                                         },
                                                         {
@@ -95,9 +115,13 @@
                                                                     "/OrderForm"
                                                                 ],
                                                                 "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_6_ReadOrderFormScreenForAll_Handler_1_0",
-                                                                "ModelDataLocalObject": {},
+                                                                "ModelDataLocalObject": {
+
+                                                                },
                                                                 "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_6_ReadOrderFormScreenForAll_Handler_1_0-P1_0",
-                                                                "ModelDataRemote": {}
+                                                                "ModelDataRemote": {
+
+                                                                }
                                                             }
                                                         },
                                                         {
@@ -106,9 +130,13 @@
                                                                     "/OTO"
                                                                 ],
                                                                 "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_7_ReadOTOScreenForAll_Handler_1_0",
-                                                                "ModelDataLocalObject": {},
+                                                                "ModelDataLocalObject": {
+
+                                                                },
                                                                 "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_7_ReadOTOScreenForAll_Handler_1_0-P1_0",
-                                                                "ModelDataRemote": {}
+                                                                "ModelDataRemote": {
+
+                                                                }
                                                             }
                                                         },
                                                         {
@@ -117,9 +145,13 @@
                                                                     "/Webinar"
                                                                 ],
                                                                 "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_8_ReadWebinarScreenForAll_Handler_1_0",
-                                                                "ModelDataLocalObject": {},
+                                                                "ModelDataLocalObject": {
+
+                                                                },
                                                                 "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_8_ReadWebinarScreenForAll_Handler_1_0-P1_0",
-                                                                "ModelDataRemote": {}
+                                                                "ModelDataRemote": {
+
+                                                                }
                                                             }
                                                         },
                                                         {
@@ -128,9 +160,13 @@
                                                                     "/Membership"
                                                                 ],
                                                                 "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_9_ReadMembershipScreenForAll_Handler_1_0",
-                                                                "ModelDataLocalObject": {},
+                                                                "ModelDataLocalObject": {
+
+                                                                },
                                                                 "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_9_ReadMembershipScreenForAll_Handler_1_0-P1_0",
-                                                                "ModelDataRemote": {}
+                                                                "ModelDataRemote": {
+
+                                                                }
                                                             }
                                                         },
                                                         {
@@ -139,9 +175,13 @@
                                                                     "/Affiliate"
                                                                 ],
                                                                 "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_10_ReadAffiliateScreenForAll_Handler_1_0",
-                                                                "ModelDataLocalObject": {},
+                                                                "ModelDataLocalObject": {
+
+                                                                },
                                                                 "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_10_ReadAffiliateScreenForAll_Handler_1_0-P1_0",
-                                                                "ModelDataRemote": {}
+                                                                "ModelDataRemote": {
+
+                                                                }
                                                             }
                                                         },
                                                         {
@@ -150,9 +190,13 @@
                                                                     "/How-To"
                                                                 ],
                                                                 "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_11_ReadOtherScreenForAll_Handler_1_0",
-                                                                "ModelDataLocalObject": {},
+                                                                "ModelDataLocalObject": {
+
+                                                                },
                                                                 "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_11_ReadOtherScreenForAll_Handler_1_0-P1_0",
-                                                                "ModelDataRemote": {}
+                                                                "ModelDataRemote": {
+
+                                                                }
                                                             }
                                                         },
                                                         {
@@ -162,9 +206,13 @@
                                                                     "/TransportDigitalAssets"
                                                                 ],
                                                                 "ControllerName": "Experience_The_Movement_OfTheAssets_Content_12_2_1_0",
-                                                                "ModelDataLocalObject": {},
+                                                                "ModelDataLocalObject": {
+
+                                                                },
                                                                 "ModelDataLocalParameter": "Experience_The_Movement_OfTheAssets_Content_12_2_1_0-P1_0",
-                                                                "ModelDataRemote": {}
+                                                                "ModelDataRemote": {
+
+                                                                }
                                                             }
                                                         },
                                                         {
@@ -174,9 +222,13 @@
                                                                     "/3rdParty"
                                                                 ],
                                                                 "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_12_ReadAdvancedScreenForAll_Handler_1_0",
-                                                                "ModelDataLocalObject": {},
+                                                                "ModelDataLocalObject": {
+
+                                                                },
                                                                 "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_12_ReadAdvancedScreenForAll_Handler_1_0-P1_0",
-                                                                "ModelDataRemote": {}
+                                                                "ModelDataRemote": {
+
+                                                                }
                                                             }
                                                         },
                                                         {
@@ -185,9 +237,13 @@
                                                                     "/Advertising"
                                                                 ],
                                                                 "ControllerName": "Director_Of_Advertising_Chapter_1_1_Page_2_CreateWhereAPersonBecameAwareOfTopic_Handler_1_0",
-                                                                "ModelDataLocalObject": {},
+                                                                "ModelDataLocalObject": {
+
+                                                                },
                                                                 "ModelDataLocalParameter": "Director_Of_Advertising_Chapter_1_1_Page_2_CreateWhereAPersonBecameAwareOfTopic_Handler_1_0-P1_4_1_1",
-                                                                "ModelDataRemote": {}
+                                                                "ModelDataRemote": {
+
+                                                                }
                                                             }
                                                         }
                                                     ]
@@ -201,13 +257,13 @@
                     }],
                     "type_3": "object",
                     "buzzWords_4": "***OPTIONAL***, NodeJS, WebAPI",
-                    "extraKeyValuePairs_5": [
-                        {}
-                    ]
+                    "extraKeyValuePairs_5": [{
+
+                    }]
                 }],
-                "presentation": [
-                    {}
-                ],
+                "presentation": [{
+
+                }],
                 "business": [{
                     "key_1": "Request",
                     "values_2": [{
@@ -249,7 +305,9 @@
                     }],
                     "type_3": "object",
                     "buzzWords_4": "***REQUIRED***, Functions, Methods, Business Logic",
-                    "extraKeyValuePairs_5": []
+                    "extraKeyValuePairs_5": [
+
+                    ]
                 }],
                 "data": [{
                         "key_1": "CachedDataSets",
@@ -334,7 +392,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            // Corporate Codes
                                                             {
                                                                 "Value": "1",
                                                                 "key": "NGG",
@@ -657,7 +714,6 @@
                                                                 "AccountOwner": "Timothy Richardson",
                                                                 "CorporateBrandCode": "RTG"
                                                             },
-                                                            // Arts and Entertainment (ARE)
                                                             {
                                                                 "Value": "Animation",
                                                                 "key": "ANI",
@@ -791,7 +847,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            // Automotive (AUT)
                                                             {
                                                                 "key": "ATV",
                                                                 "value": "ATV",
@@ -876,7 +931,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            // Book Reviews (BOR)
                                                             {
                                                                 "key": "ALM",
                                                                 "value": "Almanacs",
@@ -1248,7 +1302,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            // Business (BUS)
                                                             {
                                                                 "key": "ACC",
                                                                 "value": "Accounting",
@@ -1613,7 +1666,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            // Cancer (CAN)
                                                             {
                                                                 "key": "BRC",
                                                                 "value": "Brain Cancer",
@@ -1670,7 +1722,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            // Communications (COM)
                                                             {
                                                                 "key": "BRI",
                                                                 "value": "Broadband Internet",
@@ -1769,7 +1820,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            // Computers and Technology (COT)
                                                             {
                                                                 "key": "CET",
                                                                 "value": "Certification Tests",
@@ -1840,7 +1890,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            // Finance (FIN)
                                                             {
                                                                 "key": "AUL",
                                                                 "value": "Auto Loans",
@@ -2072,7 +2121,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            // Food and Drink (FOD)
                                                             {
                                                                 "key": "BBG",
                                                                 "value": "BBQ Grilling",
@@ -2199,7 +2247,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            // Gaming (GAM)
                                                             {
                                                                 "key": "COM",
                                                                 "value": "Communities",
@@ -2242,7 +2289,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            // Health and Fitness (HEF)
                                                             {
                                                                 "key": "CAN",
                                                                 "value": "Acne",
@@ -2775,7 +2821,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            // Home and Family (HOF) 
                                                             {
                                                                 "key": "ADC",
                                                                 "value": "Adolescent Care",
@@ -2972,7 +3017,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            // Home Based Business (HBB)
                                                             {
                                                                 "key": "NEM",
                                                                 "value": "Network Marketing",
@@ -2980,7 +3024,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            // Home Improvement (HOI)
                                                             {
                                                                 "key": "APP",
                                                                 "value": "Appliances",
@@ -3233,7 +3276,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            //  Insurance (INS)
                                                             {
                                                                 "key": "AGM",
                                                                 "value": "Agents Marketers",
@@ -3374,7 +3416,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            //  Internet and Businesses O (IBO
                                                             {
                                                                 "key": "AFR",
                                                                 "value": "Affiliate Revenue",
@@ -3634,7 +3675,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            // Investing (INV)
                                                             {
                                                                 "key": "DAT",
                                                                 "value": "Day Trading",
@@ -3684,8 +3724,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            // Kids and Teens (KIT)
-                                                            // Legal (LEG)
                                                             {
                                                                 "key": "CHC",
                                                                 "value": "Child Custody",
@@ -3833,7 +3871,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            // News and Society (NES)
                                                             {
                                                                 "key": "ANS",
                                                                 "value": "Anthropology Sociology",
@@ -3918,7 +3955,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            // Pets (PET) 
                                                             {
                                                                 "key": "BIR",
                                                                 "value": "Birds",
@@ -3982,7 +4018,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            // Real Estate (REE)
                                                             {
                                                                 "key": "AGR",
                                                                 "value": "Agents Realtors",
@@ -4116,7 +4151,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            //  Recreation and Sports (RES)
                                                             {
                                                                 "key": "ARC",
                                                                 "value": "Archery",
@@ -4474,7 +4508,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            // Reference and Education (REE)
                                                             {
                                                                 "key": "AST",
                                                                 "value": "Astronomy",
@@ -4629,7 +4662,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            // Relationships (REL)
                                                             {
                                                                 "key": "AFF",
                                                                 "value": "Affairs",
@@ -4798,7 +4830,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            //  Self Improvement (SEI)
                                                             {
                                                                 "key": "ABP",
                                                                 "value": "Abundance Prosperity",
@@ -5002,7 +5033,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            // Shopping and Product Revi (SPR)
                                                             {
                                                                 "key": "COJ",
                                                                 "value": "Collectible Jewelry",
@@ -5073,7 +5103,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            // Travel and Leisure (TRL)
                                                             {
                                                                 "key": "ADT",
                                                                 "value": "Adventure Travel",
@@ -5263,7 +5292,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            //  Women's Interests (WOI)
                                                             {
                                                                 "key": "BEP",
                                                                 "value": "Beauty Products",
@@ -5299,7 +5327,6 @@
                                                                 "AccountOwner": "",
                                                                 "CorporateBrandCode": ""
                                                             },
-                                                            // Writing and Speaking (WRS)
                                                             {
                                                                 "key": "WRS",
                                                                 "value": "Writing and Speaking",
@@ -5406,9 +5433,9 @@
                         }],
                         "type_3": "object",
                         "buzzWords_4": "***REQUIRED***, LocalFile, LocalDatabase, LocalService, RemoteFile, RemoteDatabase, RemoteService, RemoteServiceVendor",
-                        "extraKeyValuePairs_5": [
-                            {}
-                        ]
+                        "extraKeyValuePairs_5": [{
+
+                        }]
                     },
                     {
                         "key_1": "Repositories",
@@ -5452,9 +5479,9 @@
                         }],
                         "type_3": "object",
                         "buzzWords_4": "***REQUIRED***, LocalFile, LocalDatabase, LocalService, RemoteFile, RemoteDatabase, RemoteService, RemoteServiceVendor",
-                        "extraKeyValuePairs_5": [
-                            {}
-                        ]
+                        "extraKeyValuePairs_5": [{
+
+                        }]
                     }
                 ]
             }
