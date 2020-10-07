@@ -4,7 +4,59 @@
   "baseDI_NerdyGroupAffiliates_DynamicWebsite_MainProfile": {
     "value": {
       "baseDIInstructions": {
-        "configuration": [],
+        "configuration": [
+          {
+            "key_1": "APIS",
+            "values_2": [
+              {
+                "key_2_1": "API_1_0",
+                "values_2_2": [
+                  {
+                    "key_2_2_1": "MicrosoftGraph",
+                    "values_2_2_2": [
+                      {
+                        "_2_2_2_1_serverInformationSetupDetails": {
+                          "searchkey": "SetupDetails_APIS_API_1_0_MicrosoftGraph_2_2_2_1_serverInformationSetupDetails",
+                          "type": "array",
+                          "value": [
+                            {
+                              "_2_2_2_1_1_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetBuyer_ProductLaunching_Software_TransportEnvironment",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "1",
+                                  "SetupItemAPIName": "Microsoft Graph",
+                                  "SetupItemAPIProfile": {
+                                    "SetupItemAPIEndPointsAndRoutes": {
+                                      "SetupItemAPIBaseEndpoint": "https://login.microsoftonline.com/common",
+                                      "SetupItemAPIAuthorizeRoute": "/oauth2/v2.0/authorize",
+                                      "SetupItemAPIMetaDataRoute": "/v2.0/.well-known/openid-configuration",
+                                      "SetupItemAPITokenRoute": "/oauth2/v2.0/token"
+                                    },
+                                    "SetupItemAPISecurityDetails": {
+                                      "SetupItemAPISecurityAppID": "a963fb61-d6b2-4f60-910d-124d25db479c",
+                                      "SetupItemAPISecurityPassword": "Yw~c6~35iIfi-4X8S2XPksk8nbnmHCn~9w",
+                                      "SetupItemAPISecurityScopes": [ "profile", "offline_access", "user.read", "calendars.read" ]
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "type_3": "object",
+            "buzzWords_4": "***OPTIONAL***, NodeJS, WebAPI",
+            "extraKeyValuePairs_5": [
+              {}
+            ]
+          }
+        ],
         "presentation": [],
         "business": [
           {

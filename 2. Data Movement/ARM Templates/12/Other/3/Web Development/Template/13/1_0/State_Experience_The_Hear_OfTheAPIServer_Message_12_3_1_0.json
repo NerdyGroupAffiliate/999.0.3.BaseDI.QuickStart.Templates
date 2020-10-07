@@ -14,11 +14,11 @@
                   "key_2_1": "Server_1_0",
                   "values_2_2": [
                     {
-                      "key_2_2_1": "NodeJS",
+                      "key_2_2_1": "ServerWeb",
                       "values_2_2_2": [
                         {
                           "_2_2_2_1_serverInformationSetupDetails": {
-                            "searchkey": "SetupDetails_Servers_Server_1_0_NodeJS_2_2_2_1_serverInformationSetupDetails",
+                            "searchkey": "SetupDetails_Servers_Server_1_0_ServerWeb_2_2_2_1_serverInformationSetupDetails",
                             "type": "array",
                             "value": [
                               {
