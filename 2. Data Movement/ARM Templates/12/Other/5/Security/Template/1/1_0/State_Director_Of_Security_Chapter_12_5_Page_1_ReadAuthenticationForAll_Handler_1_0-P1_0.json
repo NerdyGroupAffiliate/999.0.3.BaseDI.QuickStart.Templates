@@ -28,13 +28,15 @@
                                   "SetupItemAPIName": "Microsoft Graph",
                                   "SetupItemAPIProfile": {
                                     "SetupItemAPIEndPointsAndRoutes": {
-                                      "SetupItemAPIBaseEndpoint": "https://login.microsoftonline.com/common",
                                       "SetupItemAPIAuthorizeRoute": "/oauth2/v2.0/authorize",
+                                      "SetupItemAPIBaseEndpoint": "https://login.microsoftonline.com/",
                                       "SetupItemAPIMetaDataRoute": "/v2.0/.well-known/openid-configuration",
+                                      "SetupItemAPIScope": "https://graph.microsoft.com/.default",
                                       "SetupItemAPITokenRoute": "/oauth2/v2.0/token"
                                     },
                                     "SetupItemAPISecurityDetails": {
                                       "SetupItemAPISecurityAppID": "a963fb61-d6b2-4f60-910d-124d25db479c",
+                                      "SetupItemAPISecurityCustomerID": "843958ec-e9bd-4700-82a9-15f083e9ae1f",
                                       "SetupItemAPISecurityPassword": "Yw~c6~35iIfi-4X8S2XPksk8nbnmHCn~9w",
                                       "SetupItemAPISecurityScopes": [ "profile", "offline_access", "user.read", "calendars.read" ]
                                     }
