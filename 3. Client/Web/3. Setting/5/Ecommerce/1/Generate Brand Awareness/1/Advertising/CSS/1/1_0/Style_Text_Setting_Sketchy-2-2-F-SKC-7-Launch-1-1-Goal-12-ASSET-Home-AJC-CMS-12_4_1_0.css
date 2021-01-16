@@ -1,0 +1,244 @@
+﻿/*CONTAINERS*/
+#container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0 {
+  text-align: center;
+}
+
+
+
+
+
+/*ROWS*/
+#row_A-1_business-sales-authority {
+}
+
+#row_B-1_business-advertising-sign {
+}
+
+#row_C-1_business-sales-cta {
+}
+
+#row_D-1_business-sales-liking {
+}
+
+
+
+
+
+/*COLUMNS*/
+#column_A-1-1_real_estate-commerical_construction-section {
+}
+
+#column_B-1-1_real_estate-commerical_construction-section {
+}
+
+#column_C-1-1_real_estate-commerical_construction-section {
+}
+
+#column_D-1-1_real_estate-commerical_construction-section {
+}
+
+
+
+
+
+/*CONTENT*/
+#content_A-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0 {
+}
+
+#content_B-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner1-WidthXHeight-Desktop-1_1_1_0 {
+  font-family: 'Gill Sans MT Condensed', sans-serif;
+  color: #047A0A;
+  font-size: 115px;
+}
+
+  /*Desktop - 1600px*/
+  @media (max-width: 1600px) {
+    #content_B-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner1-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 100px;
+    }
+  }
+
+  /*Desktop - 1536px*/
+  @media (max-width: 1536px) {
+    #content_B-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner1-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 95px;
+    }
+  }
+
+  /*Desktop - 1440px*/
+  @media (max-width: 1440px) {
+    #content_B-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner1-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 88px;
+    }
+  }
+
+  /*Desktop - 1366px*/
+  @media (max-width: 1366px) {
+    #content_B-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner1-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 80px;
+    }
+  }
+
+  /*Desktop - 1280px X 800px*/
+  @media (max-width: 1280px) and (max-height: 800px) {
+    #content_B-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner1-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 78px;
+    }
+  }
+
+  /*Tablet - 1024px*/
+  @media (max-width: 1024px) {
+    #content_B-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner1-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 76px;
+    }
+  }
+
+  /*Tablet - 800px*/
+  @media (max-width: 800px) {
+    #content_B-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner1-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 70px;
+    }
+  }
+
+  /*Tablet - 768px*/
+  @media (max-width: 768px) {
+    #content_B-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner1-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 65px;
+    }
+  }
+
+  /*Mobile - 720px*/
+  @media (max-width: 720px) {
+    #content_B-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner1-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 56px;
+    }
+  }
+
+  /*Tablet - 601px*/
+  @media (max-width: 601px) {
+    #content_B-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner1-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 48px;
+    }
+  }
+
+  /*Mobile - 414px*/
+  @media (max-width: 415px) {
+    #content_B-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner1-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 32px;
+    }
+  }
+
+  /*Mobile - 360px*/
+  @media (max-width: 361px) {
+    #content_B-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner1-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 28px;
+    }
+  }
+
+#content_B-1-1-2_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner2-WidthXHeight-Desktop-1_1_1_0 {
+  font-family: 'Tw Cen MT Condensed', sans-serif;
+  color: #000;
+  font-size: 48px;
+}
+
+  /*Desktop - 1600px*/
+  @media (max-width: 1600px) {
+    #content_B-1-1-2_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner2-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 42px;
+    }
+  }
+
+  /*Desktop - 1536px*/
+  @media (max-width: 1536px) {
+    #content_B-1-1-2_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner2-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 40px;
+    }
+  }
+
+  /*Desktop - 1440px*/
+  @media (max-width: 1440px) {
+    #content_B-1-1-2_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner2-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 37px;
+    }
+  }
+
+  /*Desktop - 1366px*/
+  @media (max-width: 1366px) {
+    #content_B-1-1-2_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner2-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 34px;
+    }
+  }
+
+  /*Desktop - 1280px X 800px*/
+  @media (max-width: 1280px) and (max-height: 800px) {
+    #content_B-1-1-2_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner2-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 33px;
+    }
+  }
+
+  /*Tablet - 1024px*/
+  @media (max-width: 1024px) {
+    #content_B-1-1-2_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner2-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 32px;
+    }
+  }
+
+  /*Tablet - 800px*/
+  @media (max-width: 800px) {
+    #content_B-1-1-2_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner2-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 29px;
+    }
+  }
+
+  /*Tablet - 768px*/
+  @media (max-width: 768px) {
+    #content_B-1-1-2_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner2-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 27px;
+    }
+  }
+
+  /*Mobile - 720px*/
+  @media (max-width: 720px) {
+    #content_B-1-1-2_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner2-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 24px;
+    }
+  }
+
+  /*Tablet - 601px*/
+  @media (max-width: 601px) {
+    #content_B-1-1-2_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner2-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 20px;
+    }
+  }
+
+  /*Mobile - 414px*/
+  @media (max-width: 415px) {
+    #content_B-1-1-2_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner2-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 14px;
+    }
+  }
+
+  /*Mobile - 360px*/
+  @media (max-width: 361px) {
+    #content_B-1-1-2_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner2-WidthXHeight-Desktop-1_1_1_0 {
+      font-size: 12px;
+    }
+  }
+
+#content_C-1-1-1_Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-WidthXHeight-Desktop-3_1_1_0 {
+}
+
+#content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+}
+
+#content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+}
+
+#content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+}
+
+#content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+}
+
+#content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+}
