@@ -3235,268 +3235,1023 @@
                                                     "value": {
                                                         "HTMLContentStylingItemRowID": "1",
                                                         "HTMLContentStylingItemFiles": [{
-                                                            "StyleFilePathLocal": "../999.0.3.BaseDI.QuickStart.Templates/3. Client/Web/3. Setting/5/Ecommerce/4/Sell Low Ticket Offer/2/Nutrition/CSS/1/1_0/",
-                                                            "StyleFilePathRemote": "https://github.com/NerdyGroupAffiliate/999.0.3.BaseDI.QuickStart.Templates",
-                                                            "StyleFiles": [{
-                                                                    "StyleFileName": "Style_Alignments_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                                    "StyleFileSupportedProperties": ["position", "top", "bottom", "left", "right", "clip", "overflow", "z-index", "float", "clear"],
-                                                                    "StyleFileUseProperties": [{
-                                                                            "attributeID": "",
-                                                                            "properties": [{
-                                                                                "propertyName": "body",
-                                                                                "properyValues": ["overflow-y;hidden", "position: relative"]
-                                                                            }],
-                                                                            "IsMediaQuery": "false",
-                                                                            "MediaQueryResolutions": [{
-                                                                                "resolutions": ["1600px"],
-                                                                                "propertyName": "top",
-                                                                                "properyValues": ["330px"]
-                                                                            }]
-                                                                        },
-                                                                        {
-                                                                            "attributeID": "column_D-1-1_real_estate-commerical_construction-section",
-                                                                            "properties": [{
-                                                                                "propertyName": "img",
-                                                                                "properyValues": ["position: absolute"]
-                                                                            }],
-                                                                            "IsMediaQuery": "false",
-                                                                            "MediaQueryResolutions": [{
-                                                                                "resolutions": ["1600px"],
-                                                                                "propertyName": "top",
-                                                                                "properyValues": ["330px"]
-                                                                            }]
-                                                                        }
-                                                                    ]
-                                                                },
-                                                                {
-                                                                    "StyleFileName": "Style_Backgrounds_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                                    "StyleFileSupportedProperties": ["background-color", "background", "background-image", "background-repeat", "background-position", "background-attachment", "background-clip", "background-orgin", "background-size"],
-                                                                    "StyleFileUseProperties": [{
-                                                                        "attributeID": "",
+                                                                "StyleFilePathLocal": "../999.0.3.BaseDI.QuickStart.Templates/3. Client/Web/3. Setting/5/Ecommerce/4/Sell Low Ticket Offer/2/Nutrition/CSS/1/1_0/",
+                                                                "StyleFilePathRemote": "https://github.com/NerdyGroupAffiliate/999.0.3.BaseDI.QuickStart.Templates",
+                                                                "StyleFiles": [{
+                                                                        "StyleFileName": "Style_Alignments_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                                                        "StyleFileSupportedProperties": ["position", "top", "bottom", "left", "right", "clip", "overflow", "z-index", "float", "clear"],
+                                                                        "StyleFileUseProperties": [{
+                                                                                "attributeID": "",
+                                                                                "properties": [{
+                                                                                    "propertyName": "progress",
+                                                                                    "properyValues": ["position: relative"]
+                                                                                }],
+                                                                                "IsMediaQuery": "false"
+                                                                            },
+                                                                            {
+                                                                                "attributeID": "progress:before",
+                                                                                "properties": [{
+                                                                                    "propertyName": "progress:before",
+                                                                                    "properyValues": [
+                                                                                        "vertical-align: 0",
+                                                                                        "position: absolute",
+                                                                                        "left: 0",
+                                                                                        "right: 0",
+                                                                                        "top: 4px"
+                                                                                    ]
+                                                                                }],
+                                                                                "IsMediaQuery": "false"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "StyleFileName": "Style_Backgrounds_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                                                        "StyleFileSupportedProperties": ["background-color", "background", "background-image", "background-repeat", "background-position", "background-attachment", "background-clip", "background-orgin", "background-size"],
+                                                                        "StyleFileUseProperties": [{
+                                                                                "attributeID": "",
+                                                                                "properties": [{
+                                                                                    "propertyName": "progress::-webkit-progress-bar",
+                                                                                    "properyValues": ["background-color: #c9c9c9"]
+                                                                                }],
+                                                                                "IsMediaQuery": "false"
+                                                                            },
+                                                                            {
+                                                                                "attributeID": "",
+                                                                                "properties": [{
+                                                                                    "propertyName": "progress::-webkit-progress-value",
+                                                                                    "properyValues": ["background-color: limegreen"]
+                                                                                }],
+                                                                                "IsMediaQuery": "false"
+                                                                            },
+                                                                            {
+                                                                                "attributeID": "",
+                                                                                "properties": [{
+                                                                                    "propertyName": "progress::-moz-progress-bar",
+                                                                                    "properyValues": ["background-color: #7cc4ff"]
+                                                                                }],
+                                                                                "IsMediaQuery": "false"
+                                                                            },
+                                                                            {
+                                                                                "attributeID": "content_B-1-5-6-1",
+                                                                                "properties": [{
+                                                                                    "propertyName": "background",
+                                                                                    "properyValues": ["darkblue"]
+                                                                                }],
+                                                                                "IsMediaQuery": "false"
+                                                                            },
+                                                                            {
+                                                                                "attributeID": "",
+                                                                                "properties": [{
+                                                                                    "propertyName": "progress",
+                                                                                    "properyValues": ["background-color: lightgreen"]
+                                                                                }],
+                                                                                "IsMediaQuery": "false"
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "StyleFileName": "Style_Borders_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                                                "StyleFileSupportedProperties": ["border-radius", "border-top-left-radius", "border-top-right-radius", "border-bottom-right-radius", "border-image", "border-image-source", "border-image-slice", "border-image-width", "border-image-outset", "border-image-repeat", "border", "border-right", "border-left", "border-top", "border-bottom", "border-width", "border-top-width", "border-bottom-width", "border-left-width", "border-right-width", "border-style", "border-top-style", "border-bottom-style", "border-left-style", "border-right-style", "border-color", "border-top-color", "border-bottom-color", "border-left-color", "border-right-color", "border-collapse", "border-spacing"],
+                                                                "StyleFileUseProperties": [{
+                                                                    "attributeID": "content_B-1-4-2",
+                                                                    "properties": [{
+                                                                        "propertyName": "border",
+                                                                        "properyValues": ["solid darkblue 2px"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "column_B-1-1 label",
+                                                                    "properties": [{
+                                                                        "propertyName": "border-bottom",
+                                                                        "properyValues": ["solid darkblue 3px"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "content_B-1-4 label",
+                                                                    "properties": [{
+                                                                        "propertyName": "border-bottom",
+                                                                        "properyValues": ["solid darkblue 3px"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "content_B-1-5-1",
+                                                                    "properties": [{
+                                                                        "propertyName": "border-bottom",
+                                                                        "properyValues": ["solid darkblue 3px"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "#content_B-1-5-4",
+                                                                    "properties": [{
+                                                                        "propertyName": "border-bottom",
+                                                                        "properyValues": ["solid darkblue 3px"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "#content_B-1-5-4-1",
+                                                                    "properties": [{
+                                                                        "propertyName": "border-bottom",
+                                                                        "properyValues": ["solid darkblue 3px"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "",
+                                                                    "properties": [{
+                                                                        "propertyName": "progress",
+                                                                        "properyValues": ["-webkit-appearance: none", "border: none"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }]
+                                                            },
+                                                            {
+                                                                "StyleFileName": "Style_Colors_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                                                "StyleFileSupportedProperties": ["color", "opacity"],
+                                                                "StyleFileUseProperties": [{
+                                                                    "attributeID": "#content_A-1-1-1",
+                                                                    "properties": [{
+                                                                        "propertyName": "color",
+                                                                        "properyValues": ["#1E90FF"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "#content_A-1-1-1 span",
+                                                                    "properties": [{
+                                                                        "propertyName": "color",
+                                                                        "properyValues": ["#000"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "#content_B-1-5-6-1",
+                                                                    "properties": [{
+                                                                        "propertyName": "color",
+                                                                        "properyValues": ["#fff"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "progress:before",
+                                                                    "properties": [{
+                                                                        "propertyName": "color",
+                                                                        "properyValues": ["#fff"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }]
+                                                            },
+                                                            {
+                                                                "StyleFileName": "Style_Effects_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                                                "StyleFileSupportedProperties": ["box-shadow", "transform", "transform-origin", "transition", "transition-property", "transition-duration", "transition-timing-function", "transition-delay"],
+                                                                "StyleFileUseProperties": [{
+                                                                    "attributeID": "",
+                                                                    "properties": [{
+                                                                        "propertyName": "",
+                                                                        "properyValues": [""]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+                                                                        "resolutions": ["1600px"],
+                                                                        "propertyName": "top",
+                                                                        "properyValues": ["330px"]
+                                                                    }]
+                                                                }]
+                                                            },
+                                                            {
+                                                                "StyleFileName": "Style_Flow_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                                                "StyleFileSupportedProperties": ["display", "visibility"],
+                                                                "StyleFileUseProperties": [{
+                                                                        "attributeID": "#row_B-1",
                                                                         "properties": [{
-                                                                            "propertyName": "",
-                                                                            "properyValues": [""]
+                                                                            "propertyName": "display",
+                                                                            "properyValues": ["flex"]
                                                                         }],
                                                                         "IsMediaQuery": "false",
                                                                         "MediaQueryResolutions": [{
-                                                                            "propertyName": "",
-                                                                            "properyValues": [""]
+
                                                                         }]
-                                                                    }]
-                                                                },
-                                                                {
-                                                                    "StyleFileName": "Style_Borders_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                                    "StyleFileSupportedProperties": ["border-radius", "border-top-left-radius", "border-top-right-radius", "border-bottom-right-radius", "border-image", "border-image-source", "border-image-slice", "border-image-width", "border-image-outset", "border-image-repeat", "border", "border-right", "border-left", "border-top", "border-bottom", "border-width", "border-top-width", "border-bottom-width", "border-left-width", "border-right-width", "border-style", "border-top-style", "border-bottom-style", "border-left-style", "border-right-style", "border-color", "border-top-color", "border-bottom-color", "border-left-color", "border-right-color", "border-collapse", "border-spacing"],
-                                                                    "StyleFileUseProperties": [{
-                                                                        "attributeID": "",
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-4-2",
                                                                         "properties": [{
-                                                                            "propertyName": "",
-                                                                            "properyValues": [""]
+                                                                            "propertyName": "display",
+                                                                            "properyValues": ["flex"]
                                                                         }],
                                                                         "IsMediaQuery": "false",
                                                                         "MediaQueryResolutions": [{
-                                                                            "resolutions": ["1600px"],
-                                                                            "propertyName": "top",
-                                                                            "properyValues": ["330px"]
+
                                                                         }]
-                                                                    }]
-                                                                },
-                                                                {
-                                                                    "StyleFileName": "Style_Colors_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                                    "StyleFileSupportedProperties": ["color", "opacity"],
-                                                                    "StyleFileUseProperties": [{
-                                                                        "attributeID": "",
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-4-2",
                                                                         "properties": [{
-                                                                            "propertyName": "",
-                                                                            "properyValues": [""]
+                                                                            "propertyName": "justify-content",
+                                                                            "properyValues": ["space-around"]
                                                                         }],
                                                                         "IsMediaQuery": "false",
                                                                         "MediaQueryResolutions": [{
-                                                                            "resolutions": ["1600px"],
-                                                                            "propertyName": "top",
-                                                                            "properyValues": ["330px"]
+
                                                                         }]
-                                                                    }]
-                                                                },
-                                                                {
-                                                                    "StyleFileName": "Style_Effects_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                                    "StyleFileSupportedProperties": ["box-shadow", "transform", "transform-origin", "transition", "transition-property", "transition-duration", "transition-timing-function", "transition-delay"],
-                                                                    "StyleFileUseProperties": [{
-                                                                        "attributeID": "",
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#column_B-1-1 label",
                                                                         "properties": [{
-                                                                            "propertyName": "",
-                                                                            "properyValues": [""]
+                                                                            "propertyName": "display",
+                                                                            "properyValues": ["block"]
                                                                         }],
                                                                         "IsMediaQuery": "false",
                                                                         "MediaQueryResolutions": [{
-                                                                            "resolutions": ["1600px"],
-                                                                            "propertyName": "top",
-                                                                            "properyValues": ["330px"]
+
                                                                         }]
-                                                                    }]
-                                                                },
-                                                                {
-                                                                    "StyleFileName": "Style_Flow_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                                    "StyleFileSupportedProperties": ["display", "visibility"],
-                                                                    "StyleFileUseProperties": [{
-                                                                        "attributeID": "",
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-4 label",
                                                                         "properties": [{
-                                                                            "propertyName": "",
-                                                                            "properyValues": [""]
+                                                                            "propertyName": "display",
+                                                                            "properyValues": ["block"]
                                                                         }],
                                                                         "IsMediaQuery": "false",
                                                                         "MediaQueryResolutions": [{
-                                                                            "resolutions": ["1600px"],
-                                                                            "propertyName": "top",
-                                                                            "properyValues": ["330px"]
+
                                                                         }]
-                                                                    }]
-                                                                },
-                                                                {
-                                                                    "StyleFileName": "Style_Lists_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                                    "StyleFileSupportedProperties": ["content", "quotes", "counter-increment", "counter-reset", "list-style", "list-style-type", "list-style-image", "list-style-position"],
-                                                                    "StyleFileUseProperties": [{
-                                                                        "attributeID": "",
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-5-1",
                                                                         "properties": [{
-                                                                            "propertyName": "",
-                                                                            "properyValues": [""]
+                                                                            "propertyName": "display",
+                                                                            "properyValues": ["block"]
                                                                         }],
                                                                         "IsMediaQuery": "false",
                                                                         "MediaQueryResolutions": [{
-                                                                            "resolutions": ["1600px"],
-                                                                            "propertyName": "top",
-                                                                            "properyValues": ["330px"]
+
                                                                         }]
-                                                                    }]
-                                                                },
-                                                                {
-                                                                    "StyleFileName": "Style_Margins_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                                    "StyleFileSupportedProperties": ["margin", "margin-top", "margin-right", "margin-left", "margin-bottom"],
-                                                                    "StyleFileUseProperties": [{
-                                                                        "attributeID": "",
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-5-3",
                                                                         "properties": [{
-                                                                            "propertyName": "",
-                                                                            "properyValues": [""]
+                                                                            "propertyName": "display",
+                                                                            "properyValues": ["flex"]
                                                                         }],
                                                                         "IsMediaQuery": "false",
                                                                         "MediaQueryResolutions": [{
-                                                                            "resolutions": ["1600px"],
-                                                                            "propertyName": "top",
-                                                                            "properyValues": ["330px"]
+
                                                                         }]
-                                                                    }]
-                                                                },
-                                                                {
-                                                                    "StyleFileName": "Style_Misc_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                                    "StyleFileSupportedProperties": ["cursor", "outline", "outline-style", "outline-color", "outline-width", "direction", "unicode-bidi", "all", "page-break-before", "page-break-after", "page-break-inside", "orphans", "widows"],
-                                                                    "StyleFileUseProperties": [{
-                                                                        "attributeID": "",
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-5-5-1-2",
                                                                         "properties": [{
-                                                                            "propertyName": "",
-                                                                            "properyValues": [""]
+                                                                            "propertyName": "display",
+                                                                            "properyValues": ["flex"]
                                                                         }],
                                                                         "IsMediaQuery": "false",
                                                                         "MediaQueryResolutions": [{
-                                                                            "resolutions": ["1600px"],
-                                                                            "propertyName": "top",
-                                                                            "properyValues": ["330px"]
+
                                                                         }]
-                                                                    }]
-                                                                },
-                                                                {
-                                                                    "StyleFileName": "Style_Padding_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                                    "StyleFileSupportedProperties": ["padding", "padding-top", "padding-bottom", "padding-left", "padding-right"],
-                                                                    "StyleFileUseProperties": [{
-                                                                        "attributeID": "",
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-5-5-1-2",
                                                                         "properties": [{
-                                                                            "propertyName": "",
-                                                                            "properyValues": [""]
+                                                                            "propertyName": "justify-content",
+                                                                            "properyValues": ["space-between"]
                                                                         }],
                                                                         "IsMediaQuery": "false",
                                                                         "MediaQueryResolutions": [{
-                                                                            "resolutions": ["1600px"],
-                                                                            "propertyName": "top",
-                                                                            "properyValues": ["330px"]
+
                                                                         }]
-                                                                    }]
-                                                                },
-                                                                {
-                                                                    "StyleFileName": "Style_Sizes_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                                    "StyleFileSupportedProperties": ["width", "height", "min-width", "max-width", "min-height", "max-height"],
-                                                                    "StyleFileUseProperties": [{
-                                                                            "attributeID": "content_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0",
-                                                                            "properties": [{
-                                                                                    "propertyName": "height",
-                                                                                    "properyValues": ["125px"]
-                                                                                },
-                                                                                {
-                                                                                    "propertyName": "width",
-                                                                                    "properyValues": ["463px"]
-                                                                                }
-                                                                            ],
-                                                                            "IsMediaQuery": "false",
-                                                                            "MediaQueryResolutions": [{
-                                                                                "resolutions": ["1600px"],
-                                                                                "propertyName": "top",
-                                                                                "properyValues": ["330px"]
-                                                                            }]
-                                                                        },
-                                                                        {
-                                                                            "attributeID": "img#content_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0",
-                                                                            "properties": [{
-                                                                                    "propertyName": "height",
-                                                                                    "properyValues": ["104px"]
-                                                                                },
-                                                                                {
-                                                                                    "propertyName": "width",
-                                                                                    "properyValues": ["393px"]
-                                                                                }
-                                                                            ],
-                                                                            "IsMediaQuery": "true",
-                                                                            "MediaQueryResolutions": [{
-                                                                                "resolutions": ["1600px"],
-                                                                                "propertyName": "top",
-                                                                                "properyValues": ["330px"]
-                                                                            }]
-                                                                        }
-                                                                    ]
-                                                                },
-                                                                {
-                                                                    "StyleFileName": "Style_Tables_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                                    "StyleFileSupportedProperties": ["table-layout", "empty-cells", "caption-side"],
-                                                                    "StyleFileUseProperties": [{
-                                                                        "attributeID": "",
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-5-5-1-2",
                                                                         "properties": [{
-                                                                            "propertyName": "",
-                                                                            "properyValues": [""]
+                                                                            "propertyName": "align-items",
+                                                                            "properyValues": ["center"]
                                                                         }],
                                                                         "IsMediaQuery": "false",
                                                                         "MediaQueryResolutions": [{
-                                                                            "resolutions": ["1600px"],
-                                                                            "propertyName": "top",
-                                                                            "properyValues": ["330px"]
+
                                                                         }]
-                                                                    }]
-                                                                },
-                                                                {
-                                                                    "StyleFileName": "Style_Text_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                                    "StyleFileSupportedProperties": ["font", "font-family", "font-style", "font-variant", "font-weight", "font-size", "font-stretch", "font-size-adjust", "font-synthesis", "line-height", "letter-spacing", "word-spacing", "text-align", "text-decoration", "text-decoration-line", "text-decoration-style", "text-decoration-color", "text-indent", "text-transform", "vertical-align", "white-space"],
-                                                                    "StyleFileUseProperties": [{
-                                                                        "attributeID": "",
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-5-6",
                                                                         "properties": [{
-                                                                            "propertyName": "",
-                                                                            "properyValues": [""]
+                                                                            "propertyName": "display",
+                                                                            "properyValues": ["flex"]
                                                                         }],
                                                                         "IsMediaQuery": "false",
                                                                         "MediaQueryResolutions": [{
-                                                                            "resolutions": ["1600px"],
-                                                                            "propertyName": "top",
-                                                                            "properyValues": ["330px"]
+
                                                                         }]
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-5-6",
+                                                                        "properties": [{
+                                                                            "propertyName": "justify-content",
+                                                                            "properyValues": ["space-between"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-5-6",
+                                                                        "properties": [{
+                                                                            "propertyName": "align-items",
+                                                                            "properyValues": ["center"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-5-2 label",
+                                                                        "properties": [{
+                                                                            "propertyName": "display",
+                                                                            "properyValues": ["none"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-5-3 label",
+                                                                        "properties": [{
+                                                                            "propertyName": "display",
+                                                                            "properyValues": ["none"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-5-2",
+                                                                        "properties": [{
+                                                                            "propertyName": "display",
+                                                                            "properyValues": ["flex"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-5-2",
+                                                                        "properties": [{
+                                                                            "propertyName": "justify-content",
+                                                                            "properyValues": ["space-between"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    }, {
+                                                                        "attributeID": "#content_B-1-5-2",
+                                                                        "properties": [{
+                                                                            "propertyName": "align-items",
+                                                                            "properyValues": ["center"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    }, {
+                                                                        "attributeID": "progress:before",
+                                                                        "properties": [{
+                                                                            "propertyName": "display",
+                                                                            "properyValues": ["flex"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    }, {
+                                                                        "attributeID": "progress:before",
+                                                                        "properties": [{
+                                                                            "propertyName": "justify-content",
+                                                                            "properyValues": ["center"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    }, {
+                                                                        "attributeID": "progress:before",
+                                                                        "properties": [{
+                                                                            "propertyName": "align-items",
+                                                                            "properyValues": ["center"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "StyleFileName": "Style_Lists_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                                                "StyleFileSupportedProperties": ["content", "quotes", "counter-increment", "counter-reset", "list-style", "list-style-type", "list-style-image", "list-style-position"],
+                                                                "StyleFileUseProperties": [{
+                                                                    "attributeID": "",
+                                                                    "properties": [{
+                                                                        "propertyName": "",
+                                                                        "properyValues": [""]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
                                                                     }]
-                                                                }
-                                                            ]
-                                                        }]
+                                                                }]
+                                                            },
+                                                            {
+                                                                "StyleFileName": "Style_Margins_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                                                "StyleFileSupportedProperties": ["margin", "margin-top", "margin-right", "margin-left", "margin-bottom"],
+                                                                "StyleFileUseProperties": [{
+                                                                    "attributeID": "",
+                                                                    "properties": [{
+                                                                        "propertyName": "body",
+                                                                        "properyValues": ["margin: auto"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "#content_A-1-1-1",
+                                                                    "properties": [{
+                                                                        "propertyName": "margin-bottom",
+                                                                        "properyValues": ["0"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "#content_B-1-2-1 input",
+                                                                    "properties": [{
+                                                                        "propertyName": "margin",
+                                                                        "properyValues": ["10px 0"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "#column_B-1-1 label",
+                                                                    "properties": [{
+                                                                        "propertyName": "margin-top",
+                                                                        "properyValues": ["20px"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "#column_B-1-1 label",
+                                                                    "properties": [{
+                                                                        "propertyName": "margin-bottom",
+                                                                        "properyValues": ["10px"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "content_B-1-4 label",
+                                                                    "properties": [{
+                                                                        "propertyName": "margin-top",
+                                                                        "properyValues": ["20px"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "content_B-1-4 label",
+                                                                    "properties": [{
+                                                                        "propertyName": "margin-bottom",
+                                                                        "properyValues": ["10px"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "#content_B-1-5-1",
+                                                                    "properties": [{
+                                                                        "propertyName": "margin-top",
+                                                                        "properyValues": ["20px"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "#content_B-1-5-1",
+                                                                    "properties": [{
+                                                                        "propertyName": "margin-bottom",
+                                                                        "properyValues": ["10px"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "#content_B-1-5-4-1",
+                                                                    "properties": [{
+                                                                        "propertyName": "margin",
+                                                                        "properyValues": ["4px 0"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "#content_B-1-5-2",
+                                                                    "properties": [{
+                                                                        "propertyName": "margin-top",
+                                                                        "properyValues": ["20px"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "#content_B-1-5-2 input",
+                                                                    "properties": [{
+                                                                        "propertyName": "margin-top",
+                                                                        "properyValues": ["10px 0"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "#content_B-1-5-3 select",
+                                                                    "properties": [{
+                                                                        "propertyName": "margin",
+                                                                        "properyValues": ["10px 0"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "progress",
+                                                                    "properties": [{
+                                                                        "propertyName": "margin",
+                                                                        "properyValues": ["20px"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }]
+                                                            },
+                                                            {
+                                                                "StyleFileName": "Style_Misc_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                                                "StyleFileSupportedProperties": ["cursor", "outline", "outline-style", "outline-color", "outline-width", "direction", "unicode-bidi", "all", "page-break-before", "page-break-after", "page-break-inside", "orphans", "widows"],
+                                                                "StyleFileUseProperties": [{
+                                                                    "attributeID": " #content_B-1-5-6-1",
+                                                                    "properties": [{
+                                                                        "propertyName": "cursor",
+                                                                        "properyValues": ["pointer"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "",
+                                                                    "properties": [{
+                                                                        "propertyName": "progress:before",
+                                                                        "properyValues": ["content: attr(data-label)"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }]
+                                                            },
+                                                            {
+                                                                "StyleFileName": "Style_Padding_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                                                "StyleFileSupportedProperties": ["padding", "padding-top", "padding-bottom", "padding-left", "padding-right"],
+                                                                "StyleFileUseProperties": [{
+                                                                        "attributeID": "",
+                                                                        "properties": [{
+                                                                            "propertyName": "body",
+                                                                            "properyValues": ["padding: 20px"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-2-1 input",
+                                                                        "properties": [{
+                                                                            "propertyName": "padding",
+                                                                            "properyValues": ["5px"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-3-1 input",
+                                                                        "properties": [{
+                                                                            "propertyName": "padding",
+                                                                            "properyValues": ["5px"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#column_B-1-1",
+                                                                        "properties": [{
+                                                                            "propertyName": "padding",
+                                                                            "properyValues": ["20px 0"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#column_B-1-1",
+                                                                        "properties": [{
+                                                                            "propertyName": "padding-right",
+                                                                            "properyValues": ["20px"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#column_B-1-2",
+                                                                        "properties": [{
+                                                                            "propertyName": "padding-right",
+                                                                            "properyValues": ["20px 0"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-4-2",
+                                                                        "properties": [{
+                                                                            "propertyName": "padding",
+                                                                            "properyValues": ["5px"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#column_B-1-1 label",
+                                                                        "properties": [{
+                                                                            "propertyName": "padding-bottom",
+                                                                            "properyValues": ["2px"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-4 label",
+                                                                        "properties": [{
+                                                                            "propertyName": "padding-bottom",
+                                                                            "properyValues": ["2px"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-5-1",
+                                                                        "properties": [{
+                                                                            "propertyName": "padding-bottom",
+                                                                            "properyValues": ["2px"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-5-4-1",
+                                                                        "properties": [{
+                                                                            "propertyName": "padding",
+                                                                            "properyValues": ["10px 20px"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-5-5-1",
+                                                                        "properties": [{
+                                                                            "propertyName": "padding",
+                                                                            "properyValues": ["20px"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-5-2 input",
+                                                                        "properties": [{
+                                                                            "propertyName": "padding",
+                                                                            "properyValues": ["5px"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    }, {
+                                                                        "attributeID": "#content_B-1-5-3 select",
+                                                                        "properties": [{
+                                                                            "propertyName": "padding",
+                                                                            "properyValues": ["5px"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    }, {
+                                                                        "attributeID": "#content_B-1-5-6-1",
+                                                                        "properties": [{
+                                                                            "propertyName": "padding",
+                                                                            "properyValues": ["8px 61px"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "StyleFileName": "Style_Sizes_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                                                "StyleFileSupportedProperties": ["width", "height", "min-width", "max-width", "min-height", "max-height"],
+                                                                "StyleFileUseProperties": [{
+                                                                    "attributeID": "",
+                                                                    "properties": [{
+                                                                        "propertyName": "body",
+                                                                        "properyValues": ["max-width: 800px"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "#content_B-1-2-1 input",
+                                                                    "properties": [{
+                                                                        "propertyName": "width",
+                                                                        "properyValues": ["100%"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "#content_B-1-3-1 input",
+                                                                    "properties": [{
+                                                                        "propertyName": "width",
+                                                                        "properyValues": ["100%"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "#column_B-1-1",
+                                                                    "properties": [{
+                                                                        "propertyName": "max-width",
+                                                                        "properyValues": ["35%"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "#column_B-1-2",
+                                                                    "properties": [{
+                                                                        "propertyName": "width",
+                                                                        "properyValues": ["100%"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "#content_B-1-5-3 select",
+                                                                    "properties": [{
+                                                                        "propertyName": " min-width",
+                                                                        "properyValues": ["200px"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "#content_B-1-5-2-1-2",
+                                                                    "properties": [{
+                                                                        "propertyName": "width",
+                                                                        "properyValues": ["330px"]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }, {
+                                                                    "attributeID": "",
+                                                                    "properties": [{
+                                                                        "propertyName": "progress",
+                                                                        "properyValues": ["height: 30px",
+                                                                            "width: 100%"
+                                                                        ]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }]
+                                                            },
+                                                            {
+                                                                "StyleFileName": "Style_Tables_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                                                "StyleFileSupportedProperties": ["table-layout", "empty-cells", "caption-side"],
+                                                                "StyleFileUseProperties": [{
+                                                                    "attributeID": "",
+                                                                    "properties": [{
+                                                                        "propertyName": "",
+                                                                        "properyValues": [""]
+                                                                    }],
+                                                                    "IsMediaQuery": "false",
+                                                                    "MediaQueryResolutions": [{
+
+                                                                    }]
+                                                                }]
+                                                            },
+                                                            {
+                                                                "StyleFileName": "Style_Text_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                                                "StyleFileSupportedProperties": ["font", "font-family", "font-style", "font-variant", "font-weight", "font-size", "font-stretch", "font-size-adjust", "font-synthesis", "line-height", "letter-spacing", "word-spacing", "text-align", "text-decoration", "text-decoration-line", "text-decoration-style", "text-decoration-color", "text-indent", "text-transform", "vertical-align", "white-space"],
+                                                                "StyleFileUseProperties": [{
+                                                                        "attributeID": "#content_A-1-1-1",
+                                                                        "properties": [{
+                                                                            "propertyName": "text-align",
+                                                                            "properyValues": ["center"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_A-1-1-1 span",
+                                                                        "properties": [{
+                                                                            "propertyName": "font-size",
+                                                                            "properyValues": ["26px"]
+                                                                        }, {
+                                                                            "propertyName": "font-weight",
+                                                                            "properyValues": ["400"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#column_B-1-1 label",
+                                                                        "properties": [{
+                                                                            "propertyName": "font-size",
+                                                                            "properyValues": ["22px"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-4 label",
+                                                                        "properties": [{
+                                                                            "propertyName": "font-size",
+                                                                            "properyValues": ["22px"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-5-1",
+                                                                        "properties": [{
+                                                                            "propertyName": "font-size",
+                                                                            "properyValues": ["22px"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-5-4-1",
+                                                                        "properties": [{
+                                                                            "propertyName": "text-align",
+                                                                            "properyValues": ["center"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    },
+                                                                    {
+                                                                        "attributeID": "#content_B-1-5-6-2-2",
+                                                                        "properties": [{
+                                                                            "propertyName": "color",
+                                                                            "properyValues": ["red"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    }, {
+                                                                        "attributeID": "#content_B-1-5-6-1",
+                                                                        "properties": [{
+                                                                            "propertyName": "font-size",
+                                                                            "properyValues": ["25px"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    }, {
+                                                                        "attributeID": "",
+                                                                        "properties": [{
+                                                                            "propertyName": "progress",
+                                                                            "properyValues": ["text-align: center"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    }, {
+                                                                        "attributeID": "",
+                                                                        "properties": [{
+                                                                            "propertyName": "progress:before",
+                                                                            "properyValues": ["font-size: 15px;"]
+                                                                        }],
+                                                                        "IsMediaQuery": "false",
+                                                                        "MediaQueryResolutions": [{
+
+                                                                        }]
+                                                                    }
+                                                                ]
+
+                                                            }
+                                                        ]
                                                     }
                                                 }
                                             }]
