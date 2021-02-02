@@ -1,0 +1,23 @@
+﻿body {
+    max-width: 800px;
+}
+
+#content_B-1-1-1 {
+    width: 100%;
+}
+
+#column_D-1-1 img,
+#column_E-1-1 img {
+    width: 115px;
+}
+
+#content_D-1-1-1-2,
+#content_D-1-1-2-2,
+#content_E-1-1-1-2,
+#content_E-1-1-2-2 {
+    min-width: 300px;
+}
+
+#content_F-1-1-1 {
+    width: 100%;
+}
