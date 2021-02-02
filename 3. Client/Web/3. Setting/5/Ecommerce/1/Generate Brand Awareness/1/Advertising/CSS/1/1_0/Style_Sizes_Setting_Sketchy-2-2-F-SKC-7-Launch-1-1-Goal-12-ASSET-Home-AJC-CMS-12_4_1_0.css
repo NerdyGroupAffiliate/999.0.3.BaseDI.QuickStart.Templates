@@ -1,1 +1,11 @@
-﻿
+﻿body {
+    max-width: 600px;
+}
+
+#column_A-1-1 img {
+    height: 115px;
+}
+
+#content_B-1-2-1-1 {
+    max-width: 515px;
+}
