@@ -1,0 +1,22 @@
+﻿#content_B-1-4-2 {
+    border: solid darkblue 2px;
+}
+
+#column_B-1-1 label,
+#content_B-1-4 label,
+#content_B-1-5-1 {
+    border-bottom: solid darkblue 3px;
+}
+
+#content_B-1-5-4 {
+    border: solid darkblue 3px;
+}
+
+#content_B-1-5-4-1 {
+    border-bottom: solid darkblue 3px;
+}
+
+progress {
+    -webkit-appearance: none;
+    border: none;
+}
