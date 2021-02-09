@@ -1,0 +1,27 @@
+﻿body {
+    padding: 20px;
+}
+
+#column_C-1-1 {
+    padding: 12px;
+}
+
+#column_D-1-1,
+#column_E-1-1 {
+    padding: 0;
+}
+
+#content_D-1-1-1-2,
+#content_D-1-1-2-2,
+#content_E-1-1-1-2,
+#content_E-1-1-2-2 {
+    padding: 20px;
+}
+
+#content_F-1-1-1 {
+    padding: 20px;
+}
+
+#content_F-1-1-2 {
+    padding: 30px;
+}
