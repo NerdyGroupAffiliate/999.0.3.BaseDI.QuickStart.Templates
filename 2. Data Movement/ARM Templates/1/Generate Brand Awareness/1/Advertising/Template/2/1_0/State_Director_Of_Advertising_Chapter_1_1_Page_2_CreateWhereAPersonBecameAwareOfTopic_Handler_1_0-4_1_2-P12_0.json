@@ -30,7 +30,14 @@
                                   "AccountItemMainCategory": "Health and Fitness",
                                   "AccountItemSubCategory": "Nutrition",
                                   "AccountItemTargetNiche": "Juicing",
-                                  "AccountItemNicheKeywords": [ "Detoxification", "Popular Diets", "Holistic" ]
+                                  "AccountItemNicheKeywords": [ "Detoxification", "Popular Diets", "Holistic" ],
+                                  "AccountItemSocialMediaDetails": [
+                                    {
+                                      "AccountName": "Facebook",
+                                      "AccountClientID": "",
+                                      "AccountSecret": ""
+                                    }
+                                  ]
                                 }
                               }
                             }
@@ -57,7 +64,7 @@
                 "key_2_1": "Client_1_0",
                 "values_2_2": [
                   {
-                    "key_2_2_1": "ThankYou",
+                    "key_2_2_1": "Advertisement",
                     "values_2_2_2": [
                       {
                         "_2_2_2_1_clientInformationHTMLSourceControlDetails": {
@@ -187,7 +194,7 @@
                                           ]
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "container",
+                                      "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1�Help_Build_Website_Foundation�1-1�AGE_AJC-Nutrition�1_0",
                                       "ChildHTMLContentDetails": [],
                                       "ChildHTMLContentFlowDirection": "vertical"
                                     },
@@ -216,7 +223,7 @@
                                           ]
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "container",
+                                      "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1�Help_Build_Website_Foundation�1-1�AGE_AJC-Nutrition�1_0",
                                       "ChildHTMLContentDetails": [],
                                       "ChildHTMLContentFlowDirection": "vertical"
                                     },
@@ -225,7 +232,7 @@
                                       "Tag": "div",
                                       "Attributes": [
                                         {
-                                          "id": "row_C-1"
+                                          "id": "row_C-1-1"
                                         }
                                       ],
                                       "Value": "",
@@ -245,36 +252,7 @@
                                           ]
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "container",
-                                      "ChildHTMLContentDetails": [],
-                                      "ChildHTMLContentFlowDirection": "vertical"
-                                    },
-                                    {
-                                      "Notes": "Wireframe",
-                                      "Tag": "div",
-                                      "Attributes": [
-                                        {
-                                          "id": "row_D-1"
-                                        }
-                                      ],
-                                      "Value": "",
-                                      "Events": [
-                                        {
-                                          "functionsEnabled": "false"
-                                        },
-                                        {
-                                          "functionEvent": "",
-                                          "functionName": "",
-                                          "functionParameters": [
-                                            {
-                                              "parameterName": "",
-                                              "parameterTypeScriptDataType": "",
-                                              "parameterDefaultValue": ""
-                                            }
-                                          ]
-                                        }
-                                      ],
-                                      "ParentHTMLContentItemAttributeID": "container",
+                                      "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1�Help_Build_Website_Foundation�1-1�AGE_AJC-Nutrition�1_0",
                                       "ChildHTMLContentDetails": [],
                                       "ChildHTMLContentFlowDirection": "vertical"
                                     }
@@ -344,93 +322,6 @@
                                       "ParentHTMLContentItemAttributeID": "row_B-1",
                                       "ChildHTMLContentDetails": [],
                                       "ChildHTMLContentFlowDirection": "vertical"
-                                    },
-                                    {
-                                      "Notes": "Wireframe",
-                                      "Tag": "div",
-                                      "Attributes": [
-                                        {
-                                          "id": "column_B-1-2"
-                                        }
-                                      ],
-                                      "Value": "",
-                                      "Events": [
-                                        {
-                                          "functionsEnabled": "false"
-                                        },
-                                        {
-                                          "functionEvent": "",
-                                          "functionName": "",
-                                          "functionParameters": [
-                                            {
-                                              "parameterName": "",
-                                              "parameterTypeScriptDataType": "",
-                                              "parameterDefaultValue": ""
-                                            }
-                                          ]
-                                        }
-                                      ],
-                                      "ParentHTMLContentItemAttributeID": "row_B-1",
-                                      "ChildHTMLContentDetails": [],
-                                      "ChildHTMLContentFlowDirection": "horzontial"
-                                    },
-                                    {
-                                      "Notes": "Wireframe",
-                                      "Tag": "div",
-                                      "Attributes": [
-                                        {
-                                          "id": "column_C-1-1"
-                                        }
-                                      ],
-                                      "Value": "",
-                                      "Events": [
-                                        {
-                                          "functionsEnabled": "false"
-                                        },
-                                        {
-                                          "functionEvent": "",
-                                          "functionName": "",
-                                          "functionParameters": [
-                                            {
-                                              "parameterName": "",
-                                              "parameterTypeScriptDataType": "",
-                                              "parameterDefaultValue": ""
-                                            }
-                                          ]
-                                        }
-                                      ],
-                                      "ParentHTMLContentItemAttributeID": "row_C-1",
-                                      "ChildHTMLContentDetails": [],
-                                      "ChildHTMLContentFlowDirection": "horzontial"
-                                    },
-                                    {
-                                      "Notes": "Wireframe",
-                                      "Tag": "div",
-                                      "Attributes": [
-                                        {
-                                          "id": "column_D-1-1"
-                                        }
-                                      ],
-                                      "Value": "",
-                                      "Events": [
-                                        {
-                                          "functionsEnabled": "false"
-                                        },
-                                        {
-                                          "functionEvent": "",
-                                          "functionName": "",
-                                          "functionParameters": [
-                                            {
-                                              "parameterName": "",
-                                              "parameterTypeScriptDataType": "",
-                                              "parameterDefaultValue": ""
-                                            }
-                                          ]
-                                        }
-                                      ],
-                                      "ParentHTMLContentItemAttributeID": "row_D-1",
-                                      "ChildHTMLContentDetails": [],
-                                      "ChildHTMLContentFlowDirection": "horzontial"
                                     }
                                   ]
                                 }
@@ -443,13 +334,48 @@
                                   "HTMLContentItems": [
                                     {
                                       "Notes": "",
-                                      "Tag": "h1",
+                                      "Tag": "img",
                                       "Attributes": [
                                         {
                                           "id": "content_A-1-1-1"
+                                        },
+                                        {
+                                          "alt": "content_A-1-1-1"
+                                        },
+                                        {
+                                          "src": "placeholder.png"
                                         }
                                       ],
-                                      "Value": "THANK YOU!!!",
+                                      "Value": "",
+                                      "Events": [
+                                        {
+                                          "functionsEnabled": "false"
+                                        },
+                                        {
+                                          "functionEvent": "",
+                                          "functionName": "",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "",
+                                              "parameterTypeScriptDataType": "",
+                                              "parameterDefaultValue": ""
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "ParentHTMLContentItemAttributeID": "column_A-1-1",
+                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentFlowDirection": ""
+                                    },
+                                    {
+                                      "Notes": "Offer Text of Headline",
+                                      "Tag": "h1",
+                                      "Attributes": [
+                                        {
+                                          "id": "content_A-1-1-2"
+                                        }
+                                      ],
+                                      "Value": "AgelessJuicingChallenge",
                                       "Events": [
                                         {
                                           "functionsEnabled": "false"
@@ -478,7 +404,7 @@
                                           "id": "content_A-1-1-2"
                                         }
                                       ],
-                                      "Value": "Please check your email for Login Information.",
+                                      "Value": "Sponsored",
                                       "Events": [
                                         {
                                           "functionsEnabled": "false"
@@ -501,13 +427,13 @@
                                     },
                                     {
                                       "Notes": "",
-                                      "Tag": "h1",
+                                      "Tag": "h3",
                                       "Attributes": [
                                         {
                                           "id": "content_B-1-1-1"
                                         }
                                       ],
-                                      "Value": "A WELCOME MESSAGE FROM ANDREW \"AGELESS\" DURHAM",
+                                      "Value": " [ FREE WACKY FUN PREVIEW ]",
                                       "Events": [
                                         {
                                           "functionsEnabled": "false"
@@ -530,15 +456,13 @@
                                     },
                                     {
                                       "Notes": "",
-                                      "Tag": "video",
+                                      "Tag": "p",
                                       "Attributes": [
                                         {
-                                          "id": "content_B-1-2-1",
-                                          "width": "320",
-                                          "height": "240",
-                                          "controls": "ture"
+                                          "id": "content_B-1-1-2"
                                         }
                                       ],
+                                      "Value": " Staying fit and healthy should be a fun experience. It doesn’t have to be a pain.",
                                       "Events": [
                                         {
                                           "functionsEnabled": "false"
@@ -555,26 +479,31 @@
                                           ]
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "column_B-1-2",
+                                      "ParentHTMLContentItemAttributeID": "column_B-1-1",
                                       "ChildHTMLContentDetails": [],
                                       "ChildHTMLContentFlowDirection": ""
                                     },
                                     {
                                       "Notes": "",
-                                      "Tag": "source",
+                                      "Tag": "img",
                                       "Attributes": [
                                         {
-                                          "id": "content_B-1-2-1-1",
-                                          "src": "movie.mp4",
-                                          "type": "video/mp4"
+                                          "id": "content_B-1-2-1-1"
+                                        },
+                                        {
+                                          "alt": "content_B-1-2-1-1"
+                                        },
+                                        {
+                                          "src": "placeholder.png"
                                         }
                                       ],
+                                      "Value": "",
                                       "Events": [
                                         {
                                           "functionsEnabled": "false"
                                         },
                                         {
-                                          "functionEvent": "",
+                                          "functionEvent": "onclick",
                                           "functionName": "",
                                           "functionParameters": [
                                             {
@@ -591,77 +520,19 @@
                                     },
                                     {
                                       "Notes": "",
-                                      "Tag": "h1",
-                                      "Attributes": [
-                                        {
-                                          "id": "content_C-1-1-1"
-                                        }
-                                      ],
-                                      "Value": " IT'S NOW TIME TO PROVE HOW AWESOME YOU ARE... INSPIRE YOUR FAMILY AND FRIENDS!",
-                                      "Events": [
-                                        {
-                                          "functionsEnabled": "false"
-                                        },
-                                        {
-                                          "functionEvent": "",
-                                          "functionName": "",
-                                          "functionParameters": [
-                                            {
-                                              "parameterName": "",
-                                              "parameterTypeScriptDataType": "",
-                                              "parameterDefaultValue": ""
-                                            }
-                                          ]
-                                        }
-                                      ],
-                                      "ParentHTMLContentItemAttributeID": "column_C-1-1",
-                                      "ChildHTMLContentDetails": [],
-                                      "ChildHTMLContentFlowDirection": ""
-                                    },
-                                    {
-                                      "Notes": "",
-                                      "Tag": "p",
-                                      "Attributes": [
-                                        {
-                                          "id": "content_C-1-1-2"
-                                        }
-                                      ],
-                                      "Value": "Click below to tell your family and friends to take the challenge with you.",
-                                      "Events": [
-                                        {
-                                          "functionsEnabled": "false"
-                                        },
-                                        {
-                                          "functionEvent": "",
-                                          "functionName": "",
-                                          "functionParameters": [
-                                            {
-                                              "parameterName": "",
-                                              "parameterTypeScriptDataType": "",
-                                              "parameterDefaultValue": ""
-                                            }
-                                          ]
-                                        }
-                                      ],
-                                      "ParentHTMLContentItemAttributeID": "column_C-1-1",
-                                      "ChildHTMLContentDetails": [],
-                                      "ChildHTMLContentFlowDirection": ""
-                                    },
-                                    {
-                                      "Notes": "",
                                       "Tag": "button",
                                       "Attributes": [
                                         {
-                                          "id": "content_D-1-1-1"
+                                          "id": "content_C-1-1"
                                         }
                                       ],
-                                      "Value": "Facebook",
+                                      "Value": "",
                                       "Events": [
                                         {
                                           "functionsEnabled": "false"
                                         },
                                         {
-                                          "functionEvent": "",
+                                          "functionEvent": "onclick",
                                           "functionName": "",
                                           "functionParameters": [
                                             {
@@ -672,69 +543,10 @@
                                           ]
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "column_D-1-1",
-                                      "ChildHTMLContentDetails": [],
-                                      "ChildHTMLContentFlowDirection": ""
-                                    },
-                                    {
-                                      "Notes": "",
-                                      "Tag": "button",
-                                      "Attributes": [
-                                        {
-                                          "id": "content_D-1-1-1"
-                                        }
-                                      ],
-                                      "Value": "Twitter",
-                                      "Events": [
-                                        {
-                                          "functionsEnabled": "false"
-                                        },
-                                        {
-                                          "functionEvent": "",
-                                          "functionName": "",
-                                          "functionParameters": [
-                                            {
-                                              "parameterName": "",
-                                              "parameterTypeScriptDataType": "",
-                                              "parameterDefaultValue": ""
-                                            }
-                                          ]
-                                        }
-                                      ],
-                                      "ParentHTMLContentItemAttributeID": "column_D-1-1",
-                                      "ChildHTMLContentDetails": [],
-                                      "ChildHTMLContentFlowDirection": ""
-                                    },
-                                    {
-                                      "Notes": "",
-                                      "Tag": "button",
-                                      "Attributes": [
-                                        {
-                                          "id": "content_D-1-1-1"
-                                        }
-                                      ],
-                                      "Value": "Instagram",
-                                      "Events": [
-                                        {
-                                          "functionsEnabled": "false"
-                                        },
-                                        {
-                                          "functionEvent": "",
-                                          "functionName": "",
-                                          "functionParameters": [
-                                            {
-                                              "parameterName": "",
-                                              "parameterTypeScriptDataType": "",
-                                              "parameterDefaultValue": ""
-                                            }
-                                          ]
-                                        }
-                                      ],
-                                      "ParentHTMLContentItemAttributeID": "column_D-1-1",
+                                      "ParentHTMLContentItemAttributeID": "row_C-1",
                                       "ChildHTMLContentDetails": [],
                                       "ChildHTMLContentFlowDirection": ""
                                     }
-
                                   ]
                                 }
                               }
@@ -761,11 +573,11 @@
                                           "StyleFileSupportedProperties": [ "position", "top", "bottom", "left", "right", "clip", "overflow", "z-index", "float", "clear" ],
                                           "StyleFileUseProperties": [
                                             {
-                                              "attributeID": "",
+                                              "attributeID": "  #content_C-1-1",
                                               "properties": [
                                                 {
-                                                  "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "propertyName": "float",
+                                                  "properyValues": [ "right" ]
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
@@ -782,11 +594,11 @@
                                           "StyleFileSupportedProperties": [ "background-color", "background", "background-image", "background-repeat", "background-position", "background-attachment", "background-clip", "background-orgin", "background-size" ],
                                           "StyleFileUseProperties": [
                                             {
-                                              "attributeID": "#column_D-1-1 button",
+                                              "attributeID": "#content_C-1-1",
                                               "properties": [
                                                 {
                                                   "propertyName": "background",
-                                                  "properyValues": [ "darkblue" ]
+                                                  "properyValues": [ "#00BFFF" ]
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
@@ -803,11 +615,11 @@
                                           "StyleFileSupportedProperties": [ "border-radius", "border-top-left-radius", "border-top-right-radius", "border-bottom-right-radius", "border-image", "border-image-source", "border-image-slice", "border-image-width", "border-image-outset", "border-image-repeat", "border", "border-right", "border-left", "border-top", "border-bottom", "border-width", "border-top-width", "border-bottom-width", "border-left-width", "border-right-width", "border-style", "border-top-style", "border-bottom-style", "border-left-style", "border-right-style", "border-color", "border-top-color", "border-bottom-color", "border-left-color", "border-right-color", "border-collapse", "border-spacing" ],
                                           "StyleFileUseProperties": [
                                             {
-                                              "attributeID": "",
+                                              "attributeID": "#content_C-1-1",
                                               "properties": [
                                                 {
-                                                  "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "propertyName": "border",
+                                                  "properyValues": [ "none" ]
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
@@ -824,22 +636,7 @@
                                           "StyleFileSupportedProperties": [ "color", "opacity" ],
                                           "StyleFileUseProperties": [
                                             {
-                                              "attributeID": "#content_A-1-1-1",
-                                              "properties": [
-                                                {
-                                                  "propertyName": "color",
-                                                  "properyValues": [ "#1E90FF" ]
-                                                }
-                                              ],
-                                              "IsMediaQuery": "false",
-                                              "MediaQueryResolutions": [
-                                                {
-
-                                                }
-                                              ]
-                                            },
-                                            {
-                                              "attributeID": "#column_D-1-1 button",
+                                              "attributeID": "#content_C-1-1",
                                               "properties": [
                                                 {
                                                   "propertyName": "color",
@@ -881,11 +678,23 @@
                                           "StyleFileSupportedProperties": [ "display", "visibility" ],
                                           "StyleFileUseProperties": [
                                             {
-                                              "attributeID": "",
+                                              "attributeID": "#column_A-1-1",
                                               "properties": [
                                                 {
-                                                  "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "propertyName": "display",
+                                                  "properyValues": [ "flex" ]
+                                                },
+                                                {
+                                                  "propertyName": "flex-wrap",
+                                                  "properyValues": [ "nowrap" ]
+                                                },
+                                                {
+                                                  "propertyName": "align-items",
+                                                  "properyValues": [ "center" ]
+                                                },
+                                                {
+                                                  "propertyName": "justify-content",
+                                                  "properyValues": [ "left" ]
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
@@ -938,11 +747,116 @@
                                               ]
                                             },
                                             {
-                                              "attributeID": "#content_A-1-1-1",
+                                              "attributeID": "#column_A-1-1",
                                               "properties": [
                                                 {
                                                   "propertyName": "margin-bottom",
+                                                  "properyValues": [ "20px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "#column_A-1-1 div",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "margin",
+                                                  "properyValues": [ "0 20px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "#column_A-1-1 img",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "margin",
+                                                  "properyValues": [ "0 20px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "#column_A-1-1 h1",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "margin-bottom",
+                                                  "properyValues": [ "5px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "#column_A-1-1 p",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "margin-top",
                                                   "properyValues": [ "0" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "#column_B-1-1 h3",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "margin-bottom",
+                                                  "properyValues": [ "5px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "#column_B-1-1 p",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "margin-top",
+                                                  "properyValues": [ "0" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "false",
+                                              "MediaQueryResolutions": [
+                                                {
+
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "#content_C-1-1",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "margin",
+                                                  "properyValues": [ "20px 83px" ]
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
@@ -959,10 +873,10 @@
                                           "StyleFileSupportedProperties": [ "cursor", "outline", "outline-style", "outline-color", "outline-width", "direction", "unicode-bidi", "all", "page-break-before", "page-break-after", "page-break-inside", "orphans", "widows" ],
                                           "StyleFileUseProperties": [
                                             {
-                                              "attributeID": "#column_D-1-1 button",
+                                              "attributeID": "#content_C-1-1",
                                               "properties": [
                                                 {
-                                                  "propertyName": "cursor ",
+                                                  "propertyName": "cursor",
                                                   "properyValues": [ "pointer" ]
                                                 }
                                               ],
@@ -980,26 +894,11 @@
                                           "StyleFileSupportedProperties": [ "padding", "padding-top", "padding-bottom", "padding-left", "padding-right" ],
                                           "StyleFileUseProperties": [
                                             {
-                                              "attributeID": "",
-                                              "properties": [
-                                                {
-                                                  "propertyName": "body",
-                                                  "properyValues": [ "padding: 20px" ]
-                                                }
-                                              ],
-                                              "IsMediaQuery": "false",
-                                              "MediaQueryResolutions": [
-                                                {
-
-                                                }
-                                              ]
-                                            },
-                                            {
-                                              "attributeID": "#column_D-1-1 button",
+                                              "attributeID": "#content_C-1-1",
                                               "properties": [
                                                 {
                                                   "propertyName": "padding",
-                                                  "properyValues": [ "10px 62px" ]
+                                                  "properyValues": [ "10px 16px" ]
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
@@ -1020,11 +919,7 @@
                                               "properties": [
                                                 {
                                                   "propertyName": "body",
-                                                  "properyValues": [ "max-width: 800px" ]
-                                                },
-                                                {
-                                                  "propertyName": "width",
-                                                  "properyValues": [ "463px" ]
+                                                  "properyValues": [ "max-width: 600px" ]
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
@@ -1035,14 +930,29 @@
                                               ]
                                             },
                                             {
-                                              "attributeID": "",
+                                              "attributeID": "#column_A-1-1 img",
                                               "properties": [
                                                 {
-                                                  "propertyName": "video",
-                                                  "properyValues": [ "width: 100%" ]
+                                                  "propertyName": "height",
+                                                  "properyValues": [ "115px" ]
                                                 }
                                               ],
-                                              "IsMediaQuery": "false",
+                                              "IsMediaQuery": "true",
+                                              "MediaQueryResolutions": [
+                                                {
+
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "attributeID": "#content_B-1-2-1-1",
+                                              "properties": [
+                                                {
+                                                  "propertyName": "max-width",
+                                                  "properyValues": [ "515px" ]
+                                                }
+                                              ],
+                                              "IsMediaQuery": "true",
                                               "MediaQueryResolutions": [
                                                 {
 
@@ -1077,71 +987,11 @@
                                           "StyleFileSupportedProperties": [ "font", "font-family", "font-style", "font-variant", "font-weight", "font-size", "font-stretch", "font-size-adjust", "font-synthesis", "line-height", "letter-spacing", "word-spacing", "text-align", "text-decoration", "text-decoration-line", "text-decoration-style", "text-decoration-color", "text-indent", "text-transform", "vertical-align", "white-space" ],
                                           "StyleFileUseProperties": [
                                             {
-                                              "attributeID": "#container",
+                                              "attributeID": "",
                                               "properties": [
                                                 {
-                                                  "propertyName": "text-align",
-                                                  "properyValues": [ "center" ]
-                                                }
-                                              ],
-                                              "IsMediaQuery": "false",
-                                              "MediaQueryResolutions": [
-                                                {
-
-                                                }
-                                              ]
-                                            },
-                                            {
-                                              "attributeID": "#content_A-1-1-1",
-                                              "properties": [
-                                                {
-                                                  "propertyName": "text-align",
-                                                  "properyValues": [ "center" ]
-                                                }
-                                              ],
-                                              "IsMediaQuery": "false",
-                                              "MediaQueryResolutions": [
-                                                {
-
-                                                }
-                                              ]
-                                            },
-                                            {
-                                              "attributeID": "#column_D-1-1 button",
-                                              "properties": [
-                                                {
-                                                  "propertyName": "font-size",
-                                                  "properyValues": [ "22px" ]
-                                                }
-                                              ],
-                                              "IsMediaQuery": "false",
-                                              "MediaQueryResolutions": [
-                                                {
-
-                                                }
-                                              ]
-                                            },
-                                            {
-                                              "attributeID": "#content_C-1-1-2",
-                                              "properties": [
-                                                {
-                                                  "propertyName": "font-size",
-                                                  "properyValues": [ "19px" ]
-                                                }
-                                              ],
-                                              "IsMediaQuery": "false",
-                                              "MediaQueryResolutions": [
-                                                {
-
-                                                }
-                                              ]
-                                            },
-                                            {
-                                              "attributeID": "#content_A-1-1-2",
-                                              "properties": [
-                                                {
-                                                  "propertyName": "font-size",
-                                                  "properyValues": [ "19px" ]
+                                                  "propertyName": "",
+                                                  "properyValues": [ "" ]
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
@@ -1202,7 +1052,7 @@
                                         },
                                         {
                                           "functionEvent": "onload",
-                                          "functionName": "Director_Of_WebDevelopment_Chapter_12_3_Page_4_ReadThankYouScreenForAll_Handler_1_0",
+                                          "functionName": "Director_Of_Advertising_Chapter_1_1_Page_2_CreateWhereAPersonBecameAwareOfTopic_Handler_1_0",
                                           "functionParameters": [
                                             {
                                               "parameterName": "",

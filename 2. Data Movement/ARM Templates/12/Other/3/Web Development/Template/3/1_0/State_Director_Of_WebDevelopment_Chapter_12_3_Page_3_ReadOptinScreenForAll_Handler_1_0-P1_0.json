@@ -2,983 +2,1411 @@
     "$schema": "https://schema.management.basedi.io/schemas/2019-10-05/deploymentTemplate.json#",
     "contentVersion": "1.0.0.0",
     "baseDI_NerdyGroupAffiliates_DynamicWebsite_MainProfile": {
-        "value": {
-            "baseDIInstructions": {
-                "configuration": [{}],
-                "presentation": [{
-                    "key_1": "Clients",
-                    "values_2": [{
-                        "key_2_1": "Client_1_0",
-                        "values_2_2": [{
-                            "key_2_2_1": "Webpage",
-                            "values_2_2_2": [{
-                                "_2_2_2_1_clientInformationHTMLSourceControlDetails": {
-                                    "searchkey": "HTMLSourceControlDetails_SetImplementer_ProductCreation_WebDevelopment_FileManagement",
-                                    "type": "array",
-                                    "value": [{
-                                        "_2_2_2_1_1_clientInformationHTMLSourceControlItem": {
-                                            "searchkey": "HTMLSourceControlItem_SetImplementer_ProductCreation_WebDevelopment_Item",
-                                            "searchkey2": "HTMLSourceControlItem_EcommerceSetting_To_SellLowTicketOffer_For_Nutrition_Seller-Home-AJC_4_2_1_0",
-                                            "type": "object",
-                                            "value": {
-                                                "HTMLSourceControlItemRowID": "1",
-                                                "HTMLSourceControlItemProjectName": "0.3.BaseDI.QuickStart.Templates",
-                                                "HTMLSourceControlItemProjectFiles": [{
-                                                    "ProjectFilePathLocal": "./3. Client/Web/3. Setting/5/Ecommerce/4/Sell Low Ticket Offer/2/Nutrition/HTML/1/1_0/",
-                                                    "ProjectFilePathRemote": "https://github.com/NerdyGroupAffiliate/0.3.BaseDI.QuickStart.Templates",
-                                                    "ProjectFileName": "EcommerceSetting_To_SellLowTicketOffer_For_Nutrition_Seller-Home-AJC_4_2_1_0",
-                                                    "ProjectFileSupportedExtensions": ["html, hbs, tsx, psd, ai"],
-                                                    "ProjectFileMimeType": "text/html",
-                                                    "ProjectFileDependencies": [{
-                                                        "type": "npm",
-                                                        "name": "react",
-                                                        "version": "latest"
-                                                    }],
-                                                    "ProjectFileEntryPointIDForDynamicRendering": { "AttributeID": "The_WebDevelopment_Experience-1�Help_Build_Website_Foundation�1-1�AGE_AJC-Nutrition�1_0" }
-                                                }]
-                                            }
-                                        }
-                                    }]
-                                },
-                                "_2_2_2_2_clientInformationHTMLSEODetails": {
-                                    "searchkey": "HTMLSEODetails_SetImplementer_ProductCreation_SEO_SearchEngine",
-                                    "type": "array",
-                                    "value": [{
-                                        "_2_2_2_2_1_clientInformationHTMLSEOItem": {
-                                            "searchkey": "HTMLSEOItem_SetBuyer_ProductLaunching_SEO_MetaData",
-                                            "type": "string",
-                                            "value": {
-                                                "HTMLSEOItemRowID": "1",
-                                                "HTMLSEOItemMetaTitleAndSlug": "how-to-make-eating-healthy-fun",
-                                                "HTMLSEOItemMetaKeyWords": ["Juicing, Detoxification"],
-                                                "HTMLSEOItemMetaDescription": "How to get back on track when you stopped before.",
-                                                "HTMLSEOItemSearchCode": ""
-                                            }
-                                        }
-                                    }]
-                                },
-                                "_2_2_2_3_clientInformationHTMLContentDetails": {
-                                    "searchkey": "HTMLContentDetails_SetImplementer_ProductCreation_WebDevelopment_HTML",
-                                    "type": "array",
-                                    "value": [{
-                                        "_2_2_2_3_1_clientInformationHTMLContentItem": {
-                                            "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_WebDevelopment_HTMLContainer",
-                                            "type": "object",
-                                            "value": {
-                                                "HTMLContentItemRowID": "1",
-                                                "HTMLContentItems": [{
-                                                    "Notes": "Wireframe",
-                                                    "Tag": "div",
-                                                    "Attributes": [{
-                                                        "id": "container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0"
-                                                    }],
-                                                    "Value": "",
-                                                    "Events": [{
-                                                            "functionsEnabled": "false"
-                                                        },
-                                                        {
-                                                            "functionEvent": "",
-                                                            "functionName": "",
-                                                            "functionParameters": [{
-                                                                "parameterName": "",
-                                                                "parameterTypeScriptDataType": "",
-                                                                "parameterDefaultValue": ""
-                                                            }]
-                                                        }
-                                                    ],
-                                                    "ParentHTMLContentItemAttributeID": "",
-                                                    "ChildHTMLContentDetails": [],
-                                                    "ChildHTMLContentFlowDirection": "vertical"
-                                                }]
-                                            }
-                                        },
-                                        "_2_2_2_3_2_clientInformationHTMLContentItem": {
-                                            "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_WebDevelopment_HTMLRows",
-                                            "type": "object",
-                                            "value": {
-                                                "HTMLContentItemRowID": "2",
-                                                "HTMLContentItems": [{
-                                                        "Notes": "Wireframe",
-                                                        "Tag": "div",
-                                                        "Attributes": [{
-                                                            "id": "row_A-1_business-sales-authority"
-                                                        }],
-                                                        "Value": "",
-                                                        "Events": [{
-                                                                "functionsEnabled": "false"
-                                                            },
-                                                            {
-                                                                "functionEvent": "",
-                                                                "functionName": "",
-                                                                "functionParameters": [{
-                                                                    "parameterName": "",
-                                                                    "parameterTypeScriptDataType": "",
-                                                                    "parameterDefaultValue": ""
-                                                                }]
-                                                            }
-                                                        ],
-                                                        "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1�Help_Build_Website_Foundation�1-1�AGE_AJC-Nutrition�1_0",
-                                                        "ChildHTMLContentDetails": [],
-                                                        "ChildHTMLContentFlowDirection": "vertical"
-                                                    },
-                                                    {
-                                                        "Notes": "Wireframe",
-                                                        "Tag": "div",
-                                                        "Attributes": [{
-                                                            "id": "row_B-1_business-advertising-sign"
-                                                        }],
-                                                        "Value": "",
-                                                        "Events": [{
-                                                                "functionsEnabled": "false"
-                                                            },
-                                                            {
-                                                                "functionEvent": "",
-                                                                "functionName": "",
-                                                                "functionParameters": [{
-                                                                    "parameterName": "",
-                                                                    "parameterTypeScriptDataType": "",
-                                                                    "parameterDefaultValue": ""
-                                                                }]
-                                                            }
-                                                        ],
-                                                        "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1�Help_Build_Website_Foundation�1-1�AGE_AJC-Nutrition�1_0",
-                                                        "ChildHTMLContentDetails": [],
-                                                        "ChildHTMLContentFlowDirection": "vertical"
-                                                    },
-                                                    {
-                                                        "Notes": "Wireframe",
-                                                        "Tag": "div",
-                                                        "Attributes": [{
-                                                            "id": "row_C-1_business-sales-cta"
-                                                        }],
-                                                        "Value": "",
-                                                        "Events": [{
-                                                                "functionsEnabled": "false"
-                                                            },
-                                                            {
-                                                                "functionEvent": "",
-                                                                "functionName": "",
-                                                                "functionParameters": [{
-                                                                    "parameterName": "",
-                                                                    "parameterTypeScriptDataType": "",
-                                                                    "parameterDefaultValue": ""
-                                                                }]
-                                                            }
-                                                        ],
-                                                        "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1�Help_Build_Website_Foundation�1-1�AGE_AJC-Nutrition�1_0",
-                                                        "ChildHTMLContentDetails": [],
-                                                        "ChildHTMLContentFlowDirection": "vertical"
-                                                    },
-                                                    {
-                                                        "Notes": "Wireframe",
-                                                        "Tag": "div",
-                                                        "Attributes": [{
-                                                            "id": "row_D-1_business-sales-liking"
-                                                        }],
-                                                        "Value": "",
-                                                        "Events": [{
-                                                                "functionsEnabled": "false"
-                                                            },
-                                                            {
-                                                                "functionEvent": "",
-                                                                "functionName": "",
-                                                                "functionParameters": [{
-                                                                    "parameterName": "",
-                                                                    "parameterTypeScriptDataType": "",
-                                                                    "parameterDefaultValue": ""
-                                                                }]
-                                                            }
-                                                        ],
-                                                        "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1�Help_Build_Website_Foundation�1-1�AGE_AJC-Nutrition�1_0",
-                                                        "ChildHTMLContentDetails": [],
-                                                        "ChildHTMLContentFlowDirection": "vertical"
-                                                    }
-                                                ]
-                                            }
-                                        },
-                                        "_2_2_2_3_3_clientInformationHTMLContentItem": {
-                                            "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_WebDevelopment_HTMLColumns",
-                                            "type": "object",
-                                            "value": {
-                                                "HTMLContentItemRowID": "3",
-                                                "HTMLContentItems": [{
-                                                        "Notes": "Wireframe",
-                                                        "Tag": "div",
-                                                        "Attributes": [{
-                                                            "id": "column_A-1-1_real_estate-commerical_construction-section"
-                                                        }],
-                                                        "Value": "",
-                                                        "Events": [{
-                                                                "functionsEnabled": "false"
-                                                            },
-                                                            {
-                                                                "functionEvent": "",
-                                                                "functionName": "",
-                                                                "functionParameters": [{
-                                                                    "parameterName": "",
-                                                                    "parameterTypeScriptDataType": "",
-                                                                    "parameterDefaultValue": ""
-                                                                }]
-                                                            }
-                                                        ],
-                                                        "ParentHTMLContentItemAttributeID": "row_A-1_business-sales-authority",
-                                                        "ChildHTMLContentDetails": [],
-                                                        "ChildHTMLContentFlowDirection": "horzontial"
-                                                    },
-                                                    {
-                                                        "Notes": "Wireframe",
-                                                        "Tag": "div",
-                                                        "Attributes": [{
-                                                            "id": "column_B-1-1_real_estate-commerical_construction-section"
-                                                        }],
-                                                        "Value": "",
-                                                        "Events": [{
-                                                                "functionsEnabled": "false"
-                                                            },
-                                                            {
-                                                                "functionEvent": "",
-                                                                "functionName": "",
-                                                                "functionParameters": [{
-                                                                    "parameterName": "",
-                                                                    "parameterTypeScriptDataType": "",
-                                                                    "parameterDefaultValue": ""
-                                                                }]
-                                                            }
-                                                        ],
-                                                        "ParentHTMLContentItemAttributeID": "row_B-1_business-advertising-sign",
-                                                        "ChildHTMLContentDetails": [],
-                                                        "ChildHTMLContentFlowDirection": "vertical"
-                                                    },
-                                                    {
-                                                        "Notes": "Wireframe",
-                                                        "Tag": "div",
-                                                        "Attributes": [{
-                                                            "id": "column_C-1-1_real_estate-commerical_construction-section"
-                                                        }],
-                                                        "Value": "",
-                                                        "Events": [{
-                                                                "functionsEnabled": "false"
-                                                            },
-                                                            {
-                                                                "functionEvent": "",
-                                                                "functionName": "",
-                                                                "functionParameters": [{
-                                                                    "parameterName": "",
-                                                                    "parameterTypeScriptDataType": "",
-                                                                    "parameterDefaultValue": ""
-                                                                }]
-                                                            }
-                                                        ],
-                                                        "ParentHTMLContentItemAttributeID": "row_C-1_business-sales-cta",
-                                                        "ChildHTMLContentDetails": [],
-                                                        "ChildHTMLContentFlowDirection": "horzontial"
-                                                    },
-                                                    {
-                                                        "Notes": "Wireframe",
-                                                        "Tag": "div",
-                                                        "Attributes": [{
-                                                            "id": "column_D-1-1_real_estate-commerical_construction-section"
-                                                        }],
-                                                        "Value": "",
-                                                        "Events": [{
-                                                                "functionsEnabled": "false"
-                                                            },
-                                                            {
-                                                                "functionEvent": "",
-                                                                "functionName": "",
-                                                                "functionParameters": [{
-                                                                    "parameterName": "",
-                                                                    "parameterTypeScriptDataType": "",
-                                                                    "parameterDefaultValue": ""
-                                                                }]
-                                                            }
-                                                        ],
-                                                        "ParentHTMLContentItemAttributeID": "row_D-1_business-sales-liking",
-                                                        "ChildHTMLContentDetails": [],
-                                                        "ChildHTMLContentFlowDirection": "horzontial"
-                                                    }
-                                                ]
-                                            }
-                                        },
-                                        "_2_2_2_3_4_clientInformationHTMLContentItem": {
-                                            "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_WebDevelopment_HTMLContent",
-                                            "type": "object",
-                                            "value": {
-                                                "HTMLContentItemRowID": "4",
-                                                "HTMLContentItems": [{
-                                                        "Notes": "Background Wallpaper Image of Theme",
-                                                        "Tag": "img",
-                                                        "Attributes": [{
-                                                                "id": "container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0"
-                                                            },
-                                                            {
-                                                                "alt": "Ageless Background Wallpaper - Home"
-                                                            },
-                                                            {
-                                                                "src": "../../../Assets/1/1_0/Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-1920X1080-Desktop-4_2_1_0.jpg"
-                                                            }
-                                                        ],
-                                                        "Value": "",
-                                                        "Events": [{
-                                                                "functionsEnabled": "false"
-                                                            },
-                                                            {
-                                                                "functionEvent": "",
-                                                                "functionName": "",
-                                                                "functionParameters": [{
-                                                                    "parameterName": "",
-                                                                    "parameterTypeScriptDataType": "",
-                                                                    "parameterDefaultValue": ""
-                                                                }]
-                                                            }
-                                                        ],
-                                                        "ParentHTMLContentItemAttributeID": "container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0",
-                                                        "ChildHTMLContentDetails": [],
-                                                        "ChildHTMLContentFlowDirection": ""
-                                                    },
-                                                    {
-                                                        "Notes": "Authority Building Image of Headline",
-                                                        "Tag": "img",
-                                                        "Attributes": [{
-                                                                "id": "content_A-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0"
-                                                            },
-                                                            {
-                                                                "alt": "A PROGRAM BY ANDREW DURHAM"
-                                                            },
-                                                            {
-                                                                "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/7/Awareness/1/Generate%20Brand%20Awarness/1/Advertising/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-Owner_Aware-AJC_463X125_Desktop-CMS-1_1_1_0.png"
-                                                            }
-                                                        ],
-                                                        "Value": "",
-                                                        "Events": [{
-                                                                "functionsEnabled": "false"
-                                                            },
-                                                            {
-                                                                "functionEvent": "",
-                                                                "functionName": "",
-                                                                "functionParameters": [{
-                                                                    "parameterName": "",
-                                                                    "parameterTypeScriptDataType": "",
-                                                                    "parameterDefaultValue": ""
-                                                                }]
-                                                            }
-                                                        ],
-                                                        "ParentHTMLContentItemAttributeID": "column_A-1-1_real_estate-commerical_construction-section",
-                                                        "ChildHTMLContentDetails": [],
-                                                        "ChildHTMLContentFlowDirection": ""
-                                                    },
-                                                    {
-                                                        "Notes": "Offer Text of Headline",
-                                                        "Tag": "h1",
-                                                        "Attributes": [{
-                                                            "id": "content_B-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner1-WidthXHeight-Desktop-1_1_1_0"
-                                                        }],
-                                                        "Value": "THE AGELESS JUICING CHALLENGE",
-                                                        "Events": [{
-                                                                "functionsEnabled": "false"
-                                                            },
-                                                            {
-                                                                "functionEvent": "",
-                                                                "functionName": "",
-                                                                "functionParameters": [{
-                                                                    "parameterName": "",
-                                                                    "parameterTypeScriptDataType": "",
-                                                                    "parameterDefaultValue": ""
-                                                                }]
-                                                            }
-                                                        ],
-                                                        "ParentHTMLContentItemAttributeID": "column_B-1-1_real_estate-commerical_construction-section",
-                                                        "ChildHTMLContentDetails": [],
-                                                        "ChildHTMLContentFlowDirection": ""
-                                                    },
-                                                    {
-                                                        "Notes": "Sales Motivational Text of SubHeadline",
-                                                        "Tag": "h2",
-                                                        "Attributes": [{
-                                                            "id": "content_B-1-1-2_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner2-WidthXHeight-Desktop-1_1_1_0"
-                                                        }],
-                                                        "Value": "the fun ritual to keep you motivated and inspired",
-                                                        "Events": [{
-                                                                "functionsEnabled": "false"
-                                                            },
-                                                            {
-                                                                "functionEvent": "",
-                                                                "functionName": "",
-                                                                "functionParameters": [{
-                                                                    "parameterName": "",
-                                                                    "parameterTypeScriptDataType": "",
-                                                                    "parameterDefaultValue": ""
-                                                                }]
-                                                            }
-                                                        ],
-                                                        "ParentHTMLContentItemAttributeID": "column_B-1-1_real_estate-commerical_construction-section",
-                                                        "ChildHTMLContentDetails": [],
-                                                        "ChildHTMLContentFlowDirection": ""
-                                                    },
-                                                    {
-                                                        "Notes": "Call to Action Image of Button",
-                                                        "Tag": "img",
-                                                        "Attributes": [{
-                                                                "id": "content_C-1-1-1_Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-WidthXHeight-Desktop-3_1_1_0"
-                                                            },
-                                                            {
-                                                                "alt": "GET ON WAITING LIST FOR FREE PREVIEW"
-                                                            },
-                                                            {
-                                                                "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/5/Sight/3/Generate%20Optin/1/List%20Building/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-ButtonOptin_Touch-AJC_611X37_Desktop-CMS-3_1_1_0.png"
-                                                            }
-                                                        ],
-                                                        "Value": "",
-                                                        "Events": [{
-                                                                "functionsEnabled": "false"
-                                                            },
-                                                            {
-                                                                "functionEvent": "",
-                                                                "functionName": "",
-                                                                "functionParameters": [{
-                                                                    "parameterName": "",
-                                                                    "parameterTypeScriptDataType": "",
-                                                                    "parameterDefaultValue": ""
-                                                                }]
-                                                            }
-                                                        ],
-                                                        "ParentHTMLContentItemAttributeID": "column_C-1-1_real_estate-commerical_construction-section",
-                                                        "ChildHTMLContentDetails": [],
-                                                        "ChildHTMLContentFlowDirection": ""
-                                                    },
-                                                    {
-                                                        "Notes": "Motivational Image of Jumping Woman",
-                                                        "Tag": "img",
-                                                        "Attributes": [{
-                                                                "id": "content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0"
-                                                            },
-                                                            {
-                                                                "alt": "Jane is excited!!! Aren't you???"
-                                                            },
-                                                            {
-                                                                "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/2/Movement/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-JumpWoman_Movement-AJC_329X467_Desk-CMS-2_4_1_0.png"
-                                                            }
-                                                        ],
-                                                        "Value": "",
-                                                        "Events": [{
-                                                                "functionsEnabled": "false"
-                                                            },
-                                                            {
-                                                                "functionEvent": "",
-                                                                "functionName": "",
-                                                                "functionParameters": [{
-                                                                    "parameterName": "",
-                                                                    "parameterTypeScriptDataType": "",
-                                                                    "parameterDefaultValue": ""
-                                                                }]
-                                                            }
-                                                        ],
-                                                        "ParentHTMLContentItemAttributeID": "column_D-1-1_real_estate-commerical_construction-section",
-                                                        "ChildHTMLContentDetails": [],
-                                                        "ChildHTMLContentFlowDirection": ""
-                                                    },
-                                                    {
-                                                        "Notes": "Motivational Image of Drink Exploding",
-                                                        "Tag": "img",
-                                                        "Attributes": [{
-                                                                "id": "content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0"
-                                                            },
-                                                            {
-                                                                "alt": "Ageless Juice!!! Taste the emotion!!"
-                                                            },
-                                                            {
-                                                                "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/4/Taste/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-DrinkExplosion_Taste-AJC_920X489_Desktop-CMS-2_4_1_0.png"
-                                                            }
-                                                        ],
-                                                        "Value": "",
-                                                        "Events": [{
-                                                                "functionsEnabled": "false"
-                                                            },
-                                                            {
-                                                                "functionEvent": "",
-                                                                "functionName": "",
-                                                                "functionParameters": [{
-                                                                    "parameterName": "",
-                                                                    "parameterTypeScriptDataType": "",
-                                                                    "parameterDefaultValue": ""
-                                                                }]
-                                                            }
-                                                        ],
-                                                        "ParentHTMLContentItemAttributeID": "column_D-1-1_real_estate-commerical_construction-section",
-                                                        "ChildHTMLContentDetails": [],
-                                                        "ChildHTMLContentFlowDirection": ""
-                                                    },
-                                                    {
-                                                        "Notes": "Motivational Image of Confident Man",
-                                                        "Tag": "img",
-                                                        "Attributes": [{
-                                                                "id": "content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0"
-                                                            },
-                                                            {
-                                                                "alt": "Mark won it and feels great?"
-                                                            },
-                                                            {
-                                                                "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-WinningMan_Sight-AJC_357X443_Desktop-CMS-2_4_1_0.png"
-                                                            }
-                                                        ],
-                                                        "Value": "",
-                                                        "Events": [{
-                                                                "functionsEnabled": "false"
-                                                            },
-                                                            {
-                                                                "functionEvent": "",
-                                                                "functionName": "",
-                                                                "functionParameters": [{
-                                                                    "parameterName": "",
-                                                                    "parameterTypeScriptDataType": "",
-                                                                    "parameterDefaultValue": ""
-                                                                }]
-                                                            }
-                                                        ],
-                                                        "ParentHTMLContentItemAttributeID": "column_D-1-1_real_estate-commerical_construction-section",
-                                                        "ChildHTMLContentDetails": [],
-                                                        "ChildHTMLContentFlowDirection": ""
-                                                    },
-                                                    {
-                                                        "Notes": "Motivational Image of Winning Man",
-                                                        "Tag": "img",
-                                                        "Attributes": [{
-                                                                "id": "content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0"
-                                                            },
-                                                            {
-                                                                "alt": "Paul just won the challenge and got?"
-                                                            },
-                                                            {
-                                                                "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-WinningMan_Sight-AJC_401X454_Desktop-CMS-2_4_1_0.png"
-                                                            }
-                                                        ],
-                                                        "Value": "",
-                                                        "Events": [{
-                                                                "functionsEnabled": "false"
-                                                            },
-                                                            {
-                                                                "functionEvent": "",
-                                                                "functionName": "",
-                                                                "functionParameters": [{
-                                                                    "parameterName": "",
-                                                                    "parameterTypeScriptDataType": "",
-                                                                    "parameterDefaultValue": ""
-                                                                }]
-                                                            }
-                                                        ],
-                                                        "ParentHTMLContentItemAttributeID": "column_D-1-1_real_estate-commerical_construction-section",
-                                                        "ChildHTMLContentDetails": [],
-                                                        "ChildHTMLContentFlowDirection": ""
-                                                    },
-                                                    {
-                                                        "Notes": "Logo Image of Brand",
-                                                        "Tag": "img",
-                                                        "Attributes": [{
-                                                                "id": "content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0"
-                                                            },
-                                                            {
-                                                                "alt": "The Ageless Juicing Challenge"
-                                                            },
-                                                            {
-                                                                "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/5/Sight/1/Generate%20Brand%20Awareness/1/Advertising/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-Logo_Awareness-AJC_177X193_Desktop-CMS-1_1_1_0.png"
-                                                            }
-                                                        ],
-                                                        "Value": "",
-                                                        "Events": [{
-                                                                "functionsEnabled": "false"
-                                                            },
-                                                            {
-                                                                "functionEvent": "",
-                                                                "functionName": "",
-                                                                "functionParameters": [{
-                                                                    "parameterName": "",
-                                                                    "parameterTypeScriptDataType": "",
-                                                                    "parameterDefaultValue": ""
-                                                                }]
-                                                            }
-                                                        ],
-                                                        "ParentHTMLContentItemAttributeID": "column_D-1-1_real_estate-commerical_construction-section",
-                                                        "ChildHTMLContentDetails": [],
-                                                        "ChildHTMLContentFlowDirection": ""
-                                                    }
-                                                ]
-                                            }
-                                        }
-                                    }]
-                                },
-                                "_2_2_2_4_clientInformationHTMLContentStylingDetails": {
-                                    "searchkey": "HTMLContentStylingDetails_SetImplementer_ProductCreation_WebDevelopment_CSS",
-                                    "type": "array",
-                                    "value": [{
-                                        "_2_2_2_4_1_clientInformationHTMLContentStylingItem": {
-                                            "searchkey": "HTMLContentStylingItem_SetImplementer_ProductCreation_WebDevelopment_CSS",
-                                            "type": "array",
-                                            "value": {
-                                                "HTMLContentStylingItemRowID": "1",
-                                                "HTMLContentStylingItemFiles": [{
-                                                    "StyleFilePathLocal": "../999.0.3.BaseDI.QuickStart.Templates/3. Client/Web/3. Setting/5/Ecommerce/4/Sell Low Ticket Offer/2/Nutrition/CSS/1/1_0/",
-                                                    "StyleFilePathRemote": "https://github.com/NerdyGroupAffiliate/999.0.3.BaseDI.QuickStart.Templates",
-                                                    "StyleFiles": [{
-                                                            "StyleFileName": "Style_Alignments_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                            "StyleFileSupportedProperties": ["position", "top", "bottom", "left", "right", "clip", "overflow", "z-index", "float", "clear"],
-                                                            "StyleFileUseProperties": [{
-                                                                    "attributeID": "",
-                                                                    "properties": [{
-                                                                        "propertyName": "body",
-                                                                        "properyValues": ["overflow-y;hidden", "position: relative"]
-                                                                    }],
-                                                                    "IsMediaQuery": "false",
-                                                                    "MediaQueryResolutions": [{
-                                                                        "resolutions": ["1600px"],
-                                                                        "propertyName": "top",
-                                                                        "properyValues": ["330px"]
-                                                                    }]
-                                                                },
-                                                                {
-                                                                    "attributeID": "column_D-1-1_real_estate-commerical_construction-section",
-                                                                    "properties": [{
-                                                                        "propertyName": "img",
-                                                                        "properyValues": ["position: absolute"]
-                                                                    }],
-                                                                    "IsMediaQuery": "false",
-                                                                    "MediaQueryResolutions": [{
-                                                                        "resolutions": ["1600px"],
-                                                                        "propertyName": "top",
-                                                                        "properyValues": ["330px"]
-                                                                    }]
-                                                                }
-                                                            ]
-                                                        },
-                                                        {
-                                                            "StyleFileName": "Style_Backgrounds_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                            "StyleFileSupportedProperties": ["background-color", "background", "background-image", "background-repeat", "background-position", "background-attachment", "background-clip", "background-orgin", "background-size"],
-                                                            "StyleFileUseProperties": [{
-                                                                "attributeID": "",
-                                                                "properties": [{
-                                                                    "propertyName": "",
-                                                                    "properyValues": [""]
-                                                                }],
-                                                                "IsMediaQuery": "false",
-                                                                "MediaQueryResolutions": [{
-                                                                    "propertyName": "",
-                                                                    "properyValues": [""]
-                                                                }]
-                                                            }]
-                                                        },
-                                                        {
-                                                            "StyleFileName": "Style_Borders_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                            "StyleFileSupportedProperties": ["border-radius", "border-top-left-radius", "border-top-right-radius", "border-bottom-right-radius", "border-image", "border-image-source", "border-image-slice", "border-image-width", "border-image-outset", "border-image-repeat", "border", "border-right", "border-left", "border-top", "border-bottom", "border-width", "border-top-width", "border-bottom-width", "border-left-width", "border-right-width", "border-style", "border-top-style", "border-bottom-style", "border-left-style", "border-right-style", "border-color", "border-top-color", "border-bottom-color", "border-left-color", "border-right-color", "border-collapse", "border-spacing"],
-                                                            "StyleFileUseProperties": [{
-                                                                "attributeID": "",
-                                                                "properties": [{
-                                                                    "propertyName": "",
-                                                                    "properyValues": [""]
-                                                                }],
-                                                                "IsMediaQuery": "false",
-                                                                "MediaQueryResolutions": [{
-                                                                    "resolutions": ["1600px"],
-                                                                    "propertyName": "top",
-                                                                    "properyValues": ["330px"]
-                                                                }]
-                                                            }]
-                                                        },
-                                                        {
-                                                            "StyleFileName": "Style_Colors_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                            "StyleFileSupportedProperties": ["color", "opacity"],
-                                                            "StyleFileUseProperties": [{
-                                                                "attributeID": "",
-                                                                "properties": [{
-                                                                    "propertyName": "",
-                                                                    "properyValues": [""]
-                                                                }],
-                                                                "IsMediaQuery": "false",
-                                                                "MediaQueryResolutions": [{
-                                                                    "resolutions": ["1600px"],
-                                                                    "propertyName": "top",
-                                                                    "properyValues": ["330px"]
-                                                                }]
-                                                            }]
-                                                        },
-                                                        {
-                                                            "StyleFileName": "Style_Effects_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                            "StyleFileSupportedProperties": ["box-shadow", "transform", "transform-origin", "transition", "transition-property", "transition-duration", "transition-timing-function", "transition-delay"],
-                                                            "StyleFileUseProperties": [{
-                                                                "attributeID": "",
-                                                                "properties": [{
-                                                                    "propertyName": "",
-                                                                    "properyValues": [""]
-                                                                }],
-                                                                "IsMediaQuery": "false",
-                                                                "MediaQueryResolutions": [{
-                                                                    "resolutions": ["1600px"],
-                                                                    "propertyName": "top",
-                                                                    "properyValues": ["330px"]
-                                                                }]
-                                                            }]
-                                                        },
-                                                        {
-                                                            "StyleFileName": "Style_Flow_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                            "StyleFileSupportedProperties": ["display", "visibility"],
-                                                            "StyleFileUseProperties": [{
-                                                                "attributeID": "",
-                                                                "properties": [{
-                                                                    "propertyName": "",
-                                                                    "properyValues": [""]
-                                                                }],
-                                                                "IsMediaQuery": "false",
-                                                                "MediaQueryResolutions": [{
-                                                                    "resolutions": ["1600px"],
-                                                                    "propertyName": "top",
-                                                                    "properyValues": ["330px"]
-                                                                }]
-                                                            }]
-                                                        },
-                                                        {
-                                                            "StyleFileName": "Style_Lists_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                            "StyleFileSupportedProperties": ["content", "quotes", "counter-increment", "counter-reset", "list-style", "list-style-type", "list-style-image", "list-style-position"],
-                                                            "StyleFileUseProperties": [{
-                                                                "attributeID": "",
-                                                                "properties": [{
-                                                                    "propertyName": "",
-                                                                    "properyValues": [""]
-                                                                }],
-                                                                "IsMediaQuery": "false",
-                                                                "MediaQueryResolutions": [{
-                                                                    "resolutions": ["1600px"],
-                                                                    "propertyName": "top",
-                                                                    "properyValues": ["330px"]
-                                                                }]
-                                                            }]
-                                                        },
-                                                        {
-                                                            "StyleFileName": "Style_Margins_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                            "StyleFileSupportedProperties": ["margin", "margin-top", "margin-right", "margin-left", "margin-bottom"],
-                                                            "StyleFileUseProperties": [{
-                                                                "attributeID": "",
-                                                                "properties": [{
-                                                                    "propertyName": "",
-                                                                    "properyValues": [""]
-                                                                }],
-                                                                "IsMediaQuery": "false",
-                                                                "MediaQueryResolutions": [{
-                                                                    "resolutions": ["1600px"],
-                                                                    "propertyName": "top",
-                                                                    "properyValues": ["330px"]
-                                                                }]
-                                                            }]
-                                                        },
-                                                        {
-                                                            "StyleFileName": "Style_Misc_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                            "StyleFileSupportedProperties": ["cursor", "outline", "outline-style", "outline-color", "outline-width", "direction", "unicode-bidi", "all", "page-break-before", "page-break-after", "page-break-inside", "orphans", "widows"],
-                                                            "StyleFileUseProperties": [{
-                                                                "attributeID": "",
-                                                                "properties": [{
-                                                                    "propertyName": "",
-                                                                    "properyValues": [""]
-                                                                }],
-                                                                "IsMediaQuery": "false",
-                                                                "MediaQueryResolutions": [{
-                                                                    "resolutions": ["1600px"],
-                                                                    "propertyName": "top",
-                                                                    "properyValues": ["330px"]
-                                                                }]
-                                                            }]
-                                                        },
-                                                        {
-                                                            "StyleFileName": "Style_Padding_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                            "StyleFileSupportedProperties": ["padding", "padding-top", "padding-bottom", "padding-left", "padding-right"],
-                                                            "StyleFileUseProperties": [{
-                                                                "attributeID": "",
-                                                                "properties": [{
-                                                                    "propertyName": "",
-                                                                    "properyValues": [""]
-                                                                }],
-                                                                "IsMediaQuery": "false",
-                                                                "MediaQueryResolutions": [{
-                                                                    "resolutions": ["1600px"],
-                                                                    "propertyName": "top",
-                                                                    "properyValues": ["330px"]
-                                                                }]
-                                                            }]
-                                                        },
-                                                        {
-                                                            "StyleFileName": "Style_Sizes_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                            "StyleFileSupportedProperties": ["width", "height", "min-width", "max-width", "min-height", "max-height"],
-                                                            "StyleFileUseProperties": [{
-                                                                    "attributeID": "content_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0",
-                                                                    "properties": [{
-                                                                            "propertyName": "height",
-                                                                            "properyValues": ["125px"]
-                                                                        },
-                                                                        {
-                                                                            "propertyName": "width",
-                                                                            "properyValues": ["463px"]
-                                                                        }
-                                                                    ],
-                                                                    "IsMediaQuery": "false",
-                                                                    "MediaQueryResolutions": [{
-                                                                        "resolutions": ["1600px"],
-                                                                        "propertyName": "top",
-                                                                        "properyValues": ["330px"]
-                                                                    }]
-                                                                },
-                                                                {
-                                                                    "attributeID": "img#content_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0",
-                                                                    "properties": [{
-                                                                            "propertyName": "height",
-                                                                            "properyValues": ["104px"]
-                                                                        },
-                                                                        {
-                                                                            "propertyName": "width",
-                                                                            "properyValues": ["393px"]
-                                                                        }
-                                                                    ],
-                                                                    "IsMediaQuery": "true",
-                                                                    "MediaQueryResolutions": [{
-                                                                        "resolutions": ["1600px"],
-                                                                        "propertyName": "top",
-                                                                        "properyValues": ["330px"]
-                                                                    }]
-                                                                }
-                                                            ]
-                                                        },
-                                                        {
-                                                            "StyleFileName": "Style_Tables_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                            "StyleFileSupportedProperties": ["table-layout", "empty-cells", "caption-side"],
-                                                            "StyleFileUseProperties": [{
-                                                                "attributeID": "",
-                                                                "properties": [{
-                                                                    "propertyName": "",
-                                                                    "properyValues": [""]
-                                                                }],
-                                                                "IsMediaQuery": "false",
-                                                                "MediaQueryResolutions": [{
-                                                                    "resolutions": ["1600px"],
-                                                                    "propertyName": "top",
-                                                                    "properyValues": ["330px"]
-                                                                }]
-                                                            }]
-                                                        },
-                                                        {
-                                                            "StyleFileName": "Style_Text_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                                            "StyleFileSupportedProperties": ["font", "font-family", "font-style", "font-variant", "font-weight", "font-size", "font-stretch", "font-size-adjust", "font-synthesis", "line-height", "letter-spacing", "word-spacing", "text-align", "text-decoration", "text-decoration-line", "text-decoration-style", "text-decoration-color", "text-indent", "text-transform", "vertical-align", "white-space"],
-                                                            "StyleFileUseProperties": [{
-                                                                "attributeID": "",
-                                                                "properties": [{
-                                                                    "propertyName": "",
-                                                                    "properyValues": [""]
-                                                                }],
-                                                                "IsMediaQuery": "false",
-                                                                "MediaQueryResolutions": [{
-                                                                    "resolutions": ["1600px"],
-                                                                    "propertyName": "top",
-                                                                    "properyValues": ["330px"]
-                                                                }]
-                                                            }]
-                                                        }
-                                                    ]
-                                                }]
-                                            }
-                                        }
-                                    }]
+      "value": {
+        "baseDIInstructions": {
+          "configuration": [
+            {
+              "key_1": "Organization",
+              "values_2": [
+                {
+                  "key_2_1": "Organization_1_0",
+                  "values_2_2": [
+                    {
+                      "key_2_2_1": "Business",
+                      "values_2_2_2": [
+                        {
+                          "_2_2_2_1_businessInformationAccountDetails": {
+                            "searchkey": "AccountDetails_Organzations_Business_1_0_Asssistant_2_2_2_1_businessInformationAccountDetails",
+                            "type": "array",
+                            "value": [
+                              {
+                                "_2_2_2_1_1_businessInformationAccountItem": {
+                                  "searchkey": "AccountItem_SetSeller_Business_Management_AccountLookUp",
+                                  "type": "string",
+                                  "value": {
+                                    "AccountItemRowID": "1",
+                                    "AccountItemAccountID": "1-2-H-3",
+                                    "AccountItemLookupCode": "AJC",
+                                    "AccountItemMainCategory": "Health and Fitness",
+                                    "AccountItemSubCategory": "Nutrition",
+                                    "AccountItemTargetNiche": "Juicing",
+                                    "AccountItemNicheKeywords": [ "Detoxification", "Popular Diets", "Holistic" ]
+                                  }
                                 }
-                            }]
-                        }]
-                    }],
-                    "type": "object",
-                    "buzzWords": "***OPTIONAL***, Wireframes, HTML, XAML",
-                    "extraKeyValuePairs": []
-                }],
-                "business": [{
-                    "key_1": "Request",
-                    "values_2": [{
-                        "key_2_1": "Request_1_0",
-                        "values_2_2": [{
-                            "key_2_2_1": "Server",
-                            "values_2_2_2": [{
-                                "_2_2_2_1_functionInformationEventCallStackDetails": {
-                                    "searchkey": "HTMLSourceCode_SetImplementer_ProductCreation_WebDevelopment_RequestHandler",
-                                    "type": "array",
-                                    "value": [{
-                                        "_2_2_2_1_1_functionInformationEventCallStackItem": {
-                                            "searchkey": "SetImplementer_ProductCreation_Software_BusinessFuction",
-                                            "type": "object",
-                                            "value": {
-                                                "EventCallStackItemRowID": "1",
-                                                "EventCallStackItems": [{
-                                                    "Notes": "Dynamic Webpage Generator",
-                                                    "Events": [{
-                                                            "functionsEnabled": "true"
-                                                        },
-                                                        {
-                                                            "functionEvent": "onload",
-                                                            "functionName": "Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0",
-                                                            "functionParameters": [{
-                                                                "parameterName": "",
-                                                                "parameterTypeScriptDataType": "",
-                                                                "parameterDefaultValue": ""
-                                                            }]
-                                                        }
-                                                    ]
-                                                }]
-                                            }
-                                        }
-                                    }]
-                                }
-                            }]
-                        }]
-                    }],
-                    "type_3": "object",
-                    "buzzWords_4": "***REQUIRED***, Functions, Methods, Business Logic",
-                    "extraKeyValuePairs_5": []
-                }],
-                "data": [{
-                    "key_1": "Repositories",
-                    "values_2": [{
-                        "key_2_1": "Repository_1_0",
-                        "values_2_2": [{
-                            "key_2_2_1": "Repository",
-                            "values_2_2_2": [{
-                                "_2_2_2_1_repositoryInformationDataDetails": {
-                                    "searchkey": "Repositories_Repository_1_0_Repository_2_2_2_1_RepositoryInformationDataDetails",
-                                    "type": "array",
-                                    "value": [{
-                                        "_2_2_2_1_1_repositoryInformationDataItem": {
-                                            "searchkey": "SetImplementer_ProductCreation_Software_Data",
-                                            "type": "object",
-                                            "value": {
-                                                "DataItemRowID": "1",
-                                                "DataItemLocation": "LocalService"
-                                            }
-                                        },
-                                        "_2_2_2_1_2_repositoryInformationDataItem": {
-                                            "searchkey": "SetImplementer_ProductCreation_Software_DataException",
-                                            "type": "object",
-                                            "value": {
-                                                "DataItemRowID": "2",
-                                                "DataItemLocation": "LocalService"
-                                            }
-                                        },
-                                        "_2_2_2_1_3_repositoryInformationDataItem": {
-                                            "searchkey": "SetImplementer_ProductCreation_Software_MasterLeaderController",
-                                            "type": "object",
-                                            "value": {
-                                                "DataItemRowID": "3",
-                                                "DataItemLocation": "LocalFile"
-                                            }
-                                        }
-                                    }]
-                                }
-                            }]
-                        }]
-                    }],
-                    "type_3": "object",
-                    "buzzWords_4": "***REQUIRED***, LocalFile, LocalDatabase, LocalService, RemoteFile, RemoteDatabase, RemoteService, RemoteServiceVendor",
-                    "extraKeyValuePairs_5": [
-                        {}
-                    ]
-                }]
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "type_3": "object",
+              "buzzWords_4": "***OPTIONAL***, NodeJS, WebAPI",
+              "extraKeyValuePairs_5": [
+                {}
+              ]
             }
+          ],
+          "presentation": [
+            {
+              "key_1": "Clients",
+              "values_2": [
+                {
+                  "key_2_1": "Client_1_0",
+                  "values_2_2": [
+                    {
+                      "key_2_2_1": "Optin",
+                      "values_2_2_2": [
+                        {
+                          "_2_2_2_1_clientInformationHTMLSourceControlDetails": {
+                            "searchkey": "HTMLSourceControlDetails_SetImplementer_ProductCreation_WebDevelopment_FileManagement",
+                            "type": "array",
+                            "value": [
+                              {
+                                "_2_2_2_1_1_clientInformationHTMLSourceControlItem": {
+                                  "searchkey": "HTMLSourceControlItem_SetImplementer_ProductCreation_WebDevelopment_Item",
+                                  "searchkey2": "HTMLSourceControlItem_EcommerceSetting_To_SellLowTicketOffer_For_Nutrition_Seller-Home-AJC_4_2_1_0",
+                                  "type": "object",
+                                  "value": {
+                                    "HTMLSourceControlItemRowID": "1",
+                                    "HTMLSourceControlItemProjectName": "0.3.BaseDI.QuickStart.Templates",
+                                    "HTMLSourceControlItemProjectFiles": [
+                                      {
+                                        "ProjectFilePathLocal": "./3. Client/Web/3. Setting/5/Ecommerce/4/Sell Low Ticket Offer/2/Nutrition/HTML/1/1_0/",
+                                        "ProjectFilePathRemote": "https://github.com/NerdyGroupAffiliate/0.3.BaseDI.QuickStart.Templates",
+                                        "ProjectFileName": "EcommerceSetting_To_SellLowTicketOffer_For_Nutrition_Seller-Home-AJC_4_2_1_0",
+                                        "ProjectFileSupportedExtensions": [ "html, hbs, tsx, psd, ai" ],
+                                        "ProjectFileMimeType": "text/html",
+                                        "ProjectFileDependencies": [
+                                          {
+                                            "type": "npm",
+                                            "name": "react",
+                                            "version": "latest"
+                                          }
+                                        ],
+                                        "ProjectFileEntryPointIDForDynamicRendering": { "AttributeID": "The_WebDevelopment_Experience-1�Help_Build_Website_Foundation�1-1�AGE_AJC-Nutrition�1_0" }
+                                      }
+                                    ]
+                                  }
+                                }
+                              }
+                            ]
+                          },
+                          "_2_2_2_2_clientInformationHTMLSEODetails": {
+                            "searchkey": "HTMLSEODetails_SetImplementer_ProductCreation_SEO_SearchEngine",
+                            "type": "array",
+                            "value": [
+                              {
+                                "_2_2_2_2_1_clientInformationHTMLSEOItem": {
+                                  "searchkey": "HTMLSEOItem_SetBuyer_ProductLaunching_SEO_MetaData",
+                                  "type": "string",
+                                  "value": {
+                                    "HTMLSEOItemRowID": "1",
+                                    "HTMLSEOItemMetaTitleAndSlug": "how-to-make-eating-healthy-fun",
+                                    "HTMLSEOItemMetaKeyWords": [ "Juicing, Detoxification" ],
+                                    "HTMLSEOItemMetaDescription": "How to get back on track when you stopped before.",
+                                    "HTMLSEOItemSearchCode": ""
+                                  }
+                                }
+                              }
+                            ]
+                          },
+                          "_2_2_2_3_clientInformationHTMLContentDetails": {
+                            "searchkey": "HTMLContentDetails_SetImplementer_ProductCreation_WebDevelopment_HTML",
+                            "type": "array",
+                            "value": [
+                              {
+                                "_2_2_2_3_1_clientInformationHTMLContentItem": {
+                                  "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_WebDevelopment_HTMLContainer",
+                                  "type": "object",
+                                  "value": {
+                                    "HTMLContentItemRowID": "1",
+                                    "HTMLContentItems": [
+                                      {
+                                        "Notes": "Wireframe",
+                                        "Tag": "div",
+                                        "Attributes": [
+                                          {
+                                            "id": "container_Setting_Sketchy-2-2-F-SKC-7-Launch-1-2-Goal-3-ASSET-Optin-AJC-CMS-3_1_1_0"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": "vertical"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "_2_2_2_3_2_clientInformationHTMLContentItem": {
+                                  "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_WebDevelopment_HTMLRows",
+                                  "type": "object",
+                                  "value": {
+                                    "HTMLContentItemRowID": "2",
+                                    "HTMLContentItems": [
+                                      {
+                                        "Notes": "Wireframe",
+                                        "Tag": "div",
+                                        "Attributes": [
+                                          {
+                                            "id": "row_A-1_business-sales-reciprocation"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "container_Setting_Sketchy-2-2-F-SKC-7-Launch-1-2-Goal-3-ASSET-Optin-AJC-CMS-3_1_1_0",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": "vertical"
+                                      },
+                                      {
+                                        "Notes": "Wireframe",
+                                        "Tag": "div",
+                                        "Attributes": [
+                                          {
+                                            "id": "row_B-1_business-sales-cta"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "container_Setting_Sketchy-2-2-F-SKC-7-Launch-1-2-Goal-3-ASSET-Optin-AJC-CMS-3_1_1_0",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": "vertical"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "_2_2_2_3_3_clientInformationHTMLContentItem": {
+                                  "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_WebDevelopment_HTMLColumns",
+                                  "type": "object",
+                                  "value": {
+                                    "HTMLContentItemRowID": "3",
+                                    "HTMLContentItems": [
+                                      {
+                                        "Notes": "Wireframe",
+                                        "Tag": "div",
+                                        "Attributes": [
+                                          {
+                                            "id": "column_A-1-1_commerical_construction-section"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "row_A-1_business-sales-reciprocation",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": "horzontial"
+                                      },
+                                      {
+                                        "Notes": "Wireframe",
+                                        "Tag": "div",
+                                        "Attributes": [
+                                          {
+                                            "id": "column_B-1-1_commerical_construction-section"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "row_B-1_business-sales-cta",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": "vertical"
+                                      },
+                                      {
+                                        "Notes": "Wireframe",
+                                        "Tag": "div",
+                                        "Attributes": [
+                                          {
+                                            "id": "column_B-1-2_commerical_construction-section"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "row_B-1_business-sales-cta",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": "horzontial"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "_2_2_2_3_4_clientInformationHTMLContentItem": {
+                                  "searchkey": "HTMLContentItem_SetImplementer_ProductCreation_WebDevelopment_HTMLContent",
+                                  "type": "object",
+                                  "value": {
+                                    "HTMLContentItemRowID": "column_A-1-1_commerical_construction-section",
+                                    "HTMLContentItems": [
+                                      {
+                                        "Notes": "",
+                                        "Tag": "h1",
+                                        "Attributes": [
+                                          {
+                                            "id": "content_A-1-1-1_Experience_Sketchy-2-2-F-SKC-7-Launch-1-2-Goal-12-ASSET-Headline_Awareness-AJC_WidthXHeight_Device-CMS-1_1_1_0"
+                                          }
+                                        ],
+                                        "Value": " Submit Your Email to RECEIVE a FREE behind the scenes preview",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "column_A-1-1_commerical_construction-section",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": ""
+                                      },
+                                      {
+                                        "Notes": "",
+                                        "Tag": "img",
+                                        "Attributes": [
+                                          {
+                                            "id": "content_B-1-1-1_Experience_Sketchy-2-2-F-SKC-7-Launch-1-2-Goal-12-ASSET-ImageList_Sight-AJC_WidthXHeight_Device-CMS-2_4_1_0"
+                                          },
+                                          {
+                                            "alt": ""
+                                          },
+                                          {
+                                            "src": "../../../Assets/placeholder-image.png"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "column_B-1-1_commerical_construction-section",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": ""
+                                      },
+                                      {
+                                        "Notes": "",
+                                        "Tag": "p",
+                                        "Attributes": [
+                                          {
+                                            "id": "content_B-1-1-2_Experience_Sketchy-2-2-F-SKC-7-Launch-1-2-Goal-12-ASSET-DividerDescription_Awareness-AJC_WidthXHeight_Device-CMS-3_1_1_0"
+                                          }
+                                        ],
+                                        "Value": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "column_B-1-1_commerical_construction-section",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": ""
+                                      },
+                                      {
+                                        "Notes": "",
+                                        "Tag": "div",
+                                        "Attributes": [
+                                          {
+                                            "id": "content_B-1-2-1_real_estate-commerical_construction-section"
+
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "column_B-1-2_commerical_construction-section",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": ""
+                                      },
+                                      {
+                                        "Notes": "",
+                                        "Tag": "input",
+                                        "Attributes": [
+                                          {
+                                            "id": "content_B-1-2-1-1_Experience_Sketchy-2-2-F-SKC-7-Launch-1-2-Goal-12-ASSET-InputEmail_Touch-AJC_WidthXHeight_Device-CMS-3_1_1_0",
+                                            "type": "text",
+                                            "placeholder": "Your Email Address Here..."
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "content_B-1-2-1_real_estate-commerical_construction-section",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": ""
+                                      },
+                                      {
+                                        "Notes": "",
+                                        "Tag": "input",
+                                        "Attributes": [
+                                          {
+                                            "id": "content_B-1-2-1-2_Experience_Sketchy-2-2-F-SKC-7-Launch-1-2-Goal-12-ASSET-InputFirstName_Touch-AJC_WidthXHeight_Device-CMS-3_1_1_0",
+                                            "type": "text",
+                                            "placeholder": "Your First Name Here..."
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "content_B-1-2-1_real_estate-commerical_construction-section",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": ""
+                                      },
+                                      {
+                                        "Notes": "",
+                                        "Tag": "input",
+                                        "Attributes": [
+                                          {
+                                            "id": "content_B-1-2-1-3_Experience_Sketchy-2-2-F-SKC-7-Launch-1-2-Goal-12-ASSET-InputLastName_Touch-AJC_WidthXHeight_Device-CMS-3_1_1_0",
+                                            "type": "text",
+                                            "placeholder": "Your Last Name Here..."
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "content_B-1-2-1_real_estate-commerical_construction-section",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": ""
+                                      },
+                                      {
+                                        "Notes": "",
+                                        "Tag": "div",
+                                        "Attributes": [
+                                          {
+                                            "id": "content_B-1-2-1-2_real_estate-commerical_construction-section"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "content_B-1-2-1_real_estate-commerical_construction-section",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": ""
+                                      },
+                                      {
+                                        "Notes": "",
+                                        "Tag": "button",
+                                        "Attributes": [
+                                          {
+                                            "id": "content_Experience_Sketchy-2-2-F-SKC-7-Launch-1-2-Goal-12-ASSET-ButtonOptin_Touch-AJC_WidthXHeight_Device-CMS-3_1_1_0"
+                                          }
+                                        ],
+                                        "Value": "YES!!! SHOW ME ALREADY",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "true"
+                                          },
+                                          {
+                                            "functionEvent": "onclick",
+                                            "functionName": "alert",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "string",
+                                                "parameterDefaultValue": "Optin Submitted"
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "content_B-1-2-1-2_real_estate-commerical_construction-section",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": ""
+                                      },
+                                      {
+                                        "Notes": "",
+                                        "Tag": "div",
+                                        "Attributes": [
+                                          {
+                                            "id": "content_B-1-2-1-3_real_estate-commerical_construction-section"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "content_B-1-2-1_real_estate-commerical_construction-section",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": ""
+                                      },
+                                      {
+                                        "Notes": "",
+                                        "Tag": "img",
+                                        "Attributes": [
+                                          {
+                                            "id": "content_B-1-2-1-2-1_Experience_Sketchy-2-2-F-SKC-7-Launch-1-2-Goal-12-ASSET-ImageSecure_Sight-AJC_WidthXHeight_Device-CMS-3_1_1_0"
+                                          },
+                                          {
+                                            "alt": "Mark won it and feels great?"
+                                          },
+                                          {
+                                            "src": "../../../Assets/lock.png"
+                                          }
+                                        ],
+                                        "Value": "",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "content_B-1-2-1-3_real_estate-commerical_construction-section",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": ""
+                                      },
+                                      {
+                                        "Notes": "Motivational Image of Winning Man",
+                                        "Tag": "p",
+                                        "Attributes": [
+                                          {
+                                            "id": "content_B-1-2-1-2-2_Experience_Sketchy-2-2-F-SKC-7-Launch-1-2-Goal-12-ASSET-TextSecurityNotify_Awareness-AJC_WidthXHeight_Device-CMS-3_1_1_0"
+                                          }
+                                        ],
+                                        "Value": "Your information is safe with us and will never be shared with any third party.",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "false"
+                                          },
+                                          {
+                                            "functionEvent": "",
+                                            "functionName": "",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "ParentHTMLContentItemAttributeID": "content_B-1-2-1-3_real_estate-commerical_construction-section",
+                                        "ChildHTMLContentDetails": [],
+                                        "ChildHTMLContentFlowDirection": ""
+                                      }
+                                    ]
+                                  }
+                                }
+                              }
+                            ]
+                          },
+                          "_2_2_2_4_clientInformationHTMLContentStylingDetails": {
+                            "searchkey": "HTMLContentStylingDetails_SetImplementer_ProductCreation_WebDevelopment_CSS",
+                            "type": "array",
+                            "value": [
+                              {
+                                "_2_2_2_4_1_clientInformationHTMLContentStylingItem": {
+                                  "searchkey": "HTMLContentStylingItem_SetImplementer_ProductCreation_WebDevelopment_CSS",
+                                  "type": "array",
+                                  "value": {
+                                    "HTMLContentStylingItemRowID": "1",
+                                    "HTMLContentStylingItemFiles": [
+                                      {
+                                        "StyleFilePathLocal": "../999.0.3.BaseDI.QuickStart.Templates/3. Client/Web/3. Setting/5/Ecommerce/4/Sell Low Ticket Offer/2/Nutrition/CSS/1/1_0/",
+                                        "StyleFilePathRemote": "https://github.com/NerdyGroupAffiliate/999.0.3.BaseDI.QuickStart.Templates",
+                                        "StyleFiles": [
+                                          {
+                                            "StyleFileName": "Style_Alignments_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "position", "top", "bottom", "left", "right", "clip", "overflow", "z-index", "float", "clear" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "",
+                                                    "properyValues": [ "" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "StyleFileName": "Style_Backgrounds_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "background-color", "background", "background-image", "background-repeat", "background-position", "background-attachment", "background-clip", "background-orgin", "background-size" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "#column_B-1-2_commerical_construction-section",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "background",
+                                                    "properyValues": [ "#1E90FF" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+                                                    "propertyName": "",
+                                                    "properyValues": [ "" ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "attributeID": "#content_Experience_Sketchy-2-2-F-SKC-7-Launch-1-2-Goal-12-ASSET-ButtonOptin_Touch-AJC_WidthXHeight_Device-CMS-3_1_1_0",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "background",
+                                                    "properyValues": [ "#00BFFF" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+                                                    "propertyName": "",
+                                                    "properyValues": [ "" ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "StyleFileName": "Style_Borders_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "border-radius", "border-top-left-radius", "border-top-right-radius", "border-bottom-right-radius", "border-image", "border-image-source", "border-image-slice", "border-image-width", "border-image-outset", "border-image-repeat", "border", "border-right", "border-left", "border-top", "border-bottom", "border-width", "border-top-width", "border-bottom-width", "border-left-width", "border-right-width", "border-style", "border-top-style", "border-bottom-style", "border-left-style", "border-right-style", "border-color", "border-top-color", "border-bottom-color", "border-left-color", "border-right-color", "border-collapse", "border-spacing" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "#content_Experience_Sketchy-2-2-F-SKC-7-Launch-1-2-Goal-12-ASSET-ButtonOptin_Touch-AJC_WidthXHeight_Device-CMS-3_1_1_0",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "border",
+                                                    "properyValues": [ "none" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "StyleFileName": "Style_Colors_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "color", "opacity" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "#content_B-1-2-1-2-2_Experience_Sketchy-2-2-F-SKC-7-Launch-1-2-Goal-12-ASSET-TextSecurityNotify_Awareness-AJC_WidthXHeight_Device-CMS-3_1_1_0",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "color",
+                                                    "properyValues": [ "#fff" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+                                                    "resolutions": [ "1600px" ],
+                                                    "propertyName": "top",
+                                                    "properyValues": [ "330px" ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "attributeID": "#content_Experience_Sketchy-2-2-F-SKC-7-Launch-1-2-Goal-12-ASSET-ButtonOptin_Touch-AJC_WidthXHeight_Device-CMS-3_1_1_0",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "color",
+                                                    "properyValues": [ "#fff" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "StyleFileName": "Style_Effects_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "box-shadow", "transform", "transform-origin", "transition", "transition-property", "transition-duration", "transition-timing-function", "transition-delay" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "",
+                                                    "properyValues": [ "" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "StyleFileName": "Style_Flow_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "display", "visibility" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "#row_B-1_business-sales-cta",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "display",
+                                                    "properyValues": [ "flex" ]
+                                                  },
+                                                  {
+                                                    "propertyName": "align-items",
+                                                    "properyValues": [ "center" ]
+                                                  },
+                                                  {
+                                                    "propertyName": "justify-content",
+                                                    "properyValues": [ "center" ]
+                                                  },
+                                                  {
+                                                    "propertyName": "flex-wrap",
+                                                    "properyValues": [ "nowrap" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "attributeID": "#content_B-1-2-1-3_real_estate-commerical_construction-section",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "display",
+                                                    "properyValues": [ "flex" ]
+                                                  },
+                                                  {
+                                                    "propertyName": "align-items",
+                                                    "properyValues": [ "center" ]
+                                                  },
+                                                  {
+                                                    "propertyName": "justify-content",
+                                                    "properyValues": [ "center" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "attributeID": "#content_B-1-2-1-3_real_estate-commerical_construction-section",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "display",
+                                                    "properyValues": [ "block" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "StyleFileName": "Style_Lists_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "content", "quotes", "counter-increment", "counter-reset", "list-style", "list-style-type", "list-style-image", "list-style-position" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "",
+                                                    "properyValues": [ "" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+                                                    "resolutions": [ "1600px" ],
+                                                    "propertyName": "top",
+                                                    "properyValues": [ "330px" ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "StyleFileName": "Style_Margins_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "margin", "margin-top", "margin-right", "margin-left", "margin-bottom" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "body",
+                                                    "properyValues": [ "margin: auto" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+                                                    "resolutions": [ "1600px" ],
+                                                    "propertyName": "top",
+                                                    "properyValues": [ "330px" ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "attributeID": "#row_B-1_business-sales-cta",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "margin-bottom",
+                                                    "properyValues": [ "20px" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "attributeID": "#column_B-1-1_commerical_construction-section",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "margin",
+                                                    "properyValues": [ "20px" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "attributeID": "#column_B-1-2_commerical_construction-section",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "margin",
+                                                    "properyValues": [ "20px" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "attributeID": "#content_B-1-2-1-2-1_Experience_Sketchy-2-2-F-SKC-7-Launch-1-2-Goal-12-ASSET-ImageSecure_Sight-AJC_WidthXHeight_Device-CMS-3_1_1_0",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "margin",
+                                                    "properyValues": [ "12px" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "attributeID": "#content_B-1-2-1_real_estate-commerical_construction-section input",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "margin",
+                                                    "properyValues": [ "20px 0" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "StyleFileName": "Style_Misc_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "cursor", "outline", "outline-style", "outline-color", "outline-width", "direction", "unicode-bidi", "all", "page-break-before", "page-break-after", "page-break-inside", "orphans", "widows" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "#content_B-1-2-1-2-1_Experience_Sketchy-2-2-F-SKC-7-Launch-1-2-Goal-12-ASSET-ImageSecure_Sight-AJC_WidthXHeight_Device-CMS-3_1_1_0",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "filter",
+                                                    "properyValues": [ "invert(1)" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "attributeID": "#content_Experience_Sketchy-2-2-F-SKC-7-Launch-1-2-Goal-12-ASSET-ButtonOptin_Touch-AJC_WidthXHeight_Device-CMS-3_1_1_0",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "cursor",
+                                                    "properyValues": [ "pointer" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "StyleFileName": "Style_Padding_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "padding", "padding-top", "padding-bottom", "padding-left", "padding-right" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "body",
+                                                    "properyValues": [ "padding: 20px" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+                                                    "resolutions": [ "1600px" ],
+                                                    "propertyName": "top",
+                                                    "properyValues": [ "330px" ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "attributeID": "#column_B-1-2_commerical_construction-section",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "padding",
+                                                    "properyValues": [ "10px" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "attributeID": "#content_B-1-2-1_real_estate-commerical_construction-section input",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "padding",
+                                                    "properyValues": [ "5px" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "attributeID": "#content_Experience_Sketchy-2-2-F-SKC-7-Launch-1-2-Goal-12-ASSET-ButtonOptin_Touch-AJC_WidthXHeight_Device-CMS-3_1_1_0",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "padding",
+                                                    "properyValues": [ "10px 16px" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "StyleFileName": "Style_Sizes_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "width", "height", "min-width", "max-width", "min-height", "max-height" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "body",
+                                                    "properyValues": [ "max-width: 800px" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "attributeID": "#content_B-1-1-1_Experience_Sketchy-2-2-F-SKC-7-Launch-1-2-Goal-12-ASSET-ImageList_Sight-AJC_WidthXHeight_Device-CMS-2_4_1_0",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "max-width",
+                                                    "properyValues": [ "300px" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "attributeID": "#content_B-1-2-1-2-1_Experience_Sketchy-2-2-F-SKC-7-Launch-1-2-Goal-12-ASSET-ImageSecure_Sight-AJC_WidthXHeight_Device-CMS-3_1_1_0",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "width",
+                                                    "properyValues": [ "25px" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "attributeID": "#content_B-1-2-1_real_estate-commerical_construction-section input",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "width",
+                                                    "properyValues": [ "100%" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "attributeID": "#content_Experience_Sketchy-2-2-F-SKC-7-Launch-1-2-Goal-12-ASSET-ButtonOptin_Touch-AJC_WidthXHeight_Device-CMS-3_1_1_0",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "width",
+                                                    "properyValues": [ "100%" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "StyleFileName": "Style_Tables_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "table-layout", "empty-cells", "caption-side" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "",
+                                                    "properyValues": [ "" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+                                                    "resolutions": [ "1600px" ],
+                                                    "propertyName": "top",
+                                                    "properyValues": [ "330px" ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "StyleFileName": "Style_Text_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
+                                            "StyleFileSupportedProperties": [ "font", "font-family", "font-style", "font-variant", "font-weight", "font-size", "font-stretch", "font-size-adjust", "font-synthesis", "line-height", "letter-spacing", "word-spacing", "text-align", "text-decoration", "text-decoration-line", "text-decoration-style", "text-decoration-color", "text-indent", "text-transform", "vertical-align", "white-space" ],
+                                            "StyleFileUseProperties": [
+                                              {
+                                                "attributeID": "#content_A-1-1-1_Experience_Sketchy-2-2-F-SKC-7-Launch-1-2-Goal-12-ASSET-Headline_Awareness-AJC_WidthXHeight_Device-CMS-1_1_1_0",
+                                                "properties": [
+                                                  {
+                                                    "propertyName": "text-align",
+                                                    "properyValues": [ "center" ]
+                                                  }
+                                                ],
+                                                "IsMediaQuery": "false",
+                                                "MediaQueryResolutions": [
+                                                  {
+
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "type": "object",
+              "buzzWords": "***OPTIONAL***, Wireframes, HTML, XAML",
+              "extraKeyValuePairs": []
+            }
+          ],
+          "business": [
+            {
+              "key_1": "Request",
+              "values_2": [
+                {
+                  "key_2_1": "Request_1_0",
+                  "values_2_2": [
+                    {
+                      "key_2_2_1": "Server",
+                      "values_2_2_2": [
+                        {
+                          "_2_2_2_1_functionInformationEventCallStackDetails": {
+                            "searchkey": "HTMLSourceCode_SetImplementer_ProductCreation_WebDevelopment_RequestHandler",
+                            "type": "array",
+                            "value": [
+                              {
+                                "_2_2_2_1_1_functionInformationEventCallStackItem": {
+                                  "searchkey": "SetImplementer_ProductCreation_Software_BusinessFuction",
+                                  "type": "object",
+                                  "value": {
+                                    "EventCallStackItemRowID": "1",
+                                    "EventCallStackItems": [
+                                      {
+                                        "Notes": "Dynamic Webpage Generator",
+                                        "Events": [
+                                          {
+                                            "functionsEnabled": "true"
+                                          },
+                                          {
+                                            "functionEvent": "onload",
+                                            "functionName": "Director_Of_WebDevelopment_Chapter_12_3_Page_3_ReadOptinScreenForAll_Handler_1_0",
+                                            "functionParameters": [
+                                              {
+                                                "parameterName": "",
+                                                "parameterTypeScriptDataType": "",
+                                                "parameterDefaultValue": ""
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "type_3": "object",
+              "buzzWords_4": "***REQUIRED***, Functions, Methods, Business Logic",
+              "extraKeyValuePairs_5": []
+            }
+          ],
+          "data": [
+            {
+              "key_1": "Repositories",
+              "values_2": [
+                {
+                  "key_2_1": "Repository_1_0",
+                  "values_2_2": [
+                    {
+                      "key_2_2_1": "Repository",
+                      "values_2_2_2": [
+                        {
+                          "_2_2_2_1_repositoryInformationDataDetails": {
+                            "searchkey": "Repositories_Repository_1_0_Repository_2_2_2_1_RepositoryInformationDataDetails",
+                            "type": "array",
+                            "value": [
+                              {
+                                "_2_2_2_1_1_repositoryInformationDataItem": {
+                                  "searchkey": "SetImplementer_ProductCreation_Software_Data",
+                                  "type": "object",
+                                  "value": {
+                                    "DataItemRowID": "1",
+                                    "DataItemLocation": "LocalService"
+                                  }
+                                },
+                                "_2_2_2_1_2_repositoryInformationDataItem": {
+                                  "searchkey": "SetImplementer_ProductCreation_Software_DataException",
+                                  "type": "object",
+                                  "value": {
+                                    "DataItemRowID": "2",
+                                    "DataItemLocation": "LocalService"
+                                  }
+                                },
+                                "_2_2_2_1_3_repositoryInformationDataItem": {
+                                  "searchkey": "SetImplementer_ProductCreation_Software_MasterLeaderController",
+                                  "type": "object",
+                                  "value": {
+                                    "DataItemRowID": "3",
+                                    "DataItemLocation": "LocalFile"
+                                  }
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "type_3": "object",
+              "buzzWords_4": "***REQUIRED***, LocalFile, LocalDatabase, LocalService, RemoteFile, RemoteDatabase, RemoteService, RemoteServiceVendor",
+              "extraKeyValuePairs_5": [
+                {}
+              ]
+            }
+          ]
         }
+      }
     }
 }
