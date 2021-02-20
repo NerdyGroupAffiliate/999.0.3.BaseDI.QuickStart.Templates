@@ -34,7 +34,8 @@
                                     "SetupItemDocumentPath": "wwwroot/Client/Documents",
                                     "SetupItemFontPath": "wwwroot/Client/Fonts",
                                     "SetupItemImagePath": "wwwroot/Client/Images",
-                                    "SetupItemScriptPath": "wwwroot/Client/Scripts"
+                                    "SetupItemScriptPath": "wwwroot/Client/Scripts",
+                                    "SetupItemScriptName": "BaseDI_1_0.js"
                                   },
                                   "SetupItemEnvironmentServer": {
                                     "SetupItemTransportItemRoutesGET": [
