@@ -557,16 +557,57 @@
                                       "Value": "",
                                       "Events": [
                                         {
-                                          "functionsEnabled": "false"
+                                          "functionsEnabled": "true"
                                         },
                                         {
-                                          "functionEvent": "",
-                                          "functionName": "",
+                                          "functionEvent": "onblur",
+                                          "functionName": "Action",
                                           "functionParameters": [
                                             {
-                                              "parameterName": "",
-                                              "parameterTypeScriptDataType": "",
+                                              "parameterName": "targetResponseTagID",
+                                              "parameterTypeScriptDataType": "string",
+                                              "parameterDefaultValue": "content_C-1-1-1_Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-WidthXHeight-Desktop-3_1_1_0"
+                                            },
+                                            {
+                                              "parameterName": "requestNameToProcess",
+                                              "parameterTypeScriptDataType": "string",
+                                              "parameterDefaultValue": "Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0"
+                                            },
+                                            {
+                                              "parameterName": "requestNameToProcessParameters",
+                                              "parameterTypeScriptDataType": "string",
+                                              "parameterDefaultValue": "Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0-P1_0"
+                                            },
+                                            {
+                                              "parameterName": "requestActionName",
+                                              "parameterTypeScriptDataType": "string",
+                                              "parameterDefaultValue": "Action_ControlOptinButtonRolloverState"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "functionEvent": "onclick",
+                                          "functionName": "Action",
+                                          "functionParameters": [
+                                            {
+                                              "parameterName": "targetResponseTagID",
+                                              "parameterTypeScriptDataType": "string",
                                               "parameterDefaultValue": ""
+                                            },
+                                            {
+                                              "parameterName": "requestNameToProcess",
+                                              "parameterTypeScriptDataType": "string",
+                                              "parameterDefaultValue": "Director_Of_WebDevelopment_Chapter_12_3_Page_3_ReadOptinScreenForAll_Handler_1_0"
+                                            },
+                                            {
+                                              "parameterName": "requestNameToProcessParameters",
+                                              "parameterTypeScriptDataType": "string",
+                                              "parameterDefaultValue": "Director_Of_WebDevelopment_Chapter_12_3_Page_3_ReadOptinScreenForAll_Handler_1_0-P1_0"
+                                            },
+                                            {
+                                              "parameterName": "requestNameToProcessParameters",
+                                              "parameterTypeScriptDataType": "string",
+                                              "parameterDefaultValue": "Action_OutputOptinForm"
                                             }
                                           ]
                                         }

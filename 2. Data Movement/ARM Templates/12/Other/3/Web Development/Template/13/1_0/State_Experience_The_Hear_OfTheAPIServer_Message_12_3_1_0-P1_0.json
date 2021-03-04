@@ -231,6 +231,33 @@
                             }
                           ]
                         }
+                      },
+                      {
+                        "_2_2_2_2_serverInformationSetupDetails": {
+                          "searchkey": "SetupDetails_Servers_Server_2_0_ServerWeb_2_2_2_1_serverInformationSetupDetails",
+                          "type": "array",
+                          "value": [
+                            {
+                              "_2_2_2_2_1_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetBuyer_ProductLaunching_Software_SenseEnvironment",
+                                "type": "object",
+                                "value": {
+                                  "SetupItemRowID": "1",
+                                  "SetupItemEnvironmentClient": {
+
+                                  },
+                                  "SetupItemEnvironmentServer": {
+                                    "SetupItemEnvironmentServerMetaDataPaths": [
+                                      {
+                                        "MetaDataLocalPath": "C:\\Programming\\999.0.3.BaseDI.QuickStart.Templates\\2. Data Movement\\ARM Templates\\12\\Other\\3\\Web Development\\Template\\1\\1_0\\State_Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0-P1_0.json"
+                                      }
+                                    ]
+                                  }
+                                }
+                              }
+                            }
+                          ]
+                        }
                       }
                     ]
                   }
