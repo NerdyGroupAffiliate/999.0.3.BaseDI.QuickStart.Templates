@@ -6,7 +6,100 @@
       "type": "object",
       "defaultValue": {
         "baseDIInstructions": {
-          "configuration": [],
+          "configuration": [
+            {
+              "key_1": "APIS",
+              "values_2": [
+                {
+                  "key_2_1": "API_1_0",
+                  "values_2_2": [
+                    {
+                      "key_2_2_1": "APIEndPoints",
+                      "values_2_2_2": [
+                        {
+                          "_2_2_2_1_serverInformationSetupDetails": {
+                            "searchkey": "SetupDetails_APIS_API_1_0_FacebookGraph_2_2_2_1_serverInformationSetupDetails",
+                            "type": "array",
+                            "value": [
+                              {
+                                "_2_2_2_1_1_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetBuyer_ProductLaunching_Software_TransportEnvironment",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "1",
+                                    "SetupItemAPIName": "Facebook Graph",
+                                    "SetupItemAPIProfiles": [
+                                      {
+                                        "SetupItemAPIEndPointsAndRoutes": {
+                                          "SetupItemAPIAuthorizeRoute": "oauth/access_token",
+                                          "SetupItemAPIBaseEndpoint": "https://graph.facebook.com/",
+                                          "SetupItemAPIMetaDataRoute": "/v2.0/.well-known/openid-configuration",
+                                          "SetupItemAPIScope": "",
+                                          "SetupItemAPITokenRoute": "oauth/access_token",
+                                          "SetupItemAPIVerb": "GET"
+                                        },
+                                        "SetupItemAPISecurityDetails": {
+                                          "SetupItemAPISecurityAppID": "943493412710623",
+                                          "SetupItemAPISecurityCustomerID": "",
+                                          "SetupItemAPISecurityPassword": "1d5d4504724fca4a2985581a2f131a85",
+                                          "SetupItemAPISecurityScopes": []
+                                        }
+                                      }
+                                    ]
+                                  }
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "_2_2_2_2_serverInformationSetupDetails": {
+                            "searchkey": "SetupDetails_APIS_API_1_0_MicrosoftGraph_2_2_2_1_serverInformationSetupDetails",
+                            "type": "array",
+                            "value": [
+                              {
+                                "_2_2_2_2_1_serverInformationSetupItem": {
+                                  "searchkey": "SetupItem_SetBuyer_ProductLaunching_Software_TransportEnvironment",
+                                  "type": "object",
+                                  "value": {
+                                    "SetupItemRowID": "1",
+                                    "SetupItemAPIName": "Microsoft Graph",
+                                    "SetupItemAPIProfiles": [
+                                      {
+                                        "SetupItemAPIEndPointsAndRoutes": {
+                                          "SetupItemAPIAuthorizeRoute": "/oauth2/v2.0/authorize",
+                                          "SetupItemAPIBaseEndpoint": "https://login.microsoftonline.com/",
+                                          "SetupItemAPIMetaDataRoute": "/v2.0/.well-known/openid-configuration",
+                                          "SetupItemAPIScope": "https://graph.microsoft.com/.default",
+                                          "SetupItemAPITokenRoute": "/oauth2/v2.0/token",
+                                          "SetupItemAPIVerb": "POST"
+                                        },
+                                        "SetupItemAPISecurityDetails": {
+                                          "SetupItemAPISecurityAppID": "a963fb61-d6b2-4f60-910d-124d25db479c",
+                                          "SetupItemAPISecurityCustomerID": "843958ec-e9bd-4700-82a9-15f083e9ae1f",
+                                          "SetupItemAPISecurityPassword": "Yw~c6~35iIfi-4X8S2XPksk8nbnmHCn~9w",
+                                          "SetupItemAPISecurityScopes": [ "profile", "offline_access", "user.read", "calendars.read" ]
+                                        }
+                                      }
+                                    ]
+                                  }
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "type_3": "object",
+              "buzzWords_4": "***OPTIONAL***, NodeJS, WebAPI",
+              "extraKeyValuePairs_5": [
+                {}
+              ]
+            }
+          ],
           "presentation": [],
           "business": [
             {
@@ -20,14 +113,14 @@
                       "values_2_2_2": [
                         {
                           "_2_2_2_1_functionInformationEventCallStackDetails": {
-                            "searchkey": "Default_HTMLSourceCode_SetImplementer_ProductCreation_Security_ResponseHandler",
+                            "searchkey": "HTMLSourceCode_SetImplementer_ProductCreation_Security_ResponseHandler",
                             "type": "array",
                             "value": [
                               {
                                 "_2_2_2_1_1_functionInformationEventCallStackItem": {
-                                  "searchkey": "Default_SetImplementer_ProductCreation_Software_BusinessFuction",
+                                  "searchkey": "SetImplementer_ProductCreation_Software_BusinessFuction",
                                   "type": "object",
-                                  "value": { }
+                                  "value": {}
                                 }
                               }
                             ]
@@ -55,12 +148,12 @@
                       "values_2_2_2": [
                         {
                           "_2_2_2_1_repositoryInformationDataDetails": {
-                            "searchkey": "Default_Repositories_Repository_1_0_Repository_2_2_2_1_RepositoryInformationDataDetails",
+                            "searchkey": "Repositories_Repository_1_0_Repository_2_2_2_1_RepositoryInformationDataDetails",
                             "type": "array",
                             "value": [
                               {
                                 "_2_2_2_1_1_repositoryInformationDataItem": {
-                                  "searchkey": "Default_SetImplementer_ProductCreation_Software_Data",
+                                  "searchkey": "SetImplementer_ProductCreation_Software_Data",
                                   "type": "object",
                                   "value": {
                                     "DataItemRowID": "1",
@@ -68,7 +161,7 @@
                                   }
                                 },
                                 "_2_2_2_1_2_repositoryInformationDataItem": {
-                                  "searchkey": "Default_SetImplementer_ProductCreation_Software_DataException",
+                                  "searchkey": "SetImplementer_ProductCreation_Software_DataException",
                                   "type": "object",
                                   "value": {
                                     "DataItemRowID": "2",
@@ -76,7 +169,7 @@
                                   }
                                 },
                                 "_2_2_2_1_3_repositoryInformationDataItem": {
-                                  "searchkey": "Default_SetImplementer_ProductCreation_Software_MasterLeaderController",
+                                  "searchkey": "SetImplementer_ProductCreation_Software_MasterLeaderController",
                                   "type": "object",
                                   "value": {
                                     "DataItemRowID": "3",
