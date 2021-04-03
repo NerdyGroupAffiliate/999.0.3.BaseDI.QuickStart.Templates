@@ -103,7 +103,63 @@
         "presentation": [],
         "business": [
           {
-            "key_1": "Response",
+            "key_1": "Request",
+            "values_2": [
+              {
+                "key_2_1": "Request_1_0",
+                "values_2_2": [
+                  {
+                    "key_2_2_1": "ClientOrServer",
+                    "values_2_2_2": [
+                      {
+                        "_2_2_2_1_functionInformationEventCallStackDetails": {
+                          "searchkey": "ExecutionPlan_SetImplementer_Management_Software_RequestHandlers",
+                          "type": "array",
+                          "value": [
+                            {
+                              "_2_2_2_1_1_functionInformationEventCallStackItem": {
+                                "searchkey": "ExecutionPlan_SetImplementer_Management_Software_RequestHandler",
+                                "type": "object",
+                                "value": {
+                                  "RequestExecutionDescription": "EXECUTE configure security",
+                                  "RequestUseCase": "EDGE",
+                                  "RequestTargetedResponseTagID": "",
+                                  "RequestNameToProcess": "Director_Of_Security_Chapter_12_5_Page_1_ReadAuthenticationForAll_Handler_1_0",
+                                  "RequestNameToProcessParameters": "Director_Of_Security_Chapter_12_5_Page_1_ReadAuthenticationForAll_Handler_1_0-P1_0-P1_0",
+                                  "RequestActionName": "",
+                                  "RequestCallBack": {}
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_2_functionInformationEventCallStackItem": {
+                                "searchkey": "ExecutionPlan_SetImplementer_Management_Software_RequestHandler",
+                                "type": "object",
+                                "value": {
+                                  "RequestExecutionDescription": "EXECUTE render homepage",
+                                  "RequestUseCase": "IDEAL",
+                                  "RequestTargetedResponseTagID": "",
+                                  "RequestNameToProcess": "Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0",
+                                  "RequestNameToProcessParameters": "Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0-P1_0",
+                                  "RequestActionName": "",
+                                  "RequestCallBack": {}
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "type_3": "object",
+            "buzzWords_4": "***REQUIRED***, Functions, Methods, Business Logic",
+            "extraKeyValuePairs_5": []
+          },
+          {
+            "key_2": "Response",
             "values_2": [
               {
                 "key_2_1": "Response_1_0",

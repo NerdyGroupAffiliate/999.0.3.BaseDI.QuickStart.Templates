@@ -4,4 +4,14 @@
     <ActiveDebugProfile>Docker</ActiveDebugProfile>
     <ShowAllFiles>false</ShowAllFiles>
   </PropertyGroup>
+  <ItemGroup>
+    <TypeScriptCompile Update="2. Data Movement\ARM Templates\12\Other\3\Web Development\Template\13\1_0\State_Experience_The_Hear_OfTheAPIServer_Message_12_3_1_0.ts">
+      <SubType>Code</SubType>
+    </TypeScriptCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <TypeScriptCompile Update="2. Data Movement\ARM Templates\12\Other\3\Web Development\Template\13\1_0\State_Experience_The_Hear_OfTheAPIServer_Message_12_3_1_0-P1_0.ts">
+      <SubType>Code</SubType>
+    </TypeScriptCompile>
+  </ItemGroup>
 </Project>
