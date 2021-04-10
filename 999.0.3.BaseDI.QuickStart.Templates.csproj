@@ -16,6 +16,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="2. Data Movement\ARM Templates\12\Other\3\Web Development\Template\13\1_0\State_Experience_The_Hear_OfTheAPIServer_Message_12_3_1_0-P1_0.ts" />
+    <None Remove="2. Data Movement\ARM Templates\12\Other\3\Web Development\Template\13\1_0\State_Experience_The_Hear_OfTheAPIServer_Message_12_3_1_0.ts" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.9.10" />
   </ItemGroup>
 
@@ -27,6 +32,11 @@
     <Folder Include="3. Client\Web\3. Setting\5\Ecommerce\4\Sell Low Ticket Offer\2\Nutrition\Assets\1\1_0\" />
     <Folder Include="3. Client\Web\3. Setting\5\Ecommerce\4\Sell Low Ticket Offer\2\Nutrition\CSS\1\1_0\" />
     <Folder Include="3. Client\Web\3. Setting\9\Software\12\Other\4\CMS\HTML\1\1_0\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <TypeScriptCompile Include="2. Data Movement\ARM Templates\12\Other\3\Web Development\Template\13\1_0\State_Experience_The_Hear_OfTheAPIServer_Message_12_3_1_0-P1_0.ts" />
+    <TypeScriptCompile Include="2. Data Movement\ARM Templates\12\Other\3\Web Development\Template\13\1_0\State_Experience_The_Hear_OfTheAPIServer_Message_12_3_1_0.ts" />
   </ItemGroup>
 
 </Project>

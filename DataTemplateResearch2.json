@@ -1,0 +1,87 @@
+{
+  "$schema": "https://schema.management.basedi.io/schemas/2019-10-05/deploymentTemplate.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "basedi-chapter-page": {
+      "value": "1_1"
+    },
+    "basedi-advertising-friendship-Advertising_ID": {
+      "value": "-1"
+    },
+    "basedi-advertising-friendship-Bucket_ID": {
+      "value": "1"
+    },
+    "basedi-advertising-friendship-Extra_Data": {
+      "type": "object",
+      "defaultValue": [
+        {
+          "story": {
+            "page": "1_1",
+            "author": {
+              "aslc": "RTG-BRA-LAU-AJC-ADV-FAC"
+            },
+            "characters": [
+              {
+                "mainType": "buyer",
+                "subType": "external",
+                "developerNotes": "PLEASE SEE DOCUMENT -> Software Awareness Experience 2-12-1 – Learn BaseDI - 1-11 - ASSET _ BaseDI.io _ Automation Programming Stragety - Strategic Planning - X.X.pdf -> Character Development -> Lesson 2 -> Step 2-A for mainType and SubType",
+                "chapters": [
+                  {
+                    "chapter": "advertising",
+                    "topic": "nutrition",
+                    "pages": [
+                      {
+                        "description": "How to discover which topic a person MIGHT be interested in.",
+                        "value": "Juicing",
+                        "extraData": [ { "IPAddress": "0.0.0.0" } ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "settings": [
+              {
+                "mainType": "ecommerce",
+                "developerNotes": "PLEASE SEE DOCUMENT -> Software Awareness Experience 2-12-1 – Learn BaseDI - 1-11 - ASSET _ BaseDI.io _ Automation Programming Stragety - Strategic Planning - X.X.pdf -> Setting Development -> Lesson 3 -> Step 3-A for mainType",
+                "chapters": [
+                  {
+                    "chapter": "advertising",
+                    "topic": "Shopping Trends",
+                    "pages": [
+                      {
+                        "description": "How to discover which product a person might be interested in.",
+                        "value": "Ageless Juicing Challenge",
+                        "extraData": [ {} ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "experiences": [
+              {
+                "mainType": "awareness",
+                "subType": "self",
+                "developerNotes": "PLEASE SEE DOCUMENT -> Software Awareness Experience 2-12-1 – Learn BaseDI - 1-11 - ASSET _ BaseDI.io _ Automation Programming Stragety - Strategic Planning - X.X.pdf -> Experience Development -> Lesson 4 -> Step 4-A for mainType and subType",
+                "chapters": [
+                  {
+                    "chapter": "advertising",
+                    "topic": "Personal Taste",
+                    "pages": [
+                      {
+                        "description": "How to discover which content MIGHT appeal to a person.",
+                        "value": "Hear_Content_Experience 1-12-1-Let_It_Go-1-1–ASSSET_AgelessJuicingChallenge.com_Circle_Hypnotize_Meditation-Anxiety_Music-1.0.mp4",
+                        "extraData": [ {} ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
