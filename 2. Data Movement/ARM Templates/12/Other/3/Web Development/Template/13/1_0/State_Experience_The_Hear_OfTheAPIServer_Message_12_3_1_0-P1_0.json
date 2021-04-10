@@ -54,7 +54,9 @@
                                             {
                                               "Description": "Facebook SDK",
                                               "Name": "fb",
-                                              "Type": "npm"
+                                              "Type": "npm",
+                                              "Target": "clientserver",
+                                              "ExtraData": []
                                             }
                                           ]
                                         }

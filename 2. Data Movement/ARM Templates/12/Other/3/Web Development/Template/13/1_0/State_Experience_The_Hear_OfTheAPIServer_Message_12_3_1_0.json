@@ -55,8 +55,8 @@
                                               {
                                                 "Description": "Facebook SDK",
                                                 "Name": "fb",
-                                                "Type": "npm", //Values can be "npm or nuget"
-                                                "Target": "both", //Values can be "client, server or both"
+                                                "Type": "npm", 
+                                                "Target": "clientserver",
                                                 "ExtraData": []
                                               }
                                             ]
