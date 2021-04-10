@@ -12,36 +12,77 @@
                 "key_2_1": "API_1_0",
                 "values_2_2": [
                   {
-                    "key_2_2_1": "MicrosoftGraph",
+                    "key_2_2_1": "APIEndPoints",
                     "values_2_2_2": [
                       {
                         "_2_2_2_1_serverInformationSetupDetails": {
-                          "searchkey": "SetupDetails_APIS_API_1_0_MicrosoftGraph_2_2_2_1_serverInformationSetupDetails",
+                          "searchkey": "SetupDetails_APIS_API_1_0_FacebookGraph_2_2_2_1_serverInformationSetupDetails",
                           "type": "array",
                           "value": [
                             {
                               "_2_2_2_1_1_serverInformationSetupItem": {
                                 "searchkey": "SetupItem_SetBuyer_ProductLaunching_Software_TransportEnvironment",
                                 "type": "object",
-                                "value": {
-                                  "SetupItemRowID": "1",
-                                  "SetupItemAPIName": "Microsoft Graph",
-                                  "SetupItemAPIProfile": {
-                                    "SetupItemAPIEndPointsAndRoutes": {
-                                      "SetupItemAPIAuthorizeRoute": "/oauth2/v2.0/authorize",
-                                      "SetupItemAPIBaseEndpoint": "https://login.microsoftonline.com/",
-                                      "SetupItemAPIMetaDataRoute": "/v2.0/.well-known/openid-configuration",
-                                      "SetupItemAPIScope": "https://graph.microsoft.com/.default",
-                                      "SetupItemAPITokenRoute": "/oauth2/v2.0/token"
-                                    },
-                                    "SetupItemAPISecurityDetails": {
-                                      "SetupItemAPISecurityAppID": "a963fb61-d6b2-4f60-910d-124d25db479c",
-                                      "SetupItemAPISecurityCustomerID": "843958ec-e9bd-4700-82a9-15f083e9ae1f",
-                                      "SetupItemAPISecurityPassword": "Yw~c6~35iIfi-4X8S2XPksk8nbnmHCn~9w",
-                                      "SetupItemAPISecurityScopes": [ "profile", "offline_access", "user.read", "calendars.read" ]
+                                "value": [
+                                  {
+                                    "SetupItemRowID": "1",
+                                    "SetupItemAPIName": "Facebook Graph - Application Token Request",
+                                    "SetupItemAPIRequestType": "ApplicationTokenRequest",
+                                    "SetupItemAPIProfile": {
+                                        "SetupItemAPIEndPointsAndRoutes": {
+                                          "SetupItemAPIAuthorizeRoute": "oauth/access_token",
+                                          "SetupItemAPIBaseEndpoint": "https://graph.facebook.com",
+                                          "SetupItemAPIMetaDataRoute": "/v2.0/.well-known/openid-configuration",
+                                          "SetupItemAPIScope": "",
+                                          "SetupItemAPITokenRoute": "oauth/access_token",
+                                          "SetupItemAPIVerb": "GET"
+                                        },
+                                        "SetupItemAPISecurityDetails": {
+                                          "SetupItemAPISecurityAppID": "943493412710623",
+                                          "SetupItemAPISecurityCustomerID": "",
+                                          "SetupItemAPISecurityPassword": "1d5d4504724fca4a2985581a2f131a85",
+                                          "SetupItemAPISecurityScopes": []
+                                      }
                                     }
                                   }
-                                }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "_2_2_2_2_serverInformationSetupDetails": {
+                          "searchkey": "SetupDetails_APIS_API_1_0_MicrosoftGraph_2_2_2_1_serverInformationSetupDetails",
+                          "type": "array",
+                          "value": [
+                            {
+                              "_2_2_2_2_1_serverInformationSetupItem": {
+                                "searchkey": "SetupItem_SetBuyer_ProductLaunching_Software_TransportEnvironment",
+                                "type": "object",
+                                "value": [
+                                  {
+                                    "SetupItemRowID": "1",
+                                    "SetupItemAPIName": "Microsoft Graph - Application Token Request",
+                                    "SetupItemAPIRequestType": "ApplicationTokenRequest",
+                                    "SetupItemAPIProfile":  {
+                                        "SetupItemAPIEndPointsAndRoutes": {
+                                          "SetupItemAPIAuthorizeRoute": "/oauth2/v2.0/authorize",
+                                          "SetupItemAPIBaseEndpoint": "https://login.microsoftonline.com/",
+                                          "SetupItemAPIMetaDataRoute": "/v2.0/.well-known/openid-configuration",
+                                          "SetupItemAPIScope": "https://graph.microsoft.com/.default",
+                                          "SetupItemAPITokenRoute": "/oauth2/v2.0/token",
+                                          "SetupItemAPIVerb": "POST"
+                                        },
+                                        "SetupItemAPISecurityDetails": {
+                                          "SetupItemAPISecurityAppID": "a963fb61-d6b2-4f60-910d-124d25db479c",
+                                          "SetupItemAPISecurityCustomerID": "843958ec-e9bd-4700-82a9-15f083e9ae1f",
+                                          "SetupItemAPISecurityPassword": "Yw~c6~35iIfi-4X8S2XPksk8nbnmHCn~9w",
+                                          "SetupItemAPISecurityScopes": [ "profile", "offline_access", "user.read", "calendars.read" ]
+                                        }
+                                     }                                    
+                                  }
+                                ]
                               }
                             }
                           ]
@@ -62,7 +103,63 @@
         "presentation": [],
         "business": [
           {
-            "key_1": "Response",
+            "key_1": "Request",
+            "values_2": [
+              {
+                "key_2_1": "Request_1_0",
+                "values_2_2": [
+                  {
+                    "key_2_2_1": "ClientOrServer",
+                    "values_2_2_2": [
+                      {
+                        "_2_2_2_1_functionInformationEventCallStackDetails": {
+                          "searchkey": "ExecutionPlan_SetImplementer_Management_Software_RequestHandlers",
+                          "type": "array",
+                          "value": [
+                            {
+                              "_2_2_2_1_1_functionInformationEventCallStackItem": {
+                                "searchkey": "ExecutionPlan_SetImplementer_Management_Software_RequestHandler",
+                                "type": "object",
+                                "value": {
+                                  "RequestExecutionDescription": "EXECUTE configure security",
+                                  "RequestUseCase": "EDGE",
+                                  "RequestTargetedResponseTagID": "",
+                                  "RequestNameToProcess": "Director_Of_Security_Chapter_12_5_Page_1_ReadAuthenticationForAll_Handler_1_0",
+                                  "RequestNameToProcessParameters": "Director_Of_Security_Chapter_12_5_Page_1_ReadAuthenticationForAll_Handler_1_0-P1_0-P1_0",
+                                  "RequestActionName": "",
+                                  "RequestCallBack": {}
+                                }
+                              }
+                            },
+                            {
+                              "_2_2_2_1_2_functionInformationEventCallStackItem": {
+                                "searchkey": "ExecutionPlan_SetImplementer_Management_Software_RequestHandler",
+                                "type": "object",
+                                "value": {
+                                  "RequestExecutionDescription": "EXECUTE render homepage",
+                                  "RequestUseCase": "IDEAL",
+                                  "RequestTargetedResponseTagID": "",
+                                  "RequestNameToProcess": "Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0",
+                                  "RequestNameToProcessParameters": "Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0-P1_0",
+                                  "RequestActionName": "",
+                                  "RequestCallBack": {}
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "type_3": "object",
+            "buzzWords_4": "***REQUIRED***, Functions, Methods, Business Logic",
+            "extraKeyValuePairs_5": []
+          },
+          {
+            "key_2": "Response",
             "values_2": [
               {
                 "key_2_1": "Response_1_0",
