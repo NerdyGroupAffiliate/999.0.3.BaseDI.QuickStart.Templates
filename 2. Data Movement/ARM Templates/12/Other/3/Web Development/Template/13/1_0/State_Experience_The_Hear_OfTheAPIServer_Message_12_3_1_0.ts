@@ -2,7 +2,7 @@
     '$schema': string;
     contentVersion: string;
     parameters: Parameters;
-    variables: ModelDataLocalObject[];
+    variables: ModelDataObject[];
     resources: Resource[];
     outputs: Output[];
 }
@@ -28,8 +28,8 @@ interface BaseDINerdyGroupAffiliatesDynamicWebsiteDocumentationProfile {
 }
 
 interface BaseDINerdyGroupAffiliatesDynamicWebsiteDocumentation {
-    baseDINerdyGroupAffiliatesDynamicWebsiteDocumentationParameters: ModelDataLocalObject[];
-    baseDINerdyGroupAffiliatesDynamicWebsiteDocumentationFields: ModelDataLocalObject[];
+    baseDINerdyGroupAffiliatesDynamicWebsiteDocumentationParameters: ModelDataObject[];
+    baseDINerdyGroupAffiliatesDynamicWebsiteDocumentationFields: ModelDataObject[];
     baseDINerdyGroupAffiliatesDynamicWebsiteDocumentationRoutes: BaseDINerdyGroupAffiliatesDynamicWebsiteDocumentationRoute[];
     baseDINerdyGroupAffiliatesDynamicWebsiteValidationRules: BaseDINerdyGroupAffiliatesDynamicWebsiteValidationRule[];
 }
@@ -94,7 +94,7 @@ interface DefaultValue {
 
 interface BaseDIInstructions {
     configuration: Configuration[];
-    presentation: ModelDataLocalObject[];
+    presentation: ModelDataObject[];
     business: Business[];
     data: Datum[];
 }
@@ -104,7 +104,7 @@ interface Datum {
     values_2: Values24[];
     type_3: string;
     buzzWords_4: string;
-    extraKeyValuePairs_5: ModelDataLocalObject[];
+    extraKeyValuePairs_5: ModelDataObject[];
 }
 
 interface Values24 {
@@ -217,7 +217,7 @@ interface Configuration {
     values_2: Values2[];
     type_3: string;
     buzzWords_4: string;
-    extraKeyValuePairs_5: ModelDataLocalObject[];
+    extraKeyValuePairs_5: ModelDataObject[];
 }
 
 interface Values2 {
@@ -253,7 +253,7 @@ interface _22221serverInformationSetupItem {
 
 interface Value3 {
     SetupItemRowID: string;
-    SetupItemEnvironmentClient: ModelDataLocalObject;
+    SetupItemEnvironmentClient: ModelDataObject;
     SetupItemEnvironmentServer: SetupItemEnvironmentServer2;
 }
 
@@ -302,9 +302,9 @@ interface SetupItemTransportItemRoute {
     ControllerRoutes: string[];
     ControllerName: string;
     ControllerAvailableQueryStrings: string[];
-    ModelDataLocalObject: ModelDataLocalObject;
-    ModelDataLocalParameter: string;
-    ModelDataRemote: ModelDataLocalObject;
+    ModelDataObject: ModelDataObject;
+    ModelDataParameter: string;
+    ModelDataRemote: ModelDataObject;
     RequiredDependencies: RequiredDependency[];
 }
 
@@ -316,7 +316,7 @@ interface RequiredDependency {
     ExtraData?: any[];
 }
 
-interface ModelDataLocalObject {
+interface ModelDataObject {
 }
 
 interface SetupItemEnvironmentClient {

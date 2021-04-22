@@ -48,8 +48,8 @@
                                             ],
                                             "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0",
                                             "ControllerAvailableQueryStrings": [ "?" ],
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0-P1_0",
+                                            "ModelDataObject": {},
+                                            "ModelDataParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0-P1_0",
                                             "ModelDataRemote": {},
                                             "RequiredDependencies": [
                                               {
@@ -70,8 +70,8 @@
                                             ],
                                             "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_2_ReadPresalesScreenForAll_Handler_1_0",
                                             "ControllerAvailableQueryStrings": [ "?" ],
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_2_ReadPresalesScreenForAll_Handler_1_0-P1_0",
+                                            "ModelDataObject": {},
+                                            "ModelDataParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_2_ReadPresalesScreenForAll_Handler_1_0-P1_0",
                                             "ModelDataRemote": {},
                                             "RequiredDependencies": [ {} ]
                                           }
@@ -83,8 +83,8 @@
                                             ],
                                             "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_3_ReadOptinScreenForAll_Handler_1_0",
                                             "ControllerAvailableQueryStrings": [ "?" ],
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_3_ReadOptinScreenForAll_Handler_1_0-P1_0",
+                                            "ModelDataObject": {},
+                                            "ModelDataParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_3_ReadOptinScreenForAll_Handler_1_0-P1_0",
                                             "ModelDataRemote": {},
                                             "RequiredDependencies": [ {} ]
                                           }
@@ -96,8 +96,8 @@
                                             ],
                                             "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_4_ReadThankYouScreenForAll_Handler_1_0",
                                             "ControllerAvailableQueryStrings": [ "?" ],
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_4_ReadThankYouScreenForAll_Handler_1_0-P1_0",
+                                            "ModelDataObject": {},
+                                            "ModelDataParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_4_ReadThankYouScreenForAll_Handler_1_0-P1_0",
                                             "ModelDataRemote": {},
                                             "RequiredDependencies": [ {} ]
                                           }
@@ -109,8 +109,8 @@
                                             ],
                                             "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_5_ReadSalesScreenForAll_Handler_1_0",
                                             "ControllerAvailableQueryStrings": [ "?" ],
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_5_ReadSalesScreenForAll_Handler_1_0-P1_0",
+                                            "ModelDataObject": {},
+                                            "ModelDataParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_5_ReadSalesScreenForAll_Handler_1_0-P1_0",
                                             "ModelDataRemote": {},
                                             "RequiredDependencies": [ {} ]
                                           }
@@ -122,8 +122,8 @@
                                             ],
                                             "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_6_ReadOrderFormScreenForAll_Handler_1_0",
                                             "ControllerAvailableQueryStrings": [ "?" ],
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_6_ReadOrderFormScreenForAll_Handler_1_0-P1_0",
+                                            "ModelDataObject": {},
+                                            "ModelDataParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_6_ReadOrderFormScreenForAll_Handler_1_0-P1_0",
                                             "ModelDataRemote": {},
                                             "RequiredDependencies": [ {} ]
                                           }
@@ -135,8 +135,8 @@
                                             ],
                                             "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_7_ReadOTOScreenForAll_Handler_1_0",
                                             "ControllerAvailableQueryStrings": [ "?" ],
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_7_ReadOTOScreenForAll_Handler_1_0-P1_0",
+                                            "ModelDataObject": {},
+                                            "ModelDataParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_7_ReadOTOScreenForAll_Handler_1_0-P1_0",
                                             "ModelDataRemote": {},
                                             "RequiredDependencies": [ {} ]
                                           }
@@ -148,8 +148,8 @@
                                             ],
                                             "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_8_ReadWebinarScreenForAll_Handler_1_0",
                                             "ControllerAvailableQueryStrings": [ "?" ],
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_8_ReadWebinarScreenForAll_Handler_1_0-P1_0",
+                                            "ModelDataObject": {},
+                                            "ModelDataParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_8_ReadWebinarScreenForAll_Handler_1_0-P1_0",
                                             "ModelDataRemote": {},
                                             "RequiredDependencies": [ {} ]
                                           }
@@ -161,8 +161,8 @@
                                             ],
                                             "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_9_ReadMembershipScreenForAll_Handler_1_0",
                                             "ControllerAvailableQueryStrings": [ "?" ],
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_9_ReadMembershipScreenForAll_Handler_1_0-P1_0",
+                                            "ModelDataObject": {},
+                                            "ModelDataParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_9_ReadMembershipScreenForAll_Handler_1_0-P1_0",
                                             "ModelDataRemote": {},
                                             "RequiredDependencies": [ {} ]
                                           }
@@ -174,8 +174,8 @@
                                             ],
                                             "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_10_ReadAffiliateScreenForAll_Handler_1_0",
                                             "ControllerAvailableQueryStrings": [ "?" ],
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_10_ReadAffiliateScreenForAll_Handler_1_0-P1_0",
+                                            "ModelDataObject": {},
+                                            "ModelDataParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_10_ReadAffiliateScreenForAll_Handler_1_0-P1_0",
                                             "ModelDataRemote": {},
                                             "RequiredDependencies": [ {} ]
                                           }
@@ -187,8 +187,8 @@
                                             ],
                                             "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_11_ReadOtherScreenForAll_Handler_1_0",
                                             "ControllerAvailableQueryStrings": [ "?" ],
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_11_ReadOtherScreenForAll_Handler_1_0-P1_0",
+                                            "ModelDataObject": {},
+                                            "ModelDataParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_11_ReadOtherScreenForAll_Handler_1_0-P1_0",
                                             "ModelDataRemote": {},
                                             "RequiredDependencies": [ {} ]
                                           }
@@ -201,8 +201,8 @@
                                             ],
                                             "ControllerName": "Experience_The_Movement_OfTheAssets_Content_12_2_1_0",
                                             "ControllerAvailableQueryStrings": [ "?" ],
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Experience_The_Movement_OfTheAssets_Content_12_2_1_0-P1_0",
+                                            "ModelDataObject": {},
+                                            "ModelDataParameter": "Experience_The_Movement_OfTheAssets_Content_12_2_1_0-P1_0",
                                             "ModelDataRemote": {},
                                             "RequiredDependencies": [ {} ]
                                           }
@@ -215,8 +215,8 @@
                                             ],
                                             "ControllerName": "Director_Of_WebDevelopment_Chapter_12_3_Page_12_ReadAdvancedScreenForAll_Handler_1_0",
                                             "ControllerAvailableQueryStrings": [ "?" ],
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_12_ReadAdvancedScreenForAll_Handler_1_0-P1_0",
+                                            "ModelDataObject": {},
+                                            "ModelDataParameter": "Director_Of_WebDevelopment_Chapter_12_3_Page_12_ReadAdvancedScreenForAll_Handler_1_0-P1_0",
                                             "ModelDataRemote": {},
                                             "RequiredDependencies": [ {} ]
                                           }
@@ -228,8 +228,8 @@
                                             ],
                                             "ControllerName": "Director_Of_Advertising_Chapter_1_1_Page_2_CreateWhereAPersonBecameAwareOfTopic_Handler_1_0",
                                             "ControllerAvailableQueryStrings": [ "?" ],
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_Advertising_Chapter_1_1_Page_2_CreateWhereAPersonBecameAwareOfTopic_Handler_1_0-P1_4_1_1",
+                                            "ModelDataObject": {},
+                                            "ModelDataParameter": "Director_Of_Advertising_Chapter_1_1_Page_2_CreateWhereAPersonBecameAwareOfTopic_Handler_1_0-P1_4_1_1",
                                             "ModelDataRemote": {},
                                             "RequiredDependencies": [ {} ]
                                           }
@@ -245,8 +245,8 @@
                                               "/AuthRequest?RequestType=ApplicationTokenRequest&API=FacebookGraph",
                                               "/AuthRequest?RequestType=ApplicationTokenRequest&API=MicrosoftGraph"
                                             ],
-                                            "ModelDataLocalObject": {},
-                                            "ModelDataLocalParameter": "Director_Of_Security_Chapter_12_5_Page_1_ReadAuthenticationForAll_Handler_1_0-P1_0",
+                                            "ModelDataObject": {},
+                                            "ModelDataParameter": "Director_Of_Security_Chapter_12_5_Page_1_ReadAuthenticationForAll_Handler_1_0-P1_0",
                                             "ModelDataRemote": {},
                                             "RequiredDependencies": [ {} ]
                                           }
