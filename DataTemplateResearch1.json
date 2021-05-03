@@ -1,0 +1,214 @@
+{
+  "$schema": "https://schema.management.basedi.io/schemas/2019-10-05/deploymentTemplate.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "baseDIActionStorylineCode" {
+      "type": "string",
+      "defaultValue": "RTG-BRA-LAU-AJC-ADV-FAC",
+      "metadata": {
+        "description": "Sets the asset shelf location to allow for communication to management."
+      }
+    },
+    "baseDIActionMode": {
+      "type": "string",
+      "defaultValue": "Test",
+      "metadata": {
+        "description": "Sets 1 of the 12 valid BaseDI goal numbers"
+      }
+    },
+    "baseDIActionRepositoryTypeToUse": {
+      "type": "string",
+      "defaultValue": "LocalFile",
+      "metadata": {
+        "description": "***REQUIRED*** Sets the type of repository that the client wants to use."
+      }
+    },
+    "baseDIActionGoalNumber": {
+      "type": "int",
+      "defaultValue": 1,
+      "metadata": {
+        "description": "Sets 1 of the 12 valid BaseDI goal numbers"
+      }
+    },
+    "baseDIActionGoalNicheNumber": {
+      "type": "int",
+      "defaultValue": 1,
+      "metadata": {
+        "description": "Sets 1 of the valid BaseDI Niche numbers"
+      }
+    },
+    "baseDIActionPageNumber": {
+      "type": "int",
+      "defaultValue": 1,
+      "metadata": {
+        "description": "Sets the task (page) number"
+      }
+    },
+    "baseDIActionVersionNumber": {
+      "type": "int",
+      "defaultValue": 1,
+      "metadata": {
+        "description": "Sets the version number"
+      }
+    },
+    "baseDIActionVersionRevisionNumber": {
+      "type": "int",
+      "defaultValue": 0,
+      "metadata": {
+        "description": "Sets the version revision number"
+      }
+    },
+    "baseDINicheTrackingCode": {
+      "type": "string",
+      "defaultValue": "RTG-BRA-LAU-AJC-ADV-FAC",
+      "metadata": {
+        "description": "Sets the asset shelf location to allow for communication to management."
+      }
+    }
+  },
+  "variables": [
+    {
+
+    }
+  ],
+  "resources": [
+    {
+      "baseDApiVersion": "2019-10-05",
+      "baseDINicheMasterName": "BaseDI.Advertising.NicheMaster",
+      "baseDIActionName": "Direct_Chapter_G_N_Page_P_CreateAdvertisement_V_V",
+      "baseDIActionMode": "[parameters('baseDIActionMode')]",
+      "baseDIActionRepositoryTypeToUse": "[parameters('baseDIActionRepositoryTypeToUse')]",
+      "baseDIActionGoalNumber": "[parameters('baseDIActionGoalNumber')]",
+      "baseDIActionGoalNicheNumber": "[parameters('baseDIActionGoalNicheNumber')]",
+      "baseDIActionVersionNumber": "[parameters('baseDIActionVersionNumber')]",
+      "baseDIActionVersionRevisionNumber": "[parameters('baseDIActionVersionRevisionNumber')]",
+      "baseDIProperties": {
+        "baseDISqlServerSchemaProfile": {
+          "baseDIadvertising-Advertising_ID": {
+            "type": "int",
+            "defaultValue": "-1",
+            "metadata": {
+              "description": "Sets the AdvertisingID"
+            }
+          },
+          "baseDIadvertising-Name": {
+            "type": "string",
+            "defaultValue": "Ageless Juicing Online Promotion Test",
+            "metadata": {
+              "description": "Sets the advertisment's name"
+            }
+          },
+          "baseDIadvertising-Description": {
+            "type": "string",
+            "defaultValue": "This is a test advertisement for The Ageless Juicing Challenge",
+            "metadata": {
+              "description": "Sets the advertisement’s description"
+            }
+          },
+          "baseDIadvertising-IsActive": {
+            "type": "boolean",
+            "defaultValue": "true",
+            "metadata": {
+              "description": "Sets the advertisement’s active status"
+            }
+          },
+          "baseDIadvertising-ExtraData": {
+            "type": "object",
+            "defaultValue": [ {} ],
+            "metadata": {
+              "description": "Sets any extra data."
+            }
+          }
+        },
+        "baseDIResearchProfile": {
+          "research": [
+            {
+              "story": {
+                "author": {
+                  "aslc": "[parameters('baseDIStorylineCode')]"
+                },
+                "characters": [
+                  {
+                    "lead": "buyer",
+                    "role": "external",
+                    "developerNotes": "PLEASE SEE DOCUMENT -> Software Awareness Experience 2-12-1 – Learn BaseDI - 1-11 - ASSET _ BaseDI.io _ Automation Programming Stragety - Strategic Planning - X.X.pdf -> Character Development -> Lesson 2 -> Step 2-A for lead and role types",
+                    "chapters": [
+                      {
+                        "niche": "Advertising",
+                        "subject": "Target Market Research",
+                        "pages": [
+                          {
+                            "topic": "WHO likes the Juicing Market.",
+                            "topicHeadline": "How to discover WHO responded to various ads.",
+                            "topicPurpose": "To discover what area someone lives based on IP address.",
+                            "topicData": [
+                              {
+                                "Key": "IPAddress",
+                                "Value": "10.10.10.10"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "settings": [
+                  {
+                    "location": "social media",
+                    "developerNotes": "PLEASE SEE DOCUMENT -> Software Awareness Experience 2-12-1 – Learn BaseDI - 1-11 - ASSET _ BaseDI.io _ Automation Programming Stragety - Strategic Planning - X.X.pdf -> Setting Development -> Lesson 3 -> Step 3-A for location types",
+                    "chapters": [
+                      {
+                        "niche": "Advertising",
+                        "subject": "Target Market Research",
+                        "pages": [
+                          {
+                            "topic": "WHERE do juicing fans hang out.",
+                            "topicHeadline": "How to discover WHERE a market hangs out in regards to a topic.",
+                            "topicPurpose": "To discover which channels work the best for a certain niche.",
+                            "topicData": [
+                              {
+                                "Key": "Platform",
+                                "Value": "Facebook"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "experiences": [
+                  {
+                    "humanExperience": "awareness",
+                    "experienceTrigger": "advertisement",
+                    "developerNotes": "PLEASE SEE DOCUMENT -> Software Awareness Experience 2-12-1 – Learn BaseDI - 1-11 - ASSET _ BaseDI.io _ Automation Programming Stragety - Strategic Planning - X.X.pdf -> Experience Development -> Lesson 4 -> Step 4-A for humanExperience and experience trigger types",
+                    "chapters": [
+                      {
+                        "niche": "Advertising",
+                        "topic": "Creative Research",
+                        "pages": [
+                          {
+                            "topic": "WHAT are some good advertisement creative ideas.",
+                            "topicHeadline": "How to prove WHY a market might responded to an ad.",
+                            "topicPurpose": "To discover which content works best for certain niches.",
+                            "topicData": [
+                              {
+                                "Key": "CreativeScreenShot",
+                                "Value": "http://our-ideas.com/captured_image.jpg"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
