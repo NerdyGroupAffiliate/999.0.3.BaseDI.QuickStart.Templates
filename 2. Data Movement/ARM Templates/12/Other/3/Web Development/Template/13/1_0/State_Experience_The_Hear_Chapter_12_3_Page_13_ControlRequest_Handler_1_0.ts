@@ -1,7 +1,7 @@
 ﻿interface State_Experience_The_Hear_OfTheAPIServer_Message_12_3_1_0 {
     '$schema': string;
     contentVersion: string;
-    parameters: Parameters;
+    parameters: Parameters<any>;
     variables: ModelDataObject[];
     resources: Resource[];
     outputs: Output[];
@@ -74,7 +74,7 @@ interface Endpoint {
     endpoint_Local_NodeJS: string;
 }
 
-interface Parameters {
+interface Parameters<T> {
     baseDI_NerdyGroupAffiliates_DynamicWebsite_MainProfile: BaseDINerdyGroupAffiliatesDynamicWebsiteMainProfile;
 }
 

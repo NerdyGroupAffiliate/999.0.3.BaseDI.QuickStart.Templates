@@ -567,7 +567,7 @@
                                     "HTMLContentStylingItemRowID": "1",
                                     "HTMLContentStylingItemFiles": [
                                       {
-                                        "StyleFilePathLocal": "../999.0.3.BaseDI.QuickStart.Templates/3. Client/Web/3. Setting/5/Ecommerce/4/Sell Low Ticket Offer/2/Nutrition/CSS/1/1_0/",
+                                        "StyleFilePathLocal": "{RootPath}/3. Client/Web/3. Setting/5/Ecommerce/4/Sell Low Ticket Offer/2/Nutrition/CSS/1/1_0/",
                                         "StyleFilePathRemote": "https://github.com/NerdyGroupAffiliate/999.0.3.BaseDI.QuickStart.Templates",
                                         "StyleFiles": [
                                           {
