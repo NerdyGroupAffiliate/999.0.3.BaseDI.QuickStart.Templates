@@ -1,0 +1,708 @@
+/*GENERAL LAYOUT*/
+body {
+  overflow-y: hidden;
+  position: relative;
+}
+
+
+
+
+
+/*CONTAINERS*/
+#container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0 {
+}
+
+
+
+
+
+/*ROWS*/
+#row_A-1_business-sales-authority {
+}
+
+#row_B-1_business-advertising-sign {
+}
+
+#row_C-1_business-sales-cta {
+}
+
+#row_D-1_business-sales-liking {
+}
+
+
+
+
+
+/*COLUMNS*/
+#column_A-1-1_real_estate-commerical_construction-section {
+}
+
+#column_B-1-1_real_estate-commerical_construction-section {
+}
+
+#column_C-1-1_real_estate-commerical_construction-section {
+}
+
+#column_D-1-1_real_estate-commerical_construction-section {
+}
+
+  #column_D-1-1_real_estate-commerical_construction-section img {
+    position: absolute;
+  }
+
+
+
+
+
+/*CONTENT*/
+#content_A-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0 {
+}
+
+#content_B-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner1-WidthXHeight-Desktop-1_1_1_0 {
+}
+
+#content_B-1-1-2_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner2-WidthXHeight-Desktop-1_1_1_0 {
+}
+
+#content_C-1-1-1_Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-WidthXHeight-Desktop-3_1_1_0 {
+  position: relative;
+  z-index: 2;
+}
+
+#content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+  top: 390px;
+  left: 11.5%;
+}
+
+  /*Desktop - 1600px*/
+  @media (max-width: 1600px) {
+    #content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      top: 330px;
+    }
+  }
+
+  /*Desktop - 1536px*/
+  @media (max-width: 1536px) {
+    #content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      left: 10%;
+    }
+  }
+
+  /*Desktop - 1440px*/
+  @media (max-width: 1440px) {
+    #content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      top: 350px;
+      left: 11%;
+    }
+  }
+
+  /*Desktop - 1366px*/
+  @media (max-width: 1366px) {
+    #content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      top: 254px;
+      left: 13%;
+    }
+  }
+
+  /*Desktop - 1280px X 1024px*/
+  @media (max-width: 1280px) and (max-height: 1024px) {
+    #content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      top: 516px;
+      left: 9%;
+    }
+  }
+
+  /*Desktop - 1280px X 800px*/
+  @media (max-width: 1280px) and (max-height: 800px) {
+    #content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      top: 312px;
+      left: 11%;
+    }
+  }
+
+  /*Tablet - 1024px*/
+  @media (max-width: 1024px) {
+    #content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      top: 304px;
+      left: 1%;
+      z-index: 1;
+    }
+  }
+
+  /*Tablet - 768px*/
+  @media (max-width: 768px) {
+    #content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      top: 240px;
+    }
+  }
+
+  /*Mobile - 720px*/
+  @media (max-width: 720px) {
+    #content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      top: 376px;
+    }
+  }
+
+  /*Tablet - 601px*/
+  @media (max-width: 601px) {
+    #content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      top: 278px;
+    }
+  }
+
+  /*Tablet - 601px*/
+  @media (max-width: 600px) {
+    #content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      top: 294px;
+    }
+  }
+
+  /*Mobile - 414px*/
+  @media (max-width: 415px) {
+    #content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      top: 216px;
+    }
+  }
+
+  /*Mobile - 375px*/
+  @media (max-width: 376px) {
+    #content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      top: 196px;
+    }
+  }
+
+  /*Mobile - 375px*/
+  @media only screen
+    and (device-width : 375px)
+    and (device-height : 812px)
+    and (-webkit-device-pixel-ratio : 3) {
+    #content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      top: 500px;
+    }
+  }
+
+  /*Mobile - 320px*/
+  @media (max-width: 321px) {
+    #content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
+      top: 168px;
+    }
+  }
+
+#content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+  top: 300px;
+  left: 50%;
+}
+
+  /*Desktop - 1600px*/
+  @media (max-width: 1600px) {
+    #content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      top: 254px;
+    }
+  }
+
+  /*Desktop - 1536px*/
+  @media (max-width: 1536px) {
+    #content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      top: 244px;
+    }
+  }
+
+  /*Desktop - 1440px*/
+  @media (max-width: 1440px) {
+    #content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      top: 290px;
+    }
+  }
+
+  /*Desktop - 1366px*/
+  @media (max-width: 1366px) {
+    #content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      top: 205px;
+    }
+  }
+
+  /*Desktop - 1280px X 1024px*/
+  @media (max-width: 1280px) and (max-height: 1024px) {
+    #content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      top: 465px;
+    }
+  }
+
+  /*Desktop - 1280px X 800px*/
+  @media (max-width: 1280px) and (max-height: 800px) {
+    #content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      top: 260px;
+    }
+  }
+
+  /*Tablet - 1024px*/
+  @media (max-width: 1024px) {
+    #content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      top: 470px;
+      left: 51%;
+    }
+  }
+
+  /*Tablet - 800px*/
+  @media (max-width: 800px) {
+    #content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      top: 408px;
+    }
+  }
+
+  /*Tablet - 768px*/
+  @media (max-width: 768px) {
+    #content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      top: 320px;
+      left: 50%;
+    }
+  }
+
+  /*Mobile - 720px*/
+  @media (max-width: 720px) {
+    #content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      top: 466px;
+      left: 51%;
+    }
+  }
+
+  /*Tablet - 601px*/
+  @media (max-width: 601px) {
+    #content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      top: 344px;
+      left: 50%;
+    }
+  }
+
+  /*Tablet - 600px*/
+  @media (max-width: 600px) {
+    #content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      top: 369px;
+      left: 53.6%;
+    }
+  }
+
+  /*Mobile - 414px*/
+  @media (max-width: 415px) {
+    #content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      top: 268px;
+      left: 52%;
+    }
+  }
+
+  /*Mobile - 375px*/
+  @media (max-width: 376px) {
+    #content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      top: 242px;
+      left: 52.2%;
+    }
+  }
+
+  /*Mobile - 375px*/
+  @media only screen
+    and (device-width : 375px)
+    and (device-height : 812px)
+    and (-webkit-device-pixel-ratio : 3) {
+    #content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      top: 626px;
+    }
+  }
+
+  /*Mobile - 360px*/
+  @media (max-width: 361px) {
+    #content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      top: 232px;
+    }
+  }
+
+  /*Mobile - 320px*/
+  @media (max-width: 321px) {
+    #content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0 {
+      top: 206px;
+    }
+  }
+
+#content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+  top: 650px;
+  left: 29%;
+}
+
+  /*Desktop - 1600px*/
+  @media (max-width: 1600px) {
+    #content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      top: 550px;
+    }
+  }
+
+  /*Desktop - 1536px*/
+  @media (max-width: 1536px) {
+    #content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      top: 520px;
+    }
+  }
+
+  /*Desktop - 1440px*/
+  @media (max-width: 1440px) {
+    #content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      top: 568px;
+    }
+  }
+
+  /*Desktop - 1366px*/
+  @media (max-width: 1366px) {
+    #content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      top: 472px;
+    }
+  }
+
+  /*Desktop - 1280px X 1024px*/
+  @media (max-width: 1280px) and (max-height: 1024px) {
+    #content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      top: 720px;
+      left: 27%;
+    }
+  }
+
+  /*Desktop - 1280px X 800px*/
+  @media (max-width: 1280px) and (max-height: 800px) {
+    #content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      top: 506px;
+      left: 28%;
+    }
+  }
+
+  /*Tablet - 1024px*/
+  @media (max-width: 1024px) {
+    #content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      top: 926px;
+      left: 1%;
+    }
+  }
+
+  /*Tablet - 800px*/
+  @media (max-width: 800px) {
+    #content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      top: 924px;
+    }
+  }
+
+  /*Tablet - 768px*/
+  @media (max-width: 768px) {
+    #content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      top: 742px;
+    }
+  }
+
+  /*Mobile - 768px*/
+  @media (max-width: 768px) {
+    #content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      top: 974px;
+    }
+  }
+
+  /*Tablet - 601px*/
+  @media (max-width: 601px) {
+    #content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      top: 734px;
+    }
+  }
+
+  /*Tablet - 601px*/
+  @media (max-width: 600px) {
+    #content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      top: 779px;
+    }
+  }
+
+  /*Tablet - 414px*/
+  @media (max-width: 415px) {
+    #content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      top: 560px;
+    }
+  }
+
+  /*Tablet - 375px*/
+  @media (max-width: 376px) {
+    #content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      top: 510px;
+    }
+  }
+
+  /*Tablet - 375px*/
+  @media only screen
+    and (device-width : 375px)
+    and (device-height : 812px)
+    and (-webkit-device-pixel-ratio : 3) {
+    #content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      top: 1682px;
+    }
+  }
+
+  /*Tablet - 360px*/
+  @media (max-width: 361px) {
+    #content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      top: 488px;
+    }
+  }
+
+  /*Tablet - 320px*/
+  @media (max-width: 321px) {
+    #content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
+      top: 432px;
+    }
+  }
+
+#content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+  top: 646px;
+  right: 19%;
+}
+
+  /*Desktop - 1600px*/
+  @media (max-width: 1600px) {
+    #content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      top: 545px;
+    }
+  }
+
+  /*Desktop - 1536px*/
+  @media (max-width: 1536px) {
+    #content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      top: 520px;
+    }
+  }
+
+  /*Desktop - 1440px*/
+  @media (max-width: 1440px) {
+    #content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      top: 558px;
+    }
+  }
+
+  /*Desktop - 1366px*/
+  @media (max-width: 1366px) {
+    #content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      top: 464px;
+    }
+  }
+
+  /*Desktop - 1280px X 1024px*/
+  @media (max-width: 1280px) and (max-height: 1024px) {
+    #content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      top: 710px;
+      right: 17%;
+    }
+  }
+
+  /*Desktop - 1280px X 800px*/
+  @media (max-width: 1280px) and (max-height: 800px) {
+    #content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      top: 498px;
+      right: 19%;
+    }
+  }
+
+  /*Tablet - 1024px*/
+  @media (max-width: 1024px) {
+    #content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      top: 915px;
+      right: 1%;
+    }
+  }
+
+  /*Tablet - 768px*/
+  @media (max-width: 768px) {
+    #content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      top: 735px;
+    }
+  }
+
+  /*Mobile - 768px*/
+  @media (max-width: 768px) {
+    #content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      top: 966px;
+    }
+  }
+
+  /*Tablet - 601px*/
+  @media (max-width: 601px) {
+    #content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      top: 728px;
+    }
+  }
+
+  /*Tablet - 601px*/
+  @media (max-width: 600px) {
+    #content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      top: 773px;
+    }
+  }
+
+  /*Tablet - 414px*/
+  @media (max-width: 415px) {
+    #content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      top: 556px;
+    }
+  }
+
+  /*Tablet - 375px*/
+  @media (max-width: 376px) {
+    #content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      top: 506px;
+    }
+  }
+
+  /*Tablet - 375px*/
+  @media only screen
+    and (device-width : 375px)
+    and (device-height : 812px)
+    and (-webkit-device-pixel-ratio : 3) {
+    #content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      top: 1670px;
+    }
+  }
+
+  /*Tablet - 360px*/
+  @media (max-width: 361px) {
+    #content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      top: 485px;
+    }
+  }
+
+  /*Tablet - 320px*/
+  @media (max-width: 321px) {
+    #content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0 {
+      top: 430px;
+    }
+  }
+
+#content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+  top: 750px;
+  right: 10%;
+}
+
+  /*Desktop - 1600px*/
+  @media (max-width: 1600px) {
+    #content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      top: 770px;
+    }
+  }
+
+  /*Desktop - 1536px*/
+  @media (max-width: 1536px) {
+    #content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      top: 720px;
+    }
+  }
+
+  /*Desktop - 1440px*/
+  @media (max-width: 1440px) {
+    #content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      top: 730px;
+    }
+  }
+
+  /*Desktop - 1366px*/
+  @media (max-width: 1366px) {
+    #content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      top: 625px;
+    }
+  }
+
+  /*Desktop - 1280px X 1024px*/
+  @media (max-width: 1280px) and (max-height: 1024px) {
+    #content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      top: 870px;
+      right: 11%;
+    }
+  }
+
+  /*Desktop - 1280px X 800px*/
+  @media (max-width: 1280px) and (max-height: 800px) {
+    #content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      top: 650px;
+      right: 11%;
+    }
+  }
+
+  /*Tablet - 1024px*/
+  @media (max-width: 1024px) {
+    #content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      top: 1130px;
+      right: 36%;
+    }
+  }
+
+  /*Tablet - 800px*/
+  @media (max-width: 800px) {
+    #content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      top: 1100px;
+    }
+  }
+
+  /*Tablet - 768px*/
+  @media (max-width: 768px) {
+    #content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      top: 875px;
+      right: 32%;
+    }
+  }
+
+  /*Mobile - 768px*/
+  @media (max-width: 768px) {
+    #content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      top: 1134px;
+      right: 34%;
+    }
+  }
+
+  /*Tablet - 601px*/
+  @media (max-width: 601px) {
+    #content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      top: 834px;
+    }
+  }
+
+  /*Tablet - 600px*/
+  @media (max-width: 600px) {
+    #content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      top: 900px;
+    }
+  }
+
+  /*Mobile - 414px*/
+  @media (max-width: 415px) {
+    #content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      top: 644px;
+    }
+  }
+
+  /*Mobile - 375px*/
+  @media (max-width: 376px) {
+    #content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      top: 588px;
+    }
+  }
+
+  /*Mobile - 375px*/
+  @media only screen
+    and (device-width : 375px)
+    and (device-height : 812px)
+    and (-webkit-device-pixel-ratio : 3) {
+    #content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      top: 1900px;
+    }
+  }
+
+  /*Mobile - 360px*/
+  @media (max-width: 361px) {
+    #content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      top: 564px;
+    }
+  }
+
+  /*Mobile - 320px*/
+  @media (max-width: 321px) {
+    #content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
+      top: 500px;
+    }
+  }
