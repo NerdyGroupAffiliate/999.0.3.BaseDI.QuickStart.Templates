@@ -881,18 +881,24 @@
                                                 {
                                                   "propertyName": "position",
                                                   "properyValues": [ "relative" ]
-                                                } 
+                                                }
                                               ],
-                                              "IsMediaQuery": "false",
+                                              "IsMediaQuery": "true",
                                               "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [
-                                                    "1600px"
-                                                  ],
-                                                  "propertyName": "",
-                                                  "properyValues": [
-                                                    "330px"
+                                                  "resolutions": {
+                                                    "mediaQueryFeature1": "max-width: 1600px",
+                                                    "mediaQueryAndOrNot": "",
+                                                    "mediaQueryFeature2": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "top",
+                                                      "properyValues": [
+                                                        "330px"
+                                                      ]
+                                                    }
                                                   ]
                                                 }
                                               ]
@@ -911,12 +917,18 @@
                                               "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [
-                                                    ""
-                                                  ],
-                                                  "propertyName": "",
-                                                  "properyValues": [
-                                                    ""
+                                                  "resolutions": {
+                                                    "mediaQueryFeature1": "",
+                                                    "mediaQueryAndOrNot": "",
+                                                    "mediaQueryFeature2": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
                                                   ]
                                                 }
                                               ]
@@ -951,9 +963,18 @@
                                               "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "propertyName": "",
-                                                  "properyValues": [
-                                                    ""
+                                                  "resolutions": {
+                                                    "mediaQueryFeature1": "",
+                                                    "mediaQueryAndOrNot": "",
+                                                    "mediaQueryFeature2": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
                                                   ]
                                                 }
                                               ]
@@ -1011,12 +1032,18 @@
                                               "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [
-                                                    ""
-                                                  ],
-                                                  "propertyName": "",
-                                                  "properyValues": [
-                                                    ""
+                                                  "resolutions": {
+                                                    "mediaQueryFeature1": "",
+                                                    "mediaQueryAndOrNot": "",
+                                                    "mediaQueryFeature2": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
                                                   ]
                                                 }
                                               ]
@@ -1044,12 +1071,18 @@
                                               "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [
-                                                    ""
-                                                  ],
-                                                  "propertyName": "",
-                                                  "properyValues": [
-                                                    ""
+                                                  "resolutions": {
+                                                    "mediaQueryFeature1": "",
+                                                    "mediaQueryAndOrNot": "",
+                                                    "mediaQueryFeature2": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
                                                   ]
                                                 }
                                               ]
@@ -1083,12 +1116,18 @@
                                               "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [
-                                                    ""
-                                                  ],
-                                                  "propertyName": "",
-                                                  "properyValues": [
-                                                    ""
+                                                  "resolutions": {
+                                                    "mediaQueryFeature1": "",
+                                                    "mediaQueryAndOrNot": "",
+                                                    "mediaQueryFeature2": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
                                                   ]
                                                 }
                                               ]
@@ -1116,12 +1155,18 @@
                                               "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [
-                                                    ""
-                                                  ],
-                                                  "propertyName": "",
-                                                  "properyValues": [
-                                                    ""
+                                                  "resolutions": {
+                                                    "mediaQueryFeature1": "",
+                                                    "mediaQueryAndOrNot": "",
+                                                    "mediaQueryFeature2": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
                                                   ]
                                                 }
                                               ]
@@ -1155,12 +1200,18 @@
                                               "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [
-                                                    ""
-                                                  ],
-                                                  "propertyName": "",
-                                                  "properyValues": [
-                                                    ""
+                                                  "resolutions": {
+                                                    "mediaQueryFeature1": "",
+                                                    "mediaQueryAndOrNot": "",
+                                                    "mediaQueryFeature2": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
                                                   ]
                                                 }
                                               ]
@@ -1191,12 +1242,18 @@
                                               "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [
-                                                    ""
-                                                  ],
-                                                  "propertyName": "",
-                                                  "properyValues": [
-                                                    ""
+                                                  "resolutions": {
+                                                    "mediaQueryFeature1": "",
+                                                    "mediaQueryAndOrNot": "",
+                                                    "mediaQueryFeature2": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
                                                   ]
                                                 }
                                               ]
@@ -1235,12 +1292,18 @@
                                               "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [
-                                                    ""
-                                                  ],
-                                                  "propertyName": "",
-                                                  "properyValues": [
-                                                    ""
+                                                  "resolutions": {
+                                                    "mediaQueryFeature1": "",
+                                                    "mediaQueryAndOrNot": "",
+                                                    "mediaQueryFeature2": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
                                                   ]
                                                 }
                                               ]
@@ -1271,12 +1334,18 @@
                                               "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [
-                                                    ""
-                                                  ],
-                                                  "propertyName": "",
-                                                  "properyValues": [
-                                                    ""
+                                                  "resolutions": {
+                                                    "mediaQueryFeature1": "",
+                                                    "mediaQueryAndOrNot": "",
+                                                    "mediaQueryFeature2": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
                                                   ]
                                                 }
                                               ]
@@ -1314,12 +1383,18 @@
                                               "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [
-                                                    ""
-                                                  ],
-                                                  "propertyName": "",
-                                                  "properyValues": [
-                                                    ""
+                                                  "resolutions": {
+                                                    "mediaQueryFeature1": "",
+                                                    "mediaQueryAndOrNot": "",
+                                                    "mediaQueryFeature2": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
                                                   ]
                                                 }
                                               ]
@@ -1344,12 +1419,18 @@
                                               "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [
-                                                    "1600px"
-                                                  ],
-                                                  "propertyName": "top",
-                                                  "properyValues": [
-                                                    "330px"
+                                                  "resolutions": {
+                                                    "mediaQueryFeature1": "max-width: 1600px",
+                                                    "mediaQueryAndOrNot": "",
+                                                    "mediaQueryFeature2": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "top",
+                                                      "properyValues": [
+                                                        "330px"
+                                                      ]
+                                                    }
                                                   ]
                                                 }
                                               ]
@@ -1378,12 +1459,18 @@
                                               "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [
-                                                    ""
-                                                  ],
-                                                  "propertyName": "",
-                                                  "properyValues": [
-                                                    ""
+                                                  "resolutions": {
+                                                    "mediaQueryFeature1": "",
+                                                    "mediaQueryAndOrNot": "",
+                                                    "mediaQueryFeature2": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
                                                   ]
                                                 }
                                               ]
@@ -1430,12 +1517,18 @@
                                               "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [
-                                                    ""
-                                                  ],
-                                                  "propertyName": "",
-                                                  "properyValues": [
-                                                    ""
+                                                  "resolutions": {
+                                                    "mediaQueryFeature1": "",
+                                                    "mediaQueryAndOrNot": "",
+                                                    "mediaQueryFeature2": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
                                                   ]
                                                 }
                                               ]
