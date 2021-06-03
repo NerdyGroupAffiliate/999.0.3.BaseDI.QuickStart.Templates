@@ -17,7 +17,7 @@ interface Resource {
 }
 
 interface BaseDIProfile {
-    baseDI_NerdyGroupAffiliates_DynamicWebsite_MainProfile: string;
+    baseDI_NerdyGroupAffiliates_DataSet_JSON: string;
     baseDI_NerdyGroupAffiliates_DynamicWebsite_DocumentationProfile: BaseDINerdyGroupAffiliatesDynamicWebsiteDocumentationProfile[];
 }
 
@@ -75,7 +75,7 @@ interface Endpoint {
 }
 
 interface Parameters {
-    baseDI_NerdyGroupAffiliates_DynamicWebsite_MainProfile: BaseDINerdyGroupAffiliatesDynamicWebsiteMainProfile;
+    baseDI_NerdyGroupAffiliates_DataSet_JSON: BaseDINerdyGroupAffiliatesDynamicWebsiteMainProfile;
 }
 
 interface BaseDINerdyGroupAffiliatesDynamicWebsiteMainProfile {

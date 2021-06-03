@@ -2,7 +2,7 @@
   "$schema": "https://schema.management.basedi.io/schemas/2019-10-05/deploymentTemplate.json#",
   "contentVersion": "1.0.0.0",
   "parameters": {
-    "baseDI_NerdyGroupAffiliates_DynamicWebsite_MainProfile": {
+    "baseDI_NerdyGroupAffiliates_DataSet_JSON": {
       "type": "object",
       "defaultValue": {
         "baseDIInstructions": {
@@ -1381,7 +1381,7 @@
     {
       "baseDIProfiles": [
         {
-          "baseDI_NerdyGroupAffiliates_DynamicWebsite_MainProfile": "{BASEDICUSTOMOPTION}",
+          "baseDI_NerdyGroupAffiliates_DataSet_JSON": "{BASEDICUSTOMOPTION}",
           "baseDI_NerdyGroupAffiliates_DynamicWebsite_DocumentationProfile": [
             {
               "baseDI_NerdyGroupAffiliates_DynamicWebsitePurpose": "***BASEDI DYNAMIC WEBSITE***",

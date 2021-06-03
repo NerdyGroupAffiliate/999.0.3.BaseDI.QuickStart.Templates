@@ -1,7 +1,7 @@
 ﻿interface State_Experience_The_Hear_OfTheAPIServer_Message_12_3_1_0_P1_0 {
   '$schema': string;
   contentVersion: string;
-  baseDI_NerdyGroupAffiliates_DynamicWebsite_MainProfile: BaseDINerdyGroupAffiliatesDynamicWebsiteMainProfile;
+  baseDI_NerdyGroupAffiliates_DataSet_JSON: BaseDINerdyGroupAffiliatesDynamicWebsiteMainProfile;
 }
 
 interface BaseDINerdyGroupAffiliatesDynamicWebsiteMainProfile {
