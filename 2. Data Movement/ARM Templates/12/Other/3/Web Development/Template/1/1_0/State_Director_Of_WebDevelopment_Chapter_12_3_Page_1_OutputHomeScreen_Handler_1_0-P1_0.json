@@ -888,9 +888,7 @@
                                               "MediaQueryResolutions": [
                                                 {
                                                   "resolutions": {
-                                                    "mediaQueryFeature1": "max-width: 1600px",
-                                                    "mediaQueryAndOrNot": "",
-                                                    "mediaQueryFeature2": ""
+                                                    "mediaQuery": "max-width: 1600px"
                                                   },
                                                   "properties": [
                                                     {
@@ -918,15 +916,31 @@
                                               "MediaQueryResolutions": [
                                                 {
                                                   "resolutions": {
-                                                    "mediaQueryFeature1": "",
-                                                    "mediaQueryAndOrNot": "",
-                                                    "mediaQueryFeature2": ""
+                                                    "mediaQuery": ""
                                                   },
                                                   "properties": [
                                                     {
                                                       "propertyName": "",
                                                       "properyValues": [
                                                         ""
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
                                                       ]
                                                     }
                                                   ]
@@ -964,15 +978,31 @@
                                               "MediaQueryResolutions": [
                                                 {
                                                   "resolutions": {
-                                                    "mediaQueryFeature1": "",
-                                                    "mediaQueryAndOrNot": "",
-                                                    "mediaQueryFeature2": ""
+                                                    "mediaQuery": ""
                                                   },
                                                   "properties": [
                                                     {
                                                       "propertyName": "",
                                                       "properyValues": [
                                                         ""
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
                                                       ]
                                                     }
                                                   ]
@@ -1033,15 +1063,31 @@
                                               "MediaQueryResolutions": [
                                                 {
                                                   "resolutions": {
-                                                    "mediaQueryFeature1": "",
-                                                    "mediaQueryAndOrNot": "",
-                                                    "mediaQueryFeature2": ""
+                                                    "mediaQuery": ""
                                                   },
                                                   "properties": [
                                                     {
                                                       "propertyName": "",
                                                       "properyValues": [
                                                         ""
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
                                                       ]
                                                     }
                                                   ]
@@ -1072,15 +1118,31 @@
                                               "MediaQueryResolutions": [
                                                 {
                                                   "resolutions": {
-                                                    "mediaQueryFeature1": "",
-                                                    "mediaQueryAndOrNot": "",
-                                                    "mediaQueryFeature2": ""
+                                                    "mediaQuery": ""
                                                   },
                                                   "properties": [
                                                     {
                                                       "propertyName": "",
                                                       "properyValues": [
                                                         ""
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
                                                       ]
                                                     }
                                                   ]
@@ -1117,15 +1179,31 @@
                                               "MediaQueryResolutions": [
                                                 {
                                                   "resolutions": {
-                                                    "mediaQueryFeature1": "",
-                                                    "mediaQueryAndOrNot": "",
-                                                    "mediaQueryFeature2": ""
+                                                    "mediaQuery": ""
                                                   },
                                                   "properties": [
                                                     {
                                                       "propertyName": "",
                                                       "properyValues": [
                                                         ""
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
                                                       ]
                                                     }
                                                   ]
@@ -1156,15 +1234,31 @@
                                               "MediaQueryResolutions": [
                                                 {
                                                   "resolutions": {
-                                                    "mediaQueryFeature1": "",
-                                                    "mediaQueryAndOrNot": "",
-                                                    "mediaQueryFeature2": ""
+                                                    "mediaQuery": ""
                                                   },
                                                   "properties": [
                                                     {
                                                       "propertyName": "",
                                                       "properyValues": [
                                                         ""
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
                                                       ]
                                                     }
                                                   ]
@@ -1201,15 +1295,31 @@
                                               "MediaQueryResolutions": [
                                                 {
                                                   "resolutions": {
-                                                    "mediaQueryFeature1": "",
-                                                    "mediaQueryAndOrNot": "",
-                                                    "mediaQueryFeature2": ""
+                                                    "mediaQuery": ""
                                                   },
                                                   "properties": [
                                                     {
                                                       "propertyName": "",
                                                       "properyValues": [
                                                         ""
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
                                                       ]
                                                     }
                                                   ]
@@ -1243,15 +1353,31 @@
                                               "MediaQueryResolutions": [
                                                 {
                                                   "resolutions": {
-                                                    "mediaQueryFeature1": "",
-                                                    "mediaQueryAndOrNot": "",
-                                                    "mediaQueryFeature2": ""
+                                                    "mediaQuery": ""
                                                   },
                                                   "properties": [
                                                     {
                                                       "propertyName": "",
                                                       "properyValues": [
                                                         ""
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
                                                       ]
                                                     }
                                                   ]
@@ -1293,9 +1419,7 @@
                                               "MediaQueryResolutions": [
                                                 {
                                                   "resolutions": {
-                                                    "mediaQueryFeature1": "",
-                                                    "mediaQueryAndOrNot": "",
-                                                    "mediaQueryFeature2": ""
+                                                    "mediaQuery": ""
                                                   },
                                                   "properties": [
                                                     {
@@ -1335,15 +1459,31 @@
                                               "MediaQueryResolutions": [
                                                 {
                                                   "resolutions": {
-                                                    "mediaQueryFeature1": "",
-                                                    "mediaQueryAndOrNot": "",
-                                                    "mediaQueryFeature2": ""
+                                                    "mediaQuery": ""
                                                   },
                                                   "properties": [
                                                     {
                                                       "propertyName": "",
                                                       "properyValues": [
                                                         ""
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
                                                       ]
                                                     }
                                                   ]
@@ -1384,15 +1524,31 @@
                                               "MediaQueryResolutions": [
                                                 {
                                                   "resolutions": {
-                                                    "mediaQueryFeature1": "",
-                                                    "mediaQueryAndOrNot": "",
-                                                    "mediaQueryFeature2": ""
+                                                    "mediaQuery": ""
                                                   },
                                                   "properties": [
                                                     {
                                                       "propertyName": "",
                                                       "properyValues": [
                                                         ""
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
                                                       ]
                                                     }
                                                   ]
@@ -1420,15 +1576,31 @@
                                               "MediaQueryResolutions": [
                                                 {
                                                   "resolutions": {
-                                                    "mediaQueryFeature1": "max-width: 1600px",
-                                                    "mediaQueryAndOrNot": "",
-                                                    "mediaQueryFeature2": ""
+                                                    "mediaQuery": "(max-width: 1600px)"
                                                   },
                                                   "properties": [
                                                     {
                                                       "propertyName": "top",
                                                       "properyValues": [
                                                         "330px"
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
                                                       ]
                                                     }
                                                   ]
@@ -1460,15 +1632,31 @@
                                               "MediaQueryResolutions": [
                                                 {
                                                   "resolutions": {
-                                                    "mediaQueryFeature1": "",
-                                                    "mediaQueryAndOrNot": "",
-                                                    "mediaQueryFeature2": ""
+                                                    "mediaQuery": ""
                                                   },
                                                   "properties": [
                                                     {
                                                       "propertyName": "",
                                                       "properyValues": [
                                                         ""
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
                                                       ]
                                                     }
                                                   ]
@@ -1518,15 +1706,31 @@
                                               "MediaQueryResolutions": [
                                                 {
                                                   "resolutions": {
-                                                    "mediaQueryFeature1": "",
-                                                    "mediaQueryAndOrNot": "",
-                                                    "mediaQueryFeature2": ""
+                                                    "mediaQuery": ""
                                                   },
                                                   "properties": [
                                                     {
                                                       "propertyName": "",
                                                       "properyValues": [
                                                         ""
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
                                                       ]
                                                     }
                                                   ]

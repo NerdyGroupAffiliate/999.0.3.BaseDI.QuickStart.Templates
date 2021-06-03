@@ -4,7 +4,35 @@ body {
   position: relative;
 }
 
+@media (min-width: 20em), not all and (min-height: 40em) {
+    @media not all and (pointer: none) 
+    {
+        body {
+            top: 2px;
+            bottom: 2px 2px;
+        }
 
+    }
+
+    @media screen and ( (min-width: 50em) and (orientation: landscape) ), print and ( not (color) ) 
+    {
+        .test2 {
+            top: 2px;
+        }
+
+
+    }
+    
+    body 
+    {
+        overflow-y: hidden;
+        position: relative test;
+    }
+
+    .test {
+        top: 2px;
+    }
+}
 
 
 
@@ -78,6 +106,13 @@ body {
   @media (max-width: 1600px) {
     #content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
       top: 330px;
+    }
+
+    @media not (pointer2: none) {
+        body {
+            top: 21px;
+            bottom: 21px 21px;
+        }
     }
   }
 
