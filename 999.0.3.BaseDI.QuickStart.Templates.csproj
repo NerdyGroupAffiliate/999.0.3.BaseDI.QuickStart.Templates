@@ -28,10 +28,17 @@
     <Folder Include="2. Data Movement\ARM Templates\12\Other\2\Programming\Template\1\1_0\" />
     <Folder Include="3. Client\Web\3. Setting\5\Ecommerce\12\Other\4\CMS\HTML\1\1_0\" />
     <Folder Include="3. Client\Web\3. Setting\5\Ecommerce\1\Generate Brand Awareness\1\Advertising\Assets\" />
-    <Folder Include="3. Client\Web\3. Setting\5\Ecommerce\4\Sell Low Ticket Offer\2\Nutrition\CSS\1\1_0\" />
-    <Folder Include="3. Client\Web\3. Setting\5\Ecommerce\9\Improve Customer Service\1\Customer Service\CSS\1\1_0\" />
-    <Folder Include="3. Client\Web\3. Setting\5\Ecommerce\9\Improve Customer Service\1\Customer Service\HTML\1\1_0\" />
+    <Folder Include="3. Client\Web\3. Setting\5\Ecommerce\2\Generate Brand Trust\1\Friendship\Assets\1\1_0\" />
+    <Folder Include="3. Client\Web\3. Setting\5\Ecommerce\2\Generate Brand Trust\1\Friendship\Assets\1\2_0\" />
+    <Folder Include="3. Client\Web\3. Setting\5\Ecommerce\9\Improve Customer Service\1\Customer Service\Assets\1\1_0\" />
+    <Folder Include="3. Client\Web\3. Setting\5\Ecommerce\9\Improve Customer Service\1\Customer Service\Assets\5\1_0\" />
+    <Folder Include="3. Client\Web\3. Setting\5\Ecommerce\9\Improve Customer Service\1\Customer Service\Assets\4\1_0\" />
+    <Folder Include="3. Client\Web\3. Setting\5\Ecommerce\9\Improve Customer Service\1\Customer Service\Assets\3\1_0\" />
+    <Folder Include="3. Client\Web\3. Setting\5\Ecommerce\9\Improve Customer Service\1\Customer Service\Assets\2\1_0\" />
+    <Folder Include="3. Client\Web\3. Setting\9\Software\12\Other\4\CMS\CSS\1\1_0\" />
     <Folder Include="3. Client\Web\3. Setting\9\Software\12\Other\4\CMS\HTML\1\1_0\" />
+    <Folder Include="3. Client\Web\4. Experience\2\Movement\2\Generate Brand Trust\3\Social Media\Experience\1\1_0\" />
+    <Folder Include="3. Client\Web\4. Experience\2\Movement\2\Generate Brand Trust\3\Social Media\Experience\2\1_0\" />
   </ItemGroup>
 
   <ItemGroup>

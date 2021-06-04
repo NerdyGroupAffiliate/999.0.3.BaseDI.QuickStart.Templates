@@ -1,0 +1,7 @@
+﻿    #content_B-1-5-6-1 {
+        cursor: pointer;
+    }
+    
+    progress:before {
+        content: attr(data-label);
+    }

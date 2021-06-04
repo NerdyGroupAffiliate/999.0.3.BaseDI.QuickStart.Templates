@@ -1,0 +1,15 @@
+﻿#content_A-1-1-1 {
+    color: #1E90FF;
+}
+
+#content_A-1-1-1 span {
+    color: #000;
+}
+
+#content_B-1-5-6-1 {
+    color: #fff;
+}
+
+progress:before {
+    color: #fff;
+}
