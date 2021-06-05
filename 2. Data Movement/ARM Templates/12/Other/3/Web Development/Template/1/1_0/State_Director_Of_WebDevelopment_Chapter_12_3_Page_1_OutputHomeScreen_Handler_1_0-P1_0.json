@@ -897,6 +897,24 @@
                                                         "330px"
                                                       ]
                                                     }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
+                                                      ]
+                                                    }
                                                   ]
                                                 }
                                               ]
