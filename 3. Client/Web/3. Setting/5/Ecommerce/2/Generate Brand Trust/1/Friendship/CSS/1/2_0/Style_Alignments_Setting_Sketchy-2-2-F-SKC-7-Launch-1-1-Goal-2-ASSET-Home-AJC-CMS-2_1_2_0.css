@@ -1,7 +1,7 @@
 /*GENERAL LAYOUT*/
 body {
-  overflow-y: hidden;
-  position: relative;
+    overflow-y: hidden;
+    position: relative;    
 }
 
 @media (min-width: 20em), not all and (min-height: 40em) {
@@ -10,6 +10,7 @@ body {
         body {
             top: 2px;
             bottom: 2px 2px;
+            background-image: url(../../../Assets/1/1_0/Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-Home-AJC_1920X1080_Desktop-CMS-4_2_1_0.jpg);
         }
 
     }
@@ -441,11 +442,11 @@ body {
   }
 
   /*Mobile - 768px*/
-  @media (max-width: 768px) {
+/*  @media (max-width: 768px) {
     #content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0 {
       top: 974px;
     }
-  }
+  }*/
 
   /*Tablet - 601px*/
   @media (max-width: 601px) {
