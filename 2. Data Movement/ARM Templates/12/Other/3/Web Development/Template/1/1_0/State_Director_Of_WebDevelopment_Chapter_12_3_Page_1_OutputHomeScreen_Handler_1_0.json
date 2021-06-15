@@ -1507,9 +1507,9 @@
                   ]
                 }
               ],
-              "type": "object",
-              "buzzWords": "***OPTIONAL***, Wireframes, HTML, XAML",
-              "extraKeyValuePairs": []
+              "type_3": "object",
+              "buzzWords_4": "***OPTIONAL***, Wireframes, HTML, XAML",
+              "extraKeyValuePairs_5": []
             }
           ],
           "business": [

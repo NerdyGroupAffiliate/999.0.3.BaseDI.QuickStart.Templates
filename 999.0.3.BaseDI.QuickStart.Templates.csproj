@@ -16,11 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="2. Data Movement\ARM Templates\12\Other\3\Web Development\Template\13\1_0\State_Experience_The_Hear_Chapter_12_3_Page_13_ControlRequest_Handler_1_0-P1_0.ts" />
-    <None Remove="2. Data Movement\ARM Templates\12\Other\3\Web Development\Template\13\1_0\State_Experience_The_Hear_Chapter_12_3_Page_13_ControlRequest_Handler_1_0.ts" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.9.10" />
   </ItemGroup>
 
@@ -39,11 +34,6 @@
     <Folder Include="3. Client\Web\3. Setting\9\Software\12\Other\4\CMS\HTML\1\1_0\" />
     <Folder Include="3. Client\Web\4. Experience\2\Movement\2\Generate Brand Trust\3\Social Media\Experience\1\1_0\" />
     <Folder Include="3. Client\Web\4. Experience\2\Movement\2\Generate Brand Trust\3\Social Media\Experience\2\1_0\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <TypeScriptCompile Include="2. Data Movement\ARM Templates\12\Other\3\Web Development\Template\13\1_0\State_Experience_The_Hear_Chapter_12_3_Page_13_ControlRequest_Handler_1_0-P1_0.ts" />
-    <TypeScriptCompile Include="2. Data Movement\ARM Templates\12\Other\3\Web Development\Template\13\1_0\State_Experience_The_Hear_Chapter_12_3_Page_13_ControlRequest_Handler_1_0.ts" />
   </ItemGroup>
 
 </Project>
