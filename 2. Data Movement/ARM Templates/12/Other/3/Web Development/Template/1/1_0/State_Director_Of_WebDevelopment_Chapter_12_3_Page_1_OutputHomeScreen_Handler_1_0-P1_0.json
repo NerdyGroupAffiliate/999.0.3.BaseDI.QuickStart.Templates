@@ -437,54 +437,11 @@
                                   "HTMLContentItemRowID": "4",
                                   "HTMLContentItems": [
                                     {
-                                      "Notes": "Background Wallpaper Image of Theme",
-                                      "Tag": "img",
+                                      "Notes": "Content_A-1-1-1 - Column Container",
+                                      "Tag": "div",
                                       "Attributes": [
                                         {
-                                          "id": "container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0"
-                                        },
-                                        {
-                                          "alt": "Ageless Background Wallpaper - Home"
-                                        },
-                                        {
-                                          "src": "../../../Assets/1/1_0/Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-1920X1080-Desktop-4_2_1_0.jpg"
-                                        }
-                                      ],
-                                      "Value": "",
-                                      "Events": [
-                                        {
-                                          "functionsEnabled": "false"
-                                        },
-                                        {
-                                          "functionEvent": "",
-                                          "functionName": "",
-                                          "functionParameters": [
-                                            {
-                                              "parameterName": "",
-                                              "parameterTypeScriptDataType": "",
-                                              "parameterDefaultValue": ""
-                                            }
-                                          ]
-                                        }
-                                      ],
-                                      "ParentHTMLContentItemAttributeID": "container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0",
-                                      "ChildHTMLContentDetails": [
-
-                                      ],
-                                      "ChildHTMLContentFlowDirection": ""
-                                    },
-                                    {
-                                      "Notes": "Authority Building Image of Headline",
-                                      "Tag": "img",
-                                      "Attributes": [
-                                        {
-                                          "id": "content_A-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0"
-                                        },
-                                        {
-                                          "alt": "A PROGRAM BY ANDREW DURHAM"
-                                        },
-                                        {
-                                          "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/7/Awareness/1/Generate%20Brand%20Awarness/1/Advertising/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-Owner_Aware-AJC_463X125_Desktop-CMS-1_1_1_0.png"
+                                          "id": "content_A-1-1-1"
                                         }
                                       ],
                                       "Value": "",
@@ -506,19 +463,55 @@
                                       ],
                                       "ParentHTMLContentItemAttributeID": "column_A-1-1_real_estate-commerical_construction-section",
                                       "ChildHTMLContentDetails": [
+                                        {
+                                          "Notes": "Authority Building Image of Headline",
+                                          "Tag": "img",
+                                          "Attributes": [
+                                            {
+                                              "id": "content_A-1-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0"
+                                            },
+                                            {
+                                              "alt": "A PROGRAM BY ANDREW DURHAM"
+                                            },
+                                            {
+                                              "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/7/Awareness/1/Generate%20Brand%20Awarness/1/Advertising/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-Owner_Aware-AJC_463X125_Desktop-CMS-1_1_1_0.png"
+                                            }
+                                          ],
+                                          "Value": "",
+                                          "Events": [
+                                            {
+                                              "functionsEnabled": "false"
+                                            },
+                                            {
+                                              "functionEvent": "",
+                                              "functionName": "",
+                                              "functionParameters": [
+                                                {
+                                                  "parameterName": "",
+                                                  "parameterTypeScriptDataType": "",
+                                                  "parameterDefaultValue": ""
+                                                }
+                                              ]
+                                            }
+                                          ],
+                                          "ParentHTMLContentItemAttributeID": "column_A-1-1_real_estate-commerical_construction-section",
+                                          "ChildHTMLContentDetails": [
 
+                                          ],
+                                          "ChildHTMLContentFlowDirection": ""
+                                        }
                                       ],
                                       "ChildHTMLContentFlowDirection": ""
                                     },
                                     {
-                                      "Notes": "Offer Text of Headline",
-                                      "Tag": "h1",
+                                      "Notes": "Content_B-1-1-1 - Column Container",
+                                      "Tag": "div",
                                       "Attributes": [
                                         {
-                                          "id": "content_B-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner1-WidthXHeight-Desktop-1_1_1_0"
+                                          "id": "content_B-1-1-1"
                                         }
                                       ],
-                                      "Value": "THE AGELESS JUICING CHALLENGE",
+                                      "Value": "",
                                       "Events": [
                                         {
                                           "functionsEnabled": "false"
@@ -535,55 +528,79 @@
                                           ]
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "column_B-1-1_real_estate-commerical_construction-section",
+                                      "ParentHTMLContentItemAttributeID": "",
                                       "ChildHTMLContentDetails": [
-
-                                      ],
-                                      "ChildHTMLContentFlowDirection": ""
-                                    },
-                                    {
-                                      "Notes": "Sales Motivational Text of SubHeadline",
-                                      "Tag": "h2",
-                                      "Attributes": [
                                         {
-                                          "id": "content_B-1-1-2_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner2-WidthXHeight-Desktop-1_1_1_0"
-                                        }
-                                      ],
-                                      "Value": "the fun ritual to keep you motivated and inspired",
-                                      "Events": [
-                                        {
-                                          "functionsEnabled": "false"
-                                        },
-                                        {
-                                          "functionEvent": "",
-                                          "functionName": "",
-                                          "functionParameters": [
+                                          "Notes": "Offer Text of Headline",
+                                          "Tag": "h1",
+                                          "Attributes": [
                                             {
-                                              "parameterName": "",
-                                              "parameterTypeScriptDataType": "",
-                                              "parameterDefaultValue": ""
+                                              "id": "content_B-1-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner1-WidthXHeight-Desktop-1_1_1_0"
                                             }
-                                          ]
-                                        }
-                                      ],
-                                      "ParentHTMLContentItemAttributeID": "column_B-1-1_real_estate-commerical_construction-section",
-                                      "ChildHTMLContentDetails": [
+                                          ],
+                                          "Value": "THE AGELESS JUICING CHALLENGE",
+                                          "Events": [
+                                            {
+                                              "functionsEnabled": "false"
+                                            },
+                                            {
+                                              "functionEvent": "",
+                                              "functionName": "",
+                                              "functionParameters": [
+                                                {
+                                                  "parameterName": "",
+                                                  "parameterTypeScriptDataType": "",
+                                                  "parameterDefaultValue": ""
+                                                }
+                                              ]
+                                            }
+                                          ],
+                                          "ParentHTMLContentItemAttributeID": "",
+                                          "ChildHTMLContentDetails": [
 
+                                          ],
+                                          "ChildHTMLContentFlowDirection": ""
+                                        },
+                                        {
+                                          "Notes": "Sales Motivational Text of SubHeadline",
+                                          "Tag": "h2",
+                                          "Attributes": [
+                                            {
+                                              "id": "content_B-1-1-1-2_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner2-WidthXHeight-Desktop-1_1_1_0"
+                                            }
+                                          ],
+                                          "Value": "the fun ritual to keep you motivated and inspired",
+                                          "Events": [
+                                            {
+                                              "functionsEnabled": "false"
+                                            },
+                                            {
+                                              "functionEvent": "",
+                                              "functionName": "",
+                                              "functionParameters": [
+                                                {
+                                                  "parameterName": "",
+                                                  "parameterTypeScriptDataType": "",
+                                                  "parameterDefaultValue": ""
+                                                }
+                                              ]
+                                            }
+                                          ],
+                                          "ParentHTMLContentItemAttributeID": "column_B-1-1_real_estate-commerical_construction-section",
+                                          "ChildHTMLContentDetails": [
+
+                                          ],
+                                          "ChildHTMLContentFlowDirection": ""
+                                        }
                                       ],
                                       "ChildHTMLContentFlowDirection": ""
                                     },
                                     {
-                                      "Notes": "Call to Action Image of Button",
-                                      "Tag": "img",
+                                      "Notes": "Content_C-1-1-1 - Column Container",
+                                      "Tag": "div",
                                       "Attributes": [
                                         {
-                                          "id": "content_C-1-1-1_Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-WidthXHeight-Desktop-3_1_1_0"
-                                        },
-                                        {
-                                          "alt": "GET ON WAITING LIST FOR FREE PREVIEW"
-                                        },
-                                        {
-                                          "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/5/Sight/3/Generate%20Optin/1/List%20Building/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-ButtonOptin_Touch-AJC_611X37_Desktop-CMS-3_1_1_0.png"
+                                          "id": "content_C-1-1-1"
                                         }
                                       ],
                                       "Value": "",
@@ -644,24 +661,95 @@
                                           ]
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "column_C-1-1_real_estate-commerical_construction-section",
+                                      "ParentHTMLContentItemAttributeID": "",
                                       "ChildHTMLContentDetails": [
+                                        {
+                                          "Notes": "Call to Action Image of Button",
+                                          "Tag": "img",
+                                          "Attributes": [
+                                            {
+                                              "id": "content_C-1-1-1-1_Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-WidthXHeight-Desktop-3_1_1_0"
+                                            },
+                                            {
+                                              "alt": "GET ON WAITING LIST FOR FREE PREVIEW"
+                                            },
+                                            {
+                                              "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/5/Sight/3/Generate%20Optin/1/List%20Building/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-ButtonOptin_Touch-AJC_611X37_Desktop-CMS-3_1_1_0.png"
+                                            }
+                                          ],
+                                          "Value": "",
+                                          "Events": [
+                                            {
+                                              "functionsEnabled": "true"
+                                            },
+                                            {
+                                              "functionEvent": "onblur",
+                                              "functionName": "Action",
+                                              "functionParameters": [
+                                                {
+                                                  "parameterName": "targetResponseTagID",
+                                                  "parameterTypeScriptDataType": "string",
+                                                  "parameterDefaultValue": "content_C-1-1-1_Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-WidthXHeight-Desktop-3_1_1_0"
+                                                },
+                                                {
+                                                  "parameterName": "requestNameToProcess",
+                                                  "parameterTypeScriptDataType": "string",
+                                                  "parameterDefaultValue": "Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0"
+                                                },
+                                                {
+                                                  "parameterName": "requestNameToProcessParameters",
+                                                  "parameterTypeScriptDataType": "string",
+                                                  "parameterDefaultValue": "Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0-P1_0"
+                                                },
+                                                {
+                                                  "parameterName": "requestActionName",
+                                                  "parameterTypeScriptDataType": "string",
+                                                  "parameterDefaultValue": "Action_ControlOptinButtonRolloverState"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "functionEvent": "onclick",
+                                              "functionName": "Action",
+                                              "functionParameters": [
+                                                {
+                                                  "parameterName": "targetResponseTagID",
+                                                  "parameterTypeScriptDataType": "string",
+                                                  "parameterDefaultValue": ""
+                                                },
+                                                {
+                                                  "parameterName": "requestNameToProcess",
+                                                  "parameterTypeScriptDataType": "string",
+                                                  "parameterDefaultValue": "Director_Of_WebDevelopment_Chapter_12_3_Page_3_ReadOptinScreenForAll_Handler_1_0"
+                                                },
+                                                {
+                                                  "parameterName": "requestNameToProcessParameters",
+                                                  "parameterTypeScriptDataType": "string",
+                                                  "parameterDefaultValue": "Director_Of_WebDevelopment_Chapter_12_3_Page_3_ReadOptinScreenForAll_Handler_1_0-P1_0"
+                                                },
+                                                {
+                                                  "parameterName": "requestNameToProcessParameters",
+                                                  "parameterTypeScriptDataType": "string",
+                                                  "parameterDefaultValue": "Action_OutputOptinForm"
+                                                }
+                                              ]
+                                            }
+                                          ],
+                                          "ParentHTMLContentItemAttributeID": "",
+                                          "ChildHTMLContentDetails": [
 
+                                          ],
+                                          "ChildHTMLContentFlowDirection": ""
+                                        }
                                       ],
                                       "ChildHTMLContentFlowDirection": ""
                                     },
                                     {
-                                      "Notes": "Motivational Image of Jumping Woman",
-                                      "Tag": "img",
+                                      "Notes": "Content_B-1-1-1 - Column Container",
+                                      "Tag": "div",
                                       "Attributes": [
                                         {
-                                          "id": "content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0"
-                                        },
-                                        {
-                                          "alt": "Jane is excited!!! Aren't you???"
-                                        },
-                                        {
-                                          "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/2/Movement/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-JumpWoman_Movement-AJC_329X467_Desk-CMS-2_4_1_0.png"
+                                          "id": "content_D-1-1-1"
                                         }
                                       ],
                                       "Value": "",
@@ -681,160 +769,196 @@
                                           ]
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "column_D-1-1_real_estate-commerical_construction-section",
+                                      "ParentHTMLContentItemAttributeID": "",
                                       "ChildHTMLContentDetails": [
-
-                                      ],
-                                      "ChildHTMLContentFlowDirection": ""
-                                    },
-                                    {
-                                      "Notes": "Motivational Image of Drink Exploding",
-                                      "Tag": "img",
-                                      "Attributes": [
                                         {
-                                          "id": "content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0"
-                                        },
-                                        {
-                                          "alt": "Ageless Juice!!! Taste the emotion!!"
-                                        },
-                                        {
-                                          "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/4/Taste/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-DrinkExplosion_Taste-AJC_920X489_Desktop-CMS-2_4_1_0.png"
-                                        }
-                                      ],
-                                      "Value": "",
-                                      "Events": [
-                                        {
-                                          "functionsEnabled": "false"
-                                        },
-                                        {
-                                          "functionEvent": "",
-                                          "functionName": "",
-                                          "functionParameters": [
+                                          "Notes": "Motivational Image of Jumping Woman",
+                                          "Tag": "img",
+                                          "Attributes": [
                                             {
-                                              "parameterName": "",
-                                              "parameterTypeScriptDataType": "",
-                                              "parameterDefaultValue": ""
-                                            }
-                                          ]
-                                        }
-                                      ],
-                                      "ParentHTMLContentItemAttributeID": "column_D-1-1_real_estate-commerical_construction-section",
-                                      "ChildHTMLContentDetails": [
-
-                                      ],
-                                      "ChildHTMLContentFlowDirection": ""
-                                    },
-                                    {
-                                      "Notes": "Motivational Image of Confident Man",
-                                      "Tag": "img",
-                                      "Attributes": [
-                                        {
-                                          "id": "content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0"
-                                        },
-                                        {
-                                          "alt": "Mark won it and feels great?"
-                                        },
-                                        {
-                                          "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-WinningMan_Sight-AJC_357X443_Desktop-CMS-2_4_1_0.png"
-                                        }
-                                      ],
-                                      "Value": "",
-                                      "Events": [
-                                        {
-                                          "functionsEnabled": "false"
-                                        },
-                                        {
-                                          "functionEvent": "",
-                                          "functionName": "",
-                                          "functionParameters": [
+                                              "id": "content_D-1-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0"
+                                            },
                                             {
-                                              "parameterName": "",
-                                              "parameterTypeScriptDataType": "",
-                                              "parameterDefaultValue": ""
-                                            }
-                                          ]
-                                        }
-                                      ],
-                                      "ParentHTMLContentItemAttributeID": "column_D-1-1_real_estate-commerical_construction-section",
-                                      "ChildHTMLContentDetails": [
-
-                                      ],
-                                      "ChildHTMLContentFlowDirection": ""
-                                    },
-                                    {
-                                      "Notes": "Motivational Image of Winning Man",
-                                      "Tag": "img",
-                                      "Attributes": [
-                                        {
-                                          "id": "content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0"
-                                        },
-                                        {
-                                          "alt": "Paul just won the challenge and got?"
-                                        },
-                                        {
-                                          "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-WinningMan_Sight-AJC_401X454_Desktop-CMS-2_4_1_0.png"
-                                        }
-                                      ],
-                                      "Value": "",
-                                      "Events": [
-                                        {
-                                          "functionsEnabled": "false"
-                                        },
-                                        {
-                                          "functionEvent": "",
-                                          "functionName": "",
-                                          "functionParameters": [
+                                              "alt": "Jane is excited!!! Aren't you???"
+                                            },
                                             {
-                                              "parameterName": "",
-                                              "parameterTypeScriptDataType": "",
-                                              "parameterDefaultValue": ""
+                                              "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/2/Movement/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-JumpWoman_Movement-AJC_329X467_Desk-CMS-2_4_1_0.png"
                                             }
-                                          ]
-                                        }
-                                      ],
-                                      "ParentHTMLContentItemAttributeID": "column_D-1-1_real_estate-commerical_construction-section",
-                                      "ChildHTMLContentDetails": [
-
-                                      ],
-                                      "ChildHTMLContentFlowDirection": ""
-                                    },
-                                    {
-                                      "Notes": "Logo Image of Brand",
-                                      "Tag": "img",
-                                      "Attributes": [
-                                        {
-                                          "id": "content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0"
-                                        },
-                                        {
-                                          "alt": "The Ageless Juicing Challenge"
-                                        },
-                                        {
-                                          "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/5/Sight/1/Generate%20Brand%20Awareness/1/Advertising/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-Logo_Awareness-AJC_177X193_Desktop-CMS-1_1_1_0.png"
-                                        }
-                                      ],
-                                      "Value": "",
-                                      "Events": [
-                                        {
-                                          "functionsEnabled": "false"
-                                        },
-                                        {
-                                          "functionEvent": "",
-                                          "functionName": "",
-                                          "functionParameters": [
+                                          ],
+                                          "Value": "",
+                                          "Events": [
                                             {
-                                              "parameterName": "",
-                                              "parameterTypeScriptDataType": "",
-                                              "parameterDefaultValue": ""
+                                              "functionsEnabled": "false"
+                                            },
+                                            {
+                                              "functionEvent": "",
+                                              "functionName": "",
+                                              "functionParameters": [
+                                                {
+                                                  "parameterName": "",
+                                                  "parameterTypeScriptDataType": "",
+                                                  "parameterDefaultValue": ""
+                                                }
+                                              ]
                                             }
-                                          ]
+                                          ],
+                                          "ParentHTMLContentItemAttributeID": "column_D-1-1_real_estate-commerical_construction-section",
+                                          "ChildHTMLContentDetails": [
+
+                                          ],
+                                          "ChildHTMLContentFlowDirection": ""
+                                        },
+                                        {
+                                          "Notes": "Motivational Image of Drink Exploding",
+                                          "Tag": "img",
+                                          "Attributes": [
+                                            {
+                                              "id": "content_D-1-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0"
+                                            },
+                                            {
+                                              "alt": "Ageless Juice!!! Taste the emotion!!"
+                                            },
+                                            {
+                                              "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/4/Taste/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-DrinkExplosion_Taste-AJC_920X489_Desktop-CMS-2_4_1_0.png"
+                                            }
+                                          ],
+                                          "Value": "",
+                                          "Events": [
+                                            {
+                                              "functionsEnabled": "false"
+                                            },
+                                            {
+                                              "functionEvent": "",
+                                              "functionName": "",
+                                              "functionParameters": [
+                                                {
+                                                  "parameterName": "",
+                                                  "parameterTypeScriptDataType": "",
+                                                  "parameterDefaultValue": ""
+                                                }
+                                              ]
+                                            }
+                                          ],
+                                          "ParentHTMLContentItemAttributeID": "",
+                                          "ChildHTMLContentDetails": [
+
+                                          ],
+                                          "ChildHTMLContentFlowDirection": ""
+                                        },
+                                        {
+                                          "Notes": "Motivational Image of Confident Man",
+                                          "Tag": "img",
+                                          "Attributes": [
+                                            {
+                                              "id": "content_D-1-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0"
+                                            },
+                                            {
+                                              "alt": "Mark won it and feels great?"
+                                            },
+                                            {
+                                              "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-WinningMan_Sight-AJC_357X443_Desktop-CMS-2_4_1_0.png"
+                                            }
+                                          ],
+                                          "Value": "",
+                                          "Events": [
+                                            {
+                                              "functionsEnabled": "false"
+                                            },
+                                            {
+                                              "functionEvent": "",
+                                              "functionName": "",
+                                              "functionParameters": [
+                                                {
+                                                  "parameterName": "",
+                                                  "parameterTypeScriptDataType": "",
+                                                  "parameterDefaultValue": ""
+                                                }
+                                              ]
+                                            }
+                                          ],
+                                          "ParentHTMLContentItemAttributeID": "",
+                                          "ChildHTMLContentDetails": [
+
+                                          ],
+                                          "ChildHTMLContentFlowDirection": ""
+                                        },
+                                        {
+                                          "Notes": "Motivational Image of Winning Man",
+                                          "Tag": "img",
+                                          "Attributes": [
+                                            {
+                                              "id": "content_D-1-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0"
+                                            },
+                                            {
+                                              "alt": "Paul just won the challenge and got?"
+                                            },
+                                            {
+                                              "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-WinningMan_Sight-AJC_401X454_Desktop-CMS-2_4_1_0.png"
+                                            }
+                                          ],
+                                          "Value": "",
+                                          "Events": [
+                                            {
+                                              "functionsEnabled": "false"
+                                            },
+                                            {
+                                              "functionEvent": "",
+                                              "functionName": "",
+                                              "functionParameters": [
+                                                {
+                                                  "parameterName": "",
+                                                  "parameterTypeScriptDataType": "",
+                                                  "parameterDefaultValue": ""
+                                                }
+                                              ]
+                                            }
+                                          ],
+                                          "ParentHTMLContentItemAttributeID": "",
+                                          "ChildHTMLContentDetails": [
+
+                                          ],
+                                          "ChildHTMLContentFlowDirection": ""
+                                        },
+                                        {
+                                          "Notes": "Logo Image of Brand",
+                                          "Tag": "img",
+                                          "Attributes": [
+                                            {
+                                              "id": "content_D-1-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0"
+                                            },
+                                            {
+                                              "alt": "The Ageless Juicing Challenge"
+                                            },
+                                            {
+                                              "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/5/Sight/1/Generate%20Brand%20Awareness/1/Advertising/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-Logo_Awareness-AJC_177X193_Desktop-CMS-1_1_1_0.png"
+                                            }
+                                          ],
+                                          "Value": "",
+                                          "Events": [
+                                            {
+                                              "functionsEnabled": "false"
+                                            },
+                                            {
+                                              "functionEvent": "",
+                                              "functionName": "",
+                                              "functionParameters": [
+                                                {
+                                                  "parameterName": "",
+                                                  "parameterTypeScriptDataType": "",
+                                                  "parameterDefaultValue": ""
+                                                }
+                                              ]
+                                            }
+                                          ],
+                                          "ParentHTMLContentItemAttributeID": "column_D-1-1_real_estate-commerical_construction-section",
+                                          "ChildHTMLContentDetails": [
+
+                                          ],
+                                          "ChildHTMLContentFlowDirection": ""
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "column_D-1-1_real_estate-commerical_construction-section",
-                                      "ChildHTMLContentDetails": [
-
-                                      ],
                                       "ChildHTMLContentFlowDirection": ""
-                                    }
+                                    }                                    
                                   ]
                                 }
                               }
@@ -888,7 +1012,7 @@
                                               "MediaQueryResolutions": [
                                                 {
                                                   "resolutions": {
-                                                    "mediaQuery": "max-width: 1600px"
+                                                    "mediaQuery": "@media (max-width: 1600px)"
                                                   },
                                                   "properties": [
                                                     {
@@ -1594,7 +1718,7 @@
                                               "MediaQueryResolutions": [
                                                 {
                                                   "resolutions": {
-                                                    "mediaQuery": "(max-width: 1600px)"
+                                                    "mediaQuery": "@media (max-width: 1600px)"
                                                   },
                                                   "properties": [
                                                     {
