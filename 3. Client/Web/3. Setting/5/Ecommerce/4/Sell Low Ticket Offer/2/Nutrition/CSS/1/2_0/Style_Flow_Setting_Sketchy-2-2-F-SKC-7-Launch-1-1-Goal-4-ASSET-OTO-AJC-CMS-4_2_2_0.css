@@ -1,0 +1,20 @@
+﻿#column_D-1-1,
+#column_E-1-1 {
+    display: flex;
+    justify-content: flex-start;
+}
+
+#column_D-1-1 li,
+#column_E-1-1 li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#content_F-1-1-1 {
+    display: block;
+}
+
+#content_F-1-1-2 {
+    display: block;
+}

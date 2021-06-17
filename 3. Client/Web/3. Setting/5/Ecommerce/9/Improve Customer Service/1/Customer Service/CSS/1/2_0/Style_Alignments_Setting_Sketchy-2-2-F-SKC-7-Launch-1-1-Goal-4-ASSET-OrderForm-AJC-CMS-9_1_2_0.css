@@ -1,0 +1,11 @@
+progress {
+    position: relative;
+}
+
+progress:before {
+    vertical-align: 0;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 4px;
+}

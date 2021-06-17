@@ -1,0 +1,47 @@
+﻿#row_B-1 {
+    display: flex;
+}
+
+#content_B-1-4-2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+#column_B-1-1 label,
+#content_B-1-4 label,
+#content_B-1-5-1 {
+    display: block;
+}
+
+#content_B-1-5-3 {
+    display: flex;
+}
+
+#content_B-1-5-5-1-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#content_B-1-5-6 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#content_B-1-5-2 label,
+#content_B-1-5-3 label {
+    display: none;
+}
+
+#content_B-1-5-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+progress:before {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

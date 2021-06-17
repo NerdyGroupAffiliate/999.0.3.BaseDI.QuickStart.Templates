@@ -1,7 +1,7 @@
 {
   "$schema": "https://schema.management.basedi.io/schemas/2019-10-05/deploymentTemplate.json#",
   "contentVersion": "1.0.0.0",
-  "baseDI_NerdyGroupAffiliates_DynamicWebsite_MainProfile": {
+  "baseDI_NerdyGroupAffiliates_DataSet_JSON": {
     "value": {
       "baseDIInstructions": {
         "configuration": [
@@ -345,6 +345,7 @@
                                       "ChildHTMLContentDetails": [],
                                       "ChildHTMLContentFlowDirection": "vertical"
                                     },
+
                                     {
                                       "Notes": "Wireframe",
                                       "Tag": "div",
@@ -533,11 +534,9 @@
                                       "Tag": "video",
                                       "Attributes": [
                                         {
-                                          "id": "content_B-1-2-1",
-                                          "width": "320",
-                                          "height": "240",
-                                          "controls": "ture"
-                                        }
+                                          "id": "content_B-1-2-1"
+                                        },
+                                        { "controls": "ture" }
                                       ],
                                       "Events": [
                                         {
@@ -556,37 +555,30 @@
                                         }
                                       ],
                                       "ParentHTMLContentItemAttributeID": "column_B-1-2",
-                                      "ChildHTMLContentDetails": [],
-                                      "ChildHTMLContentFlowDirection": ""
-                                    },
-                                    {
-                                      "Notes": "",
-                                      "Tag": "source",
-                                      "Attributes": [
+                                      "ChildHTMLContentDetails": [
                                         {
-                                          "id": "content_B-1-2-1-1",
-                                          "src": "movie.mp4",
-                                          "type": "video/mp4"
-                                        }
-                                      ],
-                                      "Events": [
-                                        {
-                                          "functionsEnabled": "false"
+                                          "Notes": "Video Source",
+                                          "Tag": "source",
+                                          "Attributes": [
+                                            { "src": "movie.mp4" },
+                                            { "type": "video/mp4" }
+                                          ],
+                                          "ChildHTMLContentDetails": []
                                         },
                                         {
-                                          "functionEvent": "",
-                                          "functionName": "",
-                                          "functionParameters": [
+                                          "Notes": "Video Source",
+                                          "Tag": "source",
+                                          "Attributes": [
                                             {
-                                              "parameterName": "",
-                                              "parameterTypeScriptDataType": "",
-                                              "parameterDefaultValue": ""
+                                              "src": "movie.ogg"
+                                            },
+                                            {
+                                              "type": "video/ogg"
                                             }
-                                          ]
+                                          ],
+                                          "ChildHTMLContentDetails": []
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "content_B-1-2-1",
-                                      "ChildHTMLContentDetails": [],
                                       "ChildHTMLContentFlowDirection": ""
                                     },
                                     {
@@ -759,23 +751,7 @@
                                         {
                                           "StyleFileName": "Style_Alignments_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
                                           "StyleFileSupportedProperties": [ "position", "top", "bottom", "left", "right", "clip", "overflow", "z-index", "float", "clear" ],
-                                          "StyleFileUseProperties": [
-                                            {
-                                              "attributeID": "",
-                                              "properties": [
-                                                {
-                                                  "propertyName": "",
-                                                  "properyValues": [ "" ]
-                                                }
-                                              ],
-                                              "IsMediaQuery": "false",
-                                              "MediaQueryResolutions": [
-                                                {
-
-                                                }
-                                              ]
-                                            }
-                                          ]
+                                          "StyleFileUseProperties": []
                                         },
                                         {
                                           "StyleFileName": "Style_Backgrounds_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
@@ -790,6 +766,7 @@
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "false",
                                               "MediaQueryResolutions": [
                                                 {
 
@@ -811,6 +788,7 @@
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "false",
                                               "MediaQueryResolutions": [
                                                 {
 
@@ -832,6 +810,7 @@
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "false",
                                               "MediaQueryResolutions": [
                                                 {
 
@@ -847,6 +826,7 @@
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "false",
                                               "MediaQueryResolutions": [
                                                 {
 
@@ -868,6 +848,7 @@
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "false",
                                               "MediaQueryResolutions": [
                                                 {
 
@@ -889,6 +870,7 @@
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "false",
                                               "MediaQueryResolutions": [
                                                 {
 
@@ -910,6 +892,7 @@
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "false",
                                               "MediaQueryResolutions": [
                                                 {
 
@@ -931,6 +914,7 @@
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
 
@@ -946,6 +930,7 @@
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "false",
                                               "MediaQueryResolutions": [
                                                 {
 
@@ -967,6 +952,7 @@
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "false",
                                               "MediaQueryResolutions": [
                                                 {
 
@@ -988,6 +974,7 @@
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
 
@@ -1003,6 +990,7 @@
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "false",
                                               "MediaQueryResolutions": [
                                                 {
 
@@ -1021,13 +1009,10 @@
                                                 {
                                                   "propertyName": "body",
                                                   "properyValues": [ "max-width: 800px" ]
-                                                },
-                                                {
-                                                  "propertyName": "width",
-                                                  "properyValues": [ "463px" ]
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
 
@@ -1043,6 +1028,7 @@
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
 
@@ -1064,6 +1050,7 @@
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "false",
                                               "MediaQueryResolutions": [
                                                 {
 
@@ -1085,6 +1072,7 @@
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "false",
                                               "MediaQueryResolutions": [
                                                 {
 
@@ -1100,6 +1088,7 @@
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "false",
                                               "MediaQueryResolutions": [
                                                 {
 
@@ -1115,6 +1104,7 @@
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "false",
                                               "MediaQueryResolutions": [
                                                 {
 
@@ -1122,7 +1112,7 @@
                                               ]
                                             },
                                             {
-                                              "attributeID": "#content_C-1-1-2",
+                                              "attributeID": "#content_C-1-1-1",
                                               "properties": [
                                                 {
                                                   "propertyName": "font-size",
@@ -1130,6 +1120,7 @@
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "false",
                                               "MediaQueryResolutions": [
                                                 {
 
@@ -1137,7 +1128,7 @@
                                               ]
                                             },
                                             {
-                                              "attributeID": "#content_A-1-1-2",
+                                              "attributeID": "#content_B-1-1-1",
                                               "properties": [
                                                 {
                                                   "propertyName": "font-size",
@@ -1145,6 +1136,7 @@
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "false",
                                               "MediaQueryResolutions": [
                                                 {
 

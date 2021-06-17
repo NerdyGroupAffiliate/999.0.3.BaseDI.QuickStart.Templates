@@ -1,7 +1,7 @@
 {
   "$schema": "https://schema.management.basedi.io/schemas/2019-10-05/deploymentTemplate.json#",
   "contentVersion": "1.0.0.0",
-  "baseDI_NerdyGroupAffiliates_DynamicWebsite_MainProfile": {
+  "baseDI_NerdyGroupAffiliates_DataSet_JSON": {
     "value": {
       "baseDIInstructions": {
         "configuration": [
@@ -77,7 +77,9 @@
                                       "ProjectFilePathLocal": "./3. Client/Web/3. Setting/5/Ecommerce/4/Sell Low Ticket Offer/2/Nutrition/HTML/1/1_0/",
                                       "ProjectFilePathRemote": "https://github.com/NerdyGroupAffiliate/0.3.BaseDI.QuickStart.Templates",
                                       "ProjectFileName": "EcommerceSetting_To_SellLowTicketOffer_For_Nutrition_Seller-Home-AJC_4_2_1_0",
-                                      "ProjectFileSupportedExtensions": [ "html, hbs, tsx, psd, ai" ],
+                                      "ProjectFileSupportedExtensions": [
+                                        "html, hbs, tsx, psd, ai"
+                                      ],
                                       "ProjectFileMimeType": "text/html",
                                       "ProjectFileDependencies": [
                                         {
@@ -86,7 +88,9 @@
                                           "version": "latest"
                                         }
                                       ],
-                                      "ProjectFileEntryPointIDForDynamicRendering": { "AttributeID": "The_WebDevelopment_Experience-1�Help_Build_Website_Foundation�1-1�AGE_AJC-Nutrition�1_0" }
+                                      "ProjectFileEntryPointIDForDynamicRendering": {
+                                        "AttributeID": "The_WebDevelopment_Experience-1�Help_Build_Website_Foundation�1-1�AGE_AJC-Nutrition�1_0"
+                                      }
                                     }
                                   ]
                                 }
@@ -105,7 +109,9 @@
                                 "value": {
                                   "HTMLSEOItemRowID": "1",
                                   "HTMLSEOItemMetaTitleAndSlug": "how-to-make-eating-healthy-fun",
-                                  "HTMLSEOItemMetaKeyWords": [ "Juicing, Detoxification" ],
+                                  "HTMLSEOItemMetaKeyWords": [
+                                    "Juicing, Detoxification"
+                                  ],
                                   "HTMLSEOItemMetaDescription": "How to get back on track when you stopped before.",
                                   "HTMLSEOItemSearchCode": ""
                                 }
@@ -150,7 +156,9 @@
                                         }
                                       ],
                                       "ParentHTMLContentItemAttributeID": "",
-                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentDetails": [
+
+                                      ],
                                       "ChildHTMLContentFlowDirection": "vertical"
                                     }
                                   ]
@@ -188,7 +196,9 @@
                                         }
                                       ],
                                       "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1�Help_Build_Website_Foundation�1-1�AGE_AJC-Nutrition�1_0",
-                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentDetails": [
+
+                                      ],
                                       "ChildHTMLContentFlowDirection": "vertical"
                                     },
                                     {
@@ -217,7 +227,9 @@
                                         }
                                       ],
                                       "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1�Help_Build_Website_Foundation�1-1�AGE_AJC-Nutrition�1_0",
-                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentDetails": [
+
+                                      ],
                                       "ChildHTMLContentFlowDirection": "vertical"
                                     },
                                     {
@@ -246,7 +258,9 @@
                                         }
                                       ],
                                       "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1�Help_Build_Website_Foundation�1-1�AGE_AJC-Nutrition�1_0",
-                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentDetails": [
+
+                                      ],
                                       "ChildHTMLContentFlowDirection": "vertical"
                                     },
                                     {
@@ -275,7 +289,9 @@
                                         }
                                       ],
                                       "ParentHTMLContentItemAttributeID": "The_WebDevelopment_Experience-1�Help_Build_Website_Foundation�1-1�AGE_AJC-Nutrition�1_0",
-                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentDetails": [
+
+                                      ],
                                       "ChildHTMLContentFlowDirection": "vertical"
                                     }
                                   ]
@@ -313,7 +329,9 @@
                                         }
                                       ],
                                       "ParentHTMLContentItemAttributeID": "row_A-1_business-sales-authority",
-                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentDetails": [
+
+                                      ],
                                       "ChildHTMLContentFlowDirection": "horzontial"
                                     },
                                     {
@@ -342,7 +360,9 @@
                                         }
                                       ],
                                       "ParentHTMLContentItemAttributeID": "row_B-1_business-advertising-sign",
-                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentDetails": [
+
+                                      ],
                                       "ChildHTMLContentFlowDirection": "vertical"
                                     },
                                     {
@@ -371,7 +391,9 @@
                                         }
                                       ],
                                       "ParentHTMLContentItemAttributeID": "row_C-1_business-sales-cta",
-                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentDetails": [
+
+                                      ],
                                       "ChildHTMLContentFlowDirection": "horzontial"
                                     },
                                     {
@@ -400,7 +422,9 @@
                                         }
                                       ],
                                       "ParentHTMLContentItemAttributeID": "row_D-1_business-sales-liking",
-                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentDetails": [
+
+                                      ],
                                       "ChildHTMLContentFlowDirection": "horzontial"
                                     }
                                   ]
@@ -413,52 +437,11 @@
                                   "HTMLContentItemRowID": "4",
                                   "HTMLContentItems": [
                                     {
-                                      "Notes": "Background Wallpaper Image of Theme",
-                                      "Tag": "img",
+                                      "Notes": "Content_A-1-1-1 - Column Container",
+                                      "Tag": "div",
                                       "Attributes": [
                                         {
-                                          "id": "container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0"
-                                        },
-                                        {
-                                          "alt": "Ageless Background Wallpaper - Home"
-                                        },
-                                        {
-                                          "src": "../../../Assets/1/1_0/Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-1920X1080-Desktop-4_2_1_0.jpg"
-                                        }
-                                      ],
-                                      "Value": "",
-                                      "Events": [
-                                        {
-                                          "functionsEnabled": "false"
-                                        },
-                                        {
-                                          "functionEvent": "",
-                                          "functionName": "",
-                                          "functionParameters": [
-                                            {
-                                              "parameterName": "",
-                                              "parameterTypeScriptDataType": "",
-                                              "parameterDefaultValue": ""
-                                            }
-                                          ]
-                                        }
-                                      ],
-                                      "ParentHTMLContentItemAttributeID": "container_Setting-Ecommerce-Nutrition-Floor-SellLowTickerOffer-AJC-Home-4_2_1_0",
-                                      "ChildHTMLContentDetails": [],
-                                      "ChildHTMLContentFlowDirection": ""
-                                    },
-                                    {
-                                      "Notes": "Authority Building Image of Headline",
-                                      "Tag": "img",
-                                      "Attributes": [
-                                        {
-                                          "id": "content_A-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0"
-                                        },
-                                        {
-                                          "alt": "A PROGRAM BY ANDREW DURHAM"
-                                        },
-                                        {
-                                          "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/7/Awareness/1/Generate%20Brand%20Awarness/1/Advertising/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-Owner_Aware-AJC_463X125_Desktop-CMS-1_1_1_0.png"
+                                          "id": "content_A-1-1-1"
                                         }
                                       ],
                                       "Value": "",
@@ -479,18 +462,56 @@
                                         }
                                       ],
                                       "ParentHTMLContentItemAttributeID": "column_A-1-1_real_estate-commerical_construction-section",
-                                      "ChildHTMLContentDetails": [],
+                                      "ChildHTMLContentDetails": [
+                                        {
+                                          "Notes": "Authority Building Image of Headline",
+                                          "Tag": "img",
+                                          "Attributes": [
+                                            {
+                                              "id": "content_A-1-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0"
+                                            },
+                                            {
+                                              "alt": "A PROGRAM BY ANDREW DURHAM"
+                                            },
+                                            {
+                                              "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/7/Awareness/1/Generate%20Brand%20Awarness/1/Advertising/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-Owner_Aware-AJC_463X125_Desktop-CMS-1_1_1_0.png"
+                                            }
+                                          ],
+                                          "Value": "",
+                                          "Events": [
+                                            {
+                                              "functionsEnabled": "false"
+                                            },
+                                            {
+                                              "functionEvent": "",
+                                              "functionName": "",
+                                              "functionParameters": [
+                                                {
+                                                  "parameterName": "",
+                                                  "parameterTypeScriptDataType": "",
+                                                  "parameterDefaultValue": ""
+                                                }
+                                              ]
+                                            }
+                                          ],
+                                          "ParentHTMLContentItemAttributeID": "column_A-1-1_real_estate-commerical_construction-section",
+                                          "ChildHTMLContentDetails": [
+
+                                          ],
+                                          "ChildHTMLContentFlowDirection": ""
+                                        }
+                                      ],
                                       "ChildHTMLContentFlowDirection": ""
                                     },
                                     {
-                                      "Notes": "Offer Text of Headline",
-                                      "Tag": "h1",
+                                      "Notes": "Content_B-1-1-1 - Column Container",
+                                      "Tag": "div",
                                       "Attributes": [
                                         {
-                                          "id": "content_B-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner1-WidthXHeight-Desktop-1_1_1_0"
+                                          "id": "content_B-1-1-1"
                                         }
                                       ],
-                                      "Value": "THE AGELESS JUICING CHALLENGE",
+                                      "Value": "",
                                       "Events": [
                                         {
                                           "functionsEnabled": "false"
@@ -507,51 +528,79 @@
                                           ]
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "column_B-1-1_real_estate-commerical_construction-section",
-                                      "ChildHTMLContentDetails": [],
-                                      "ChildHTMLContentFlowDirection": ""
-                                    },
-                                    {
-                                      "Notes": "Sales Motivational Text of SubHeadline",
-                                      "Tag": "h2",
-                                      "Attributes": [
+                                      "ParentHTMLContentItemAttributeID": "",
+                                      "ChildHTMLContentDetails": [
                                         {
-                                          "id": "content_B-1-1-2_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner2-WidthXHeight-Desktop-1_1_1_0"
-                                        }
-                                      ],
-                                      "Value": "the fun ritual to keep you motivated and inspired",
-                                      "Events": [
-                                        {
-                                          "functionsEnabled": "false"
-                                        },
-                                        {
-                                          "functionEvent": "",
-                                          "functionName": "",
-                                          "functionParameters": [
+                                          "Notes": "Offer Text of Headline",
+                                          "Tag": "h1",
+                                          "Attributes": [
                                             {
-                                              "parameterName": "",
-                                              "parameterTypeScriptDataType": "",
-                                              "parameterDefaultValue": ""
+                                              "id": "content_B-1-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner1-WidthXHeight-Desktop-1_1_1_0"
                                             }
-                                          ]
+                                          ],
+                                          "Value": "THE AGELESS JUICING CHALLENGE",
+                                          "Events": [
+                                            {
+                                              "functionsEnabled": "false"
+                                            },
+                                            {
+                                              "functionEvent": "",
+                                              "functionName": "",
+                                              "functionParameters": [
+                                                {
+                                                  "parameterName": "",
+                                                  "parameterTypeScriptDataType": "",
+                                                  "parameterDefaultValue": ""
+                                                }
+                                              ]
+                                            }
+                                          ],
+                                          "ParentHTMLContentItemAttributeID": "",
+                                          "ChildHTMLContentDetails": [
+
+                                          ],
+                                          "ChildHTMLContentFlowDirection": ""
+                                        },
+                                        {
+                                          "Notes": "Sales Motivational Text of SubHeadline",
+                                          "Tag": "h2",
+                                          "Attributes": [
+                                            {
+                                              "id": "content_B-1-1-1-2_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreBanner2-WidthXHeight-Desktop-1_1_1_0"
+                                            }
+                                          ],
+                                          "Value": "the fun ritual to keep you motivated and inspired",
+                                          "Events": [
+                                            {
+                                              "functionsEnabled": "false"
+                                            },
+                                            {
+                                              "functionEvent": "",
+                                              "functionName": "",
+                                              "functionParameters": [
+                                                {
+                                                  "parameterName": "",
+                                                  "parameterTypeScriptDataType": "",
+                                                  "parameterDefaultValue": ""
+                                                }
+                                              ]
+                                            }
+                                          ],
+                                          "ParentHTMLContentItemAttributeID": "column_B-1-1_real_estate-commerical_construction-section",
+                                          "ChildHTMLContentDetails": [
+
+                                          ],
+                                          "ChildHTMLContentFlowDirection": ""
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "column_B-1-1_real_estate-commerical_construction-section",
-                                      "ChildHTMLContentDetails": [],
                                       "ChildHTMLContentFlowDirection": ""
                                     },
                                     {
-                                      "Notes": "Call to Action Image of Button",
-                                      "Tag": "img",
+                                      "Notes": "Content_C-1-1-1 - Column Container",
+                                      "Tag": "div",
                                       "Attributes": [
                                         {
-                                          "id": "content_C-1-1-1_Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-WidthXHeight-Desktop-3_1_1_0"
-                                        },
-                                        {
-                                          "alt": "GET ON WAITING LIST FOR FREE PREVIEW"
-                                        },
-                                        {
-                                          "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/5/Sight/3/Generate%20Optin/1/List%20Building/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-ButtonOptin_Touch-AJC_611X37_Desktop-CMS-3_1_1_0.png"
+                                          "id": "content_C-1-1-1"
                                         }
                                       ],
                                       "Value": "",
@@ -612,22 +661,95 @@
                                           ]
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "column_C-1-1_real_estate-commerical_construction-section",
-                                      "ChildHTMLContentDetails": [],
+                                      "ParentHTMLContentItemAttributeID": "",
+                                      "ChildHTMLContentDetails": [
+                                        {
+                                          "Notes": "Call to Action Image of Button",
+                                          "Tag": "img",
+                                          "Attributes": [
+                                            {
+                                              "id": "content_C-1-1-1-1_Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-WidthXHeight-Desktop-3_1_1_0"
+                                            },
+                                            {
+                                              "alt": "GET ON WAITING LIST FOR FREE PREVIEW"
+                                            },
+                                            {
+                                              "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/5/Sight/3/Generate%20Optin/1/List%20Building/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-ButtonOptin_Touch-AJC_611X37_Desktop-CMS-3_1_1_0.png"
+                                            }
+                                          ],
+                                          "Value": "",
+                                          "Events": [
+                                            {
+                                              "functionsEnabled": "true"
+                                            },
+                                            {
+                                              "functionEvent": "onblur",
+                                              "functionName": "Action",
+                                              "functionParameters": [
+                                                {
+                                                  "parameterName": "targetResponseTagID",
+                                                  "parameterTypeScriptDataType": "string",
+                                                  "parameterDefaultValue": "content_C-1-1-1_Experience-Touch-Nutrition-Content-ToCTA-AJC-ButtonOptin-WidthXHeight-Desktop-3_1_1_0"
+                                                },
+                                                {
+                                                  "parameterName": "requestNameToProcess",
+                                                  "parameterTypeScriptDataType": "string",
+                                                  "parameterDefaultValue": "Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0"
+                                                },
+                                                {
+                                                  "parameterName": "requestNameToProcessParameters",
+                                                  "parameterTypeScriptDataType": "string",
+                                                  "parameterDefaultValue": "Director_Of_WebDevelopment_Chapter_12_3_Page_1_ReadHomeScreenForAll_Handler_1_0-P1_0"
+                                                },
+                                                {
+                                                  "parameterName": "requestActionName",
+                                                  "parameterTypeScriptDataType": "string",
+                                                  "parameterDefaultValue": "Action_ControlOptinButtonRolloverState"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "functionEvent": "onclick",
+                                              "functionName": "Action",
+                                              "functionParameters": [
+                                                {
+                                                  "parameterName": "targetResponseTagID",
+                                                  "parameterTypeScriptDataType": "string",
+                                                  "parameterDefaultValue": ""
+                                                },
+                                                {
+                                                  "parameterName": "requestNameToProcess",
+                                                  "parameterTypeScriptDataType": "string",
+                                                  "parameterDefaultValue": "Director_Of_WebDevelopment_Chapter_12_3_Page_3_ReadOptinScreenForAll_Handler_1_0"
+                                                },
+                                                {
+                                                  "parameterName": "requestNameToProcessParameters",
+                                                  "parameterTypeScriptDataType": "string",
+                                                  "parameterDefaultValue": "Director_Of_WebDevelopment_Chapter_12_3_Page_3_ReadOptinScreenForAll_Handler_1_0-P1_0"
+                                                },
+                                                {
+                                                  "parameterName": "requestNameToProcessParameters",
+                                                  "parameterTypeScriptDataType": "string",
+                                                  "parameterDefaultValue": "Action_OutputOptinForm"
+                                                }
+                                              ]
+                                            }
+                                          ],
+                                          "ParentHTMLContentItemAttributeID": "",
+                                          "ChildHTMLContentDetails": [
+
+                                          ],
+                                          "ChildHTMLContentFlowDirection": ""
+                                        }
+                                      ],
                                       "ChildHTMLContentFlowDirection": ""
                                     },
                                     {
-                                      "Notes": "Motivational Image of Jumping Woman",
-                                      "Tag": "img",
+                                      "Notes": "Content_B-1-1-1 - Column Container",
+                                      "Tag": "div",
                                       "Attributes": [
                                         {
-                                          "id": "content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0"
-                                        },
-                                        {
-                                          "alt": "Jane is excited!!! Aren't you???"
-                                        },
-                                        {
-                                          "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/2/Movement/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-JumpWoman_Movement-AJC_329X467_Desk-CMS-2_4_1_0.png"
+                                          "id": "content_D-1-1-1"
                                         }
                                       ],
                                       "Value": "",
@@ -647,150 +769,196 @@
                                           ]
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "column_D-1-1_real_estate-commerical_construction-section",
-                                      "ChildHTMLContentDetails": [],
-                                      "ChildHTMLContentFlowDirection": ""
-                                    },
-                                    {
-                                      "Notes": "Motivational Image of Drink Exploding",
-                                      "Tag": "img",
-                                      "Attributes": [
+                                      "ParentHTMLContentItemAttributeID": "",
+                                      "ChildHTMLContentDetails": [
                                         {
-                                          "id": "content_D-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0"
-                                        },
-                                        {
-                                          "alt": "Ageless Juice!!! Taste the emotion!!"
-                                        },
-                                        {
-                                          "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/4/Taste/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-DrinkExplosion_Taste-AJC_920X489_Desktop-CMS-2_4_1_0.png"
-                                        }
-                                      ],
-                                      "Value": "",
-                                      "Events": [
-                                        {
-                                          "functionsEnabled": "false"
-                                        },
-                                        {
-                                          "functionEvent": "",
-                                          "functionName": "",
-                                          "functionParameters": [
+                                          "Notes": "Motivational Image of Jumping Woman",
+                                          "Tag": "img",
+                                          "Attributes": [
                                             {
-                                              "parameterName": "",
-                                              "parameterTypeScriptDataType": "",
-                                              "parameterDefaultValue": ""
-                                            }
-                                          ]
-                                        }
-                                      ],
-                                      "ParentHTMLContentItemAttributeID": "column_D-1-1_real_estate-commerical_construction-section",
-                                      "ChildHTMLContentDetails": [],
-                                      "ChildHTMLContentFlowDirection": ""
-                                    },
-                                    {
-                                      "Notes": "Motivational Image of Confident Man",
-                                      "Tag": "img",
-                                      "Attributes": [
-                                        {
-                                          "id": "content_D-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0"
-                                        },
-                                        {
-                                          "alt": "Mark won it and feels great?"
-                                        },
-                                        {
-                                          "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-WinningMan_Sight-AJC_357X443_Desktop-CMS-2_4_1_0.png"
-                                        }
-                                      ],
-                                      "Value": "",
-                                      "Events": [
-                                        {
-                                          "functionsEnabled": "false"
-                                        },
-                                        {
-                                          "functionEvent": "",
-                                          "functionName": "",
-                                          "functionParameters": [
+                                              "id": "content_D-1-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0"
+                                            },
                                             {
-                                              "parameterName": "",
-                                              "parameterTypeScriptDataType": "",
-                                              "parameterDefaultValue": ""
-                                            }
-                                          ]
-                                        }
-                                      ],
-                                      "ParentHTMLContentItemAttributeID": "column_D-1-1_real_estate-commerical_construction-section",
-                                      "ChildHTMLContentDetails": [],
-                                      "ChildHTMLContentFlowDirection": ""
-                                    },
-                                    {
-                                      "Notes": "Motivational Image of Winning Man",
-                                      "Tag": "img",
-                                      "Attributes": [
-                                        {
-                                          "id": "content_D-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0"
-                                        },
-                                        {
-                                          "alt": "Paul just won the challenge and got?"
-                                        },
-                                        {
-                                          "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-WinningMan_Sight-AJC_401X454_Desktop-CMS-2_4_1_0.png"
-                                        }
-                                      ],
-                                      "Value": "",
-                                      "Events": [
-                                        {
-                                          "functionsEnabled": "false"
-                                        },
-                                        {
-                                          "functionEvent": "",
-                                          "functionName": "",
-                                          "functionParameters": [
+                                              "alt": "Jane is excited!!! Aren't you???"
+                                            },
                                             {
-                                              "parameterName": "",
-                                              "parameterTypeScriptDataType": "",
-                                              "parameterDefaultValue": ""
+                                              "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/2/Movement/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-JumpWoman_Movement-AJC_329X467_Desk-CMS-2_4_1_0.png"
                                             }
-                                          ]
-                                        }
-                                      ],
-                                      "ParentHTMLContentItemAttributeID": "column_D-1-1_real_estate-commerical_construction-section",
-                                      "ChildHTMLContentDetails": [],
-                                      "ChildHTMLContentFlowDirection": ""
-                                    },
-                                    {
-                                      "Notes": "Logo Image of Brand",
-                                      "Tag": "img",
-                                      "Attributes": [
-                                        {
-                                          "id": "content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0"
-                                        },
-                                        {
-                                          "alt": "The Ageless Juicing Challenge"
-                                        },
-                                        {
-                                          "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/5/Sight/1/Generate%20Brand%20Awareness/1/Advertising/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-Logo_Awareness-AJC_177X193_Desktop-CMS-1_1_1_0.png"
-                                        }
-                                      ],
-                                      "Value": "",
-                                      "Events": [
-                                        {
-                                          "functionsEnabled": "false"
-                                        },
-                                        {
-                                          "functionEvent": "",
-                                          "functionName": "",
-                                          "functionParameters": [
+                                          ],
+                                          "Value": "",
+                                          "Events": [
                                             {
-                                              "parameterName": "",
-                                              "parameterTypeScriptDataType": "",
-                                              "parameterDefaultValue": ""
+                                              "functionsEnabled": "false"
+                                            },
+                                            {
+                                              "functionEvent": "",
+                                              "functionName": "",
+                                              "functionParameters": [
+                                                {
+                                                  "parameterName": "",
+                                                  "parameterTypeScriptDataType": "",
+                                                  "parameterDefaultValue": ""
+                                                }
+                                              ]
                                             }
-                                          ]
+                                          ],
+                                          "ParentHTMLContentItemAttributeID": "column_D-1-1_real_estate-commerical_construction-section",
+                                          "ChildHTMLContentDetails": [
+
+                                          ],
+                                          "ChildHTMLContentFlowDirection": ""
+                                        },
+                                        {
+                                          "Notes": "Motivational Image of Drink Exploding",
+                                          "Tag": "img",
+                                          "Attributes": [
+                                            {
+                                              "id": "content_D-1-1-1-2_Experience-Taste-Nutrition-Content-OfGain-AJC-DrinkExplosion-WidthXHeight-Desktop-2_4_1_0"
+                                            },
+                                            {
+                                              "alt": "Ageless Juice!!! Taste the emotion!!"
+                                            },
+                                            {
+                                              "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/4/Taste/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-DrinkExplosion_Taste-AJC_920X489_Desktop-CMS-2_4_1_0.png"
+                                            }
+                                          ],
+                                          "Value": "",
+                                          "Events": [
+                                            {
+                                              "functionsEnabled": "false"
+                                            },
+                                            {
+                                              "functionEvent": "",
+                                              "functionName": "",
+                                              "functionParameters": [
+                                                {
+                                                  "parameterName": "",
+                                                  "parameterTypeScriptDataType": "",
+                                                  "parameterDefaultValue": ""
+                                                }
+                                              ]
+                                            }
+                                          ],
+                                          "ParentHTMLContentItemAttributeID": "",
+                                          "ChildHTMLContentDetails": [
+
+                                          ],
+                                          "ChildHTMLContentFlowDirection": ""
+                                        },
+                                        {
+                                          "Notes": "Motivational Image of Confident Man",
+                                          "Tag": "img",
+                                          "Attributes": [
+                                            {
+                                              "id": "content_D-1-1-1-3_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_1_0"
+                                            },
+                                            {
+                                              "alt": "Mark won it and feels great?"
+                                            },
+                                            {
+                                              "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-WinningMan_Sight-AJC_357X443_Desktop-CMS-2_4_1_0.png"
+                                            }
+                                          ],
+                                          "Value": "",
+                                          "Events": [
+                                            {
+                                              "functionsEnabled": "false"
+                                            },
+                                            {
+                                              "functionEvent": "",
+                                              "functionName": "",
+                                              "functionParameters": [
+                                                {
+                                                  "parameterName": "",
+                                                  "parameterTypeScriptDataType": "",
+                                                  "parameterDefaultValue": ""
+                                                }
+                                              ]
+                                            }
+                                          ],
+                                          "ParentHTMLContentItemAttributeID": "",
+                                          "ChildHTMLContentDetails": [
+
+                                          ],
+                                          "ChildHTMLContentFlowDirection": ""
+                                        },
+                                        {
+                                          "Notes": "Motivational Image of Winning Man",
+                                          "Tag": "img",
+                                          "Attributes": [
+                                            {
+                                              "id": "content_D-1-1-1-4_Experience-Sight-Nutrition-Content-OfLiking-AJC-WinningMan-WidthXHeight-Desktop-2_4_2_0"
+                                            },
+                                            {
+                                              "alt": "Paul just won the challenge and got?"
+                                            },
+                                            {
+                                              "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/5/Sight/2/Generate%20Brand%20Trust/4/Ecommerce/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-WinningMan_Sight-AJC_401X454_Desktop-CMS-2_4_1_0.png"
+                                            }
+                                          ],
+                                          "Value": "",
+                                          "Events": [
+                                            {
+                                              "functionsEnabled": "false"
+                                            },
+                                            {
+                                              "functionEvent": "",
+                                              "functionName": "",
+                                              "functionParameters": [
+                                                {
+                                                  "parameterName": "",
+                                                  "parameterTypeScriptDataType": "",
+                                                  "parameterDefaultValue": ""
+                                                }
+                                              ]
+                                            }
+                                          ],
+                                          "ParentHTMLContentItemAttributeID": "",
+                                          "ChildHTMLContentDetails": [
+
+                                          ],
+                                          "ChildHTMLContentFlowDirection": ""
+                                        },
+                                        {
+                                          "Notes": "Logo Image of Brand",
+                                          "Tag": "img",
+                                          "Attributes": [
+                                            {
+                                              "id": "content_D-1-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0"
+                                            },
+                                            {
+                                              "alt": "The Ageless Juicing Challenge"
+                                            },
+                                            {
+                                              "src": "../999.0.3.BaseDI.QuickStart.Templates/3.%20Client/Web/4.%20Experience/5/Sight/1/Generate%20Brand%20Awareness/1/Advertising/Assets/1/1_0/Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-Logo_Awareness-AJC_177X193_Desktop-CMS-1_1_1_0.png"
+                                            }
+                                          ],
+                                          "Value": "",
+                                          "Events": [
+                                            {
+                                              "functionsEnabled": "false"
+                                            },
+                                            {
+                                              "functionEvent": "",
+                                              "functionName": "",
+                                              "functionParameters": [
+                                                {
+                                                  "parameterName": "",
+                                                  "parameterTypeScriptDataType": "",
+                                                  "parameterDefaultValue": ""
+                                                }
+                                              ]
+                                            }
+                                          ],
+                                          "ParentHTMLContentItemAttributeID": "column_D-1-1_real_estate-commerical_construction-section",
+                                          "ChildHTMLContentDetails": [
+
+                                          ],
+                                          "ChildHTMLContentFlowDirection": ""
                                         }
                                       ],
-                                      "ParentHTMLContentItemAttributeID": "column_D-1-1_real_estate-commerical_construction-section",
-                                      "ChildHTMLContentDetails": [],
                                       "ChildHTMLContentFlowDirection": ""
-                                    }
+                                    }                                    
                                   ]
                                 }
                               }
@@ -814,39 +982,110 @@
                                       "StyleFiles": [
                                         {
                                           "StyleFileName": "Style_Alignments_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                          "StyleFileSupportedProperties": [ "position", "top", "bottom", "left", "right", "clip", "overflow", "z-index", "float", "clear" ],
+                                          "StyleFileSupportedProperties": [
+                                            "position",
+                                            "top",
+                                            "bottom",
+                                            "left",
+                                            "right",
+                                            "clip",
+                                            "overflow",
+                                            "z-index",
+                                            "float",
+                                            "clear"
+                                          ],
                                           "StyleFileUseProperties": [
                                             {
-                                              "attributeID": "",
+                                              "attributeID": "body",
                                               "properties": [
                                                 {
-                                                  "propertyName": "body",
-                                                  "properyValues": [ "overflow-y;hidden", "position: relative" ]
+                                                  "propertyName": "overflow-y",
+                                                  "properyValues": [ "hidden" ]
+                                                },
+                                                {
+                                                  "propertyName": "position",
+                                                  "properyValues": [ "relative" ]
                                                 }
                                               ],
-                                              "IsMediaQuery": "false",
+                                              "IsMediaQuery": "true",
+                                              "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [ "1600px" ],
-                                                  "propertyName": "top",
-                                                  "properyValues": [ "330px" ]
+                                                  "resolutions": {
+                                                    "mediaQuery": "@media (max-width: 1600px)"
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "top",
+                                                      "properyValues": [
+                                                        "330px"
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
+                                                      ]
+                                                    }
+                                                  ]
                                                 }
                                               ]
                                             },
                                             {
-                                              "attributeID": "column_D-1-1_real_estate-commerical_construction-section",
+                                              "attributeID": "#column_D-1-1_real_estate-commerical_construction-section",
                                               "properties": [
                                                 {
-                                                  "propertyName": "img",
-                                                  "properyValues": [ "position: absolute" ]
+                                                  "propertyName": "position",
+                                                  "properyValues": [
+                                                    "absolute"
+                                                  ]
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [ "1600px" ],
-                                                  "propertyName": "top",
-                                                  "properyValues": [ "330px" ]
+                                                  "resolutions": {
+                                                    "mediaQuery": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
+                                                      ]
+                                                    }
+                                                  ]
                                                 }
                                               ]
                                             }
@@ -854,21 +1093,61 @@
                                         },
                                         {
                                           "StyleFileName": "Style_Backgrounds_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                          "StyleFileSupportedProperties": [ "background-color", "background", "background-image", "background-repeat", "background-position", "background-attachment", "background-clip", "background-orgin", "background-size" ],
+                                          "StyleFileSupportedProperties": [
+                                            "background-color",
+                                            "background",
+                                            "background-image",
+                                            "background-repeat",
+                                            "background-position",
+                                            "background-attachment",
+                                            "background-clip",
+                                            "background-orgin",
+                                            "background-size"
+                                          ],
                                           "StyleFileUseProperties": [
                                             {
                                               "attributeID": "",
                                               "properties": [
                                                 {
                                                   "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "properyValues": [
+                                                    ""
+                                                  ]
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "resolutions": {
+                                                    "mediaQuery": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
+                                                      ]
+                                                    }
+                                                  ]
                                                 }
                                               ]
                                             }
@@ -876,22 +1155,84 @@
                                         },
                                         {
                                           "StyleFileName": "Style_Borders_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                          "StyleFileSupportedProperties": [ "border-radius", "border-top-left-radius", "border-top-right-radius", "border-bottom-right-radius", "border-image", "border-image-source", "border-image-slice", "border-image-width", "border-image-outset", "border-image-repeat", "border", "border-right", "border-left", "border-top", "border-bottom", "border-width", "border-top-width", "border-bottom-width", "border-left-width", "border-right-width", "border-style", "border-top-style", "border-bottom-style", "border-left-style", "border-right-style", "border-color", "border-top-color", "border-bottom-color", "border-left-color", "border-right-color", "border-collapse", "border-spacing" ],
+                                          "StyleFileSupportedProperties": [
+                                            "border-radius",
+                                            "border-top-left-radius",
+                                            "border-top-right-radius",
+                                            "border-bottom-right-radius",
+                                            "border-image",
+                                            "border-image-source",
+                                            "border-image-slice",
+                                            "border-image-width",
+                                            "border-image-outset",
+                                            "border-image-repeat",
+                                            "border",
+                                            "border-right",
+                                            "border-left",
+                                            "border-top",
+                                            "border-bottom",
+                                            "border-width",
+                                            "border-top-width",
+                                            "border-bottom-width",
+                                            "border-left-width",
+                                            "border-right-width",
+                                            "border-style",
+                                            "border-top-style",
+                                            "border-bottom-style",
+                                            "border-left-style",
+                                            "border-right-style",
+                                            "border-color",
+                                            "border-top-color",
+                                            "border-bottom-color",
+                                            "border-left-color",
+                                            "border-right-color",
+                                            "border-collapse",
+                                            "border-spacing"
+                                          ],
                                           "StyleFileUseProperties": [
                                             {
                                               "attributeID": "",
                                               "properties": [
                                                 {
                                                   "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "properyValues": [
+                                                    ""
+                                                  ]
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [ "1600px" ],
-                                                  "propertyName": "top",
-                                                  "properyValues": [ "330px" ]
+                                                  "resolutions": {
+                                                    "mediaQuery": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
+                                                      ]
+                                                    }
+                                                  ]
                                                 }
                                               ]
                                             }
@@ -899,22 +1240,54 @@
                                         },
                                         {
                                           "StyleFileName": "Style_Colors_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                          "StyleFileSupportedProperties": [ "color", "opacity" ],
+                                          "StyleFileSupportedProperties": [
+                                            "color",
+                                            "opacity"
+                                          ],
                                           "StyleFileUseProperties": [
                                             {
                                               "attributeID": "",
                                               "properties": [
                                                 {
                                                   "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "properyValues": [
+                                                    ""
+                                                  ]
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [ "1600px" ],
-                                                  "propertyName": "top",
-                                                  "properyValues": [ "330px" ]
+                                                  "resolutions": {
+                                                    "mediaQuery": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
+                                                      ]
+                                                    }
+                                                  ]
                                                 }
                                               ]
                                             }
@@ -922,22 +1295,60 @@
                                         },
                                         {
                                           "StyleFileName": "Style_Effects_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                          "StyleFileSupportedProperties": [ "box-shadow", "transform", "transform-origin", "transition", "transition-property", "transition-duration", "transition-timing-function", "transition-delay" ],
+                                          "StyleFileSupportedProperties": [
+                                            "box-shadow",
+                                            "transform",
+                                            "transform-origin",
+                                            "transition",
+                                            "transition-property",
+                                            "transition-duration",
+                                            "transition-timing-function",
+                                            "transition-delay"
+                                          ],
                                           "StyleFileUseProperties": [
                                             {
                                               "attributeID": "",
                                               "properties": [
                                                 {
                                                   "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "properyValues": [
+                                                    ""
+                                                  ]
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [ "1600px" ],
-                                                  "propertyName": "top",
-                                                  "properyValues": [ "330px" ]
+                                                  "resolutions": {
+                                                    "mediaQuery": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
+                                                      ]
+                                                    }
+                                                  ]
                                                 }
                                               ]
                                             }
@@ -945,22 +1356,54 @@
                                         },
                                         {
                                           "StyleFileName": "Style_Flow_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                          "StyleFileSupportedProperties": [ "display", "visibility" ],
+                                          "StyleFileSupportedProperties": [
+                                            "display",
+                                            "visibility"
+                                          ],
                                           "StyleFileUseProperties": [
                                             {
                                               "attributeID": "",
                                               "properties": [
                                                 {
                                                   "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "properyValues": [
+                                                    ""
+                                                  ]
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [ "1600px" ],
-                                                  "propertyName": "top",
-                                                  "properyValues": [ "330px" ]
+                                                  "resolutions": {
+                                                    "mediaQuery": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
+                                                      ]
+                                                    }
+                                                  ]
                                                 }
                                               ]
                                             }
@@ -968,22 +1411,60 @@
                                         },
                                         {
                                           "StyleFileName": "Style_Lists_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                          "StyleFileSupportedProperties": [ "content", "quotes", "counter-increment", "counter-reset", "list-style", "list-style-type", "list-style-image", "list-style-position" ],
+                                          "StyleFileSupportedProperties": [
+                                            "content",
+                                            "quotes",
+                                            "counter-increment",
+                                            "counter-reset",
+                                            "list-style",
+                                            "list-style-type",
+                                            "list-style-image",
+                                            "list-style-position"
+                                          ],
                                           "StyleFileUseProperties": [
                                             {
                                               "attributeID": "",
                                               "properties": [
                                                 {
                                                   "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "properyValues": [
+                                                    ""
+                                                  ]
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [ "1600px" ],
-                                                  "propertyName": "top",
-                                                  "properyValues": [ "330px" ]
+                                                  "resolutions": {
+                                                    "mediaQuery": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
+                                                      ]
+                                                    }
+                                                  ]
                                                 }
                                               ]
                                             }
@@ -991,22 +1472,57 @@
                                         },
                                         {
                                           "StyleFileName": "Style_Margins_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                          "StyleFileSupportedProperties": [ "margin", "margin-top", "margin-right", "margin-left", "margin-bottom" ],
+                                          "StyleFileSupportedProperties": [
+                                            "margin",
+                                            "margin-top",
+                                            "margin-right",
+                                            "margin-left",
+                                            "margin-bottom"
+                                          ],
                                           "StyleFileUseProperties": [
                                             {
                                               "attributeID": "",
                                               "properties": [
                                                 {
                                                   "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "properyValues": [
+                                                    ""
+                                                  ]
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [ "1600px" ],
-                                                  "propertyName": "top",
-                                                  "properyValues": [ "330px" ]
+                                                  "resolutions": {
+                                                    "mediaQuery": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
+                                                      ]
+                                                    }
+                                                  ]
                                                 }
                                               ]
                                             }
@@ -1014,22 +1530,47 @@
                                         },
                                         {
                                           "StyleFileName": "Style_Misc_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                          "StyleFileSupportedProperties": [ "cursor", "outline", "outline-style", "outline-color", "outline-width", "direction", "unicode-bidi", "all", "page-break-before", "page-break-after", "page-break-inside", "orphans", "widows" ],
+                                          "StyleFileSupportedProperties": [
+                                            "cursor",
+                                            "outline",
+                                            "outline-style",
+                                            "outline-color",
+                                            "outline-width",
+                                            "direction",
+                                            "unicode-bidi",
+                                            "all",
+                                            "page-break-before",
+                                            "page-break-after",
+                                            "page-break-inside",
+                                            "orphans",
+                                            "widows"
+                                          ],
                                           "StyleFileUseProperties": [
                                             {
                                               "attributeID": "",
                                               "properties": [
                                                 {
                                                   "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "properyValues": [
+                                                    ""
+                                                  ]
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [ "1600px" ],
-                                                  "propertyName": "top",
-                                                  "properyValues": [ "330px" ]
+                                                  "resolutions": {
+                                                    "mediaQuery": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
+                                                  ]
                                                 }
                                               ]
                                             }
@@ -1037,22 +1578,57 @@
                                         },
                                         {
                                           "StyleFileName": "Style_Padding_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                          "StyleFileSupportedProperties": [ "padding", "padding-top", "padding-bottom", "padding-left", "padding-right" ],
+                                          "StyleFileSupportedProperties": [
+                                            "padding",
+                                            "padding-top",
+                                            "padding-bottom",
+                                            "padding-left",
+                                            "padding-right"
+                                          ],
                                           "StyleFileUseProperties": [
                                             {
                                               "attributeID": "",
                                               "properties": [
                                                 {
                                                   "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "properyValues": [
+                                                    ""
+                                                  ]
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [ "1600px" ],
-                                                  "propertyName": "top",
-                                                  "properyValues": [ "330px" ]
+                                                  "resolutions": {
+                                                    "mediaQuery": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
+                                                      ]
+                                                    }
+                                                  ]
                                                 }
                                               ]
                                             }
@@ -1060,47 +1636,116 @@
                                         },
                                         {
                                           "StyleFileName": "Style_Sizes_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                          "StyleFileSupportedProperties": [ "width", "height", "min-width", "max-width", "min-height", "max-height" ],
+                                          "StyleFileSupportedProperties": [
+                                            "width",
+                                            "height",
+                                            "min-width",
+                                            "max-width",
+                                            "min-height",
+                                            "max-height"
+                                          ],
                                           "StyleFileUseProperties": [
                                             {
-                                              "attributeID": "content_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0",
+                                              "attributeID": "#content_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0",
                                               "properties": [
                                                 {
                                                   "propertyName": "height",
-                                                  "properyValues": [ "125px" ]
+                                                  "properyValues": [
+                                                    "125px"
+                                                  ]
                                                 },
                                                 {
                                                   "propertyName": "width",
-                                                  "properyValues": [ "463px" ]
+                                                  "properyValues": [
+                                                    "463px"
+                                                  ]
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [ "1600px" ],
-                                                  "propertyName": "top",
-                                                  "properyValues": [ "330px" ]
+                                                  "resolutions": {
+                                                    "mediaQuery": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
+                                                      ]
+                                                    }
+                                                  ]
                                                 }
                                               ]
                                             },
                                             {
-                                              "attributeID": "img#content_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0",
+                                              "attributeID": "img#content_A-1-1-1_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreOwner-WidthXHeight-Desktop-2_4_1_0",
                                               "properties": [
                                                 {
                                                   "propertyName": "height",
-                                                  "properyValues": [ "104px" ]
+                                                  "properyValues": [
+                                                    "104px"
+                                                  ]
                                                 },
                                                 {
                                                   "propertyName": "width",
-                                                  "properyValues": [ "393px" ]
+                                                  "properyValues": [
+                                                    "393px"
+                                                  ]
                                                 }
                                               ],
                                               "IsMediaQuery": "true",
+                                              "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [ "1600px" ],
-                                                  "propertyName": "top",
-                                                  "properyValues": [ "330px" ]
+                                                  "resolutions": {
+                                                    "mediaQuery": "@media (max-width: 1600px)"
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "top",
+                                                      "properyValues": [
+                                                        "330px"
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
+                                                      ]
+                                                    }
+                                                  ]
                                                 }
                                               ]
                                             }
@@ -1108,22 +1753,55 @@
                                         },
                                         {
                                           "StyleFileName": "Style_Tables_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                          "StyleFileSupportedProperties": [ "table-layout", "empty-cells", "caption-side" ],
+                                          "StyleFileSupportedProperties": [
+                                            "table-layout",
+                                            "empty-cells",
+                                            "caption-side"
+                                          ],
                                           "StyleFileUseProperties": [
                                             {
                                               "attributeID": "",
                                               "properties": [
                                                 {
                                                   "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "properyValues": [
+                                                    ""
+                                                  ]
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [ "1600px" ],
-                                                  "propertyName": "top",
-                                                  "properyValues": [ "330px" ]
+                                                  "resolutions": {
+                                                    "mediaQuery": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
+                                                      ]
+                                                    }
+                                                  ]
                                                 }
                                               ]
                                             }
@@ -1131,22 +1809,73 @@
                                         },
                                         {
                                           "StyleFileName": "Style_Text_Setting_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-4-ASSET-Home-AJC-CMS-4_2_1_0",
-                                          "StyleFileSupportedProperties": [ "font", "font-family", "font-style", "font-variant", "font-weight", "font-size", "font-stretch", "font-size-adjust", "font-synthesis", "line-height", "letter-spacing", "word-spacing", "text-align", "text-decoration", "text-decoration-line", "text-decoration-style", "text-decoration-color", "text-indent", "text-transform", "vertical-align", "white-space" ],
+                                          "StyleFileSupportedProperties": [
+                                            "font",
+                                            "font-family",
+                                            "font-style",
+                                            "font-variant",
+                                            "font-weight",
+                                            "font-size",
+                                            "font-stretch",
+                                            "font-size-adjust",
+                                            "font-synthesis",
+                                            "line-height",
+                                            "letter-spacing",
+                                            "word-spacing",
+                                            "text-align",
+                                            "text-decoration",
+                                            "text-decoration-line",
+                                            "text-decoration-style",
+                                            "text-decoration-color",
+                                            "text-indent",
+                                            "text-transform",
+                                            "vertical-align",
+                                            "white-space"
+                                          ],
                                           "StyleFileUseProperties": [
                                             {
                                               "attributeID": "",
                                               "properties": [
                                                 {
                                                   "propertyName": "",
-                                                  "properyValues": [ "" ]
+                                                  "properyValues": [
+                                                    ""
+                                                  ]
                                                 }
                                               ],
                                               "IsMediaQuery": "false",
+                                              "IsHtmlTag": "true",
                                               "MediaQueryResolutions": [
                                                 {
-                                                  "resolutions": [ "1600px" ],
-                                                  "propertyName": "top",
-                                                  "properyValues": [ "330px" ]
+                                                  "resolutions": {
+                                                    "mediaQuery": ""
+                                                  },
+                                                  "properties": [
+                                                    {
+                                                      "propertyName": "",
+                                                      "properyValues": [
+                                                        ""
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "ChildrenResolutions": [
+                                                    {
+                                                      "resolutions": {
+                                                        "mediaQuery": ""
+                                                      },
+                                                      "properties": [
+                                                        {
+                                                          "propertyName": "",
+                                                          "properyValues": [
+                                                            ""
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "ChildrenResolutions": [
+
+                                                      ]
+                                                    }
+                                                  ]
                                                 }
                                               ]
                                             }

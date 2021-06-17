@@ -1,0 +1,31 @@
+﻿CONTAINER PATTERN = container_{X}-{page}
+	RENDERING EXAMPLE: container_A-home
+
+======================================================================================================
+
+ROW PATTERN = row_X-X_{page}-{row_X-X_{page}-target_market}-{row_X-X_{page}-target_market_category}-{row_X-X_{page}-influence_trigger}
+	RENDERING EXAMPLE: row_A-1_home-business-sales-Authority
+	TEMPLATE EXAMPLE: {row_A-1_home}-{row_A-1_home-target_market}-{row_A-1_home-target_market_category}-{row_A-1_home-influence_trigger}
+
+======================================================================================================
+
+COLUMN PATTERN = column_X-X-X_{page}-{column_X-X-X-target_market}-{column_X-X-X-target_market_category}-{influence_trigger}
+	RENDERING EXAMPLE: column_A-1-1-1_home-real_estate-commerical_construction-section
+	TEMPLATE EXAMPLE: {column_A-1-1_home}-{column_A-1-1_home-target_market}-{column_A-1-1_home-target_market_category}-{influence_trigger}
+
+======================================================================================================
+
+NOTE: ALL CONTENT IS WRAPPED INSIDE A PARENT WRAPPER TAG
+
+CONTENT PATTERN = 
+
+ content_X-X-X-X_real_estate-commerical_construction-section <--- CONTENT WRAPPER
+	content_X-X-X-X-X_{page}-experience_sketchy-2-2-F-skc-7-launch-{content_X-X-X-X-X_{page}_projectID}-{content_X-X-X-X-X_{page}_taskID}-goal-{content_X-X-X-X-X_{page}_goalID}-asset-{content_X-X-X-X-X_{page}_ContentDescription}_{content_X-X-X-X-X_{page}_ExperienceDescription}-{content_X-X-X-X-X_{page}_brandID}_{content_X-X-X-X-X_{page}_resolution}_{content_X-X-X-X-X_{page}_device}-cms-{content_X-X-X-X-X_{page}_G_N_V_V}
+
+		RENDERING EXAMPLE: 
+			content_A-1-1-1_real_estate-commerical_construction-section
+				content_A-1-1-1-1_home-experience_sketchy-2-2-F-skc-7-launch-1-1-goal-12-asset-JumpWoman-Movement-ajc_114X163_mobile-cms-2_4_1_0 <- NOTE(IMAGE NAME = Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-JumpWoman_Movement-AJC_114X163_mobile-cms-2_4_1_0.png)
+
+		TEMPLATE EXAMPLE: 
+			content_A-1-1-1_real_estate-commerical_construction-section
+				{content_A-1-1-1-1_home}-experience_sketchy-2-2-F-skc-7-launch-{A-1-1-1-1_home_projectID}-{A-1-1-1-1_home_taskID}-goal-12-asset-{A-1-1-1-1_home_ContentDescription}_{A-1-1-1-1_home_ExperienceDescription}-{A-1-1-1-1_home_brandID}_{A-1-1-1-1_home_resolution}_{A-1-1-1-1_home_device}-cms-{A-1-1-1-1_home_G_N_V_V} <- NOTE(IMAGE NAME = Experience_Sketchy-2-2-F-SKC-7-Launch-1-1-Goal-12-ASSET-JumpWoman_Movement-AJC_114X163_mobile-cms-2_4_1_0.png)
