@@ -1025,18 +1025,41 @@
                                                   "ChildrenResolutions": [
                                                     {
                                                       "resolutions": {
-                                                        "mediaQuery": ""
+                                                        "mediaQuery": "@media not all and (pointer: none)"
                                                       },
                                                       "properties": [
                                                         {
-                                                          "propertyName": "",
+                                                          "propertyName": "top",
                                                           "properyValues": [
-                                                            ""
+                                                            "2px"
+                                                          ]
+                                                        },
+                                                        {
+                                                          "propertyName": "bottom",
+                                                          "properyValues": [
+                                                            "2px",
+                                                            "2px"
                                                           ]
                                                         }
                                                       ],
                                                       "ChildrenResolutions": [
+                                                        {
+                                                          "resolutions": {
+                                                            "mediaQuery": "@media (max-width: 100px)"
+                                                          },
+                                                          "properties": [
+                                                            {
+                                                              "propertyName": "bottom",
+                                                              "properyValues": [
+                                                                "2px",
+                                                                "2px"
+                                                              ]
+                                                            }
+                                                          ],
+                                                          "ChildrenResolutions": [
 
+                                                          ]
+                                                        }
                                                       ]
                                                     }
                                                   ]
