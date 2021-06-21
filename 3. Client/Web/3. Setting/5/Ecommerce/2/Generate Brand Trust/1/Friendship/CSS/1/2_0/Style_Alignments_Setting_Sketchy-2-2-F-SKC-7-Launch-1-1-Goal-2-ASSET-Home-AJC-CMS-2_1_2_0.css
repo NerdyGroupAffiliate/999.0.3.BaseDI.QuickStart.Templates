@@ -1,5 +1,5 @@
 /***********************************************************/
-/*NONE MEDIA QUERIES                                            */
+/*DEFAULT CSS                                              */
 /***********************************************************/
 
 
@@ -98,7 +98,7 @@ body {
 
 
 /***********************************************************/
-/*MEDIA QUERIES                                            */
+/*RESPONSIVE CSS                                           */
 /***********************************************************/
 
 /*Desktop - 1600px*/
@@ -122,10 +122,6 @@ body {
 
     #content_D-1-1-5_Experience-Awareness-Nutrition-Content-OfAuthority-AJC-StoreLogo-WidthXHeight-Desktop-1_1_1_0 {
         top: 770px;
-    }
-
-    #content_D-1-1-1_Experience-Movement-Nutrition-Content-OfLiking-AJC-JumpingWoman-WidthXHeight-Desktop-2_4_1_0 {
-        top: 330px;
     }
 
     @media not (pointer2: none) {
