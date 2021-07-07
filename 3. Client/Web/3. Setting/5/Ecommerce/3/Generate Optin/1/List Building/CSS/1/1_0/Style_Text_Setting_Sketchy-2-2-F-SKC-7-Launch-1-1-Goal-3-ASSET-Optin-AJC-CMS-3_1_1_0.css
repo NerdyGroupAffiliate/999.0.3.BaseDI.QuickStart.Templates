@@ -1,3 +1,38 @@
 ﻿body {
     font-family: 'Poppins', sans-serif;
 }
+
+.form button {
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+h1 {
+    font-weight: 500;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 30px;
+}
+
+h2 strong {
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+.lock {
+    font-size: 12px;
+}
+
+@media only screen and (max-width: 600px) {
+    h1 {
+        font-size: 30px;
+        font-weight: 500;
+    }
+    h2 {
+        font-weight: 500;
+        font-size: 20px;
+    }
+}

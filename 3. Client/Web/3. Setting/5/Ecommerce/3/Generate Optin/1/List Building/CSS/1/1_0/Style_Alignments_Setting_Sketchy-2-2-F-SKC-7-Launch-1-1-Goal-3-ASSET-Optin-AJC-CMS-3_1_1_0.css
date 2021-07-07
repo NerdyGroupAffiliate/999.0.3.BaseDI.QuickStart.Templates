@@ -1,4 +1,15 @@
-.column_A-1-2,
-.column_A-1-1 {
-    float: left;
-}
+    .column_A-1-2,
+    .column_A-1-1 {
+        float: left;
+    }
+    
+    .content_A-1-1-1-4 {
+        position: relative;
+    }
+    
+    @media only screen and (max-width: 600px) {
+        .column_A-1-2,
+        .column_A-1-1 {
+            float: none;
+        }
+    }

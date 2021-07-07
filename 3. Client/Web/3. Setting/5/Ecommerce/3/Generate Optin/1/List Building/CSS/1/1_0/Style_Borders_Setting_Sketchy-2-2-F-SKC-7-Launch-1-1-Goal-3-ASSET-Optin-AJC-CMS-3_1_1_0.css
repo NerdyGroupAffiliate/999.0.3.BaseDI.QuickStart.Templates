@@ -1,3 +1,21 @@
-﻿.column_A-1-2 input {
+﻿    .column_A-1-2 input {
     border-color: black;
 }
+
+.form button {
+    border: none;
+}
+
+.dot {
+    border-radius: 50%;
+}
+
+.content_A-1-1-1-4 {
+    bottom: 30px;
+}
+
+@media only screen and (max-width: 600px) {
+    .column_A-1-2,
+    .column_A-1-1 {
+        width: auto;
+    }
